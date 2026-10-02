@@ -1,0 +1,57 @@
+name: Aggiorna interpelli
+
+# Ogni ora legge i siti delle scuole e salva i dati che la pagina mostra (docs/dati.json).
+# Mezz'ora dopo, un secondo passaggio riprova solo le scuole che non hanno risposto.
+# "Run workflow" dalla scheda Actions fa subito un controllo completo.
+
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: aggiorna
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: Strumenti per leggere i PDF
+        run: |
+          (sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-ita) \
+            || echo "::warning::Strumenti per i PDF non installati: le scansioni non verranno lette"
+      - run: pip install -q -r requirements.txt
+      - name: Controllo dei siti
+        run: python -m scraper ${{ github.event_name == 'schedule' && '--salta-recenti 40' || '' }}
+      - name: Salva i dati nel progetto
+        id: salva
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/dati.json stato/archivio.json
+          if git diff --cached --quiet; then
+            echo "Nessun dato nuovo da salvare."
+            exit 0
+          fi
+          git commit -q -m "Dati del $(TZ=Europe/Rome date '+%d/%m/%Y %H:%M')"
+          git pull -q --rebase origin "$GITHUB_REF_NAME"
+          git push -q origin "HEAD:$GITHUB_REF_NAME"
+          echo "salvato=si" >> "$GITHUB_OUTPUT"
+      - name: Chiede a GitHub Pages di ripubblicare la pagina
+        if: steps.salva.outputs.salvato == 'si'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent \
+            || echo "Pagina non ancora attivata: Settings > Pages > Deploy from a branch > main, cartella /docs"

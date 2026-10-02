@@ -1,8 +1,11 @@
 """Controllo completo: legge le fonti di ogni scuola, aggiorna l'archivio e scrive i dati per la pagina.
 
 Uso:
-    python -m scraper                      controlla tutte le scuole
-    python -m scraper --solo rho-grossi    controlla solo le scuole indicate (separate da virgola)
+    python -m scraper                        controlla tutte le scuole
+    python -m scraper --solo rho-grossi      controlla solo le scuole indicate (separate da virgola)
+    python -m scraper --salta-recenti 40     riprova solo le scuole non lette (del tutto) negli ultimi 40 minuti
+
+Con INTERPELLI_SALVA=cartella conserva in quella cartella ogni pagina e documento scaricato, per la messa a punto.
 """
 from __future__ import annotations
 
@@ -18,8 +21,8 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
-from .archivio import Archivio, chiavi_di_confronto, da_mostrare, id_avviso, stesso_avviso
-from .classifica import analizza, valuta
+from .archivio import Archivio, chiave_url, chiavi_di_confronto, da_mostrare, id_avviso, stesso_avviso
+from .classifica import VERSIONE_REGOLE, analizza, valuta
 from .documenti import Lettore
 from .fonti import Voce, fonti_disponibili
 from .fonti.axios import indirizzo_pagina
@@ -114,6 +117,8 @@ def controlla_scuola(scuola: dict, esistenti: dict[str, dict], memoria: dict, le
     letti_ora = 0
     fonti_viste = dict(memoria.get("fonti_viste", {}))
     conteggi = dict(memoria.get("conteggi", {}))
+    # lo stesso avviso letto da due fonti ha due identificativi: il secondo rimanda al primo
+    rimandi = {altro: k for k, r in avvisi.items() for altro in r.get("alias", [])}
 
     for fonte in scuola.get("fonti", []):
         nome = etichetta_fonte(fonte)
@@ -145,11 +150,15 @@ def controlla_scuola(scuola: dict, esistenti: dict[str, dict], memoria: dict, le
         storiche = storico_per_posizione(voci, oggi)
         for posizione, voce in enumerate(voci):
             id_ = id_avviso(scuola["id"], voce)
+            id_ = rimandi.get(id_, id_)
             record = avvisi.get(id_)
             if record is None:
                 id_simile = next((k for k, r in avvisi.items() if stesso_avviso(r, voce)), None)
                 if id_simile:
-                    id_, record = id_simile, avvisi[id_simile]
+                    record = avvisi[id_simile]
+                    record.setdefault("alias", []).append(id_)
+                    rimandi[id_] = id_simile
+                    id_ = id_simile
             if record is None:
                 record = {"id": id_, "scuola": scuola["id"], "titolo": voce.titolo, "url": voce.url,
                           "pagina": voce.pagina, "prima_vista": adesso, "iniziale": prima_lettura,
@@ -160,7 +169,14 @@ def controlla_scuola(scuola: dict, esistenti: dict[str, dict], memoria: dict, le
             if posizione in storiche or (citato is not None and citato < anno_scolastico(oggi)):
                 record["storico"] = True        # elenco vecchio, o titolo che nomina un anno scolastico passato
             _aggiorna_da_voce(record, voce, nome, adesso)
-            if record.get("letto") in (None, "in_attesa") or (record.get("letto") == "errore" and record["tentativi"] < 3):
+            # si (ri)legge quando manca la lettura, quando e' fallita poche volte, quando un'altra fonte offre
+            # un indirizzo non ancora provato per un avviso rimasto senza testo, e quando sono cambiate le regole
+            indirizzo = _indirizzo_documento(voce)
+            senza_testo = record.get("letto") not in ("testo", "ocr", "pagina")
+            da_leggere = (record.get("letto") in (None, "in_attesa")
+                          or (record.get("letto") == "errore" and record["tentativi"] < 3)
+                          or (senza_testo and indirizzo and chiave_url(indirizzo) not in record.get("provati", [])))
+            if da_leggere or record.get("regole") != VERSIONE_REGOLE:
                 puo_leggere = letti_ora < MAX_DOCUMENTI_PER_SCUOLA
                 if _leggi_e_classifica(record, voce, lettore, bilancio, ora, puo_leggere):
                     letti_ora += 1
@@ -212,6 +228,11 @@ def _aggiorna_da_voce(record: dict, voce: Voce, nome_fonte: str, adesso: str) ->
         record["url"], record["pagina"] = voce.url, voce.pagina
 
 
+def _indirizzo_documento(voce: Voce) -> str | None:
+    """Da dove si puo' leggere il testo dell'avviso (None se la voce non offre nulla da aprire)."""
+    return voce.documento or (voce.url if voce.fonte != "axios" and not voce.chiave.startswith("riga:") else None)
+
+
 def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bilancio, ora: datetime,
                         puo_leggere: bool) -> bool:
     """Legge il documento (se serve e se c'e' margine) e ricava posti, scadenza, pubblicazione."""
@@ -226,7 +247,11 @@ def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bi
 
     solo_titolo = migliore("")
     testo, letto, nota, scaricato = voce.testo or "", "titolo", None, False
-    indirizzo = voce.documento or (voce.url if voce.fonte != "axios" and not voce.chiave.startswith("riga:") else None)
+    indirizzo = _indirizzo_documento(voce)
+    if indirizzo:
+        provati = record.setdefault("provati", [])
+        if chiave_url(indirizzo) not in provati and len(provati) < 6:
+            provati.append(chiave_url(indirizzo))
 
     if record.get("storico") or troppo_vecchio(voce, solo_titolo, ora):
         letto, nota = "titolo", "avviso dello storico: letto solo il titolo"
@@ -254,6 +279,8 @@ def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bi
     record["ordini"] = analisi.ordini
     record["personale"] = analisi.personale
     record["letto"], record["nota"] = letto, nota
+    if letto != "in_attesa":
+        record["regole"] = VERSIONE_REGOLE
     if analisi.pubblicato and not record.get("pubblicato"):
         record["pubblicato"] = iso(analisi.pubblicato)
     if analisi.scadenza:
@@ -267,18 +294,19 @@ def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bi
     return scaricato
 
 
-def pagine_di(scuola: dict) -> list[str]:
-    """Gli indirizzi da aprire a mano per controllare la scuola."""
+def pagine_di(scuola: dict) -> list[dict]:
+    """Gli indirizzi da aprire a mano per controllare la scuola, con un nome che dica che cosa sono."""
     pagine = []
     for fonte in scuola.get("fonti", []):
         if fonte["tipo"] == "axios":
-            pagine.append(indirizzo_pagina(str(fonte["cf"])))
+            pagine.append({"nome": "Portale delle candidature", "url": indirizzo_pagina(str(fonte["cf"]))})
         elif fonte["tipo"] == "albo":
-            pagine.append((fonte.get("url") or scuola["sito"].rstrip("/") + "/albo-online") + "?cerca=interpell")
+            pagine.append({"nome": "Albo online", "url": (fonte.get("url") or scuola["sito"].rstrip("/") + "/albo-online")
+                           + "?cerca=interpell"})
         elif fonte["tipo"] == "wp":
-            pagine.append((fonte.get("url") or scuola["sito"]).rstrip("/") + "/?s=interpello")
+            pagine.append({"nome": "Notizie sul sito", "url": (fonte.get("url") or scuola["sito"]).rstrip("/") + "/?s=interpello"})
         else:
-            pagine.append(fonte["url"])
+            pagine.append({"nome": fonte.get("nome") or "Pagina sul sito", "url": fonte["url"]})
     return pagine
 
 
@@ -289,6 +317,8 @@ def main(argomenti: list[str] | None = None) -> int:
     parser.add_argument("--max-documenti", type=int, default=160, help="documenti da scaricare al massimo in un controllo")
     parser.add_argument("--max-ocr", type=int, default=30, help="PDF scansionati da leggere al massimo in un controllo")
     parser.add_argument("--pausa", type=float, default=2.0, help="secondi tra due richieste allo stesso server")
+    parser.add_argument("--salta-recenti", type=int, default=0, metavar="MINUTI",
+                        help="non rilegge le scuole lette con successo da meno di questi minuti")
     args = parser.parse_args(argomenti)
 
     scuole, criteri = carica_configurazione(args.radice)
@@ -300,8 +330,13 @@ def main(argomenti: list[str] | None = None) -> int:
     bilancio = Bilancio(args.max_documenti)
     lettori = fonti_disponibili()
 
+    def letta_da_poco(scuola: dict) -> bool:
+        ultimo = archivio.scuole.get(scuola["id"], {}).get("ultimo_ok")
+        return bool(args.salta_recenti and ultimo
+                    and ora - datetime.fromisoformat(ultimo) < timedelta(minutes=args.salta_recenti))
+
     def lavora(scuola: dict):
-        if solo and scuola["id"] not in solo:
+        if (solo and scuola["id"] not in solo) or letta_da_poco(scuola):
             return scuola, None, None
         try:
             return (scuola, *controlla_scuola(scuola, archivio.di_scuola(scuola["id"]),
@@ -313,6 +348,9 @@ def main(argomenti: list[str] | None = None) -> int:
 
     with ThreadPoolExecutor(max_workers=10) as gruppo:
         risultati = list(gruppo.map(lavora, scuole))
+    if args.salta_recenti and all(salute is None for _, _, salute in risultati):
+        print("Tutte le scuole sono state lette da poco: niente da riprovare.")
+        return 0
 
     stato_scuole = []
     for scuola, avvisi, salute in risultati:

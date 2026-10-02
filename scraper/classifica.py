@@ -20,6 +20,10 @@ from .testo import FINI_ANNO, DataTrovata, anno_scolastico, da_nome_file, piatto
 
 I = re.IGNORECASE
 
+# Da aumentare di uno quando si cambiano le regole: al controllo successivo gli avvisi ancora
+# in pagina vengono riletti con le regole nuove, invece di conservare i dati ricavati con le vecchie.
+VERSIONE_REGOLE = 1
+
 # --- ordine di scuola ---------------------------------------------------------------------
 RE_ORDINE = {
     "infanzia": re.compile(r"infanzia|\bmaterna\b|\bAAAA\b|\bADAA\b", I),

@@ -32,6 +32,12 @@ jobs:
       - run: pip install -q -r requirements.txt
       - name: Test
         run: python -m unittest discover -s tests -t . -v
+      - name: Riparte dallo stato della prova precedente
+        run: |
+          if git fetch -q --depth=1 origin prova-output; then
+            mkdir -p stato
+            git show FETCH_HEAD:stato/archivio.json > stato/archivio.json || rm -f stato/archivio.json
+          fi
       - name: Controllo dei siti
         run: |
           mkdir -p /tmp/uscita
@@ -50,3 +56,6 @@ jobs:
           git add -A
           git commit -q -m "Prova $(date -u +%FT%TZ) da ${GITHUB_SHA::7}"
           git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" prova-output
+      - name: Toglie il ramo delle prime sonde (una volta sola)
+        if: always()
+        run: git push -q origin --delete sonda-output || true

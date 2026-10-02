@@ -79,9 +79,10 @@ button, input, select { font: inherit; color: inherit; }
 .testata h1 { margin: 0; font-size: 2.1rem; line-height: 1.05; font-weight: 700; letter-spacing: -.012em; }
 .cerchi { margin: .55rem 0 0; font-size: 1.02rem; }
 .cerchi button {
-  border: 0; background: none; padding: .35rem 0; color: var(--matita-blu); text-decoration: underline;
-  text-underline-offset: .18em; cursor: pointer;
+  position: relative; border: 0; background: none; padding: 0; margin: 0; color: var(--matita-blu); line-height: inherit;
+  text-decoration: underline; text-underline-offset: .18em; cursor: pointer; white-space: nowrap;
 }
+.cerchi button::after { content: ""; position: absolute; inset: -.65rem -.4rem; }   /* dito comodo senza allargare la riga */
 .controllo { margin: .3rem 0 0; color: var(--inchiostro-tenue); font-size: .92rem; }
 .controllo a { color: inherit; }
 
@@ -153,17 +154,21 @@ button, input, select { font: inherit; color: inherit; }
 .posto-no { color: var(--grigio); }
 .manca-dato { color: var(--matita-blu); }
 .non-va { color: var(--grigio); text-decoration: line-through; text-decoration-thickness: .06em; }
-.titolo-avviso { margin: .5rem 0 0; font-size: .92rem; color: var(--inchiostro-tenue); }
-.nota { margin: .4rem 0 0; font-size: .9rem; color: var(--inchiostro-tenue); }
-.collegamenti { display: flex; flex-wrap: wrap; gap: 0 1.2rem; margin-top: .25rem; }
-.collegamenti a { display: inline-flex; align-items: center; min-height: 2.75rem; font-weight: 700; }
-.come-letto { margin-top: .1rem; font-size: .9rem; color: var(--inchiostro-tenue); }
-.come-letto summary { cursor: pointer; padding: .45rem 0; width: fit-content; text-decoration: underline; text-underline-offset: .18em; }
+.titolo-avviso { margin: .5rem 0 0; font-size: .9rem; line-height: 1.38; color: var(--inchiostro-tenue); }
+.nota { margin: .35rem 0 0; font-size: .9rem; line-height: 1.38; color: var(--inchiostro-tenue); }
+.collegamenti { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.2rem; margin-top: .2rem; }
+.collegamenti a { display: inline-flex; align-items: center; min-height: 2.6rem; font-weight: 700; }
+.apri-dettagli { margin-left: auto; min-height: 2.6rem; border: 0; background: none; padding: 0; cursor: pointer;
+  color: var(--inchiostro-tenue); font-size: .9rem; display: inline-flex; align-items: center; gap: .35rem; }
+.apri-dettagli::after { content: ""; width: .42em; height: .42em; border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor; transform: translateY(-.12em) rotate(45deg); transition: transform .15s; }
+.apri-dettagli[aria-expanded="true"]::after { transform: translateY(.1em) rotate(-135deg); }
+.come-letto { margin: 0 0 .4rem; font-size: .9rem; color: var(--inchiostro-tenue); }
 .come-letto blockquote { margin: .3rem 0 .5rem; padding-left: .7rem; border-left: 2px solid var(--riga); }
 .come-letto p { margin: .3rem 0; }
 
 /* i due timbri */
-.timbri { display: flex; gap: .6rem; margin-top: .55rem; }
+.timbri { display: flex; gap: .6rem; margin-top: .3rem; }
 .timbro {
   flex: 1 1 0; min-height: 2.75rem; padding: 0 .5rem; display: inline-flex; align-items: center; justify-content: center; gap: .4rem;
   border: 1.5px solid currentColor; border-radius: 7px; background: transparent; cursor: pointer;
@@ -188,6 +193,7 @@ button, input, select { font: inherit; color: inherit; }
 .avviso[data-segno="scartato"] { background: var(--grigio-fondo); color: var(--grigio); }
 .avviso[data-segno="scartato"] :is(.margine, .margine .giorno, .margine .ora, .margine .manca, .scuola .comuni, .titolo-avviso, .titolo-avviso a) { color: var(--grigio); }
 .avviso[data-segno="scartato"] :is(.posti, .nota, .come-letto, .collegamenti, .margine .nuovo) { display: none; }
+.avviso[data-segno="scartato"] .titolo-avviso { margin-top: .2rem; }
 .avviso[data-segno="scartato"] .timbro.candidato { color: var(--grigio); }
 
 /* ---- scuole ---- */
@@ -210,7 +216,7 @@ button, input, select { font: inherit; color: inherit; }
 .piede p { margin: 0 0 .5rem; max-width: 38rem; }
 
 @media (min-width: 40rem) {
-  :root { --m: 8.2rem; --lato: 1.5rem; }
+  :root { --m: 9.2rem; --lato: 1.5rem; }
   .testata { padding-top: 2.4rem; }
   .testata h1 { font-size: 2.7rem; }
   .timbri { max-width: 24rem; }
@@ -303,6 +309,7 @@ button, input, select { font: inherit; color: inherit; }
   const CROCE = '<svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M5.5 5.5l9 9m0-9l-9 9" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
 
   let dati = null;            // contenuto di dati.json
+  const dettagliAperti = new Set();   // avvisi con i dettagli aperti: restano aperti quando la pagina si ridisegna
   let letturaFallita = false;
   let ultimaLettura = 0;
   const memoria = leggiMemoria();
@@ -354,6 +361,11 @@ button, input, select { font: inherit; color: inherit; }
     if (diff === -1) return "ieri";
     const anno = d.getFullYear() !== adesso.getFullYear() ? " " + d.getFullYear() : "";
     return (conGiorno ? GIORNI[d.getDay()] + " " : "") + d.getDate() + " " + MESI[d.getMonth()] + anno;
+  }
+  // per il margine: la parola piccola ("entro lun") e la data in evidenza ("5 ott")
+  function giornoInDue(d, adesso) {
+    const vicino = Math.abs(giorniTra(d, adesso)) <= 1;
+    return vicino ? ["", giornoBreve(d, adesso)] : [" " + GIORNI[d.getDay()], giornoBreve(d, adesso, false)];
   }
   const dataLunga = (d, adesso) => d.getDate() + " " + MESI[d.getMonth()] + (d.getFullYear() !== adesso.getFullYear() ? " " + d.getFullYear() : "");
   function quantoManca(scadenza, adesso) {
@@ -471,14 +483,16 @@ button, input, select { font: inherit; color: inherit; }
     } else if (a.presente === false) {
       righe += '<span class="giorno">tolto dal sito</span>';
     } else if (scadenza && scadenza < adesso) {
-      righe += `scaduto<span class="giorno">${giornoBreve(scadenza, adesso)}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`);
+      const [piccolo, grande] = giornoInDue(scadenza, adesso);
+      righe += `scaduto${piccolo}<span class="giorno">${grande}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`);
     } else if (scadenza) {
+      const [piccolo, grande] = giornoInDue(scadenza, adesso);
       if (scadenza - adesso < 24 * ORA) classe = " urgente";
-      righe += `entro<span class="giorno">${giornoBreve(scadenza, adesso)}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`)
+      righe += `entro${piccolo}<span class="giorno">${grande}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`)
         + `<span class="manca">${quantoManca(scadenza, adesso)}</span>`;
     } else {
-      righe += "termine non indicato";
-      if (pubblicato) righe += `<span class="manca">uscito ${giornoBreve(pubblicato, adesso, false)}</span>`;
+      if (pubblicato) righe += `uscito<span class="giorno">${giornoBreve(pubblicato, adesso, false)}</span>`;
+      righe += `<span class="manca">termine: vedi avviso</span>`;
     }
     return `<div class="margine${classe}">${righe}<svg class="spunta" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 13l5.5 5.5L20 6.5" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`;
   }
@@ -499,7 +513,7 @@ button, input, select { font: inherit; color: inherit; }
     const icona = { si: SPUNTA, forse: DUBBIO, no: CROCE }, voce = { si: "corrisponde", forse: "da verificare", no: "non corrisponde" };
     let posti = mostrati.slice(0, 4).map(x =>
       `<li class="posto-${x.esito}">${icona[x.esito]}<span><span class="solo-lettori">${voce[x.esito]}: </span>${testoPosto(x, adesso)}</span></li>`).join("");
-    if (mostrati.length > 4) posti += `<li class="posto-no"><span></span><span>e altri ${mostrati.length - 4} posti nell'avviso</span></li>`;
+    if (mostrati.length > 4) posti += `<li class="posto-no"><span></span><span>${mostrati.length === 5 ? "e un altro posto" : "e altri " + (mostrati.length - 4) + " posti"} nell'avviso</span></li>`;
     if (valutazione.ata) posti = `<li class="posto-no">${CROCE}<span>Riguarda il personale ATA, non i docenti</span></li>`;
 
     const lettoBene = a.letto === "testo" || a.letto === "pagina";
@@ -508,11 +522,13 @@ button, input, select { font: inherit; color: inherit; }
     let dettagli = lettoBene ? `<p>${COME_LETTO[a.letto]}</p>` : (a.nota ? `<p>${esc(maiuscola(a.nota))}.</p>` : "");
     if (a.pubblicato) dettagli += `<p>Pubblicato ${giornoBreve(data(a.pubblicato), adesso)}.</p>`;
     if (prove.length) dettagli += "<p>Dal testo:</p>" + prove.map(p => `<blockquote>…${esc(p)}…</blockquote>`).join("");
-    if (a.scadenza_prova) dettagli += `<p>Termine per candidarsi:</p><blockquote>${esc(a.scadenza_prova)}</blockquote>`;
+    if (a.scadenza_certa) dettagli += "<p>Il termine per candidarsi è quello indicato dalla scuola nell'elenco degli avvisi.</p>";
+    else if (a.scadenza_prova) dettagli += `<p>Termine per candidarsi:</p><blockquote>…${esc(a.scadenza_prova)}…</blockquote>`;
     if (indirizzo(a.pagina) && a.pagina !== a.url) dettagli += `<p>${collegamento(a.pagina, "Elenco degli interpelli sul sito della scuola")}</p>`;
 
     const link = [collegamento(a.url, "Apri l'avviso")];
-    if (indirizzo(a.candidatura) && a.candidatura !== a.url) link.push(collegamento(a.candidatura, "Pagina per candidarsi"));
+    if (indirizzo(a.candidatura) && a.candidatura !== a.url) link.push(collegamento(a.candidatura, "Candidati"));
+    const aperto = dettagliAperti.has(a.id), idDettagli = "d-" + a.id;
 
     return `<article class="avviso" data-id="${esc(a.id)}" data-segno="${esc(segno)}">
       ${margine(a, adesso, nuovo)}
@@ -521,8 +537,8 @@ button, input, select { font: inherit; color: inherit; }
         <ul class="posti">${posti}</ul>
         <p class="titolo-avviso">${esc(a.titolo)}</p>
         ${nota ? `<p class="nota">${nota}</p>` : ""}
-        <div class="collegamenti">${link.join("")}</div>
-        <details class="come-letto"><summary>Come è stato letto</summary>${dettagli}</details>
+        <div class="collegamenti">${link.join("")}<button type="button" class="apri-dettagli" aria-expanded="${aperto}" aria-controls="${esc(idDettagli)}">Dettagli</button></div>
+        <div class="come-letto" id="${esc(idDettagli)}"${aperto ? "" : " hidden"}>${dettagli}</div>
         <div class="timbri">
           <button type="button" class="timbro candidato" data-segna="candidato" aria-pressed="${segno === "candidato"}">${SPUNTA}CANDIDATO</button>
           <button type="button" class="timbro scartato" data-segna="scartato" aria-pressed="${segno === "scartato"}">${SPUNTA}SCARTATO</button>
@@ -597,29 +613,36 @@ button, input, select { font: inherit; color: inherit; }
     html += sezioneScuole(adesso);
 
     const aperti = new Set([...contenuto.querySelectorAll("details[open][id]")].map(d => d.id));
-    const lettiAperti = new Set([...contenuto.querySelectorAll(".avviso .come-letto[open]")].map(d => d.closest(".avviso").dataset.id));
     contenuto.innerHTML = html;
     contenuto.setAttribute("aria-busy", "false");
     aperti.forEach(id => { const d = document.getElementById(id); if (d) d.open = true; });
-    lettiAperti.forEach(id => { const d = contenuto.querySelector(`.avviso[data-id="${CSS.escape(id)}"] .come-letto`); if (d) d.open = true; });
     disegnaCandidature();
     disegnaControllo(adesso, nuovi);
+    const daGuardare = gruppi.si.filter(x => !x.segno).length;      // nella scheda del browser: quanti aspettano una decisione
+    document.title = (daGuardare ? "(" + daGuardare + ") " : "") + "Interpelli";
+  }
+
+  // Una scuola e' "indietro" se l'ultima lettura completa risale a piu' di tre ore fa (o non c'e' mai stata):
+  // un sito che per un controllo non risponde non merita un allarme, uno che tace da ore si'.
+  function indietro(s, adesso) {
+    if (s.stato === "manuale") return false;
+    const ultimo = data(s.ultimo_ok);
+    return !ultimo || adesso - ultimo > DATI_FERMI_DOPO;
   }
 
   function sezioneScuole(adesso) {
-    const ordine = { errore: 0, parziale: 1, da_controllare: 2, manuale: 3, mai_controllata: 4, ok: 5 };
-    const scuole = (dati.scuole || []).slice().sort((x, y) =>
-      (ordine[x.stato] ?? 5) - (ordine[y.stato] ?? 5) || (!!y.manuale - !!x.manuale) || x.nome.localeCompare(y.nome, "it"));
+    const peso = s => indietro(s, adesso) ? 0 : s.stato === "ok" ? (s.manuale ? 2 : 3) : 1;
+    const scuole = (dati.scuole || []).slice().sort((x, y) => peso(x) - peso(y) || x.nome.localeCompare(y.nome, "it"));
     const voci = scuole.map(s => {
-      let stato = "", guasto = false;
-      const ultimo = data(s.ultimo_ok);
-      if (s.stato === "ok") stato = "Letta " + (ultimo ? tempoFa(ultimo, adesso) : "") + ".";
-      else if (s.stato === "parziale") { guasto = true; stato = "Letta solo in parte: una delle sue pagine non ha risposto."; }
-      else if (s.stato === "errore") { guasto = true; stato = "Non letta: il sito non ha risposto" + (ultimo ? " (ultima lettura riuscita " + tempoFa(ultimo, adesso) + ")." : "."); }
-      else if (s.stato === "da_controllare") { guasto = true; stato = "La pagina degli interpelli sembra cambiata: meglio guardarla a mano."; }
-      else if (s.stato === "manuale") stato = "Da guardare a mano.";
-      else stato = "Non ancora controllata.";
-      const pagine = (s.pagine || []).map((u, i) => collegamento(u, (s.pagine.length > 1 ? "Pagina " + (i + 1) : "Pagina degli interpelli")));
+      const ultimo = data(s.ultimo_ok), guasto = indietro(s, adesso);
+      let stato;
+      if (s.stato === "manuale") stato = "Da guardare a mano.";
+      else if (s.stato === "ok") stato = "Letta " + (ultimo ? tempoFa(ultimo, adesso) : "") + ".";
+      else if (s.stato === "da_controllare") stato = "La pagina degli interpelli sembra cambiata: meglio guardarla a mano.";
+      else if (!ultimo) stato = s.stato === "parziale" ? "Mai letta per intero: una delle sue pagine non risponde." : "Non ancora letta: il sito non risponde.";
+      else stato = "Ultima lettura completa " + tempoFa(ultimo, adesso) + ": all'ultimo controllo "
+        + (s.stato === "parziale" ? "una delle sue pagine non ha risposto." : "il sito non ha risposto.");
+      const pagine = (s.pagine || []).map(p => typeof p === "string" ? collegamento(p, "Pagina sul sito") : collegamento(p.url, esc(p.nome || "Pagina sul sito")));
       let manuale = "";
       if (s.manuale && indirizzo(s.manuale.url)) {
         manuale = `<span class="stato">Da guardare anche a mano: ${esc(s.manuale.motivo || "pubblica su un portale che non si legge in automatico")}.</span>`;
@@ -646,14 +669,16 @@ button, input, select { font: inherit; color: inherit; }
 
   function disegnaControllo(adesso, nuovi) {
     const generato = data(dati.generato), scuole = dati.scuole || [];
-    const guaste = scuole.filter(s => ["errore", "parziale", "da_controllare"].includes(s.stato)).length;
+    const ferme = scuole.filter(s => indietro(s, adesso)).length;
     const aMano = scuole.filter(s => s.manuale || s.stato === "manuale").length;
+    const quante = (n, una, tante) => n === 1 ? una : n + " " + tante;
     let testo = "Ultimo controllo " + (generato ? tempoFa(generato, adesso) : "sconosciuto") + ". ";
-    testo += guaste ? `<a href="#s-scuole" data-apri="s-scuole">${guaste === 1 ? "Una scuola non è stata letta" : guaste + " scuole non sono state lette"}</a>`
-      : `<a href="#s-scuole" data-apri="s-scuole">Lette tutte le ${scuole.length} scuole</a>`;
+    testo += `<a href="#s-scuole" data-apri="s-scuole">${ferme
+      ? maiuscola(quante(ferme, "una scuola non letta per intero", "scuole non lette per intero")) + " da più di tre ore"
+      : "Lette tutte le " + scuole.length + " scuole"}</a>`;
     if (aMano) testo += `, ${aMano} da guardare anche a mano`;
     testo += ".";
-    if (nuovi) testo = `<strong>${nuovi === 1 ? "Un avviso nuovo" : nuovi + " avvisi nuovi"}</strong> dall'ultima visita. ` + testo;
+    if (nuovi) testo = `<strong>${quante(nuovi, "Un avviso nuovo", "avvisi nuovi")}</strong> ${riferimentoNovita ? "dall'ultima visita" : "nelle ultime 24 ore"}. ` + testo;
     $("#controllo").innerHTML = testo;
 
     const allarme = $("#allarme");
@@ -682,6 +707,14 @@ button, input, select { font: inherit; color: inherit; }
   document.addEventListener("click", e => {
     const timbro = e.target.closest(".timbro");
     if (timbro) { segna(timbro.closest(".avviso"), timbro.dataset.segna); return; }
+    const dettagli = e.target.closest(".apri-dettagli");
+    if (dettagli) {
+      const id = dettagli.closest(".avviso").dataset.id, apre = dettagli.getAttribute("aria-expanded") !== "true";
+      dettagli.setAttribute("aria-expanded", String(apre));
+      document.getElementById(dettagli.getAttribute("aria-controls")).hidden = !apre;
+      if (apre) dettagliAperti.add(id); else dettagliAperti.delete(id);
+      return;
+    }
     const apri = e.target.closest("[data-apri]");
     if (apri) { const d = document.getElementById(apri.dataset.apri); if (d) d.open = true; return; }
     if (e.target.id === "riprova") carica();
@@ -735,7 +768,7 @@ button, input, select { font: inherit; color: inherit; }
     riferimentoNovita = segnaVisita();
     if (Date.now() - ultimaLettura > 5 * MINUTO) carica();
   });
-  setInterval(() => { if (dati && !document.hidden && !document.querySelector(".come-letto[open]")) disegna(); }, 5 * MINUTO);   // "mancano 3 ore" resta giusto
+  setInterval(() => { if (dati && !document.hidden) disegna(); }, 5 * MINUTO);   // cosi' "mancano 3 ore" resta giusto
 
   mostraCriteri();
   carica();

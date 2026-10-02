@@ -122,6 +122,10 @@ class Rete:
                 continue
             self._conserva(url, r.url, r.status_code, r.headers.get("content-type", ""), corpo)
             if r.status_code >= 400:
+                # nel registro, due parole su che cosa ha risposto il sito (di solito il titolo della pagina d'errore)
+                titolo = re.search(rb"<title[^>]*>([^<]{1,80})", corpo[:4000], re.IGNORECASE)
+                print(f"   {r.status_code} {url[:110]} | server: {r.headers.get('server', '?')}"
+                      f"{' | ' + titolo.group(1).decode('utf-8', 'replace').strip() if titolo else ''}", flush=True)
                 raise ErroreRete(f"risposta {r.status_code} da {urlparse(url).netloc}")
             return Risposta(r.url, r.status_code, r.headers.get("content-type", ""), corpo, r.encoding)
         self._conserva(url, None, None, ultimo_errore or "nessuna risposta", b"")
