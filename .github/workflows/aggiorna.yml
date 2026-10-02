@@ -1,12 +1,14 @@
 name: Aggiorna interpelli
 
 # Ogni ora legge i siti delle scuole e salva i dati che la pagina mostra (docs/dati.json).
-# Mezz'ora dopo, un secondo passaggio riprova solo le scuole che non hanno risposto.
+# Parte ogni venti minuti, ma rilegge solo le scuole che non sono state lette per intero
+# negli ultimi cinquanta: cosi' ogni scuola e' letta una volta all'ora, e quelle che non
+# hanno risposto vengono riprovate presto (ogni volta da un computer di GitHub diverso).
 # "Run workflow" dalla scheda Actions fa subito un controllo completo.
 
 on:
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '7,27,47 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -33,7 +35,7 @@ jobs:
             || echo "::warning::Strumenti per i PDF non installati: le scansioni non verranno lette"
       - run: pip install -q -r requirements.txt
       - name: Controllo dei siti
-        run: python -m scraper ${{ github.event_name == 'schedule' && '--salta-recenti 40' || '' }}
+        run: python -m scraper ${{ github.event_name == 'schedule' && '--salta-recenti 50' || '' }}
       - name: Salva i dati nel progetto
         id: salva
         run: |

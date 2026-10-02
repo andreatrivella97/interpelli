@@ -3,7 +3,7 @@
 Uso:
     python -m scraper                        controlla tutte le scuole
     python -m scraper --solo rho-grossi      controlla solo le scuole indicate (separate da virgola)
-    python -m scraper --salta-recenti 40     riprova solo le scuole non lette (del tutto) negli ultimi 40 minuti
+    python -m scraper --salta-recenti 50     rilegge solo le scuole non lette per intero negli ultimi 50 minuti
 
 Con INTERPELLI_SALVA=cartella conserva in quella cartella ogni pagina e documento scaricato, per la messa a punto.
 """
@@ -273,6 +273,7 @@ def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bi
     if testo and letto in ("errore", "in_attesa", "non_leggibile") and solo_titolo.completezza() > analisi.completezza():
         analisi = solo_titolo
     record["posti"] = [p.come_dati() for p in analisi.posti]
+    record.pop("escluso", None)
     if analisi.esito_procedura:
         record["escluso"] = "comunica l'esito di una procedura: non e' un avviso a cui candidarsi"
         record["posti"] = []
@@ -308,6 +309,15 @@ def pagine_di(scuola: dict) -> list[dict]:
         else:
             pagine.append({"nome": fonte.get("nome") or "Pagina sul sito", "url": fonte["url"]})
     return pagine
+
+
+def _senza_orari(dati: dict) -> dict:
+    """I dati della pagina senza gli orari dei controlli: uguali se da un giro all'altro non e' cambiato nulla."""
+    copia = json.loads(json.dumps(dati))
+    copia.pop("generato", None)
+    for scuola in copia.get("scuole", []):
+        scuola.pop("ultimo_controllo", None)
+    return copia
 
 
 def main(argomenti: list[str] | None = None) -> int:
@@ -371,8 +381,6 @@ def main(argomenti: list[str] | None = None) -> int:
             "ultimo_ok": memoria.get("ultimo_ok"), "ultimo_controllo": memoria.get("ultimo_controllo"),
         })
 
-    archivio.salva(ora)
-
     visibili = []
     for record in archivio.avvisi.values():
         if not da_mostrare(record, ora):
@@ -381,10 +389,18 @@ def main(argomenti: list[str] | None = None) -> int:
                  "scadenza_certa", "scadenza_prova", "chiuso", "personale", "ordini", "posti", "letto", "nota",
                  "prima_vista", "iniziale", "presente")
         visibili.append({c: record.get(c) for c in campi})
+    # ordine sempre uguale a parita' di dati (per data, poi per identificativo): cosi' da un giro
+    # all'altro il file cambia solo dove e' cambiato qualcosa
+    visibili.sort(key=lambda a: a["id"])
     visibili.sort(key=lambda a: (a.get("pubblicato") or a.get("prima_vista") or "")[:10], reverse=True)
 
     dati = {"generato": ora.strftime("%Y-%m-%dT%H:%M"), "criteri": criteri, "scuole": stato_scuole, "avvisi": visibili}
     uscita = args.radice / "docs" / "dati.json"
+    if args.salta_recenti and uscita.exists() and _senza_orari(json.loads(uscita.read_text(encoding="utf-8"))) == _senza_orari(dati):
+        # un passaggio di recupero in cui le scuole riprovate non hanno risposto nemmeno stavolta: non c'e' nulla da salvare
+        print("Le scuole riprovate non hanno risposto: dati lasciati come sono.")
+        return 0
+    archivio.salva(ora)
     uscita.parent.mkdir(parents=True, exist_ok=True)
     uscita.write_text(json.dumps(dati, ensure_ascii=False, indent=1), encoding="utf-8")
 

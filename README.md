@@ -13,7 +13,7 @@ Dal menu del browser può scegliere «Aggiungi a schermata Home» per averla com
 
 1. Ogni ora GitHub esegue da solo il programma in `scraper/`, che legge le pagine indicate in
    `scuole.yaml`, apre i documenti degli avvisi e ne ricava ordine di scuola, ore, durata e
-   termine per candidarsi. Mezz'ora dopo riprova le sole scuole che non hanno risposto.
+   termine per candidarsi. Le scuole che non hanno risposto vengono riprovate ogni venti minuti.
 2. Il risultato viene salvato in `docs/dati.json` (quello che la pagina mostra) e in
    `stato/archivio.json` (la memoria di ciò che è già stato visto e letto).
 3. La pagina `docs/index.html` legge quel file. I segni «candidato» e «scartato» e i criteri
@@ -100,6 +100,11 @@ regola finché tutte le prove passano.
 
 Ogni modifica caricata su un ramo che comincia per `claude/` fa partire «Prova»: esegue le
 prove e un controllo vero, e deposita il risultato nel ramo `prova-output` senza toccare la
-pagina pubblicata.
+pagina pubblicata. La prova riparte dalla memoria della prova precedente; scrivendo `[da capo]`
+nel messaggio della modifica parte invece da zero, come un primo controllo.
+
+Dopo aver cambiato le regole in `scraper/classifica.py` conviene aumentare di uno
+`VERSIONE_REGOLE` nello stesso file: al controllo successivo gli avvisi ancora in pagina vengono
+riletti con le regole nuove.
 
 Il carattere della pagina è Andika (SIL Open Font License, vedi `docs/fonts/OFL.txt`).
