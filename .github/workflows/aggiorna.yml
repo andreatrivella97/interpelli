@@ -25,19 +25,38 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v7
+      - name: C'è qualche scuola da leggere?
+        id: serve
+        run: |
+          # Nei passaggi programmati si lavora solo se qualche scuola non e' stata letta per intero
+          # negli ultimi 50 minuti: gli altri passaggi finiscono qui, in pochi secondi.
+          da_leggere=1
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ -f stato/archivio.json ]; then
+            limite=$(TZ=Europe/Rome date -d '50 minutes ago' +%Y-%m-%dT%H:%M)
+            da_leggere=$(jq --arg limite "$limite" \
+              '[.scuole[] | select(.stato != "manuale") | (.ultimo_ok // "")] | map(select(. < $limite)) | length' \
+              stato/archivio.json || echo 1)
+          fi
+          echo "Scuole da leggere: $da_leggere"
+          echo "da_leggere=$da_leggere" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@v7
+        if: steps.serve.outputs.da_leggere != '0'
         with:
           python-version: '3.13'
           cache: pip
       - name: Strumenti per leggere i PDF
+        if: steps.serve.outputs.da_leggere != '0'
         run: |
           (sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-ita) \
             || echo "::warning::Strumenti per i PDF non installati: le scansioni non verranno lette"
       - run: pip install -q -r requirements.txt
+        if: steps.serve.outputs.da_leggere != '0'
       - name: Controllo dei siti
+        if: steps.serve.outputs.da_leggere != '0'
         run: python -m scraper ${{ github.event_name == 'schedule' && '--salta-recenti 50' || '' }}
       - name: Salva i dati nel progetto
         id: salva
+        if: steps.serve.outputs.da_leggere != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
