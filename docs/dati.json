@@ -1,0 +1,1980 @@
+{
+ "generato": "2026-10-03T00:10",
+ "criteri": {
+  "ordini": [
+   "infanzia",
+   "primaria"
+  ],
+  "ore_min": 20,
+  "mesi_fine": [
+   6,
+   7,
+   8
+  ]
+ },
+ "scuole": [
+  {
+   "id": "villacortese",
+   "nome": "IC Villa Cortese",
+   "comuni": [
+    "Villa Cortese",
+    "Dairago"
+   ],
+   "sito": "https://icvillacortese.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCsMOrw4bFvhDDkQHCoAla"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icvillacortese.edu.it/servizio/invio-mad/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "sanvittore",
+   "nome": "IC Giosuè Carducci",
+   "comuni": [
+    "San Vittore Olona",
+    "San Giorgio su Legnano"
+   ],
+   "sito": "https://www.icscarducci.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFvhfDlgHCoAlQ"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icscarducci.edu.it/notizie/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "canegrate",
+   "nome": "IC Aldo Moro",
+   "comuni": [
+    "Canegrate"
+   ],
+   "sito": "https://www.icscanegrate.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFvhTDlAHCoAlb"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "bustogarolfo",
+   "nome": "IC G. Tarra",
+   "comuni": [
+    "Busto Garolfo"
+   ],
+   "sito": "https://icstarra.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icstarra.edu.it/servizi/99-interpello"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "legnano-manzoni",
+   "nome": "IC A. Manzoni",
+   "comuni": [
+    "Legnano"
+   ],
+   "sito": "https://icsmanzonilegnano.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XihKIVw5QBwqAJUg%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icsmanzonilegnano.edu.it/"
+    }
+   ],
+   "manuale": {
+    "url": "https://www.trasparenzascuole.it/Public/AmministrazioneTrasparenteV2.aspx?Customer_id=f28fb386-f207-4210-9002-35e47c7e7404&PID=660ea136-45c7-40f4-927f-5e02841e2e7e",
+    "motivo": "pubblica gli interpelli in una sezione del portale Axios che non consente la lettura automatica"
+   },
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "legnano-bonvesin",
+   "nome": "IC Bonvesin de la Riva",
+   "comuni": [
+    "Legnano"
+   ],
+   "sito": "https://www.icsbonvesin.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCsMOrw4HFvhbDkwHCoAlT"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "legnano-carducci",
+   "nome": "IC Giosuè Carducci",
+   "comuni": [
+    "Legnano"
+   ],
+   "sito": "https://www.iccarduccilegnano.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.iccarduccilegnano.edu.it/servizio/interpello/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "legnano-salici",
+   "nome": "IC Via dei Salici",
+   "comuni": [
+    "Legnano"
+   ],
+   "sito": "https://www.icsviadeisalici.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XihKIUw5ABwqAJUA%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "cerro",
+   "nome": "IC A. Strobino",
+   "comuni": [
+    "Cerro Maggiore"
+   ],
+   "sito": "https://www.scuoledicerro.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFvhLDkgHCoAlQ"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.scuoledicerro.edu.it/pagine/interpelli-1"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rescaldina-manzoni",
+   "nome": "IC A. Manzoni",
+   "comuni": [
+    "Rescaldina"
+   ],
+   "sito": "https://www.manzonirescalda.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFvhrDmAHCoAlT"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.manzonirescalda.edu.it/interpello/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rescaldina-alighieri",
+   "nome": "IC Dante Alighieri",
+   "comuni": [
+    "Rescaldina"
+   ],
+   "sito": "https://www.alighierirescaldina.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFvhLDkAHCoAlW"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.alighierirescaldina.edu.it/documenti/interpelli-51/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "magnago",
+   "nome": "IC Ada Negri",
+   "comuni": [
+    "Magnago"
+   ],
+   "sito": "https://icadanegri.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5kBwqAJWw%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icadanegri.edu.it/servizi/274-interpelli-e-mad"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "arconate",
+   "nome": "Omnicomprensivo Europeo",
+   "comuni": [
+    "Arconate",
+    "Buscate"
+   ],
+   "sito": "https://www.omnicomprensivoeuropeo.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.omnicomprensivoeuropeo.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "cuggiono",
+   "nome": "IC Rita Levi Montalcini",
+   "comuni": [
+    "Cuggiono"
+   ],
+   "sito": "https://istitutocomprensivocuggiono.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://istitutocomprensivocuggiono.edu.it/?s=interpello"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "marcallo",
+   "nome": "IC E. De Amicis",
+   "comuni": [
+    "Marcallo con Casone",
+    "Inveruno"
+   ],
+   "sito": "https://icmarcallo.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icmarcallo.edu.it/?s=interpello"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "ossona",
+   "nome": "IC Duca d'Aosta",
+   "comuni": [
+    "Ossona",
+    "Casorezzo"
+   ],
+   "sito": "https://www.icossona.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icossona.edu.it/?s=interpello"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "arluno",
+   "nome": "IC Silvio Pellico",
+   "comuni": [
+    "Arluno"
+   ],
+   "sito": "https://icspellico.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icspellico.edu.it/interpelli-e-mad/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "bareggio",
+   "nome": "IC Giorgio Perlasca",
+   "comuni": [
+    "Bareggio"
+   ],
+   "sito": "https://www.icsperlasca.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CsMOrw4XFvhvDkgHCoAlR"
+    },
+    {
+     "nome": "Notizie sul sito",
+     "url": "https://www.icsperlasca.edu.it/?s=interpello"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "pogliano",
+   "nome": "IC Paolo Neglia",
+   "comuni": [
+    "Pogliano Milanese",
+    "Vanzago"
+   ],
+   "sito": "https://www.icpaoloneglia.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "lainate-lamarmora",
+   "nome": "IC Via Lamarmora",
+   "comuni": [
+    "Lainate"
+   ],
+   "sito": "https://www.iclamarmoralainate.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "lainate-cairoli",
+   "nome": "IC Via Cairoli",
+   "comuni": [
+    "Lainate"
+   ],
+   "sito": "https://icscairoli.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDmAHCoAlU"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icscairoli.edu.it/interpelli-nazionali/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rho-deandre",
+   "nome": "IC Fabrizio De André",
+   "comuni": [
+    "Rho"
+   ],
+   "sito": "https://www.icdeandrerho.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icdeandrerho.edu.it/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rho-grossi",
+   "nome": "IC Tommaso Grossi",
+   "comuni": [
+    "Rho"
+   ],
+   "sito": "https://www.icgrossirho.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rho-annafrank",
+   "nome": "IC Anna Frank",
+   "comuni": [
+    "Rho"
+   ],
+   "sito": "https://www.icsannafrankrho.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icsannafrankrho.edu.it/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "rho-franceschini",
+   "nome": "IC Ezio Franceschini",
+   "comuni": [
+    "Rho"
+   ],
+   "sito": "https://www.icsfranceschini.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkQHCoAlS"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icsfranceschini.edu.it/interpelli/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "milano-consolemarcello",
+   "nome": "IC Via Console Marcello",
+   "comuni": [
+    "Milano"
+   ],
+   "sito": "https://www.consolemarcello.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CssOqw4zihKIbw5YBwqAJUA%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.consolemarcello.edu.it/argomento/interpello/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-bertacchi",
+   "nome": "IC Bertacchi",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://www.istitutobertacchi.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027"
+    },
+    {
+     "nome": "Albo online",
+     "url": "https://www.istitutobertacchi.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-bossi",
+   "nome": "IC G.A. Bossi",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://www.icbossibusto.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.icbossibusto.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-crespi",
+   "nome": "IC E. Crespi",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://comprensivocrespi.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://comprensivocrespi.edu.it/?s=interpello"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-deamicis",
+   "nome": "IC E. De Amicis",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://icdeamicis.edu.it/",
+   "pagine": [
+    {
+     "nome": "Notizie sul sito",
+     "url": "https://icdeamicis.edu.it/?s=interpello"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icdeamicis.edu.it/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-galilei",
+   "nome": "IC G. Galilei",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://www.galileibusto.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.galileibusto.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": {
+    "url": "https://web.spaggiari.eu/sdg2/Interpelli/VAME0026",
+    "motivo": "le candidature passano dal portale Spaggiari, che non consente la lettura automatica"
+   },
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-pertini",
+   "nome": "IC S. Pertini",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://icpertinibusto.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43Cs8Orw4TFvhPDkAHCoA5b"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icpertinibusto.edu.it/argomento/interpello/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "busto-tommaseo",
+   "nome": "IC N. Tommaseo",
+   "comuni": [
+    "Busto Arsizio"
+   ],
+   "sito": "https://www.tommaseobusto.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.tommaseobusto.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "castellanza",
+   "nome": "IC A. Manzoni",
+   "comuni": [
+    "Castellanza"
+   ],
+   "sito": "https://istitutocomprensivocastellanza.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43Cs8Orw4XigJwXw5ABwqAOVA%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://istitutocomprensivocastellanza.edu.it/servizi/135-interpelli"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "olgiate",
+   "nome": "IC B.C. Ferrini",
+   "comuni": [
+    "Olgiate Olona"
+   ],
+   "sito": "https://www.scuoleolgiate.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.scuoleolgiate.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": {
+    "url": "https://web.spaggiari.eu/sdg2/Interpelli/VAME0033",
+    "motivo": "pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica"
+   },
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "gorlaminore",
+   "nome": "IC G. Parini",
+   "comuni": [
+    "Gorla Minore",
+    "Marnate"
+   ],
+   "sito": "https://comprensivoparini.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://comprensivoparini.edu.it/"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://comprensivoparini.edu.it/comunicati"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "solbiate",
+   "nome": "IC Aldo Moro",
+   "comuni": [
+    "Solbiate Olona",
+    "Gorla Maggiore"
+   ],
+   "sito": "https://icmoro.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://icmoro.edu.it/?s=interpello"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "fagnano",
+   "nome": "IC E. Fermi",
+   "comuni": [
+    "Fagnano Olona"
+   ],
+   "sito": "https://www.icfermifagnano.it/",
+   "pagine": [
+    {
+     "nome": "Notizie sul sito",
+     "url": "https://www.icfermifagnano.it/?s=interpello"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "gerenzano",
+   "nome": "IC G.P. Clerici",
+   "comuni": [
+    "Gerenzano"
+   ],
+   "sito": "https://www.icsgerenzano.edu.it/",
+   "pagine": [
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.icsgerenzano.edu.it/"
+    }
+   ],
+   "manuale": {
+    "url": "https://madinterpello.portaleargo.it/index.html#/",
+    "motivo": "pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica"
+   },
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "saronno-militi",
+   "nome": "IC Ignoto Militi",
+   "comuni": [
+    "Saronno"
+   ],
+   "sito": "https://www.icsmiliti.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.icsmiliti.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "saronno-moro",
+   "nome": "IC Aldo Moro",
+   "comuni": [
+    "Saronno"
+   ],
+   "sito": "https://www.aldomorosaronno.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.aldomorosaronno.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": {
+    "url": "https://web.spaggiari.eu/sdg2/Interpelli/VAME0025",
+    "motivo": "pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica"
+   },
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "saronno-davinci",
+   "nome": "IC Leonardo da Vinci",
+   "comuni": [
+    "Saronno"
+   ],
+   "sito": "https://www.istitutocomprensivodavinci.edu.it/",
+   "pagine": [
+    {
+     "nome": "Portale delle candidature",
+     "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCtsOrw4TigLoUw5UBwqAOVQ%3D%3D"
+    },
+    {
+     "nome": "Pagina sul sito",
+     "url": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  },
+  {
+   "id": "uboldo",
+   "nome": "IC A. Manzoni",
+   "comuni": [
+    "Uboldo"
+   ],
+   "sito": "https://www.ic-manzoni-uboldo.edu.it/",
+   "pagine": [
+    {
+     "nome": "Albo online",
+     "url": "https://www.ic-manzoni-uboldo.edu.it/albo-online?cerca=interpell"
+    }
+   ],
+   "manuale": null,
+   "nota": null,
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T00:10",
+   "ultimo_controllo": "2026-10-03T00:10"
+  }
+ ],
+ "avvisi": [
+  {
+   "id": "6a92aa67fc4e",
+   "scuola": "rho-annafrank",
+   "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=c317caf1-b397-4514-bc9e-5a1541d5cbfe&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uNl9QcmltYXJpYV9zdXBwbGVuemFfYnJldmVfY29tdW5lXzIwMjZfMjAyNy5wZGYucGFkZXMucGRm",
+   "pagina": "https://www.icsannafrankrho.edu.it/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": null,
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "81dc774f214d",
+   "scuola": "villacortese",
+   "titolo": "03- INTERPELLO n 1 SOSTEGNO ADMM 26.11.2026",
+   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/03-_INTERPELLO_n_1_SOSTEGNO_ADMM_26.11.2026.pdf.pades_.pdf?x49255",
+   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-03",
+   "scadenza": "2026-10-05T08:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "nteressati sono tenuti a comunicare entro e non oltre le ore 8.00 del 5 ottobre 2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-11-26",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": 18,
+     "prova": "ocente per il conferimento di supplenze per N.1 POSTO SOSTEGNO ADMM - 18 ore fino al 26.11.26 Tutti gli interessati sono tenuti a com",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "87b1974f36e3",
+   "scuola": "villacortese",
+   "titolo": "04-INTERPELLO A028 FINO AL 11.10.2026",
+   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/04-INTERPELLO_A028_FINO_AL_11.10.2026.pdf.pades_.pdf?x49255",
+   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-03",
+   "scadenza": "2026-10-05T08:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "nteressati sono tenuti a comunicare entro e non oltre le ore 8.00 del 5 ottobre 2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-11",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": 18,
+     "prova": "l conferimento di supplenze per N.1 POSTO A028 MATEMATICA E SCIENZE - 18 ore fino al 11.10.26 Tutti gli interessati sono tenuti a com",
+     "tipo": null
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "d4d836c4377c",
+   "scuola": "rho-deandre",
+   "titolo": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=5c83ec6d-c898-4ab2-8b53-1ed341b90599&folder=APD&storagefilename=cac412c5-c771-4599-aeed-f74020c705c1.pdf&sourcefilename=dGltYnJhdG9fSU5URVJQRUxMT19OLl83X1BPU1RJX0RJX1NPU1RFR05PX1NVTExBX1NDVU9MQV9QUklNQVJJQV9GSU5PX0FMXzMwXzA2XzI3LnBkZg%3d%3d",
+   "pagina": "https://www.icdeandrerho.edu.it/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": null,
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "2ca6e7505420",
+   "scuola": "busto-bossi",
+   "titolo": "Interpello strumento musicale AI56 e AM56 del 02-10-26 -IC \"BOSSI\" (BUSTO ARISIZIO)",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/3262eo6a41",
+   "pagina": "https://www.icbossibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-02",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": null,
+     "prova": "Interpello strumento musicale AI56 e AM56 del 02-10-26 -IC \"BOSSI\" (BUSTO ARISIZIO)",
+     "tipo": null
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "74c1a9bbf9b0",
+   "scuola": "legnano-carducci",
+   "titolo": "Interpello per supplenza ore 6 fino al 30 giugno 2027 posto COMUNE scuola primaria",
+   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_05-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_ore_6_fino_al_30-06-2027.pdf",
+   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
+   "fonti": [
+    "axios",
+    "pagina"
+   ],
+   "pubblicato": "2026-10-02",
+   "scadenza": "2026-10-03T14:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 6,
+     "prova": "CONTRATTO EEEE 1 6 30/06/2027 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "78816e35ed15",
+   "scuola": "saronno-davinci",
+   "titolo": "INTERPELLO N. 1 SUPPLENZA BREVE POSTO COMUNE SCUOLA PRIMARIA prot. 5785 del 2-10-2026",
+   "url": "https://www.istitutocomprensivodavinci.edu.it/wp/wp-content/uploads/2026/10/Interpello_supplenza_breve_scuola_primaria_posto_comune_dal_06-10-2026_al_16-10-2026.pdf.pades_.pdf",
+   "pagina": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-02",
+   "scadenza": "2026-10-03T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 12:00 del 03 ottobre 2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-16",
+     "fine_nota": null,
+     "inizio": "2026-10-06",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 06/10/2026 al 16/10/2026; Tutti gli interessati sono tenuti a pr",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "bb846c25360b",
+   "scuola": "lainate-lamarmora",
+   "titolo": "Interpello per la classe di concorso AAAA n. 25 ore dal 06.10.2026 al 30.06.2027 - AAAA n.5 ore dal 06.10.2026 al 30.06.2027",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-10-02",
+   "scadenza": "2026-10-03T13:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "so l'ICS via Lamarmora quanto segue: 1 posto (TIPOLOGIA POSTO ORARIO) 25 ore settimanali INFANZIA POSTO COMUNE fino al 30/06/2027 la cattedra è così costituita: 12,50 h",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 5,
+     "prova": "o sarà gestito interamente dall'Istituto scrivente. 1 posto part-time 5 ore settimanali INFANZIA POSTO COMUNE fino al 30/06/2027 - Presso ICS LAMARMORA INTERPELLA tutti",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "e76c8fb9c55f",
+   "scuola": "legnano-carducci",
+   "titolo": "Interpello per supplenza breve ore 24 fino al 14 ottobre 2026 posto COMUNE scuola primaria",
+   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_05-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_14-10-2026.p.pdf",
+   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
+   "fonti": [
+    "axios",
+    "pagina"
+   ],
+   "pubblicato": "2026-10-02",
+   "scadenza": "2026-10-03T14:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-14",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "CONTRATTO EEEE 1 24 14/09/2026 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "22e6738114dc",
+   "scuola": "busto-galilei",
+   "titolo": "Interpello n. 5 - n. 1 posto ADEE - posto SOSTEGNO primaria 24 ore al 17.12",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/l0uih12fe6",
+   "pagina": "https://www.galileibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-01",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-12-17",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "Interpello n. 5 - n. 1 posto ADEE - posto SOSTEGNO primaria 24 ore al 17.12",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "5d1d5db68ecc",
+   "scuola": "rho-grossi",
+   "titolo": "5766/U Interpello Primaria posto comune fino al 30/11/2026",
+   "url": "https://www.icgrossirho.edu.it/public/files/Interpello_PRIMARIA_POSTO_COMUNE_fino_al_30_11_26(1).pdf",
+   "pagina": "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-01",
+   "scadenza": "2026-10-02T10:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "a pagina Termine di presentazione dell'istanza entro le ore 10.00 del 02/10/2026 Modalità e termini di riscont",
+   "chiuso": "Assegnato",
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-11-30",
+     "fine_nota": null,
+     "inizio": "2026-10-05",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "a di inizio della supplenza 05/10/2026 Durata della supplenza fino al 30/11/2026 Orario complessivo settimanale 24h Sede di servizio Via Buozzi, 17 Passir",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "9bd74adecd7e",
+   "scuola": "busto-galilei",
+   "titolo": "Interpello n. 4 - n. 1 post EEEE - posto COMUNE primaria 24 ore al 30.06",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/s0d4e1pa57",
+   "pagina": "https://www.galileibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-01",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "Interpello n. 4 - n. 1 post EEEE - posto COMUNE primaria 24 ore al 30.06",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "c25955adc27f",
+   "scuola": "milano-consolemarcello",
+   "titolo": "Interpello primaria SOSTEGNO ADEE -",
+   "url": "https://www.consolemarcello.edu.it/interpello-primaria-sostegno-adee/",
+   "pagina": "https://www.consolemarcello.edu.it/argomento/interpello/",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CssOqw4zihKIbw5YBwqAJUA%3D%3D",
+   "fonti": [
+    "axios",
+    "pagina"
+   ],
+   "pubblicato": "2026-10-01",
+   "scadenza": "2026-10-05T09:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "didattica - classe di concorso ADEE - scuola primaria posto sostegno 24 ore settimanali al 30 giugno 2027. Sede di servizio scuola primaria IC Co",
+     "tipo": "sostegno"
+    },
+    {
+     "fine": "2026-11-14",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "nza temporanea classe di concorso EEEE - scuola primaria posto Comune 24 ore settimanali fino al 14 novembre 2026; Sede di servizio scuola primaria IC Co",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2026-10-18",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "nza temporanea classe di concorso EEEE - scuola primaria posto Comune 24 ore settimanali fino al 18 ottobre 2026; Sede di servizio scuola primaria IC Co",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "220f97abe2ff",
+   "scuola": "busto-pertini",
+   "titolo": "INTERPELLO N. 1 POSTO COMUNE AAAA fino al 11/10/2026",
+   "url": "https://icpertinibusto.edu.it/documento/interpello-n-1-posto-comune-aaaa/",
+   "pagina": "https://icpertinibusto.edu.it/argomento/interpello/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-30",
+   "scadenza": "2026-10-01T09:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "one, unicamente tramite mail da inviare entro le ore 09:00 del giorno 01/10/2026, all'indirizzo: interpelli.ic",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-11",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "rsonale docente per il conferimento del seguente incarico: n. 1 posto 25 h. settimanali - Scuola Infanzia (posto comune AAAA) fino al 11/10/2026 Il Il/la candidato/a dovrà far pervenir",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "7b02f7617872",
+   "scuola": "magnago",
+   "titolo": "INTERPELLO infanzia POSTO comune fino al 30.10",
+   "url": "https://icadanegri.edu.it/sito-download-file/2470/all",
+   "pagina": "https://icadanegri.edu.it/servizi/274-interpelli",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-30",
+   "scadenza": "2026-10-01T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 12.00 del 01.10.2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 30.10.2026 Questa Istituzione scolastica, ai sensi",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "0dd3b25b246a",
+   "scuola": "bustogarolfo",
+   "titolo": "Interpello n. 3 del 29-09-2026 -AM2A Francese",
+   "url": "https://icstarra.edu.it/sito-download-file/6655/all",
+   "pagina": "https://icstarra.edu.it/servizi/99-interpello",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-29",
+   "scadenza": "2026-09-30T09:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": "Chiuso",
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-08",
+     "fine_nota": null,
+     "inizio": "2026-10-02",
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": 6,
+     "prova": "rico di supplenza con le seguenti caratteristiche: Spezzone orario di 6 ore settimanali, Classe di Concorso (AM2A) Lingua Straniera Francese nella scuola secondaria di I grado Caccia -Busto Garolfo ,dal 02/10/2026 al 08/06/2027. In conformità con quanto previsto dall",
+     "tipo": null
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "d0e179f981c4",
+   "scuola": "villacortese",
+   "titolo": "02- INTERPELLO n 1 SOSTEGNO ADMM 18.10.2026",
+   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/02-_INTERPELLO_n_1_SOSTEGNO_ADMM_18.10.2026.pdf.pades_.pdf?x49255",
+   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-29",
+   "scadenza": "2026-09-30T13:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "teressati sono tenuti a comunicare entro e non oltre le ore 13.00 del 30.09.2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-18",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": 18,
+     "prova": "ocente per il conferimento di supplenze per N.1 POSTO SOSTEGNO ADMM - 18 ore fino al 18.10.26 Tutti gli interessati sono tenuti a com",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "9a3abf52a04b",
+   "scuola": "saronno-davinci",
+   "titolo": "INTERPELLO N. 3 SUPPLENZE BREVI POSTO COMUNE E SOSTEGNO SCUOLA PRIMARIA prot. 5669 del 28-09-2026",
+   "url": "https://www.istitutocomprensivodavinci.edu.it/wp/wp-content/uploads/2026/09/Interpello-prot.-5669-del-28-09-2026-supplenz-brevi-scuola-primaria-posto-comune-e-sostegno.docx",
+   "pagina": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-28",
+   "scadenza": "2026-09-30T09:30",
+   "scadenza_certa": null,
+   "scadenza_prova": "nteressati sono tenuti a presentare entro e non oltre le ore 9:30 del 30 settembre 2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-16",
+     "fine_nota": null,
+     "inizio": "2026-09-30",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 30/09/2026 al 16/10/2026; N.1 posto comune scuola primaria 24 or",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2026-10-03",
+     "fine_nota": null,
+     "inizio": "2026-09-30",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "i EEEE dal 30/09/2026 al 16/10/2026; N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 30/09/2026 presumibilmente per 10 giorni; N.1 posto di sostegno scuola primaria 24 ore settimanali ADEE dal 30/09/2026 al 03/10/2026. Tutti gli interessati sono tenuti a pr",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "cbf2339964ee",
+   "scuola": "busto-tommaseo",
+   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso AAAA posto comune nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 20262027",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/jsn2qoi84d",
+   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-09-28",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso AAAA posto comune nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 20262027",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "2b0722f24e5a",
+   "scuola": "lainate-cairoli",
+   "titolo": "INTERPELLO BREVE SOSTEGNO PRIMARIA E INFANZIA",
+   "url": "https://icscairoli.edu.it/2026/09/25/interpello-breve-sostegno-primaria-e-infanzia/",
+   "pagina": "https://icscairoli.edu.it/interpelli-nazionali/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-25",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia",
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia",
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO BREVE SOSTEGNO PRIMARIA E INFANZIA",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "pagina",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "89eb1f722742",
+   "scuola": "busto-bossi",
+   "titolo": "Interpello strumento musicale AI56 e AB56 Scuola Secondaria di 1° grado I.C. Bossi",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/aa5araplqp",
+   "pagina": "https://www.icbossibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-09-25",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": null,
+     "prova": "Interpello strumento musicale AI56 e AB56 Scuola Secondaria di 1° grado I.C. Bossi",
+     "tipo": null
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "e1b944dbb64b",
+   "scuola": "rho-franceschini",
+   "titolo": "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA PRIMARIA POSTO COMUNE (EEEE)",
+   "url": "https://www.icsfranceschini.edu.it/public/files/2026-2027/Interpelli/interpello-EEEE-DEL_25.09.2026.pdf.pades.pdf",
+   "pagina": "https://www.icsfranceschini.edu.it/interpelli/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-25",
+   "scadenza": "2026-09-27T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 12.00 del 27/09/2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2026-10-06",
+     "fine_nota": null,
+     "inizio": "2026-09-28",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "EEE): 1 POSTI COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 28/09/2026 al 06/10/2026 n. ore settimanali: 24 ICS EZIO FRANCESCHINI C.F. 93546600151",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-09-28",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 17,
+     "prova": "/2026 1 POSTI COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 28/09/2026 al 30/06/2027 n. ore settimanali: 17 Tutti gli interessati sono tenuti a pre",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "7804a90ede4d",
+   "scuola": "busto-bossi",
+   "titolo": "Interpello Scuola primaria posti ADEE, EEEE (ALTERNATIVA IRC) - IC \"G.A. BOSSI\" - BUSTO A.",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/j1l0h2fqtj",
+   "pagina": "https://www.icbossibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-09-23",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello Scuola primaria posti ADEE, EEEE (ALTERNATIVA IRC) - IC \"G.A. BOSSI\" - BUSTO A",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  }
+ ]
+}

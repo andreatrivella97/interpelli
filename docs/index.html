@@ -1,0 +1,780 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interpelli</title>
+<meta name="description" content="Gli interpelli per supplenze pubblicati dalle scuole della zona, controllati ogni ora.">
+<meta name="robots" content="noindex">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1c2925" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icona.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icona-180.png">
+<meta name="apple-mobile-web-app-title" content="Interpelli">
+<link rel="preload" href="fonts/andika-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+/* Andika: il carattere dei primi libri di lettura (SIL Open Font License, vedi fonts/OFL.txt) */
+@font-face { font-family: "Andika"; font-weight: 400; font-style: normal; font-display: swap;
+  src: url("fonts/andika-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Andika"; font-weight: 700; font-style: normal; font-display: swap;
+  src: url("fonts/andika-latin-700-normal.woff2") format("woff2"); }
+
+/* Di giorno un quaderno: carta bianca, righe azzurre, margine rosso, inchiostro blu-nero. */
+:root {
+  --carta: #ffffff;
+  --inchiostro: #1b2540;
+  --inchiostro-tenue: #54607c;
+  --riga: #d3deee;
+  --linea-margine: #e2687b;
+  --matita-rossa: #c41f38;
+  --matita-blu: #1c4dc0;
+  --verde: #14783f;
+  --verde-luce: #dcf5e4;
+  --verde-su: #ffffff;
+  --grigio: #7f8592;
+  --grigio-fondo: #f0f1f4;
+  --evidenziatore: #ffe45c;
+  --avviso-fondo: #fff1f2;
+  --m: 5.6rem;                 /* larghezza del margine */
+  --spunta: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none'%3E%3Cpath d='M4 10.5l4 4 8-9' stroke='black' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  --lato: 1rem;
+}
+/* Di sera una lavagna: ardesia verde scuro e gessi. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --carta: #1c2925;
+    --inchiostro: #edf2ea;
+    --inchiostro-tenue: #a7b7ad;
+    --riga: #33443d;
+    --linea-margine: #b9525f;
+    --matita-rossa: #ff9a9a;
+    --matita-blu: #a3c6ff;
+    --verde: #86e3a8;
+    --verde-luce: #234f38;
+    --verde-su: #10271b;
+    --grigio: #84928a;
+    --grigio-fondo: #25322d;
+    --evidenziatore: #f3da5e;
+    --avviso-fondo: #3a2528;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--carta); color: var(--inchiostro);
+  font-family: "Andika", "Avenir Next", "Segoe UI", Roboto, system-ui, sans-serif;
+  font-size: 1rem; line-height: 1.42; overflow-wrap: anywhere;
+}
+.foglio { max-width: 46rem; margin: 0 auto; padding-bottom: 4rem; }
+a { color: var(--matita-blu); text-underline-offset: .18em; text-decoration-thickness: .06em; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--matita-blu); outline-offset: 2px; border-radius: 4px; }
+[hidden] { display: none !important; }
+.solo-lettori { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+/* ---- testata ---- */
+.testata { padding: 1.4rem var(--lato) 1rem; }
+.testata h1 { margin: 0; font-size: 2.1rem; line-height: 1.05; font-weight: 700; letter-spacing: -.012em; }
+.cerchi { margin: .55rem 0 0; font-size: 1.02rem; }
+.cerchi button {
+  position: relative; border: 0; background: none; padding: 0; margin: 0; color: var(--matita-blu); line-height: inherit;
+  text-decoration: underline; text-underline-offset: .18em; cursor: pointer; white-space: nowrap;
+}
+.cerchi button::after { content: ""; position: absolute; inset: -.65rem -.4rem; }   /* dito comodo senza allargare la riga */
+.controllo { margin: .3rem 0 0; color: var(--inchiostro-tenue); font-size: .92rem; }
+.controllo a { color: inherit; }
+
+/* ---- criteri ---- */
+.criteri { margin: 0 var(--lato) 1rem; padding: .9rem 1rem 1rem; border: 1.5px solid var(--riga); border-radius: 10px; }
+.criteri fieldset { border: 0; margin: 0 0 .8rem; padding: 0; }
+.criteri legend, .criteri label.titolo { padding: 0; font-weight: 700; font-size: .95rem; display: block; margin-bottom: .3rem; }
+.scelte { display: flex; flex-wrap: wrap; gap: .5rem; }
+.scelta { position: relative; }
+.scelta input { position: absolute; opacity: 0; inset: 0; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+.scelta span {
+  display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 .9rem;
+  border: 1.5px solid var(--riga); border-radius: 999px; color: var(--inchiostro-tenue);
+}
+.scelta input:checked + span { border-color: var(--matita-blu); color: var(--matita-blu); font-weight: 700; }
+.scelta input:checked + span::before { content: ""; width: 1rem; height: 1rem; margin-right: .4rem; background: currentColor;
+  -webkit-mask: var(--spunta) center / contain no-repeat; mask: var(--spunta) center / contain no-repeat; }
+.scelta input:focus-visible + span { outline: 3px solid var(--matita-blu); outline-offset: 2px; }
+.criteri select, .criteri input[type="search"] {
+  min-height: 2.6rem; padding: 0 .7rem; border: 1.5px solid var(--riga); border-radius: 8px;
+  background: var(--carta); max-width: 100%;
+}
+.criteri input[type="search"] { width: 100%; }
+.criteri .in-fondo { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; align-items: center; margin-top: .9rem; }
+.bottone-testo { border: 0; background: none; padding: .5rem 0; color: var(--matita-blu); text-decoration: underline;
+  text-underline-offset: .18em; cursor: pointer; }
+
+/* ---- avvisi sullo stato dei dati ---- */
+.allarme { margin: 0 var(--lato) 1rem; padding: .8rem 1rem; border-left: 4px solid var(--matita-rossa);
+  background: var(--avviso-fondo); border-radius: 0 8px 8px 0; }
+.allarme p { margin: 0; }
+.allarme p + p { margin-top: .4rem; }
+
+/* ---- sezioni ---- */
+.sezione > h2, .sezione > summary {
+  margin: 0; padding: 1.5rem var(--lato) .55rem; font-size: 1.3rem; line-height: 1.2; font-weight: 700;
+  border-bottom: 1.5px solid var(--inchiostro); display: flex; align-items: baseline; gap: .6rem;
+}
+.sezione .quanti { font-weight: 400; color: var(--inchiostro-tenue); font-size: 1rem; }
+.sezione > summary { cursor: pointer; list-style: none; }
+.sezione > summary::-webkit-details-marker { display: none; }
+.sezione > summary::after { content: ""; margin-left: auto; width: .55em; height: .55em; flex: none; align-self: center;
+  border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(-45deg); transition: transform .15s; }
+.sezione[open] > summary::after { transform: rotate(45deg); }
+.spiegazione { margin: 0; padding: .7rem var(--lato); color: var(--inchiostro-tenue); font-size: .95rem;
+  border-bottom: 1px solid var(--riga); }
+.vuoto { margin: 0; padding: 1.1rem var(--lato) 1.2rem; border-bottom: 1px solid var(--riga); }
+
+/* ---- un avviso: a sinistra il margine con il termine, a destra il contenuto ---- */
+.avviso { display: grid; grid-template-columns: var(--m) minmax(0, 1fr); border-bottom: 1px solid var(--riga);
+  transition: background-color .25s ease, color .25s ease; }
+.margine { padding: .95rem .6rem 1rem var(--lato); text-align: right; border-right: 1.5px solid var(--linea-margine);
+  font-size: .86rem; line-height: 1.3; color: var(--inchiostro-tenue); }
+.margine .giorno { display: block; font-size: 1.02rem; font-weight: 700; color: var(--inchiostro); }
+.margine .ora { display: block; font-size: 1.02rem; color: var(--inchiostro); }
+.margine .manca { display: block; margin-top: .15rem; }
+.margine.urgente .giorno, .margine.urgente .ora, .margine.urgente .manca { color: var(--matita-rossa); }
+.margine .nuovo { display: inline-block; margin-bottom: .35rem; padding: 0 .35rem; font-weight: 700; color: #2a2400;
+  background: linear-gradient(104deg, transparent .2em, var(--evidenziatore) .2em, var(--evidenziatore) calc(100% - .2em), transparent calc(100% - .2em)); }
+.margine .spunta { display: none; margin: .5rem 0 0 auto; width: 1.7rem; height: 1.7rem; color: var(--verde); }
+.corpo { padding: .95rem var(--lato) 1.05rem .8rem; min-width: 0; }
+.scuola { margin: 0; font-size: 1.08rem; line-height: 1.25; font-weight: 700; }
+.scuola .comuni { font-weight: 400; color: var(--inchiostro-tenue); }
+.posti { list-style: none; margin: .45rem 0 0; padding: 0; }
+.posti li { display: grid; grid-template-columns: 1.25rem 1fr; gap: .35rem; align-items: start; margin-top: .2rem; }
+.posti svg { width: 1.1rem; height: 1.1rem; margin-top: .18rem; }
+.posto-si svg { color: var(--verde); }
+.posto-forse svg { color: var(--matita-blu); }
+.posto-no { color: var(--grigio); }
+.manca-dato { color: var(--matita-blu); }
+.non-va { color: var(--grigio); text-decoration: line-through; text-decoration-thickness: .06em; }
+.titolo-avviso { margin: .5rem 0 0; font-size: .9rem; line-height: 1.38; color: var(--inchiostro-tenue); }
+.nota { margin: .35rem 0 0; font-size: .9rem; line-height: 1.38; color: var(--inchiostro-tenue); }
+.collegamenti { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.2rem; margin-top: .2rem; }
+.collegamenti a { display: inline-flex; align-items: center; min-height: 2.6rem; font-weight: 700; }
+.apri-dettagli { margin-left: auto; min-height: 2.6rem; border: 0; background: none; padding: 0; cursor: pointer;
+  color: var(--inchiostro-tenue); font-size: .9rem; display: inline-flex; align-items: center; gap: .35rem; }
+.apri-dettagli::after { content: ""; width: .42em; height: .42em; border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor; transform: translateY(-.12em) rotate(45deg); transition: transform .15s; }
+.apri-dettagli[aria-expanded="true"]::after { transform: translateY(.1em) rotate(-135deg); }
+.come-letto { margin: 0 0 .4rem; font-size: .9rem; color: var(--inchiostro-tenue); }
+.come-letto blockquote { margin: .3rem 0 .5rem; padding-left: .7rem; border-left: 2px solid var(--riga); }
+.come-letto p { margin: .3rem 0; }
+
+/* i due timbri */
+.timbri { display: flex; gap: .6rem; margin-top: .3rem; }
+.timbro {
+  flex: 1 1 0; min-height: 2.75rem; padding: 0 .5rem; display: inline-flex; align-items: center; justify-content: center; gap: .4rem;
+  border: 1.5px solid currentColor; border-radius: 7px; background: transparent; cursor: pointer;
+  font-weight: 700; font-size: .84rem; letter-spacing: .05em;
+  transition: background-color .2s ease, color .2s ease, border-color .2s ease;
+}
+.timbro svg { width: 1.05rem; height: 1.05rem; display: none; flex: none; }
+.timbro.candidato { color: var(--verde); }
+.timbro.scartato { color: var(--inchiostro-tenue); }
+.timbro[aria-pressed="true"] svg { display: block; }
+.timbro[aria-pressed="true"] svg path { stroke-dasharray: 24; stroke-dashoffset: 0; animation: traccia .28s ease-out; }
+.timbro.candidato[aria-pressed="true"] { background: var(--verde); border-color: var(--verde); color: var(--verde-su); }
+.timbro.scartato[aria-pressed="true"] { background: var(--grigio); border-color: var(--grigio); color: var(--carta); }
+@keyframes traccia { from { stroke-dashoffset: 24; } to { stroke-dashoffset: 0; } }
+
+/* candidato: la riga si accende di verde */
+.avviso[data-segno="candidato"] { background: var(--verde-luce); box-shadow: inset 5px 0 0 var(--verde); }
+.avviso[data-segno="candidato"] .margine .spunta { display: block; }
+.avviso[data-segno="candidato"] .margine .spunta path { stroke-dasharray: 30; animation: traccia-grande .35s ease-out; }
+@keyframes traccia-grande { from { stroke-dashoffset: 30; } to { stroke-dashoffset: 0; } }
+/* scartato: la riga si spegne e si accorcia */
+.avviso[data-segno="scartato"] { background: var(--grigio-fondo); color: var(--grigio); }
+.avviso[data-segno="scartato"] :is(.margine, .margine .giorno, .margine .ora, .margine .manca, .scuola .comuni, .titolo-avviso, .titolo-avviso a) { color: var(--grigio); }
+.avviso[data-segno="scartato"] :is(.posti, .nota, .come-letto, .collegamenti, .margine .nuovo) { display: none; }
+.avviso[data-segno="scartato"] .titolo-avviso { margin-top: .2rem; }
+.avviso[data-segno="scartato"] .timbro.candidato { color: var(--grigio); }
+
+/* ---- scuole ---- */
+.scuole-elenco { list-style: none; margin: 0; padding: 0; }
+.scuole-elenco li { padding: .75rem var(--lato); border-bottom: 1px solid var(--riga); }
+.scuole-elenco .nome { font-weight: 700; }
+.scuole-elenco .comuni { color: var(--inchiostro-tenue); }
+.scuole-elenco .stato { display: block; font-size: .92rem; color: var(--inchiostro-tenue); }
+.scuole-elenco .stato.guasto { color: var(--matita-rossa); }
+.scuole-elenco .pagine { display: flex; flex-wrap: wrap; gap: 0 1.2rem; font-size: .95rem; }
+.scuole-elenco .pagine a { display: inline-flex; align-items: center; min-height: 2.4rem; }
+
+/* ---- candidature ---- */
+.registro { list-style: none; margin: 0; padding: 0; }
+.registro li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .2rem .8rem; align-items: start;
+  padding: .75rem var(--lato); border-bottom: 1px solid var(--riga); }
+.registro .quando { color: var(--inchiostro-tenue); font-size: .92rem; }
+
+.piede { padding: 1.6rem var(--lato) 0; color: var(--inchiostro-tenue); font-size: .9rem; }
+.piede p { margin: 0 0 .5rem; max-width: 38rem; }
+
+@media (min-width: 40rem) {
+  :root { --m: 10rem; --lato: 1.5rem; }
+  .testata { padding-top: 2.4rem; }
+  .testata h1 { font-size: 2.7rem; }
+  .timbri { max-width: 24rem; }
+  .margine { font-size: .9rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+</style>
+</head>
+<body>
+<div class="foglio">
+  <header class="testata">
+    <h1>Interpelli</h1>
+    <p class="cerchi"><span id="riassunto">Supplenze nelle scuole della zona.</span>
+      <button type="button" id="apri-criteri" aria-expanded="false" aria-controls="criteri">Cambia criteri</button></p>
+    <p class="controllo" id="controllo">Carico gli avvisi…</p>
+  </header>
+
+  <form class="criteri" id="criteri" hidden>
+    <fieldset>
+      <legend>Ordine di scuola</legend>
+      <div class="scelte">
+        <label class="scelta"><input type="checkbox" name="ordine" value="infanzia"><span>Infanzia</span></label>
+        <label class="scelta"><input type="checkbox" name="ordine" value="primaria"><span>Primaria</span></label>
+        <label class="scelta"><input type="checkbox" name="ordine" value="secondaria"><span>Medie</span></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Tipo di posto</legend>
+      <div class="scelte">
+        <label class="scelta"><input type="checkbox" name="tipo" value="comune"><span>Comune</span></label>
+        <label class="scelta"><input type="checkbox" name="tipo" value="sostegno"><span>Sostegno</span></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <label class="titolo" for="ore-min">Ore alla settimana</label>
+      <select id="ore-min" name="ore">
+        <option value="0">Qualsiasi orario</option>
+        <option value="10">Almeno 10</option>
+        <option value="12">Almeno 12</option>
+        <option value="15">Almeno 15</option>
+        <option value="18">Almeno 18</option>
+        <option value="20">Almeno 20</option>
+        <option value="22">Almeno 22</option>
+        <option value="24">Almeno 24</option>
+      </select>
+    </fieldset>
+    <fieldset>
+      <label class="titolo" for="durata">Durata</label>
+      <select id="durata" name="durata">
+        <option value="lunga">Fino a giugno o oltre</option>
+        <option value="qualsiasi">Qualsiasi durata</option>
+      </select>
+    </fieldset>
+    <fieldset>
+      <label class="titolo" for="cerca">Scuola o comune</label>
+      <input type="search" id="cerca" name="cerca" placeholder="Tutte le scuole" autocomplete="off">
+    </fieldset>
+    <div class="in-fondo">
+      <button type="button" class="bottone-testo" id="criteri-iniziali">Torna ai criteri iniziali</button>
+      <button type="button" class="bottone-testo" id="chiudi-criteri">Chiudi</button>
+    </div>
+  </form>
+
+  <div id="allarme" class="allarme" hidden role="alert"></div>
+
+  <main id="contenuto" aria-busy="true"></main>
+
+  <footer class="piede">
+    <p>Gli avvisi sono letti in automatico dai siti delle scuole, una volta all'ora. La lettura può sbagliare
+      o arrivare tardi: prima di candidarti apri sempre l'avviso originale.</p>
+    <p>I segni «candidato» e «scartato» restano solo su questo telefono. Per avere la pagina come un'app,
+      dal menu del browser scegli «Aggiungi a schermata Home».</p>
+  </footer>
+</div>
+
+<script>
+"use strict";
+(() => {
+  const CHIAVE = "interpelli:v1";
+  const MINUTO = 60e3, ORA = 3600e3, GIORNO = 86400e3;
+  const DATI_FERMI_DOPO = 3 * ORA;          // oltre, la pagina avverte che il controllo e' fermo
+  const GIORNI = ["dom", "lun", "mar", "mer", "gio", "ven", "sab"];
+  const MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
+  const ORDINI = { infanzia: "infanzia", primaria: "primaria", secondaria: "medie" };
+  const $ = (s, r = document) => r.querySelector(s);
+
+  const SPUNTA = '<svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 10.5l4 4 8-9" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const DUBBIO = '<svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M7 7.2a3 3 0 1 1 4.6 2.6c-.9.6-1.6 1.2-1.6 2.4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="10" cy="15.6" r="1.3" fill="currentColor"/></svg>';
+  const CROCE = '<svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M5.5 5.5l9 9m0-9l-9 9" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
+
+  let dati = null;            // contenuto di dati.json
+  const dettagliAperti = new Set();   // avvisi con i dettagli aperti: restano aperti quando la pagina si ridisegna
+  let letturaFallita = false;
+  let ultimaLettura = 0;
+  const memoria = leggiMemoria();
+  let riferimentoNovita = segnaVisita();
+
+  // ---------------------------------------------------------------- memoria del telefono
+  function leggiMemoria() {
+    let m = {};
+    try { m = JSON.parse(localStorage.getItem(CHIAVE) || "{}") || {}; } catch (e) { m = {}; }
+    return { segni: m.segni || {}, criteri: m.criteri || null, visita: m.visita || null, visitaPrima: m.visitaPrima || null };
+  }
+  function salvaMemoria() {
+    try { localStorage.setItem(CHIAVE, JSON.stringify(memoria)); } catch (e) { /* memoria piena o disattivata: si prosegue */ }
+  }
+  // "Nuovo" vuol dire: comparso dopo la visita precedente (una visita dura finche' passa mezz'ora)
+  function segnaVisita() {
+    const adesso = Date.now();
+    if (!memoria.visita || adesso - memoria.visita > 30 * MINUTO) {
+      memoria.visitaPrima = memoria.visita;
+      memoria.visita = adesso;
+      salvaMemoria();
+    }
+    return memoria.visitaPrima;
+  }
+
+  // ---------------------------------------------------------------- date (ora italiana)
+  // Gli orari nei dati sono ora italiana senza fuso: si confrontano con l'orologio di Roma.
+  function adessoRoma() {
+    const parti = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Rome", year: "numeric", month: "2-digit",
+      day: "2-digit", hour: "2-digit", minute: "2-digit", second: "2-digit", hourCycle: "h23" }).formatToParts(new Date());
+    const v = {}; parti.forEach(p => { v[p.type] = +p.value; });
+    return new Date(v.year, v.month - 1, v.day, v.hour, v.minute, v.second);
+  }
+  function inRoma(millisecondi) {   // un istante vero (Date.now) portato sull'orologio di Roma
+    return new Date(adessoRoma().getTime() - (Date.now() - millisecondi));
+  }
+  function data(s) {
+    const m = /^(\d{4})-(\d\d)-(\d\d)(?:T(\d\d):(\d\d))?/.exec(s || "");
+    return m ? new Date(+m[1], m[2] - 1, +m[3], +(m[4] || 0), +(m[5] || 0)) : null;
+  }
+  const mezzanotte = d => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const giorniTra = (a, b) => Math.round((mezzanotte(a) - mezzanotte(b)) / GIORNO);
+  const due = n => String(n).padStart(2, "0");
+  const oraDi = d => d.getHours() + ":" + due(d.getMinutes());
+  function giornoBreve(d, adesso, conGiorno = true) {
+    const diff = giorniTra(d, adesso);
+    if (diff === 0) return "oggi";
+    if (diff === 1) return "domani";
+    if (diff === -1) return "ieri";
+    const anno = d.getFullYear() !== adesso.getFullYear() ? " " + d.getFullYear() : "";
+    return (conGiorno ? GIORNI[d.getDay()] + " " : "") + d.getDate() + " " + MESI[d.getMonth()] + anno;
+  }
+  // per il margine: la parola piccola ("entro lun") e la data in evidenza ("5 ott")
+  function giornoInDue(d, adesso) {
+    const vicino = Math.abs(giorniTra(d, adesso)) <= 1;
+    return vicino ? ["", giornoBreve(d, adesso)] : [" " + GIORNI[d.getDay()], giornoBreve(d, adesso, false)];
+  }
+  const dataLunga = (d, adesso) => d.getDate() + " " + MESI[d.getMonth()] + (d.getFullYear() !== adesso.getFullYear() ? " " + d.getFullYear() : "");
+  function quantoManca(scadenza, adesso) {
+    const ms = scadenza - adesso;
+    if (ms < ORA) return "mancano " + Math.max(1, Math.round(ms / MINUTO)) + " minuti";
+    if (ms < 2 * ORA) return "manca un'ora";
+    if (ms < 48 * ORA) return "mancano " + Math.round(ms / ORA) + " ore";
+    return "mancano " + Math.round(ms / GIORNO) + " giorni";
+  }
+  function tempoFa(d, adesso) {
+    const ms = adesso - d;
+    if (ms < 2 * MINUTO) return "adesso";
+    if (ms < ORA) return Math.round(ms / MINUTO) + " minuti fa";
+    if (giorniTra(d, adesso) === 0) return "oggi alle " + oraDi(d);
+    return giornoBreve(d, adesso) + " alle " + oraDi(d);
+  }
+
+  // ---------------------------------------------------------------- testo sicuro
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const indirizzo = u => (/^https?:\/\//i.test(u || "") ? u : "");
+  const collegamento = (u, testo, attributi = "") => indirizzo(u)
+    ? `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer"${attributi}>${testo}</a>` : "";
+  const elenco = v => v.length < 2 ? v.join("") : v.slice(0, -1).join(", ") + " e " + v[v.length - 1];
+  const maiuscola = s => s.charAt(0).toUpperCase() + s.slice(1);
+
+  // ---------------------------------------------------------------- criteri
+  function criteriIniziali() {
+    const c = (dati && dati.criteri) || {};
+    return { ordini: c.ordini || ["infanzia", "primaria"], tipi: ["comune", "sostegno"], ore_min: c.ore_min == null ? 20 : c.ore_min,
+      lunga: true, cerca: "" };
+  }
+  function criteri() {
+    return Object.assign(criteriIniziali(), memoria.criteri || {}, { mesi_fine: (dati && dati.criteri && dati.criteri.mesi_fine) || [6, 7, 8] });
+  }
+  function riassuntoCriteri(c) {
+    const pezzi = [];
+    pezzi.push(c.ordini.length ? elenco(c.ordini.map(o => ORDINI[o] || o)) : "nessun ordine di scuola");
+    if (c.tipi.length === 1) pezzi.push(c.tipi[0] === "sostegno" ? "solo sostegno" : "solo posto comune");
+    if (c.ore_min > 0) pezzi.push("almeno " + c.ore_min + " ore");
+    if (c.lunga) pezzi.push("fino a giugno");
+    if (c.cerca) pezzi.push("«" + c.cerca + "»");
+    return "Supplenze: " + pezzi.join(", ") + ".";
+  }
+  function mostraCriteri() {
+    const c = criteri(), f = $("#criteri");
+    f.querySelectorAll('input[name="ordine"]').forEach(i => { i.checked = c.ordini.includes(i.value); });
+    f.querySelectorAll('input[name="tipo"]').forEach(i => { i.checked = c.tipi.includes(i.value); });
+    const ore = $("#ore-min");
+    if (![...ore.options].some(o => +o.value === +c.ore_min)) ore.add(new Option("Almeno " + c.ore_min, c.ore_min));
+    ore.value = String(c.ore_min);
+    $("#durata").value = c.lunga ? "lunga" : "qualsiasi";
+    if (document.activeElement !== $("#cerca")) $("#cerca").value = c.cerca;
+    $("#riassunto").textContent = riassuntoCriteri(c);
+  }
+  function leggiCriteri() {
+    const f = $("#criteri");
+    memoria.criteri = {
+      ordini: [...f.querySelectorAll('input[name="ordine"]:checked')].map(i => i.value),
+      tipi: [...f.querySelectorAll('input[name="tipo"]:checked')].map(i => i.value),
+      ore_min: +$("#ore-min").value, lunga: $("#durata").value === "lunga", cerca: $("#cerca").value.trim(),
+    };
+    salvaMemoria();
+  }
+
+  // ---------------------------------------------------------------- confronto con i criteri
+  // Per ogni criterio: true (rispettato), false (non rispettato), null (il dato manca nell'avviso).
+  function valutaPosto(p, c, oggi) {
+    const ordine = p.ordini && p.ordini.length ? p.ordini.some(o => c.ordini.includes(o)) : null;
+    const tipo = c.tipi.length === 2 ? true : (p.tipo ? c.tipi.includes(p.tipo) : null);
+    const ore = c.ore_min <= 0 ? true : (p.ore != null ? p.ore >= c.ore_min : (p.intero ? true : null));
+    let fine = true;
+    if (c.lunga) {
+      const f = data(p.fine);
+      fine = f ? (c.mesi_fine.includes(f.getMonth() + 1) && f >= oggi) : null;
+    }
+    return { ordine, tipo, ore, fine };
+  }
+  function valutaAvviso(a, c, adesso) {
+    const oggi = mezzanotte(adesso);
+    const grezzi = a.posti && a.posti.length ? a.posti : [{ ordini: a.ordini || [], tipo: null, ore: null, intero: false, fine: null }];
+    const posti = grezzi.map(p => {
+      const v = valutaPosto(p, c, oggi), valori = Object.values(v);
+      return { p, v, esito: valori.every(x => x === true) ? "si" : valori.some(x => x === false) ? "no" : "forse" };
+    });
+    if (a.personale === "ata") return { esito: "no", posti, ata: true };
+    const esito = posti.some(x => x.esito === "si") ? "si" : posti.some(x => x.esito === "forse") ? "forse" : "no";
+    return { esito, posti };
+  }
+
+  // ---------------------------------------------------------------- una riga
+  function testoPosto(x, adesso) {
+    const { p, v } = x, parti = [];
+    const segna = (testo, stato) => stato === false ? `<span class="non-va">${testo}</span>` : stato === null ? `<span class="manca-dato">${testo}</span>` : testo;
+    parti.push(segna(p.ordini && p.ordini.length ? esc(maiuscola(elenco(p.ordini.map(o => ORDINI[o] || o)))) : "Ordine di scuola non indicato", v.ordine));
+    if (p.tipo) parti.push(segna(p.tipo === "sostegno" ? "sostegno" : "posto comune", v.tipo));
+    else if (v.tipo === null) parti.push(segna("tipo di posto non indicato", null));
+    parti.push(segna(p.ore != null ? p.ore + " ore" : p.intero ? "posto intero" : "ore non indicate", v.ore));
+    const fine = data(p.fine), inizio = data(p.inizio);
+    let durata;
+    if (fine) durata = (inizio ? "dal " + dataLunga(inizio, adesso) + " " : "fino ") + "al " + dataLunga(fine, adesso)
+      + (p.fine_nota ? " (" + esc(p.fine_nota) + ")" : "");
+    else durata = p.fine_nota ? esc(p.fine_nota) : "durata non indicata";
+    parti.push(segna(durata, v.fine));
+    return parti.join(", ");
+  }
+
+  function margine(a, adesso, nuovo) {
+    const scadenza = data(a.scadenza), pubblicato = data(a.pubblicato);
+    const soloGiorno = a.scadenza && /T23:59$/.test(a.scadenza);
+    let classe = "", righe = "";
+    if (nuovo) righe += '<span class="nuovo">nuovo</span><br>';
+    if (a.chiuso) {
+      righe += `<span class="giorno">${esc(String(a.chiuso).toLowerCase())}</span>`;
+      if (scadenza) righe += `<span class="manca">scadeva ${giornoBreve(scadenza, adesso)}</span>`;
+    } else if (a.presente === false) {
+      righe += '<span class="giorno">tolto dal sito</span>';
+    } else if (scadenza && scadenza < adesso) {
+      const [piccolo, grande] = giornoInDue(scadenza, adesso);
+      righe += `scaduto${piccolo}<span class="giorno">${grande}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`);
+    } else if (scadenza) {
+      const [piccolo, grande] = giornoInDue(scadenza, adesso);
+      if (scadenza - adesso < 24 * ORA) classe = " urgente";
+      righe += `entro${piccolo}<span class="giorno">${grande}</span>` + (soloGiorno ? "" : `<span class="ora">${oraDi(scadenza)}</span>`)
+        + `<span class="manca">${quantoManca(scadenza, adesso)}</span>`;
+    } else {
+      if (pubblicato) righe += `uscito<span class="giorno">${giornoBreve(pubblicato, adesso, false)}</span>`;
+      righe += `<span class="manca">termine: vedi avviso</span>`;
+    }
+    return `<div class="margine${classe}">${righe}<svg class="spunta" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 13l5.5 5.5L20 6.5" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`;
+  }
+
+  const COME_LETTO = {
+    testo: "Dati letti dal documento dell'avviso.",
+    pagina: "Dati letti dalla pagina del sito.",
+    ocr: "Il documento è una scansione: i dati vengono da una lettura ottica e possono contenere errori.",
+    titolo: "Letto solo il titolo.",
+    in_attesa: "Documento non ancora letto: lo sarà al prossimo controllo. Per ora vale solo il titolo.",
+    errore: "Non sono riuscito ad aprire il documento: per ora vale solo il titolo.",
+    non_leggibile: "Il documento non si può leggere in automatico: vale solo il titolo.",
+  };
+
+  function riga(a, scuola, valutazione, adesso, nuovo) {
+    const segno = (memoria.segni[a.id] || {}).stato || "";
+    const mostrati = valutazione.posti.slice().sort((x, y) => "si forse no".indexOf(x.esito) - "si forse no".indexOf(y.esito));
+    const icona = { si: SPUNTA, forse: DUBBIO, no: CROCE }, voce = { si: "corrisponde", forse: "da verificare", no: "non corrisponde" };
+    let posti = mostrati.slice(0, 4).map(x =>
+      `<li class="posto-${x.esito}">${icona[x.esito]}<span><span class="solo-lettori">${voce[x.esito]}: </span>${testoPosto(x, adesso)}</span></li>`).join("");
+    if (mostrati.length > 4) posti += `<li class="posto-no"><span></span><span>${mostrati.length === 5 ? "e un altro posto" : "e altri " + (mostrati.length - 4) + " posti"} nell'avviso</span></li>`;
+    if (valutazione.ata) posti = `<li class="posto-no">${CROCE}<span>Riguarda il personale ATA, non i docenti</span></li>`;
+
+    const lettoBene = a.letto === "testo" || a.letto === "pagina";
+    const nota = lettoBene ? "" : (COME_LETTO[a.letto] || COME_LETTO.titolo);
+    const prove = (a.posti || []).map(p => p.prova).filter(Boolean).slice(0, 3);
+    let dettagli = lettoBene ? `<p>${COME_LETTO[a.letto]}</p>` : (a.nota ? `<p>${esc(maiuscola(a.nota))}.</p>` : "");
+    if (a.pubblicato) dettagli += `<p>Pubblicato ${giornoBreve(data(a.pubblicato), adesso)}.</p>`;
+    if (prove.length) dettagli += "<p>Dal testo:</p>" + prove.map(p => `<blockquote>…${esc(p)}…</blockquote>`).join("");
+    if (a.scadenza_certa) dettagli += "<p>Il termine per candidarsi è quello indicato dalla scuola nell'elenco degli avvisi.</p>";
+    else if (a.scadenza_prova) dettagli += `<p>Termine per candidarsi:</p><blockquote>…${esc(a.scadenza_prova)}…</blockquote>`;
+    if (indirizzo(a.pagina) && a.pagina !== a.url) dettagli += `<p>${collegamento(a.pagina, "Elenco degli interpelli sul sito della scuola")}</p>`;
+
+    const link = [collegamento(a.url, "Apri l'avviso")];
+    if (indirizzo(a.candidatura) && a.candidatura !== a.url) link.push(collegamento(a.candidatura, "Candidati"));
+    const aperto = dettagliAperti.has(a.id), idDettagli = "d-" + a.id;
+
+    return `<article class="avviso" data-id="${esc(a.id)}" data-segno="${esc(segno)}">
+      ${margine(a, adesso, nuovo)}
+      <div class="corpo">
+        <h3 class="scuola">${esc(scuola ? scuola.nome : a.scuola)}${scuola && scuola.comuni && scuola.comuni.length ? ` <span class="comuni">${esc(scuola.comuni.join(", "))}</span>` : ""}</h3>
+        <ul class="posti">${posti}</ul>
+        <p class="titolo-avviso">${esc(String(a.titolo || "").replace(/[\s\-–—:;,]+$/, ""))}</p>
+        ${nota ? `<p class="nota">${nota}</p>` : ""}
+        <div class="collegamenti">${link.join("")}<button type="button" class="apri-dettagli" aria-expanded="${aperto}" aria-controls="${esc(idDettagli)}">Dettagli</button></div>
+        <div class="come-letto" id="${esc(idDettagli)}"${aperto ? "" : " hidden"}>${dettagli}</div>
+        <div class="timbri">
+          <button type="button" class="timbro candidato" data-segna="candidato" aria-pressed="${segno === "candidato"}">${SPUNTA}CANDIDATO</button>
+          <button type="button" class="timbro scartato" data-segna="scartato" aria-pressed="${segno === "scartato"}">${SPUNTA}SCARTATO</button>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  // ---------------------------------------------------------------- pagina intera
+  function novita(a) {
+    // un avviso gia' presente al primo controllo non e' "nuovo" per il solo fatto di essere stato visto
+    const quando = a.iniziale ? data(a.pubblicato) : data(a.prima_vista);
+    if (!quando) return false;
+    if (riferimentoNovita) return quando > inRoma(riferimentoNovita);
+    return adessoRoma() - quando < GIORNO;
+  }
+
+  function disegna() {
+    const contenuto = $("#contenuto");
+    mostraCriteri();
+    if (!dati) {
+      contenuto.setAttribute("aria-busy", "false");
+      contenuto.innerHTML = letturaFallita
+        ? `<p class="vuoto">Non riesco a caricare gli avvisi. Controlla la connessione e riprova.<br><button type="button" class="bottone-testo" id="riprova">Riprova</button></p>`
+        : "";
+      return;
+    }
+    const adesso = adessoRoma(), c = criteri();
+    const scuole = {}; (dati.scuole || []).forEach(s => { scuole[s.id] = s; });
+    const cerca = c.cerca.toLowerCase();
+    const gruppi = { si: [], forse: [], no: [], chiusi: [] };
+    let nuovi = 0;
+    (dati.avvisi || []).forEach(a => {
+      const s = scuole[a.scuola];
+      if (cerca && !((s ? s.nome + " " + (s.comuni || []).join(" ") : "") + " " + a.titolo).toLowerCase().includes(cerca)) return;
+      const v = valutaAvviso(a, c, adesso), scadenza = data(a.scadenza);
+      const finito = !!a.chiuso || a.presente === false || (scadenza && scadenza < adesso);
+      const nuovo = !finito && v.esito !== "no" && novita(a);
+      if (nuovo) nuovi++;
+      gruppi[finito ? "chiusi" : v.esito].push({ a, s, v, nuovo, scadenza, segno: (memoria.segni[a.id] || {}).stato });
+    });
+    const ordina = (x, y) => {
+      const sx = x.segno === "scartato", sy = y.segno === "scartato";
+      if (sx !== sy) return sx - sy;                                             // gli scartati in fondo
+      if (x.scadenza && y.scadenza) return x.scadenza - y.scadenza;              // prima chi scade prima
+      if (!!x.scadenza !== !!y.scadenza) return x.scadenza ? -1 : 1;
+      return (y.a.pubblicato || y.a.prima_vista || "").localeCompare(x.a.pubblicato || x.a.prima_vista || "");
+    };
+    const recenti = (x, y) => (y.a.scadenza || y.a.pubblicato || y.a.prima_vista || "").localeCompare(x.a.scadenza || x.a.pubblicato || x.a.prima_vista || "");
+    const righe = (voci, criterio = ordina) => voci.sort(criterio).map(x => riga(x.a, x.s, x.v, adesso, x.nuovo)).join("");
+    const vivi = voci => voci.filter(x => x.segno !== "scartato").length;
+
+    let html = "";
+    html += `<section class="sezione" aria-labelledby="t-si"><h2 id="t-si">Fanno per te <span class="quanti">${vivi(gruppi.si)}</span></h2>`
+      + (gruppi.si.length ? righe(gruppi.si)
+        : `<p class="vuoto">Nessun avviso aperto corrisponde ai criteri in questo momento.${gruppi.forse.length ? " Guarda quelli da verificare qui sotto." : ""}</p>`)
+      + "</section>";
+    if (gruppi.forse.length) {
+      html += `<section class="sezione" aria-labelledby="t-forse"><h2 id="t-forse">Da verificare <span class="quanti">${vivi(gruppi.forse)}</span></h2>
+        <p class="spiegazione">In questi avvisi manca un dato, di solito le ore o la durata. Potrebbero fare per te: apri l'avviso per controllare.</p>`
+        + righe(gruppi.forse) + "</section>";
+    }
+    if (gruppi.no.length) {
+      html += `<details class="sezione" id="s-no"><summary>Non corrispondono <span class="quanti">${gruppi.no.length}</span></summary>`
+        + righe(gruppi.no) + "</details>";
+    }
+    if (gruppi.chiusi.length) {
+      html += `<details class="sezione" id="s-chiusi"><summary>Scaduti o chiusi <span class="quanti">${gruppi.chiusi.length}</span></summary>`
+        + righe(gruppi.chiusi, recenti) + "</details>";
+    }
+    html += `<details class="sezione" id="s-candidature"></details>`;
+    html += sezioneScuole(adesso);
+
+    const aperti = new Set([...contenuto.querySelectorAll("details[open][id]")].map(d => d.id));
+    contenuto.innerHTML = html;
+    contenuto.setAttribute("aria-busy", "false");
+    aperti.forEach(id => { const d = document.getElementById(id); if (d) d.open = true; });
+    disegnaCandidature();
+    disegnaControllo(adesso, nuovi);
+    const daGuardare = gruppi.si.filter(x => !x.segno).length;      // nella scheda del browser: quanti aspettano una decisione
+    document.title = (daGuardare ? "(" + daGuardare + ") " : "") + "Interpelli";
+  }
+
+  // Una scuola e' "indietro" se l'ultima lettura completa risale a piu' di tre ore fa (o non c'e' mai stata):
+  // un sito che per un controllo non risponde non merita un allarme, uno che tace da ore si'.
+  function indietro(s, adesso) {
+    if (s.stato === "manuale") return false;
+    const ultimo = data(s.ultimo_ok);
+    return !ultimo || adesso - ultimo > DATI_FERMI_DOPO;
+  }
+
+  function sezioneScuole(adesso) {
+    const peso = s => indietro(s, adesso) ? 0 : s.stato === "ok" ? (s.manuale ? 2 : 3) : 1;
+    const scuole = (dati.scuole || []).slice().sort((x, y) => peso(x) - peso(y) || x.nome.localeCompare(y.nome, "it"));
+    const voci = scuole.map(s => {
+      const ultimo = data(s.ultimo_ok), guasto = indietro(s, adesso);
+      let stato;
+      if (s.stato === "manuale") stato = "Da guardare a mano.";
+      else if (s.stato === "ok") stato = "Letta " + (ultimo ? tempoFa(ultimo, adesso) : "") + ".";
+      else if (s.stato === "da_controllare") stato = "La pagina degli interpelli sembra cambiata: meglio guardarla a mano.";
+      else if (!ultimo) stato = s.stato === "parziale" ? "Mai letta per intero: una delle sue pagine non risponde." : "Non ancora letta: il sito non risponde.";
+      else stato = "Ultima lettura completa " + tempoFa(ultimo, adesso) + ": all'ultimo controllo "
+        + (s.stato === "parziale" ? "una delle sue pagine non ha risposto." : "il sito non ha risposto.");
+      const pagine = (s.pagine || []).map(p => typeof p === "string" ? collegamento(p, "Pagina sul sito") : collegamento(p.url, esc(p.nome || "Pagina sul sito")));
+      let manuale = "";
+      if (s.manuale && indirizzo(s.manuale.url)) {
+        manuale = `<span class="stato">Da guardare anche a mano: ${esc(s.manuale.motivo || "pubblica su un portale che non si legge in automatico")}.</span>`;
+        pagine.push(collegamento(s.manuale.url, "Portale da guardare a mano"));
+      }
+      return `<li><span class="nome">${esc(s.nome)}</span> <span class="comuni">${esc((s.comuni || []).join(", "))}</span>
+        <span class="stato${guasto ? " guasto" : ""}">${esc(stato)}</span>${manuale}
+        <div class="pagine">${pagine.join("")}</div></li>`;
+    }).join("");
+    return `<details class="sezione" id="s-scuole"><summary>Scuole controllate <span class="quanti">${scuole.length}</span></summary>
+      <ul class="scuole-elenco">${voci}</ul></details>`;
+  }
+
+  function disegnaCandidature() {
+    const sezione = $("#s-candidature");
+    if (!sezione) return;
+    const adesso = adessoRoma();
+    const voci = Object.entries(memoria.segni).filter(([, v]) => v.stato === "candidato").sort((x, y) => (y[1].quando || 0) - (x[1].quando || 0));
+    sezione.hidden = !voci.length;
+    sezione.innerHTML = `<summary>Le tue candidature <span class="quanti">${voci.length}</span></summary><ul class="registro">`
+      + voci.map(([id, v]) => `<li><span><strong>${esc(v.scuola || "")}</strong><br>${collegamento(v.url, esc(v.titolo || "Avviso")) || esc(v.titolo || "")}</span>
+          <span class="quando">${v.quando ? "segnata " + giornoBreve(inRoma(v.quando), adesso, false) : ""}</span></li>`).join("") + "</ul>";
+  }
+
+  function disegnaControllo(adesso, nuovi) {
+    const generato = data(dati.generato), scuole = dati.scuole || [];
+    const ferme = scuole.filter(s => indietro(s, adesso)).length;
+    const aMano = scuole.filter(s => s.manuale || s.stato === "manuale").length;
+    const quante = (n, una, tante) => n === 1 ? una : n + " " + tante;
+    let testo = "Ultimo controllo " + (generato ? tempoFa(generato, adesso) : "sconosciuto") + ". ";
+    testo += `<a href="#s-scuole" data-apri="s-scuole">${ferme
+      ? maiuscola(quante(ferme, "una scuola non letta per intero", "scuole non lette per intero")) + " da più di tre ore"
+      : "Lette tutte le " + scuole.length + " scuole"}</a>`;
+    if (aMano) testo += `, ${aMano} da guardare anche a mano`;
+    testo += ".";
+    if (nuovi) testo = `<strong>${quante(nuovi, "Un avviso nuovo", "avvisi nuovi")}</strong> ${riferimentoNovita ? "dall'ultima visita" : "nelle ultime 24 ore"}. ` + testo;
+    $("#controllo").innerHTML = testo;
+
+    const allarme = $("#allarme");
+    const fermo = generato && adesso - generato > DATI_FERMI_DOPO;
+    allarme.hidden = !fermo;
+    if (fermo) allarme.innerHTML = `<p><strong>I dati sono fermi a ${esc(tempoFa(generato, adesso))}.</strong> Il controllo automatico non sta girando:
+      finché non riparte, guarda direttamente i siti delle scuole.</p><p><a href="#s-scuole" data-apri="s-scuole">Elenco delle scuole e delle loro pagine</a></p>`;
+  }
+
+  // ---------------------------------------------------------------- azioni
+  function segna(articolo, stato) {
+    const id = articolo.dataset.id, a = (dati.avvisi || []).find(x => x.id === id);
+    const attuale = (memoria.segni[id] || {}).stato;
+    if (attuale === stato) delete memoria.segni[id];
+    else {
+      const s = (dati.scuole || []).find(x => x.id === (a && a.scuola));
+      memoria.segni[id] = { stato, quando: Date.now(), scuola: s ? s.nome : "", titolo: a ? a.titolo : "", url: a ? a.url : "" };
+    }
+    salvaMemoria();
+    const nuovo = (memoria.segni[id] || {}).stato || "";
+    articolo.dataset.segno = nuovo;
+    articolo.querySelectorAll(".timbro").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.segna === nuovo)));
+    disegnaCandidature();
+  }
+
+  document.addEventListener("click", e => {
+    const timbro = e.target.closest(".timbro");
+    if (timbro) { segna(timbro.closest(".avviso"), timbro.dataset.segna); return; }
+    const dettagli = e.target.closest(".apri-dettagli");
+    if (dettagli) {
+      const id = dettagli.closest(".avviso").dataset.id, apre = dettagli.getAttribute("aria-expanded") !== "true";
+      dettagli.setAttribute("aria-expanded", String(apre));
+      document.getElementById(dettagli.getAttribute("aria-controls")).hidden = !apre;
+      if (apre) dettagliAperti.add(id); else dettagliAperti.delete(id);
+      return;
+    }
+    const apri = e.target.closest("[data-apri]");
+    if (apri) { const d = document.getElementById(apri.dataset.apri); if (d) d.open = true; return; }
+    if (e.target.id === "riprova") carica();
+  });
+  const pannello = $("#criteri"), apriCriteri = $("#apri-criteri");
+  function mostraPannello(aperto) {
+    pannello.hidden = !aperto;
+    apriCriteri.setAttribute("aria-expanded", String(aperto));
+    apriCriteri.textContent = aperto ? "Chiudi criteri" : "Cambia criteri";
+  }
+  apriCriteri.addEventListener("click", () => mostraPannello(pannello.hidden));
+  $("#chiudi-criteri").addEventListener("click", () => { mostraPannello(false); apriCriteri.focus(); });
+  $("#criteri-iniziali").addEventListener("click", () => { memoria.criteri = null; salvaMemoria(); $("#cerca").value = ""; disegna(); });
+  pannello.addEventListener("change", () => { leggiCriteri(); disegna(); });
+  pannello.addEventListener("input", e => { if (e.target.id === "cerca") { leggiCriteri(); disegna(); } });
+  pannello.addEventListener("submit", e => e.preventDefault());
+
+  // ---------------------------------------------------------------- lettura dei dati
+  async function leggi(url) {
+    const risposta = await fetch(url, { cache: "no-store" });
+    if (!risposta.ok) throw new Error("risposta " + risposta.status);
+    const d = await risposta.json();
+    if (!d || !Array.isArray(d.avvisi)) throw new Error("dati non validi");
+    return d;
+  }
+  // Se la copia pubblicata con la pagina e' vecchia, si prova quella conservata nel progetto su GitHub.
+  function copiaDiRiserva() {
+    const m = /^([a-z0-9-]+)\.github\.io$/i.exec(location.hostname), progetto = location.pathname.split("/").filter(Boolean)[0];
+    return m && progetto ? `https://raw.githubusercontent.com/${m[1]}/${progetto}/main/docs/dati.json` : null;
+  }
+  async function carica() {
+    ultimaLettura = Date.now();
+    let nuovi = null;
+    try { nuovi = await leggi("dati.json"); } catch (e) { nuovi = null; }
+    const vecchi = !nuovi || !data(nuovi.generato) || adessoRoma() - data(nuovi.generato) > 75 * MINUTO;
+    const riserva = copiaDiRiserva();
+    if (vecchi && riserva) {
+      try {
+        const altri = await leggi(riserva);
+        if (!nuovi || (altri.generato || "") > (nuovi.generato || "")) nuovi = altri;
+      } catch (e) { /* resta la copia della pagina */ }
+    }
+    if (nuovi) dati = nuovi;
+    letturaFallita = !nuovi;
+    if (!dati && letturaFallita) $("#controllo").textContent = "";
+    disegna();
+  }
+  setInterval(() => { if (!document.hidden) carica(); }, 10 * MINUTO);
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) return;
+    riferimentoNovita = segnaVisita();
+    if (Date.now() - ultimaLettura > 5 * MINUTO) carica();
+  });
+  setInterval(() => { if (dati && !document.hidden) disegna(); }, 5 * MINUTO);   // cosi' "mancano 3 ore" resta giusto
+
+  mostraCriteri();
+  carica();
+})();
+</script>
+</body>
+</html>
