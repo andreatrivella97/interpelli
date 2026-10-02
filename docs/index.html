@@ -217,7 +217,7 @@ button, input, select { font: inherit; color: inherit; }
 .piede p { margin: 0 0 .5rem; max-width: 38rem; }
 
 @media (min-width: 40rem) {
-  :root { --m: 9.2rem; --lato: 1.5rem; }
+  :root { --m: 10rem; --lato: 1.5rem; }
   .testata { padding-top: 2.4rem; }
   .testata h1 { font-size: 2.7rem; }
   .timbri { max-width: 24rem; }
@@ -537,7 +537,7 @@ button, input, select { font: inherit; color: inherit; }
       <div class="corpo">
         <h3 class="scuola">${esc(scuola ? scuola.nome : a.scuola)}${scuola && scuola.comuni && scuola.comuni.length ? ` <span class="comuni">${esc(scuola.comuni.join(", "))}</span>` : ""}</h3>
         <ul class="posti">${posti}</ul>
-        <p class="titolo-avviso">${esc(a.titolo)}</p>
+        <p class="titolo-avviso">${esc(String(a.titolo || "").replace(/[\s\-–—:;,]+$/, ""))}</p>
         ${nota ? `<p class="nota">${nota}</p>` : ""}
         <div class="collegamenti">${link.join("")}<button type="button" class="apri-dettagli" aria-expanded="${aperto}" aria-controls="${esc(idDettagli)}">Dettagli</button></div>
         <div class="come-letto" id="${esc(idDettagli)}"${aperto ? "" : " hidden"}>${dettagli}</div>

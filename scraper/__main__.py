@@ -199,7 +199,7 @@ def controlla_scuola(scuola: dict, esistenti: dict[str, dict], memoria: dict, le
 
 def _aggiorna_da_voce(record: dict, voce: Voce, nome_fonte: str, adesso: str) -> None:
     record["presente"] = True
-    record["ultima_vista"] = adesso
+    record["ultima_vista"] = adesso[:10]         # basta il giorno: serve solo a dimenticare gli avvisi spariti da mesi
     if voce.fonte not in record["fonti"]:
         record["fonti"].append(voce.fonte)
     if nome_fonte not in record["letti_da"]:
