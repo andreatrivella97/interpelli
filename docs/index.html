@@ -591,15 +591,14 @@ button, input, select { font: inherit; color: inherit; }
     };
     const recenti = (x, y) => (y.a.scadenza || y.a.pubblicato || y.a.prima_vista || "").localeCompare(x.a.scadenza || x.a.pubblicato || x.a.prima_vista || "");
     const righe = (voci, criterio = ordina) => voci.sort(criterio).map(x => riga(x.a, x.s, x.v, adesso, x.nuovo)).join("");
-    const vivi = voci => voci.filter(x => x.segno !== "scartato").length;
 
     let html = "";
-    html += `<section class="sezione" aria-labelledby="t-si"><h2 id="t-si">Fanno per te <span class="quanti">${vivi(gruppi.si)}</span></h2>`
+    html += `<section class="sezione" aria-labelledby="t-si"><h2 id="t-si">Fanno per te <span class="quanti">${gruppi.si.length}</span></h2>`
       + (gruppi.si.length ? righe(gruppi.si)
         : `<p class="vuoto">Nessun avviso aperto corrisponde ai criteri in questo momento.${gruppi.forse.length ? " Guarda quelli da verificare qui sotto." : ""}</p>`)
       + "</section>";
     if (gruppi.forse.length) {
-      html += `<section class="sezione" aria-labelledby="t-forse"><h2 id="t-forse">Da verificare <span class="quanti">${vivi(gruppi.forse)}</span></h2>
+      html += `<section class="sezione" aria-labelledby="t-forse"><h2 id="t-forse">Da verificare <span class="quanti">${gruppi.forse.length}</span></h2>
         <p class="spiegazione">In questi avvisi manca un dato, di solito le ore o la durata. Potrebbero fare per te: apri l'avviso per controllare.</p>`
         + righe(gruppi.forse) + "</section>";
     }
@@ -620,7 +619,17 @@ button, input, select { font: inherit; color: inherit; }
     aperti.forEach(id => { const d = document.getElementById(id); if (d) d.open = true; });
     disegnaCandidature();
     disegnaControllo(adesso, nuovi);
-    const daGuardare = gruppi.si.filter(x => !x.segno).length;      // nella scheda del browser: quanti aspettano una decisione
+    aggiornaConteggi();
+  }
+
+  // I numeri accanto ai titoli non contano gli scartati; nella scheda del browser, quanti avvisi
+  // che fanno per te aspettano ancora una decisione.
+  function aggiornaConteggi() {
+    document.querySelectorAll("section.sezione").forEach(sezione => {
+      const quanti = sezione.querySelector(".quanti");
+      if (quanti) quanti.textContent = sezione.querySelectorAll('.avviso:not([data-segno="scartato"])').length;
+    });
+    const daGuardare = document.querySelectorAll('section[aria-labelledby="t-si"] .avviso[data-segno=""]').length;
     document.title = (daGuardare ? "(" + daGuardare + ") " : "") + "Interpelli";
   }
 
@@ -704,6 +713,7 @@ button, input, select { font: inherit; color: inherit; }
     articolo.dataset.segno = nuovo;
     articolo.querySelectorAll(".timbro").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.segna === nuovo)));
     disegnaCandidature();
+    aggiornaConteggi();
   }
 
   document.addEventListener("click", e => {
