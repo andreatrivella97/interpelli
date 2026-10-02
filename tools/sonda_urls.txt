@@ -1,0 +1,9 @@
+# etichetta | indirizzo   (una riga per richiesta)
+ust-milano-home | https://milano.istruzione.lombardia.gov.it/
+ust-milano-cerca | https://milano.istruzione.lombardia.gov.it/?s=interpello
+ust-milano-wpjson | https://milano.istruzione.lombardia.gov.it/wp-json/wp/v2/search?search=interpello&per_page=20
+ust-milano-feed | https://milano.istruzione.lombardia.gov.it/feed/?s=interpello
+ust-varese-home | https://varese.istruzione.lombardia.gov.it/
+ust-varese-cerca | https://varese.istruzione.lombardia.gov.it/?s=interpello
+ust-varese-wpjson | https://varese.istruzione.lombardia.gov.it/wp-json/wp/v2/search?search=interpello&per_page=20
+ust-varese-feed | https://varese.istruzione.lombardia.gov.it/feed/?s=interpello
