@@ -9,7 +9,6 @@ on:
     paths:
       - 'tools/sonda_urls.txt'
       - 'tools/sonda.py'
-      - 'tools/anagrafe.py'
       - '.github/workflows/sonda.yml'
   workflow_dispatch:
 
@@ -32,8 +31,6 @@ jobs:
       - run: pip install -q requests
       - name: Scarica gli indirizzi
         run: python tools/sonda.py tools/sonda_urls.txt out
-      - name: Anagrafe scuole dagli open data
-        run: python tools/anagrafe.py out || true
       - name: Salva i risultati sul ramo sonda-output
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

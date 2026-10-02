@@ -11,6 +11,7 @@ import json
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -57,32 +58,44 @@ def scarica(sessione, url):
         info["secondi"] = round(time.time() - inizio, 2)
 
 
+def lavora_host(righe, uscita):
+    """Scarica in sequenza gli indirizzi di uno stesso sito, con una pausa tra l'uno e l'altro."""
+    sessione = requests.Session()
+    sessione.headers.update({"User-Agent": UA, "Accept-Language": "it-IT,it;q=0.9"})
+    risultati = []
+    for n, (posizione, etichetta, url) in enumerate(righe):
+        if n:
+            time.sleep(1.0)
+        info, corpo = scarica(sessione, url)
+        info["etichetta"] = etichetta
+        if corpo:
+            nome = re.sub(r"[^a-z0-9]+", "-", (etichetta or urlparse(url).netloc).lower()).strip("-")[:60]
+            nome += "-" + hashlib.sha1(url.encode()).hexdigest()[:8] + estensione(info.get("tipo", ""))
+            (uscita / "pagine" / nome).write_bytes(corpo)
+            info["file"] = "pagine/" + nome
+        print(info.get("stato", "ERR"), info.get("byte", 0), url, info.get("errore", ""), flush=True)
+        risultati.append((posizione, info))
+    return risultati
+
+
 def main():
     elenco, uscita = Path(sys.argv[1]), Path(sys.argv[2])
     (uscita / "pagine").mkdir(parents=True, exist_ok=True)
-    sessione = requests.Session()
-    sessione.headers.update({"User-Agent": UA, "Accept-Language": "it-IT,it;q=0.9"})
-    indice, ultimo_host = [], {}
+    per_host = {}
+    posizione = 0
     for riga in elenco.read_text(encoding="utf-8").splitlines():
         riga = riga.strip()
         if not riga or riga.startswith("#"):
             continue
         etichetta, _, url = riga.rpartition("|")
         etichetta, url = etichetta.strip(), url.strip()
-        host = urlparse(url).netloc
-        attesa = 1.0 - (time.time() - ultimo_host.get(host, 0))
-        if attesa > 0:
-            time.sleep(attesa)
-        info, corpo = scarica(sessione, url)
-        ultimo_host[host] = time.time()
-        info["etichetta"] = etichetta
-        if corpo:
-            nome = re.sub(r"[^a-z0-9]+", "-", (etichetta or host).lower()).strip("-")[:60]
-            nome += "-" + hashlib.sha1(url.encode()).hexdigest()[:8] + estensione(info.get("tipo", ""))
-            (uscita / "pagine" / nome).write_bytes(corpo)
-            info["file"] = "pagine/" + nome
-        indice.append(info)
-        print(info.get("stato", "ERR"), info.get("byte", 0), url, info.get("errore", ""), flush=True)
+        per_host.setdefault(urlparse(url).netloc, []).append((posizione, etichetta, url))
+        posizione += 1
+    risultati = []
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for gruppo in pool.map(lambda righe: lavora_host(righe, uscita), per_host.values()):
+            risultati.extend(gruppo)
+    indice = [info for _, info in sorted(risultati, key=lambda t: t[0])]
     (uscita / "indice.json").write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
