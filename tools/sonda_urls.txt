@@ -1,9 +1,7 @@
 # etichetta | indirizzo   (una riga per richiesta)
-ust-milano-home | https://milano.istruzione.lombardia.gov.it/
-ust-milano-cerca | https://milano.istruzione.lombardia.gov.it/?s=interpello
-ust-milano-wpjson | https://milano.istruzione.lombardia.gov.it/wp-json/wp/v2/search?search=interpello&per_page=20
-ust-milano-feed | https://milano.istruzione.lombardia.gov.it/feed/?s=interpello
-ust-varese-home | https://varese.istruzione.lombardia.gov.it/
-ust-varese-cerca | https://varese.istruzione.lombardia.gov.it/?s=interpello
-ust-varese-wpjson | https://varese.istruzione.lombardia.gov.it/wp-json/wp/v2/search?search=interpello&per_page=20
-ust-varese-feed | https://varese.istruzione.lombardia.gov.it/feed/?s=interpello
+ust-milano-interpelli | https://www.mim.gov.it/web/milano/interpelli-ricerca-supplenti
+ust-varese-interpelli | https://www.mim.gov.it/web/varese/interpelli-ricerca-supplenti
+ust-milano-comunicazioni | https://www.mim.gov.it/web/milano/comunicazioni
+ust-varese-comunicazioni | https://www.mim.gov.it/web/varese/comunicazioni
+opendata-catalogo | https://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole
+icgrossi-milano-interpelli | https://www.icgrossimilano.edu.it/servizio/interpelli/
