@@ -20,6 +20,8 @@ import requests
 
 UA = ("Mozilla/5.0 (compatible; interpelli-monitor/1.0; "
       "+https://github.com/andreatrivella97/interpelli)")
+UA_BROWSER = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+              "Chrome/140.0.0.0 Safari/537.36")
 MAX_BYTES = 4_000_000
 EXT = {"html": ".html", "json": ".json", "xml": ".xml", "pdf": ".pdf", "plain": ".txt"}
 
@@ -81,6 +83,10 @@ def lavora_host(righe, uscita):
     for n, (posizione, etichetta, url) in enumerate(righe):
         if n:
             time.sleep(PAUSA)
+        if etichetta.endswith("@browser"):
+            sessione.headers["User-Agent"] = UA_BROWSER
+        else:
+            sessione.headers["User-Agent"] = UA
         info, corpo = scarica(sessione, url)
         info["etichetta"] = etichetta
         if corpo:
