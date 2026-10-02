@@ -1,0 +1,7 @@
+# Criteri con cui la pagina decide quali avvisi "corrispondono".
+# Sono i valori di partenza dei filtri: chi apre la pagina puo' cambiarli sul proprio telefono.
+
+ordini: [infanzia, primaria]   # ordini di scuola cercati
+ore_min: 20                    # ore settimanali minime
+mesi_fine: [6, 7, 8]           # mesi in cui deve scadere il contratto: giugno (30/06, termine delle
+                               # attivita' didattiche) e oltre (31/08, supplenza annuale)

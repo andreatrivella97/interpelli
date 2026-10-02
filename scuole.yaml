@@ -1,0 +1,364 @@
+# Scuole controllate e pagine in cui pubblicano gli interpelli.
+#
+# Per aggiungere una scuola basta copiare un blocco e cambiare i dati. Ogni scuola ha una o
+# piu' "fonti", lette in ordine:
+#
+#   tipo: pagina   una pagina del sito con l'elenco degli interpelli (link a PDF o a notizie)
+#                  opzioni: righe: true   -> tabella in cui ogni riga e' un interpello senza link
+#                           filtro: "..." -> prende solo i link che contengono queste parole
+#   tipo: axios    cruscotto "Interpelli" del portale Axios; cf = codice fiscale della scuola
+#   tipo: albo     albo online dei siti ospitati da Spaggiari (ricerca "interpell")
+#   tipo: wp       notizie di un sito WordPress che parlano di interpello
+#
+# "manuale" indica dove guardare a mano quando la scuola pubblica (anche) su un portale che
+# non consente la lettura automatica.
+#
+# Elenco ricavato dall'anagrafe ministeriale 2026/27 per i comuni indicati.
+
+scuole:
+  # ----------------------------------------------------------------- provincia di Milano
+  - id: villacortese
+    nome: IC Villa Cortese
+    comuni: [Villa Cortese, Dairago]
+    sito: https://icvillacortese.edu.it/
+    fonti:
+      - {tipo: axios, cf: "92034300159"}
+      - {tipo: pagina, url: "https://icvillacortese.edu.it/servizio/invio-mad/"}
+
+  - id: sanvittore
+    nome: IC Giosuè Carducci
+    comuni: [San Vittore Olona, San Giorgio su Legnano]
+    sito: https://www.icscarducci.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84004470153"}
+      - {tipo: pagina, url: "https://www.icscarducci.edu.it/notizie/"}
+
+  - id: canegrate
+    nome: IC Aldo Moro
+    comuni: [Canegrate]
+    sito: https://www.icscanegrate.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84004750158"}
+      - {tipo: pagina, url: "https://www.icscanegrate.edu.it/servizio/interpelli-2/"}
+
+  - id: bustogarolfo
+    nome: IC G. Tarra
+    comuni: [Busto Garolfo]
+    sito: https://icstarra.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://icstarra.edu.it/servizi/99-interpello"}
+
+  - id: legnano-manzoni
+    nome: IC A. Manzoni
+    comuni: [Legnano]
+    sito: https://icsmanzonilegnano.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84003650151"}
+      - {tipo: pagina, url: "https://icsmanzonilegnano.edu.it/"}
+    manuale:
+      url: "https://www.trasparenzascuole.it/Public/AmministrazioneTrasparenteV2.aspx?Customer_id=f28fb386-f207-4210-9002-35e47c7e7404&PID=660ea136-45c7-40f4-927f-5e02841e2e7e"
+      motivo: pubblica gli interpelli in una sezione del portale Axios che non consente la lettura automatica
+
+  - id: legnano-bonvesin
+    nome: IC Bonvesin de la Riva
+    comuni: [Legnano]
+    sito: https://www.icsbonvesin.edu.it/
+    fonti:
+      - {tipo: axios, cf: "92044520150"}
+      - {tipo: pagina, url: "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"}
+
+  - id: legnano-carducci
+    nome: IC Giosuè Carducci
+    comuni: [Legnano]
+    sito: https://www.iccarduccilegnano.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84005530153"}
+      - {tipo: pagina, url: "https://www.iccarduccilegnano.edu.it/servizio/interpello/"}
+
+  - id: legnano-salici
+    nome: IC Via dei Salici
+    comuni: [Legnano]
+    sito: https://www.icsviadeisalici.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84003710153"}
+      - {tipo: pagina, url: "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/"}
+
+  - id: cerro
+    nome: IC A. Strobino
+    comuni: [Cerro Maggiore]
+    sito: https://www.scuoledicerro.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84004130153"}
+      - {tipo: pagina, url: "https://www.scuoledicerro.edu.it/pagine/interpelli-1"}
+
+  - id: rescaldina-manzoni
+    nome: IC A. Manzoni
+    comuni: [Rescaldina]
+    sito: https://www.manzonirescalda.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84004990150"}
+      - {tipo: pagina, url: "https://www.manzonirescalda.edu.it/interpello/", righe: true}
+
+  - id: rescaldina-alighieri
+    nome: IC Dante Alighieri
+    comuni: [Rescaldina]
+    sito: https://www.alighierirescaldina.edu.it/
+    fonti:
+      - {tipo: axios, cf: "84004110155"}
+      - {tipo: pagina, url: "https://www.alighierirescaldina.edu.it/documenti/interpelli-51/"}
+
+  - id: magnago
+    nome: IC Ada Negri
+    comuni: [Magnago]
+    sito: https://icadanegri.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93018880158"}
+      - {tipo: pagina, url: "https://icadanegri.edu.it/servizi/274-interpelli-e-mad"}
+
+  - id: arconate
+    nome: Omnicomprensivo Europeo
+    comuni: [Arconate, Buscate]
+    sito: https://www.omnicomprensivoeuropeo.edu.it/
+    fonti:
+      - {tipo: albo}
+
+  - id: cuggiono
+    nome: IC Rita Levi Montalcini
+    comuni: [Cuggiono]
+    sito: https://istitutocomprensivocuggiono.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://istitutocomprensivocuggiono.edu.it/?s=interpello"}
+
+  - id: marcallo
+    nome: IC E. De Amicis
+    comuni: [Marcallo con Casone, Inveruno]
+    sito: https://icmarcallo.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://icmarcallo.edu.it/?s=interpello"}
+      - {tipo: pagina, url: "https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show"}
+
+  - id: ossona
+    nome: IC Duca d'Aosta
+    comuni: [Ossona, Casorezzo]
+    sito: https://www.icossona.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93018820154"}
+      - {tipo: pagina, url: "https://www.icossona.edu.it/?s=interpello"}
+
+  - id: arluno
+    nome: IC Silvio Pellico
+    comuni: [Arluno]
+    sito: https://icspellico.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93527540152"}
+      - {tipo: pagina, url: "https://icspellico.edu.it/interpelli-e-mad/"}
+
+  - id: bareggio
+    nome: IC Giorgio Perlasca
+    comuni: [Bareggio]
+    sito: https://www.icsperlasca.edu.it/
+    fonti:
+      - {tipo: axios, cf: "82004830152"}
+      - {tipo: wp}
+
+  - id: pogliano
+    nome: IC Paolo Neglia
+    comuni: [Pogliano Milanese, Vanzago]
+    sito: https://www.icpaoloneglia.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93527530153"}
+
+  - id: lainate-lamarmora
+    nome: IC Via Lamarmora
+    comuni: [Lainate]
+    sito: https://www.iclamarmoralainate.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93528430155"}
+
+  - id: lainate-cairoli
+    nome: IC Via Cairoli
+    comuni: [Lainate]
+    sito: https://icscairoli.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93527590157"}
+      - {tipo: pagina, url: "https://icscairoli.edu.it/interpelli-nazionali/"}
+
+  - id: rho-deandre
+    nome: IC Fabrizio De André
+    comuni: [Rho]
+    sito: https://www.icdeandrerho.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93527170158"}
+      - {tipo: pagina, url: "https://www.icdeandrerho.edu.it/"}
+
+  - id: rho-grossi
+    nome: IC Tommaso Grossi
+    comuni: [Rho]
+    sito: https://www.icgrossirho.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93546620159"}
+      - {tipo: pagina, url: "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/"}
+
+  - id: rho-annafrank
+    nome: IC Anna Frank
+    comuni: [Rho]
+    sito: https://www.icsannafrankrho.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93546630158"}
+      - {tipo: pagina, url: "https://www.icsannafrankrho.edu.it/"}
+
+  - id: rho-franceschini
+    nome: IC Ezio Franceschini
+    comuni: [Rho]
+    sito: https://www.icsfranceschini.edu.it/
+    fonti:
+      - {tipo: axios, cf: "93546600151"}
+      - {tipo: pagina, url: "https://www.icsfranceschini.edu.it/interpelli/"}
+
+  - id: milano-consolemarcello
+    nome: IC Via Console Marcello
+    comuni: [Milano]
+    sito: https://www.consolemarcello.edu.it/
+    fonti:
+      - {tipo: axios, cf: "80193870153"}
+      - {tipo: pagina, url: "https://www.consolemarcello.edu.it/argomento/interpello/"}
+
+  # ----------------------------------------------------------------- provincia di Varese
+  - id: busto-bertacchi
+    nome: IC Bertacchi
+    comuni: [Busto Arsizio]
+    sito: https://www.istitutobertacchi.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027", tutti_i_documenti: true}
+      - {tipo: albo}
+
+  - id: busto-bossi
+    nome: IC G.A. Bossi
+    comuni: [Busto Arsizio]
+    sito: https://www.icbossibusto.edu.it/
+    fonti:
+      - {tipo: albo}
+
+  - id: busto-crespi
+    nome: IC E. Crespi
+    comuni: [Busto Arsizio]
+    sito: https://comprensivocrespi.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://comprensivocrespi.edu.it/?s=interpello"}
+      - {tipo: pagina, url: "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show"}
+
+  - id: busto-deamicis
+    nome: IC E. De Amicis
+    comuni: [Busto Arsizio]
+    sito: https://icdeamicis.edu.it/
+    fonti:
+      - {tipo: wp}
+      - {tipo: pagina, url: "https://icdeamicis.edu.it/"}
+
+  - id: busto-galilei
+    nome: IC G. Galilei
+    comuni: [Busto Arsizio]
+    sito: https://www.galileibusto.edu.it/
+    fonti:
+      - {tipo: albo}
+    manuale:
+      url: "https://web.spaggiari.eu/sdg2/Interpelli/VAME0026"
+      motivo: le candidature passano dal portale Spaggiari, che non consente la lettura automatica
+
+  - id: busto-pertini
+    nome: IC S. Pertini
+    comuni: [Busto Arsizio]
+    sito: https://icpertinibusto.edu.it/
+    fonti:
+      - {tipo: axios, cf: "81014010128"}
+      - {tipo: pagina, url: "https://icpertinibusto.edu.it/argomento/interpello/"}
+
+  - id: busto-tommaseo
+    nome: IC N. Tommaseo
+    comuni: [Busto Arsizio]
+    sito: https://www.tommaseobusto.edu.it/
+    fonti:
+      - {tipo: albo}
+
+  - id: castellanza
+    nome: IC A. Manzoni
+    comuni: [Castellanza]
+    sito: https://istitutocomprensivocastellanza.edu.it/
+    fonti:
+      - {tipo: axios, cf: "81009410127"}
+      - {tipo: pagina, url: "https://istitutocomprensivocastellanza.edu.it/servizi/135-interpelli"}
+
+  - id: olgiate
+    nome: IC B.C. Ferrini
+    comuni: [Olgiate Olona]
+    sito: https://www.scuoleolgiate.edu.it/
+    fonti:
+      - {tipo: albo}
+    manuale:
+      url: "https://web.spaggiari.eu/sdg2/Interpelli/VAME0033"
+      motivo: pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica
+
+  - id: gorlaminore
+    nome: IC G. Parini
+    comuni: [Gorla Minore, Marnate]
+    sito: https://comprensivoparini.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://comprensivoparini.edu.it/"}
+      - {tipo: pagina, url: "https://comprensivoparini.edu.it/comunicati"}
+
+  - id: solbiate
+    nome: IC Aldo Moro
+    comuni: [Solbiate Olona, Gorla Maggiore]
+    sito: https://icmoro.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://icmoro.edu.it/?s=interpello"}
+      - {tipo: pagina, url: "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show"}
+
+  - id: fagnano
+    nome: IC E. Fermi
+    comuni: [Fagnano Olona]
+    sito: https://www.icfermifagnano.it/
+    fonti:
+      - {tipo: wp}
+
+  - id: gerenzano
+    nome: IC G.P. Clerici
+    comuni: [Gerenzano]
+    sito: https://www.icsgerenzano.edu.it/
+    fonti:
+      - {tipo: pagina, url: "https://www.icsgerenzano.edu.it/"}
+    manuale:
+      url: "https://madinterpello.portaleargo.it/index.html#/"
+      motivo: pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica
+
+  - id: saronno-militi
+    nome: IC Ignoto Militi
+    comuni: [Saronno]
+    sito: https://www.icsmiliti.edu.it/
+    fonti:
+      - {tipo: albo}
+
+  - id: saronno-moro
+    nome: IC Aldo Moro
+    comuni: [Saronno]
+    sito: https://www.aldomorosaronno.edu.it/
+    fonti:
+      - {tipo: albo}
+    manuale:
+      url: "https://web.spaggiari.eu/sdg2/Interpelli/VAME0025"
+      motivo: pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica
+
+  - id: saronno-davinci
+    nome: IC Leonardo da Vinci
+    comuni: [Saronno]
+    sito: https://www.istitutocomprensivodavinci.edu.it/
+    fonti:
+      - {tipo: axios, cf: "94011740126"}
+      - {tipo: pagina, url: "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/"}
+
+  - id: uboldo
+    nome: IC A. Manzoni
+    comuni: [Uboldo]
+    sito: https://www.ic-manzoni-uboldo.edu.it/
+    fonti:
+      - {tipo: albo}
