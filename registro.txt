@@ -1,0 +1,45 @@
+villacortese               ok               4 avvisi in pagina
+sanvittore                 parziale         0 avvisi in pagina  ConnectTimeout da www.icscarducci.edu.it
+canegrate                  parziale         1 avvisi in pagina  ConnectTimeout da www.icscanegrate.edu.it
+bustogarolfo               ok              46 avvisi in pagina
+legnano-manzoni            ok               0 avvisi in pagina
+legnano-bonvesin           parziale         3 avvisi in pagina  ConnectTimeout da www.icsbonvesin.edu.it
+legnano-carducci           ok               2 avvisi in pagina
+legnano-salici             parziale         3 avvisi in pagina  ConnectTimeout da www.icsviadeisalici.edu.it
+cerro                      ok              12 avvisi in pagina
+rescaldina-manzoni         ok              16 avvisi in pagina
+rescaldina-alighieri       parziale         0 avvisi in pagina  ConnectTimeout da www.alighierirescaldina.edu.it
+magnago                    ok              42 avvisi in pagina
+arconate                   ok               9 avvisi in pagina
+cuggiono                   ok               1 avvisi in pagina
+marcallo                   ok               0 avvisi in pagina
+ossona                     ok               7 avvisi in pagina
+arluno                     ok               4 avvisi in pagina
+bareggio                   ok               0 avvisi in pagina
+pogliano                   ok               0 avvisi in pagina
+lainate-lamarmora          ok               1 avvisi in pagina
+lainate-cairoli            ok               9 avvisi in pagina
+rho-deandre                ok               1 avvisi in pagina
+rho-grossi                 ok              28 avvisi in pagina
+rho-annafrank              ok               1 avvisi in pagina
+rho-franceschini           ok              34 avvisi in pagina
+milano-consolemarcello     ok               6 avvisi in pagina
+busto-bertacchi            ok               0 avvisi in pagina
+busto-bossi                ok               4 avvisi in pagina
+busto-crespi               ok               1 avvisi in pagina
+busto-deamicis             ok               0 avvisi in pagina
+busto-galilei              ok               2 avvisi in pagina
+busto-pertini              ok              10 avvisi in pagina
+busto-tommaseo             ok               1 avvisi in pagina
+castellanza                ok               1 avvisi in pagina
+olgiate                    ok               0 avvisi in pagina
+gorlaminore                ok               0 avvisi in pagina
+solbiate                   ok               0 avvisi in pagina
+fagnano                    ok              12 avvisi in pagina
+gerenzano                  ok               0 avvisi in pagina
+saronno-militi             ok               0 avvisi in pagina
+saronno-moro               ok               0 avvisi in pagina
+saronno-davinci            ok               4 avvisi in pagina
+uboldo                     ok               0 avvisi in pagina
+
+23 avvisi in pagina: {'corrisponde': 3, 'da_verificare': 5, 'non_corrisponde': 15} | richieste: 102 | documenti ancora leggibili in questo giro: 160 | scuole con problemi: ['sanvittore', 'canegrate', 'legnano-bonvesin', 'legnano-salici', 'rescaldina-alighieri']
