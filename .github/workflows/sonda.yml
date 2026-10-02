@@ -9,6 +9,7 @@ on:
     paths:
       - 'tools/sonda_urls.txt'
       - 'tools/sonda.py'
+      - 'tools/sonda_axios.py'
       - '.github/workflows/sonda.yml'
   workflow_dispatch:
 
@@ -31,6 +32,8 @@ jobs:
       - run: pip install -q requests
       - name: Scarica gli indirizzi
         run: python tools/sonda.py tools/sonda_urls.txt out
+      - name: Cruscotto interpelli Axios
+        run: python tools/sonda_axios.py out || true
       - name: Salva i risultati sul ramo sonda-output
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
