@@ -229,6 +229,7 @@ scuole:
     comuni: [Busto Arsizio]
     sito: https://www.istitutobertacchi.edu.it/
     fonti:
+      # pagina dell'anno scolastico 2026/27: a settembre la scuola ne apre una nuova e l'indirizzo va aggiornato
       - {tipo: pagina, url: "https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027", tutti_i_documenti: true}
       - {tipo: albo}
 
@@ -354,6 +355,7 @@ scuole:
     sito: https://www.istitutocomprensivodavinci.edu.it/
     fonti:
       - {tipo: axios, cf: "94011740126"}
+      # pagina dell'anno scolastico 2026/27: a settembre la scuola ne apre una nuova e l'indirizzo va aggiornato
       - {tipo: pagina, url: "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/"}
 
   - id: uboldo

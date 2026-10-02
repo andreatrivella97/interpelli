@@ -2,7 +2,7 @@
 
 Raccoglie gli interpelli per supplenze pubblicati dagli istituti comprensivi della zona
 (Legnano, Rho, Busto Arsizio, Saronno e dintorni) e li mostra in una pagina sola, con in
-evidenza quelli per infanzia o primaria, da almeno 20 ore, che durano fino a giugno.
+evidenza quelli per infanzia o primaria, da almeno 20 ore, che durano almeno fino a giugno.
 
 **Pagina:** https://andreatrivella97.github.io/interpelli/
 
@@ -65,6 +65,8 @@ GitHub (icona della matita): al controllo successivo la scuola compare nella pag
   `scuole.yaml` sono segnate con `manuale`.
 - Alcuni siti a volte non rispondono ai computer di GitHub. La scuola risulta «letta solo in
   parte» e viene riprovata al passaggio successivo; gli avvisi già visti restano in pagina.
+- Due scuole (IC Bertacchi a Busto Arsizio, IC Leonardo da Vinci a Saronno) aprono ogni anno
+  una pagina nuova per gli interpelli: a settembre il loro indirizzo in `scuole.yaml` va aggiornato.
 - La lettura dei documenti segue regole scritte a mano e può sbagliare, soprattutto con le
   scansioni. Per questo ogni avviso mostra, sotto «Dettagli», il pezzo di testo da cui i dati
   sono stati presi, e quando un dato manca l'avviso finisce tra quelli «da verificare» invece
