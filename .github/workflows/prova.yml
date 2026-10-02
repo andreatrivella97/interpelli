@@ -33,8 +33,6 @@ jobs:
       - name: Test
         run: python -m unittest discover -s tests -t . -v
       - name: Controllo dei siti
-        env:
-          INTERPELLI_SALVA: /tmp/uscita/copie
         run: |
           mkdir -p /tmp/uscita
           python -m scraper 2>&1 | tee /tmp/uscita/registro.txt

@@ -9,12 +9,16 @@ from pathlib import Path
 from scraper.classifica import analizza, sembra_avviso, valuta
 
 OGGI = date(2026, 10, 2)
-CRITERI = {"ordini": ["infanzia", "primaria"], "ore_min": 20, "mesi_fine": [6]}
+CRITERI = {"ordini": ["infanzia", "primaria"], "ore_min": 20, "mesi_fine": [6, 7, 8]}
 TESTI = Path(__file__).parent / "fixtures" / "testi"
 
 
-def leggi(nome, titolo):
-    return analizza(titolo, (TESTI / f"{nome}.txt").read_text(encoding="utf-8"), oggi=OGGI)
+def leggi(nome, titolo, pubblicato=None):
+    return analizza(titolo, (TESTI / f"{nome}.txt").read_text(encoding="utf-8"), oggi=OGGI, pubblicato=pubblicato)
+
+
+def tipi(analisi):
+    return [p.tipo for p in analisi.posti]
 
 
 def esito(analisi):
@@ -26,6 +30,46 @@ def posti(analisi):
 
 
 class AvvisiInPdf(unittest.TestCase):
+    def test_elenco_di_posti_con_frasi_di_rito(self):
+        # "fino al termine dell'attivita' didattica ... al 30 giugno 2027" e' un posto solo; la frase
+        # "lasciare tale supplenza per accettare una supplenza fino al 31/08/2027" non e' un posto
+        a = leggi("consolemarcello_sostegno", "Interpello primaria SOSTEGNO ADEE", date(2026, 10, 1))
+        self.assertEqual(posti(a), [(24, "2027-06-30"), (24, "2026-11-14"), (24, "2026-10-18")])
+        self.assertEqual(tipi(a), ["sostegno", "comune", "comune"])
+        self.assertEqual(a.scadenza, datetime(2026, 10, 5, 9, 0))
+        self.assertEqual(a.pubblicato, date(2026, 10, 1))     # non la data della circolare ministeriale citata
+        self.assertEqual(esito(a), "corrisponde")
+
+    def test_supplenza_annuale_al_31_agosto(self):
+        a = leggi("consolemarcello_primaria", "Interpello per supplenza- scuola primaria", date(2026, 9, 23))
+        self.assertEqual(posti(a), [(24, "2027-06-30"), (24, "2026-11-14"), (24, "2027-08-31"), (24, "2027-06-30")])
+        self.assertEqual(tipi(a), ["comune", "comune", "sostegno", "sostegno"])
+        self.assertEqual(a.scadenza, datetime(2026, 9, 25, 10, 0))
+        self.assertEqual(esito(a), "corrisponde")
+
+    def test_tabella_con_le_righe_mescolate(self):
+        # il PDF mette in disordine le celle: ore e date vanno abbinate al codice piu' vicino
+        a = leggi("cuggiono", "Circolare 297 Interpelli", date(2026, 9, 24))
+        self.assertEqual(posti(a), [(18, "2026-10-04"), (24, "2027-06-30"), (22, "2027-06-30"), (25, "2027-11-03"),
+                                    (25, "2026-09-30")])
+        self.assertEqual(a.posti[1].tipo, "sostegno")
+        self.assertIn("primaria", a.posti[1].ordini)
+        self.assertEqual((a.posti[2].ordini, a.posti[2].tipo), (["infanzia"], "comune"))
+        self.assertEqual(a.scadenza, datetime(2026, 9, 25, 15, 30))
+        self.assertEqual(esito(a), "corrisponde")
+
+    def test_data_sbagliata_nella_tabella(self):
+        # la tabella dice 14/09/2026 ma l'avviso e' del 2 ottobre: vale il "14 ottobre" scritto nel titolo
+        a = leggi("carducci_breve", "Interpello per supplenza breve ore 24 fino al 14 ottobre 2026 posto COMUNE scuola primaria",
+                  date(2026, 10, 2))
+        self.assertEqual(posti(a), [(24, "2026-10-14")])
+        self.assertEqual(esito(a), "non_corrisponde")
+
+    def test_esito_di_una_procedura(self):
+        a = leggi("consolemarcello_esito", "Interpello per supplenza scuola primaria Milano", date(2026, 9, 25))
+        self.assertTrue(a.esito_procedura)
+        self.assertFalse(leggi("consolemarcello_primaria", "Interpello per supplenza- scuola primaria").esito_procedura)
+
     def test_piu_posti_nella_stessa_frase(self):
         a = leggi("bustogarolfo", "Interpello n. 2 del 23-09-2026 - Posto comune.pdf")
         self.assertEqual(posti(a), [(24, "2026-10-04"), (24, "2026-11-03"), (6, "2026-10-25"), (6, "2027-06-08")])
@@ -178,7 +222,7 @@ class SoloTitolo(unittest.TestCase):
 
 class CosaEUnAvviso(unittest.TestCase):
     def test_avvisi(self):
-        for titolo in ["Individuazione docenti- Interpello per supplenza– scuola primaria Milano",
+        for titolo in ["Avviso per l'individuazione e il reclutamento di personale docente - interpello primaria",
                        "DECRETO INTERPELLO per supplenza breve fino al 14-10-2026 ore 24 posto comune primaria",
                        "Interpello per supplenza a.s. 2024/25 a seguito di esaurimento delle graduatorie d'Istituto",
                        "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA PRIMARIA POSTO COMUNE (EEEE)"]:
@@ -186,6 +230,7 @@ class CosaEUnAvviso(unittest.TestCase):
 
     def test_non_avvisi(self):
         for titolo in ["Decreto di annullamento Interpelli disposti con protocollo n. 4505",
+                       "Individuazione docenti- Interpello per supplenza– scuola primaria Milano",
                        "Nomina_commissione_per_la_valutazione_delle_istanze_interpello_prot._5341",
                        "Individua_docente_interpello_prot._5341_del_16-09-2026.pdf.pades",
                        "Modello Istanza Partecipazione Interpello", "ALLEGATO A INTERPELLO 18/09/2026",

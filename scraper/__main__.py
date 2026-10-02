@@ -248,6 +248,9 @@ def _leggi_e_classifica(record: dict, voce: Voce, lettore: Lettore, bilancio: Bi
     if testo and letto in ("errore", "in_attesa", "non_leggibile") and solo_titolo.completezza() > analisi.completezza():
         analisi = solo_titolo
     record["posti"] = [p.come_dati() for p in analisi.posti]
+    if analisi.esito_procedura:
+        record["escluso"] = "comunica l'esito di una procedura: non e' un avviso a cui candidarsi"
+        record["posti"] = []
     record["ordini"] = analisi.ordini
     record["personale"] = analisi.personale
     record["letto"], record["nota"] = letto, nota

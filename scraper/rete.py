@@ -57,7 +57,8 @@ def leggibile(url: str) -> bool:
 class Rete:
     def __init__(self, pausa: float = 2.0, attesa: float = 35.0):
         self.pausa = pausa
-        self.attesa = attesa
+        self.attesa = attesa            # secondi per ricevere la risposta
+        self.collegamento = 15.0        # secondi per stabilire il collegamento
         self._ip: dict[str, str] = {}
         self._blocchi: dict[str, threading.Lock] = {}
         self._ultima: dict[str, float] = {}
@@ -99,10 +100,11 @@ class Rete:
                 try:
                     self.richieste += 1
                     try:
-                        r = sessione.get(url, timeout=self.attesa, headers=intestazioni, stream=True)
+                        r = sessione.get(url, timeout=(self.collegamento, self.attesa), headers=intestazioni, stream=True)
                     except requests.exceptions.SSLError:
                         # certificati configurati male su alcuni siti scolastici: si leggono solo avvisi pubblici
-                        r = sessione.get(url, timeout=self.attesa, headers=intestazioni, stream=True, verify=False)
+                        r = sessione.get(url, timeout=(self.collegamento, self.attesa), headers=intestazioni,
+                                         stream=True, verify=False)
                     corpo = b""
                     for pezzo in r.iter_content(65536):
                         corpo += pezzo

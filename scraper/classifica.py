@@ -41,13 +41,14 @@ RE_ATA = re.compile(
     r"collaborator[ei]\s+scolastic|assistent[ei]\s+amministrativ|assistent[ei]\s+tecnic|\bDSGA\b"
     r"|personale\s+A\.?T\.?A\b|\bprofilo\s+(?:AA|AT|CS)\b", I)
 RE_SOSTEGNO = re.compile(r"sostegno|\bAD(?:AA|EE|MM|ML|SS)\b", I)
-RE_COMUNE = re.compile(r"post[oi]\s+comun[ei]|\bcomun[ei]\b|\bAAAA\b|\bEEEE?\b", I)
+RE_COMUNE = re.compile(r"post[oi]\s+comun[ei]|\bcomun[ei]\b(?!\s+d[ei]l?\b)|\bAAAA\b|\bEEEE?\b", I)
 
 # --- ore settimanali -----------------------------------------------------------------------
 RE_ORE_SETT = re.compile(
     r"(?:\bore|\borario)[^.;\n]{0,40}?settimanal[ei]\w*\s*[:=]?\s*(?:di\s+|pari\s+a\s+|n\.?\s*)?"
     r"(\d{1,2})(?:[.,]\d)?\s?(?:h|ore)?\b(?![./:-]\d)", I)
-RE_NUM_ORE = re.compile(r"(?<!\d[.,/:-])(?<!\d)(\d{1,2})(?:[.,]\d)?\s?(?:ore|hh?)\b(?!\s?\d)", I)
+RE_NUM_ORE = re.compile(
+    r"(?<!\d[.,/:-])(?<!\d)(\d{1,2})(?:[.,]\d)?\s?(?:ore|hh?)\b(?!\s?\d{1,2}[:.,]\d{2}(?![./-]\d))(?!\s?\d{1,2}\b(?![./-]))", I)
 RE_ORE_NUM = re.compile(r"\bore\s+(?:n\.?\s*)?(\d{1,2})\b(?![:.,]\d)(?!\s*(?:del|dell|di)\b)", I)
 RE_FRAZIONE = re.compile(r"(?<![\d/.-])(\d{1,2})\s?/\s?(18|22|24|25|36)\b(?!\s?[./-]\s?\d)")
 RE_INTERO = re.compile(
@@ -60,7 +61,7 @@ RE_ORARIO_PRIMA = re.compile(r"(?:\ble|alle|dalle|entro\s+le|dopo\s+le|fino\s+al
 
 # --- date: a che cosa si riferiscono --------------------------------------------------------
 RE_PRIMA_FINE = re.compile(
-    r"(?:fino\s+a(?:l|ll')?|sino\s+a(?:l|ll')?|\bal\b|termine(?:\s+(?:del\s+contratto|contrattuale|della\s+supplenza|incarico))?\s*:?"
+    r"(?:fino\s+a(?:l|ll')?|sino\s+a(?:l|ll')?|\bal\b|(?<!non )oltre\s+il|termine(?:\s+(?:del\s+contratto|contrattuale|della\s+supplenza|incarico))?\s*:?"
     r"|scadenza(?:\s+del)?\s+contratto\s*:?|fine\s+(?:contratto|supplenza|incarico|rapporto)\s*:?)"
     r"\s*(?:giorno\s+|data\s+(?:del\s+)?)?$", I)
 _FRASE = r"(?:[^.;]|(?<=\d)\.(?=\d))"      # dentro una frase; il punto e' ammesso solo tra due cifre
@@ -76,6 +77,18 @@ RE_PRIMA_PROTOCOLLO = re.compile(
     r"\bdel(?:l')?\s*$", I)
 RE_PRIMA_LUOGO = re.compile(r"[A-Z][A-Za-zàèéìòù' ]{2,25},\s*(?:l[iì]\s*)?$")
 
+# frasi presenti in quasi tutti gli avvisi, che citano date di fine senza offrire un posto
+RE_DI_RITO = re.compile(r"lasciare\s+tale\s+supplenza[^.]{0,220}", I)
+RE_ELENCO_DI_RITO = re.compile(r"annual\w*\s+(?:e|o|ed|e/o|ovvero)\s+(?:quelle\s+)?(?:temporanee\s+)?(?:fino|sino)\s+al\s*$", I)
+# documenti che comunicano com'e' finita una procedura: non sono avvisi a cui candidarsi
+RE_ESITO_NEL_TESTO = re.compile(
+    r"rende\s+not[oi]\s+(?:gli\s+)?esit|esit[oi]\s+della\s+procedura\s+di\s+interpello\s+in\s+oggetto"
+    r"|sono\s+invitat[ie]\s+alla\s+presa\s+di\s+servizio|decreta\s+l['’]\s?individuazione"
+    r"|(?:\b[eè]|sono|viene|vengono)\s+(?:stat[oaie]\s+)?individuat[oaie]\s+(?:qual[ei]|come)\s+destinatar", I)
+
+RE_CITAZIONE = re.compile(
+    r"\b(?:vist[aoei]|considerat[aoei]|nota|circolare|istruzioni|ordinanza|o\.\s?m\.|d\.\s?m\.|d\.\s?lgs|decreto|legge"
+    r"|ai\s+sensi|convocazion[ei]|art\.|articolo)", I)
 RE_FINE_DIDATTICHE = re.compile(r"termine\s+dell[e']\s*attivit[aà]'?\s+didattic", I)
 RE_FINE_LEZIONI = re.compile(r"termine\s+delle\s+lezioni", I)
 RE_FINE_APERTA = re.compile(r"rientro\s+del(?:la)?\s+titolare|avente\s+(?:diritto|titolo)", I)
@@ -87,7 +100,8 @@ RE_RIGA_TABELLA = re.compile(
 
 # --- che cosa non e' un interpello ----------------------------------------------------------
 RE_NEGATIVO_FORTE = re.compile(
-    r"annullament|nomina.{0,14}commissione|individua[_ ]docent|\bverbal[ei]\b|criteri\s+(?:di\s+)?individuazione"
+    r"annullament|nomina.{0,14}commissione|individua[_ ]docent|^\W*individuazione\s+(?:de[il]\s+)?docent"
+    r"|graduatoria\s+(?:definitiva|provvisoria|di\s+merito)|\bverbal[ei]\b|criteri\s+(?:di\s+)?individuazione"
     r"|determina\s+a\s+contrarre|\besit[oi]\b|come\s+funzionano|\bguida\b|decreto\s+di\s+individuazione", I)
 RE_NEGATIVO_DEBOLE = re.compile(
     r"\bmodul[oi]\b|\bmodello\b|\ballegat[oi]\b|informativa|privacy|istruzioni|domanda\s+di\s+partecipazione|\bmad\b", I)
@@ -125,6 +139,7 @@ class Analisi:
     scadenza: datetime | None = None
     scadenza_prova: str = ""
     pubblicato: date | None = None
+    esito_procedura: bool = False      # il documento comunica chi e' stato scelto: non e' un avviso aperto
 
     def completezza(self) -> int:
         """Quanti dati utili contiene: serve a scegliere la lettura migliore tra piu' titoli."""
@@ -171,6 +186,32 @@ def _stacca_codici(testo: str) -> str:
 def _ordini_in(testo: str, solo_codici: bool = False) -> list[str]:
     regole = RE_CODICI if solo_codici else RE_ORDINE
     return [nome for nome, regola in regole.items() if regola.search(testo)]
+
+
+def _ordini_vicini(frammento: str) -> list[str]:
+    """Gli ordini nominati piu' vicino alla fine del frammento, cioe' al dato: nelle tabelle ogni riga ha il suo."""
+    ultimi = {}
+    for nome, regola in RE_ORDINE.items():
+        posizioni = [m.start() for m in regola.finditer(frammento)]
+        if posizioni:
+            ultimi[nome] = posizioni[-1]
+    if not ultimi:
+        return []
+    limite = max(ultimi.values()) - 45
+    return [nome for nome, posizione in ultimi.items() if posizione >= limite]
+
+
+def _tipo_vicino(frammento: str) -> str | None:
+    sostegno = [m.start() for m in RE_SOSTEGNO.finditer(frammento)]
+    comune = [m.start() for m in RE_COMUNE.finditer(frammento)]
+    if not sostegno and not comune:
+        return None
+    return "sostegno" if (sostegno[-1] if sostegno else -1) > (comune[-1] if comune else -1) else "comune"
+
+
+def _stessa_voce(testo: str, da: int, a: int) -> bool:
+    """Vero se tra le due posizioni non comincia un'altra frase o un altro punto di un elenco."""
+    return not re.search(r";|\.\s+[A-ZÀ-Ý]|\s[a-z]\)\s", testo[da:a])
 
 
 def _tipo_in(testo: str) -> str | None:
@@ -278,6 +319,8 @@ def analizza(titolo: str, testo: str = "", *, oggi: date, pubblicato: date | Non
     elif RE_ATA.search(titolo_p) or (RE_ATA.search(corpo[:1500]) and not _ordini_in(titolo_p)):
         esito.personale = "ata"
 
+    esito.esito_procedura = bool(RE_ESITO_NEL_TESTO.search(corpo[:4000]))
+
     # ordine di scuola a livello di documento: titolo, poi oggetto, poi codici nel testo
     oggetto = ""
     m = re.search(r"\boggetto\s*:?\s*(.{10,320}?)(?:\bIL\s+DIRIGENTE|\bVIST[AOEI]\b|$)", corpo, I)
@@ -288,27 +331,18 @@ def analizza(titolo: str, testo: str = "", *, oggi: date, pubblicato: date | Non
         ordini_doc = ["secondaria"]
     tipo_doc = _tipo_in(titolo_p) or _tipo_in(oggetto)
 
-    # data dell'avviso (protocollo): serve anche a scartare le date piu' vecchie citate nel testo
-    for sorgente in ([corpo] if corpo else []) + [titolo_p]:
-        _, _, _, protocolli, _ = _classifica_date(sorgente, trova_date(sorgente, riferimento))
-        if protocolli:
-            esito.pubblicato = protocolli[0].giorno
-            break
+    # data dell'avviso: serve anche a scartare le date piu' vecchie citate nel testo
+    esito.pubblicato = (_data_avviso(corpo, riferimento, oggi) if corpo else None) or _data_avviso(titolo_p, riferimento, oggi)
     if esito.pubblicato is None:
         # "INTERPELLO - 23.09.2026 PRIMARIA": una data con l'anno nel titolo, senza altro significato, e' quella dell'avviso
         *_, altre = _classifica_date(titolo_p, trova_date(titolo_p, riferimento))
         scritte = [d for d in altre if d.anno_scritto and d.giorno <= oggi]
         if scritte:
             esito.pubblicato = scritte[0].giorno
-    if esito.pubblicato and esito.pubblicato > oggi:
-        # una data d'avviso non puo' essere futura: l'anno era sottinteso ed e' quello prima
-        try:
-            esito.pubblicato = esito.pubblicato.replace(year=esito.pubblicato.year - 1)
-        except ValueError:
-            esito.pubblicato = None
     if esito.pubblicato is None:
         esito.pubblicato = pubblicato
-    non_prima = esito.pubblicato
+    note = [d for d in (esito.pubblicato, pubblicato) if d]
+    non_prima = min(note) if note else None
 
     posti: list[Posto] = []
     for sorgente in ([corpo] if corpo else []) + [titolo_p]:
@@ -345,6 +379,28 @@ def analizza(titolo: str, testo: str = "", *, oggi: date, pubblicato: date | Non
     return esito
 
 
+def _data_avviso(testo: str, riferimento: date, oggi: date) -> date | None:
+    """La data di protocollo dell'avviso: la piu' recente tra quelle proprie del documento.
+
+    Gli atti citati ("VISTA la nota prot. 11814 del 6/5/2026") hanno la stessa forma ma non contano;
+    e poiche' un avviso cita solo atti precedenti, tra le date rimaste quella giusta e' l'ultima.
+    """
+    _, _, _, protocolli, _ = _classifica_date(testo, trova_date(testo, riferimento))
+    proprie = []
+    for d in protocolli:
+        giorno = d.giorno
+        if giorno > oggi and not d.anno_scritto:
+            # una data d'avviso non puo' essere futura: l'anno era sottinteso ed e' quello prima
+            try:
+                giorno = giorno.replace(year=giorno.year - 1)
+            except ValueError:
+                continue
+        frase = re.split(r";|\.\s+(?=[A-ZÀ-Ý])", testo[max(0, d.inizio - 200):d.inizio])[-1]
+        if giorno <= oggi and not RE_CITAZIONE.search(frase):
+            proprie.append(giorno)
+    return max(proprie) if proprie else None
+
+
 def _data_sola(grezzo: str, riferimento: date) -> date | None:
     trovate = trova_date("al " + grezzo, riferimento)
     return trovate[0].giorno if trovate else None
@@ -360,6 +416,8 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
             continue
         prima_data, seconda_data = _data_sola(m.group(4), riferimento), (_data_sola(m.group(5), riferimento) if m.group(5) else None)
         avvio, termine = (prima_data, seconda_data) if seconda_data else (None, prima_data)
+        if termine and non_prima and termine < non_prima:
+            termine = None          # errore di battitura nell'avviso: la data giusta, se c'e', e' nel titolo
         attorno = testo[m.start():m.end() + 60]
         da_tabella.append(Posto(
             ordini=_ordini_in(m.group(1), solo_codici=True), tipo=_tipo_in(attorno) or tipo_doc,
@@ -370,8 +428,11 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
     # 2) testo libero: si parte dalle date di fine e si cercano le ore nella stessa frase
     date_trovate = trova_date(testo, riferimento)
     fini, inizi, _, _, altre = _classifica_date(testo, date_trovate)
-    # "8 posti ADEE 30/06": giorno e mese di fine anno, anche senza un "fino al" davanti
-    fini = fini + [d for d in altre if not d.anno_scritto and (d.giorno.day, d.giorno.month) in FINI_ANNO]
+    # "8 posti ADEE 30/06", "24H 30/06/2027": il giorno di fine anno e' una fine anche senza "fino al" davanti
+    fini = fini + [d for d in altre if (d.giorno.day, d.giorno.month) in FINI_ANNO
+                   and (not d.anno_scritto or d.giorno.year == fine_as.year)]
+    di_rito = [(m.start(), m.end()) for m in RE_DI_RITO.finditer(testo)]
+    fini = [d for d in fini if not any(da <= d.inizio < a for da, a in di_rito)]
     if titolo_al:
         # in un titolo, una data futura senza altre indicazioni e' la fine della supplenza
         # ("INTERPELLO SOSTEGNO 26.11.2026"); una passata e' la data dell'avviso
@@ -398,8 +459,13 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
         (RE_FINE_APERTA, None, "fino al rientro del titolare"),
     ):
         for m in regola.finditer(testo):
-            # se subito dopo c'e' gia' la data esplicita ("... didattiche (30/06/2027)") vale quella
-            if any(0 <= d.inizio - m.end() <= 12 for d in fini):
+            # se nella stessa voce c'e' gia' la data esplicita ("... didattiche ... al 30 giugno 2027") vale quella
+            if any((0 <= d.inizio - m.end() <= 170 and _stessa_voce(testo, m.end(), d.inizio))
+                   or (0 <= m.start() - d.fine <= 60 and _stessa_voce(testo, d.fine, m.start())) for d in fini):
+                continue
+            if RE_ELENCO_DI_RITO.search(testo[max(0, m.start() - 60):m.start()]):
+                continue            # "supplenze annuali e fino al termine delle attivita' didattiche": e' una norma
+            if any(da <= m.start() < a for da, a in di_rito):
                 continue
             punti.append(_Fine(m.start(), m.end(), giorno, nota))
     punti.sort(key=lambda p: p.inizio)
@@ -423,6 +489,8 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
         avvio = next((d.giorno for d in reversed(inizi) if precedente <= d.inizio < punto.inizio
                       and punto.inizio - d.fine <= 45), None)
         giorno, nota = punto.giorno, punto.nota
+        if nota is None and re.search(r"oltre\s+il\s*$", testo[max(0, punto.inizio - 12):punto.inizio], I):
+            nota = "presumibilmente oltre questa data"
         if giorno and avvio and giorno < avvio:
             # "dal 21/09/2026 al 30/06/2026": anno sbagliato nell'avviso, e' quello dopo
             try:
@@ -432,11 +500,11 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
             except ValueError:
                 pass
         finestra = testo[max(precedente, punto.inizio - 220):punto.inizio]
-        ordini = _ordini_in(finestra) or _ordini_in(testo[punto.fine:punto.fine + 90])
+        ordini = _ordini_vicini(finestra) or _ordini_in(testo[punto.fine:punto.fine + 90])
         if ordini_doc:
             comuni = [o for o in ordini if o in ordini_doc]
             ordini = comuni or (ordini_doc if not ordini else ordini)
-        tipo = _tipo_in(finestra[-140:]) or tipo_doc or _tipo_in(finestra)
+        tipo = _tipo_vicino(finestra[-140:]) or tipo_doc or _tipo_vicino(finestra)
         posti.append(Posto(
             ordini=ordini, tipo=tipo,
             ore=scelta.ore if scelta else None, intero=bool(scelta and scelta.intero),
@@ -465,14 +533,26 @@ def _posti_da(testo: str, riferimento: date, fine_as: date, ordini_doc: list[str
     if solo_ore and len(re.findall(r"\bpost[oi]\b", testo, I)) > len(posti):
         # l'avviso elenca piu' posti di quante ore dichiari: gli altri restano da leggere a mano
         posti.append(Posto(ordini=ordini_doc, tipo=tipo_doc, prova=testo[:200].strip()))
-    # lo stesso posto ripetuto (titolo e sommario, intestazione e testo) conta una volta
+    return _senza_doppioni(posti)
+
+
+def _senza_doppioni(posti: list[Posto]) -> list[Posto]:
+    """Lo stesso posto ripetuto (titolo e sommario, oggetto e testo) conta una volta."""
     unici, visti = [], set()
     for p in posti:
         firma = (tuple(p.ordini), p.tipo, p.ore, p.intero, p.fine, p.fine_nota)
         if firma not in visti:
             visti.add(firma)
             unici.append(p)
-    return unici
+    # la stessa supplenza nominata nell'oggetto senza le ore e nel testo con le ore: resta la versione completa
+    completi = [p for p in unici if p.ore is not None or p.intero]
+
+    def ripetuto(p: Posto) -> bool:
+        return p.ore is None and not p.intero and p.fine is not None and any(
+            q.fine == p.fine and (not p.ordini or not q.ordini or set(p.ordini) & set(q.ordini))
+            and (p.tipo is None or q.tipo is None or p.tipo == q.tipo) for q in completi)
+
+    return [p for p in unici if not ripetuto(p)]
 
 
 # --- confronto con i criteri -----------------------------------------------------------------

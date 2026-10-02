@@ -16,7 +16,7 @@ from .fonti import Voce
 from .testo import chiave as chiave_testo
 
 VERSIONE = 1
-GIORNI_SCADUTI_VISIBILI = 10      # un avviso scaduto resta in pagina per questi giorni
+GIORNI_SCADUTI_VISIBILI = 7       # un avviso scaduto resta in pagina per questi giorni
 GIORNI_SENZA_SCADENZA = 14        # senza termine noto, si mostra per questi giorni dalla pubblicazione
 GIORNI_IN_ARCHIVIO = 150          # dopo, gli avvisi spariti dai siti vengono dimenticati
 
@@ -87,7 +87,7 @@ def stesso_avviso(record: dict, voce: Voce) -> bool:
 def da_mostrare(record: dict, ora: datetime) -> bool:
     """Tiene gli avvisi aperti o scaduti da poco; lascia fuori lo storico delle pagine."""
     oggi = ora.date()
-    if record.get("storico"):
+    if record.get("storico") or record.get("escluso"):
         return False
     scadenza = _momento(record.get("scadenza"))
     if scadenza:
