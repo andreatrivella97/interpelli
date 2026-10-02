@@ -9,6 +9,7 @@ delle scuole. Non fallisce mai: ogni errore finisce nell'indice.
 import hashlib
 import json
 import re
+import socket
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -58,6 +59,20 @@ def scarica(sessione, url):
         info["secondi"] = round(time.time() - inizio, 2)
 
 
+PAUSA = 2.5
+_ip = {}
+
+
+def gruppo_di(host):
+    """Siti diversi ospitati sullo stesso server finiscono nella stessa coda."""
+    if host not in _ip:
+        try:
+            _ip[host] = socket.gethostbyname(host)
+        except OSError:
+            _ip[host] = host
+    return _ip[host]
+
+
 def lavora_host(righe, uscita):
     """Scarica in sequenza gli indirizzi di uno stesso sito, con una pausa tra l'uno e l'altro."""
     sessione = requests.Session()
@@ -65,7 +80,7 @@ def lavora_host(righe, uscita):
     risultati = []
     for n, (posizione, etichetta, url) in enumerate(righe):
         if n:
-            time.sleep(1.0)
+            time.sleep(PAUSA)
         info, corpo = scarica(sessione, url)
         info["etichetta"] = etichetta
         if corpo:
@@ -89,7 +104,7 @@ def main():
             continue
         etichetta, _, url = riga.rpartition("|")
         etichetta, url = etichetta.strip(), url.strip()
-        per_host.setdefault(urlparse(url).netloc, []).append((posizione, etichetta, url))
+        per_host.setdefault(gruppo_di(urlparse(url).netloc), []).append((posizione, etichetta, url))
         posizione += 1
     risultati = []
     with ThreadPoolExecutor(max_workers=12) as pool:
