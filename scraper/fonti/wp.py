@@ -9,8 +9,11 @@ import html as html_lib
 import json
 from datetime import date, datetime
 
+from urllib.parse import urlparse
+
 from ..classifica import escluso, sembra_avviso
 from ..documenti import testo_pagina
+from ..rete import ErroreRete
 from ..testo import pulisci
 from . import Voce
 
@@ -45,4 +48,11 @@ def leggi(scuola: dict, fonte: dict, rete, oggi: date) -> list[Voce]:
     base = (fonte.get("url") or scuola["sito"]).rstrip("/")
     risposta = rete.scarica(base + "/wp-json/wp/v2/posts?search=interpell&per_page=20&orderby=date"
                                    "&_fields=id,date,link,title,content")
+    try:
+        valido = isinstance(json.loads(risposta.testo), list)
+    except ValueError:
+        valido = False
+    if not valido:
+        # una pagina al posto dell'elenco delle notizie: non si puo' dire che non ci siano avvisi
+        raise ErroreRete(f"risposta inattesa da {urlparse(base).netloc}")
     return estrai(risposta.testo, base + "/")

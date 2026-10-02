@@ -8,11 +8,12 @@ from __future__ import annotations
 
 import re
 from datetime import date
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
 from ..classifica import sembra_avviso
+from ..rete import ErroreRete
 from ..testo import pulisci, trova_date
 from . import Voce
 
@@ -46,4 +47,6 @@ def estrai(html: str, url_pagina: str, oggi: date) -> list[Voce]:
 def leggi(scuola: dict, fonte: dict, rete, oggi: date) -> list[Voce]:
     base = fonte.get("url") or scuola["sito"].rstrip("/") + "/albo-online"
     risposta = rete.scarica(base + "?categoria=&cerca=interpell&storico=&aoo=")
+    if "albo" not in risposta.testo.lower():
+        raise ErroreRete(f"risposta inattesa da {urlparse(base).netloc}")      # non e' la pagina dell'albo
     return estrai(risposta.testo, base, oggi)

@@ -14,6 +14,7 @@ from urllib.parse import quote
 
 from bs4 import BeautifulSoup
 
+from ..rete import ErroreRete
 from ..testo import pulisci
 from . import Voce
 
@@ -24,6 +25,7 @@ DOCUMENTO = BASE + "Handlers/SD_UploadDownloadHandler.aspx"
 # il portale identifica la scuola con il codice fiscale, offuscato con questa chiave fissa
 _CHIAVE = bytes.fromhex("F582DBF5AA23E131913C63")
 RE_MOMENTO = re.compile(r"(\d{2})/(\d{2})/(\d{4})\s+(\d{2}):(\d{2})")
+RE_NON_ATTIVA = re.compile(r"non\s+[eè]\s+attualmente\s+disponibile|non\s+disponibile|nessun\s+interpello", re.IGNORECASE)
 
 
 def codice_scuola(codice_fiscale: str) -> str:
@@ -95,4 +97,9 @@ def leggi(scuola: dict, fonte: dict, rete, oggi: date) -> list[Voce]:
     rete.scarica(url_pagina, sessione=sessione)            # apre la sessione sul portale
     risposta = rete.scarica(CRUSCOTTO, sessione=sessione,
                             intestazioni={"X-Requested-With": "XMLHttpRequest", "Referer": url_pagina})
-    return estrai(risposta.testo, url_pagina, sessione)
+    testo = risposta.testo
+    if "elenco-interpelli-attivi" not in testo and not RE_NON_ATTIVA.search(testo):
+        # ne' l'elenco ne' l'avviso che la scuola non usa la procedura: il portale e' cambiato o non funziona,
+        # e dire "nessun interpello" sarebbe un'affermazione che non si puo' fare
+        raise ErroreRete("risposta inattesa dal portale Axios")
+    return estrai(testo, url_pagina, sessione)

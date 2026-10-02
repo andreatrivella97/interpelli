@@ -110,3 +110,74 @@ class DaUnGiroAllAltro(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class DatiPerLaPagina(unittest.TestCase):
+    """Il controllo completo, con fonti finte: che cosa finisce nei file che la pagina e i giri successivi leggono."""
+
+    def setUp(self):
+        import tempfile
+        from pathlib import Path
+        from unittest import mock
+        import scraper.__main__ as principale
+
+        self.principale = principale
+        self.cartella = tempfile.TemporaryDirectory()
+        self.radice = Path(self.cartella.name)
+        (self.radice / "scuole.yaml").write_text(
+            "scuole:\n"
+            "  - id: prova\n    nome: IC di prova\n    comuni: [Legnano]\n    sito: https://scuola.example/\n"
+            "    fonti:\n      - {tipo: sito, url: 'https://scuola.example/interpelli/'}\n"
+            "  - id: muta\n    nome: IC che non risponde\n    comuni: [Rho]\n    sito: https://muta.example/\n"
+            "    fonti:\n      - {tipo: guasta, url: 'https://muta.example/interpelli/'}\n", encoding="utf-8")
+        (self.radice / "criteri.yaml").write_text("ordini: [infanzia, primaria]\nore_min: 20\nmesi_fine: [6, 7, 8]\n",
+                                                  encoding="utf-8")
+
+        def guasta(*_):
+            raise ErroreRete("ConnectTimeout da muta.example")
+
+        avviso = dal_sito("Interpello primaria posto comune 24 ore fino al 30/06/2027", "https://scuola.example/avviso-1/")
+        avviso.pubblicato = None
+        fonti = {"sito": lambda *_: [avviso], "guasta": guasta}
+        for nome, finto in (("fonti_disponibili", lambda: fonti), ("Rete", lambda **_: mock.Mock(richieste=0)),
+                            ("Lettore", lambda *_, **__: LettoreFinto("Si cerca un docente. Candidature entro il 31/12/2030."))):
+            sostituto = mock.patch.object(principale, nome, finto)
+            sostituto.start()
+            self.addCleanup(sostituto.stop)
+        self.addCleanup(self.cartella.cleanup)
+
+    def dati(self):
+        import json
+        return json.loads((self.radice / "docs" / "dati.json").read_text(encoding="utf-8"))
+
+    def giro(self, *argomenti):
+        import contextlib
+        import io
+        with contextlib.redirect_stdout(io.StringIO()):          # il riepilogo del controllo qui non serve
+            return self.principale.main(["--radice", str(self.radice), *argomenti])
+
+    def test_che_cosa_riceve_la_pagina(self):
+        self.assertEqual(self.giro(), 0)
+        dati = self.dati()
+        self.assertEqual(set(dati), {"generato", "criteri", "scuole", "avvisi"})
+        self.assertEqual([(s["id"], s["stato"]) for s in dati["scuole"]], [("prova", "ok"), ("muta", "errore")])
+        self.assertEqual(dati["scuole"][0]["pagine"], [{"nome": "Pagina sul sito", "url": "https://scuola.example/interpelli/"}])
+        self.assertIsNone(dati["scuole"][1]["ultimo_ok"])
+        (avviso,) = dati["avvisi"]
+        for campo in ("id", "scuola", "titolo", "url", "pagina", "pubblicato", "scadenza", "chiuso", "personale", "posti",
+                      "letto", "prima_vista", "iniziale", "presente"):
+            self.assertIn(campo, avviso)
+        self.assertEqual(avviso["scadenza"], "2030-12-31T23:59")
+        self.assertEqual({k: avviso["posti"][0][k] for k in ("ordini", "tipo", "ore", "fine")},
+                         {"ordini": ["primaria"], "tipo": "comune", "ore": 24, "fine": "2027-06-30"})
+
+    def test_un_passaggio_di_recupero_senza_novita_non_riscrive_i_dati(self):
+        self.giro()
+        file = self.radice / "docs" / "dati.json"
+        segnato = file.read_text(encoding="utf-8") + "\n"         # un segno per accorgersi se il file viene riscritto
+        file.write_text(segnato, encoding="utf-8")
+        self.giro("--salta-recenti", "50")                        # riprova solo la scuola che non risponde: nessuna novita'
+        self.assertEqual(file.read_text(encoding="utf-8"), segnato)
+        self.giro()                                               # un controllo completo invece salva sempre
+        self.assertNotEqual(file.read_text(encoding="utf-8"), segnato)
+        self.assertEqual(len(self.dati()["avvisi"]), 1)
