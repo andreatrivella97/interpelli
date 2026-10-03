@@ -4,16 +4,26 @@ name: Aggiorna interpelli
 # Parte ogni venti minuti, ma rilegge solo le scuole che non sono state lette per intero
 # negli ultimi cinquanta: cosi' ogni scuola e' letta una volta all'ora, e quelle che non
 # hanno risposto vengono riprovate presto (ogni volta da un computer di GitHub diverso).
-# "Run workflow" dalla scheda Actions fa subito un controllo completo.
+# "Run workflow" dalla scheda Actions fa subito un controllo completo, di tutte le scuole.
+#
+# A farlo partire ogni venti minuti e' il flusso "Orologio" (orologio.yml), perche' l'orario
+# qui sotto GitHub lo rispetta solo quando ha posto: resta come riserva, e ogni controllo
+# fa partire l'orologio se lo trova fermo.
 
 on:
   schedule:
     - cron: '7,27,47 * * * *'
   workflow_dispatch:
+    inputs:
+      completo:
+        description: 'Rilegge tutte le scuole, anche quelle lette da poco'
+        type: boolean
+        default: true
 
 permissions:
   contents: write
   pages: write
+  actions: write
 
 concurrency:
   group: aggiorna
@@ -27,11 +37,14 @@ jobs:
       - uses: actions/checkout@v7
       - name: C'è qualche scuola da leggere?
         id: serve
+        env:
+          # vero solo quando il flusso e' avviato a mano per rileggere tutto
+          COMPLETO: ${{ github.event_name == 'workflow_dispatch' && inputs.completo }}
         run: |
-          # Nei passaggi programmati si lavora solo se qualche scuola non e' stata letta per intero
+          # Nei passaggi automatici si lavora solo se qualche scuola non e' stata letta per intero
           # negli ultimi 50 minuti: gli altri passaggi finiscono qui, in pochi secondi.
           da_leggere=1
-          if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ -f stato/archivio.json ]; then
+          if [ "$COMPLETO" != "true" ] && [ -f stato/archivio.json ]; then
             limite=$(TZ=Europe/Rome date -d '50 minutes ago' +%Y-%m-%dT%H:%M)
             da_leggere=$(jq --arg limite "$limite" \
               '[.scuole[] | select(.stato != "manuale") | (.ultimo_ok // "")] | map(select(. < $limite)) | length' \
@@ -53,7 +66,14 @@ jobs:
         if: steps.serve.outputs.da_leggere != '0'
       - name: Controllo dei siti
         if: steps.serve.outputs.da_leggere != '0'
-        run: python -m scraper ${{ github.event_name == 'schedule' && '--salta-recenti 50' || '' }}
+        env:
+          COMPLETO: ${{ github.event_name == 'workflow_dispatch' && inputs.completo }}
+        run: |
+          if [ "$COMPLETO" = "true" ]; then
+            python -m scraper
+          else
+            python -m scraper --salta-recenti 50
+          fi
       - name: Salva i dati nel progetto
         id: salva
         if: steps.serve.outputs.da_leggere != '0'
@@ -78,3 +98,18 @@ jobs:
         run: |
           gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent \
             || echo "Pagina non ancora attivata: Settings > Pages > Deploy from a branch > main, cartella /docs"
+      - name: Tiene vivo l'orologio
+        if: always() && github.ref_name == 'main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Se l'orologio non ha un giro in corso o in attesa, lo fa partire. Un giro fermo da piu' di
+          # un'ora e mezza si considera perso. Nel dubbio (elenco non leggibile) non fa nulla.
+          limite=$(date -u -d '90 minutes ago' +%Y-%m-%dT%H:%M:%SZ)
+          attivi=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/orologio.yml/runs?per_page=30" --jq \
+            "[.workflow_runs[] | select(.status != \"completed\" and .created_at > \"$limite\")] | length") || attivi="?"
+          echo "Giri dell'orologio in corso o in attesa: $attivi"
+          if [ "$attivi" = "0" ]; then
+            gh workflow run orologio.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" \
+              || echo "L'orologio non e' partito (se e' stato disattivato apposta, va bene cosi')."
+          fi
