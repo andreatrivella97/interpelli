@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-03T21:08",
+ "generato": "2026-10-03T21:19",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-03T20:28",
-   "ultimo_controllo": "2026-10-03T20:28"
+   "ultimo_ok": "2026-10-03T21:19",
+   "ultimo_controllo": "2026-10-03T21:19"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-03T20:28",
-   "ultimo_controllo": "2026-10-03T20:28"
+   "ultimo_ok": "2026-10-03T21:19",
+   "ultimo_controllo": "2026-10-03T21:19"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-03T20:28",
-   "ultimo_controllo": "2026-10-03T20:28"
+   "ultimo_ok": "2026-10-03T21:19",
+   "ultimo_controllo": "2026-10-03T21:19"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-03T20:28",
-   "ultimo_controllo": "2026-10-03T20:28"
+   "ultimo_ok": "2026-10-03T21:19",
+   "ultimo_controllo": "2026-10-03T21:19"
   },
   {
    "id": "milano-consolemarcello",
