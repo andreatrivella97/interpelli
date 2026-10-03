@@ -14,6 +14,7 @@ Dal menu del browser può scegliere «Aggiungi a schermata Home» per averla com
 1. Ogni ora GitHub esegue da solo il programma in `scraper/`, che legge le pagine indicate in
    `scuole.yaml`, apre i documenti degli avvisi e ne ricava ordine di scuola, ore, durata e
    termine per candidarsi. Le scuole che non hanno risposto vengono riprovate ogni venti minuti.
+   A dare il tempo è l'«orologio» descritto più sotto.
 2. Il risultato viene salvato in `docs/dati.json` (quello che la pagina mostra) e in
    `stato/archivio.json` (la memoria di ciò che è già stato visto e letto).
 3. La pagina `docs/index.html` legge quel file. I segni «candidato» e «scartato» e i criteri
@@ -26,6 +27,24 @@ Non c'è nessun server da mantenere e nessun costo.
 Nel progetto su GitHub: **Settings → Pages → Build and deployment → Source: «Deploy from a
 branch»**, poi branch **main** e cartella **/docs**, e **Save**. Dopo un minuto la pagina è
 all'indirizzo qui sopra.
+
+## Far partire l'orologio (una volta sola)
+
+GitHub permette di programmare un controllo a orari fissi, ma li rispetta solo quando ha posto:
+nelle prime dieci ore di questo progetto ha fatto partire due controlli su trenta. Per questo a
+dare il tempo è un secondo flusso, **Orologio**: aspetta venti minuti, fa partire il controllo,
+si rilancia, e così via. L'attesa è una regola che va impostata a mano, una volta:
+
+**Settings → Environments → attesa → spunta «Wait timer» → 20 → Save protection rules.**
+
+(Se `attesa` non è nell'elenco: «New environment», nome `attesa`.)
+
+Non c'è altro da fare: il primo controllo che parte dopo, da solo o con «Run workflow», avvia
+l'orologio. Quando gira, in **Actions → Orologio** c'è sempre un'esecuzione in attesa (pallino
+giallo) e una nuova ogni venti minuti. Senza quella regola l'orologio si ferma subito, con un
+avviso, e i controlli partono solo quando GitHub rispetta l'orario.
+
+Per fermarlo: **Actions → Orologio → «…» → Disable workflow**.
 
 ## Cambiare che cosa «fa per te»
 
@@ -53,7 +72,10 @@ GitHub (icona della matita): al controllo successivo la scuola compare nella pag
   l'ultima volta e offre il link per guardarla a mano.
 - Se in alto compare «I dati sono fermi a…», il controllo automatico non sta girando: nella
   scheda **Actions** del progetto si vede l'ultima esecuzione di «Aggiorna interpelli» e il
-  suo registro. Da lì «Run workflow» fa partire subito un controllo completo.
+  suo registro. Da lì «Run workflow» fa partire subito un controllo completo, che alla fine
+  rimette in moto anche l'orologio se lo trova fermo.
+- Se l'orologio si ferma da solo (un guasto di GitHub, per esempio), lo fa ripartire il primo
+  controllo che GitHub avvia all'orario programmato: può volerci qualche ora.
 - GitHub sospende i controlli programmati se il progetto resta fermo 60 giorni; qui non
   succede, perché ogni controllo salva i dati nel progetto.
 
@@ -83,7 +105,8 @@ scraper/archivio.py           memoria tra un controllo e l'altro, scelta di che 
 scraper/__main__.py           il controllo completo
 docs/                         la pagina pubblicata
 tests/                        prove delle regole su avvisi veri (senza nomi di persone)
-.github/workflows/            aggiorna.yml (ogni ora), prova.yml (sui rami di lavoro)
+.github/workflows/            aggiorna.yml (il controllo), orologio.yml (lo fa partire ogni
+                              venti minuti), prova.yml (sui rami di lavoro)
 ```
 
 Per provare sul proprio computer servono Python 3.11 o successivo e, per i PDF, `poppler-utils`
