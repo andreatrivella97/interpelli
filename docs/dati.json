@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-03T17:07",
+ "generato": "2026-10-03T17:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-03T16:26",
-   "ultimo_controllo": "2026-10-03T16:26"
+   "ultimo_controllo": "2026-10-03T17:27"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-03T16:26",
-   "ultimo_controllo": "2026-10-03T16:26"
+   "ultimo_controllo": "2026-10-03T17:27"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-03T16:26",
-   "ultimo_controllo": "2026-10-03T16:26"
+   "ultimo_controllo": "2026-10-03T17:27"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-03T16:26",
-   "ultimo_controllo": "2026-10-03T16:26"
+   "ultimo_controllo": "2026-10-03T17:27"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-03T16:26",
-   "ultimo_controllo": "2026-10-03T16:26"
+   "ultimo_controllo": "2026-10-03T17:27"
   },
   {
    "id": "magnago",
