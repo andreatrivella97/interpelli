@@ -14197,64 +14197,56 @@
     "axios:93546630158": 0,
     "pagina:https://www.icsannafrankrho.edu.it/": 3
    },
-   "errori": [
-    "risposta 403 da www.icsannafrankrho.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93546630158": "2026-10-03T00:06",
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-03T20:08",
-   "ultimo_ok": "2026-10-03T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-03T20:28",
+   "ultimo_ok": "2026-10-03T20:28"
   },
   "rho-deandre": {
    "conteggi": {
     "axios:93527170158": 0,
     "pagina:https://www.icdeandrerho.edu.it/": 2
    },
-   "errori": [
-    "risposta 403 da www.icdeandrerho.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527170158": "2026-10-03T00:06",
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-03T20:08",
-   "ultimo_ok": "2026-10-03T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-03T20:28",
+   "ultimo_ok": "2026-10-03T20:28"
   },
   "rho-franceschini": {
    "conteggi": {
     "axios:93546600151": 0,
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": 34
    },
-   "errori": [
-    "risposta 403 da www.icsfranceschini.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93546600151": "2026-10-03T00:06",
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-03T20:08",
-   "ultimo_ok": "2026-10-03T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-03T20:28",
+   "ultimo_ok": "2026-10-03T20:28"
   },
   "rho-grossi": {
    "conteggi": {
     "axios:93546620159": 0,
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": 32
    },
-   "errori": [
-    "risposta 403 da www.icgrossirho.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93546620159": "2026-10-03T00:06",
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-03T20:08",
-   "ultimo_ok": "2026-10-03T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-03T20:28",
+   "ultimo_ok": "2026-10-03T20:28"
   },
   "sanvittore": {
    "conteggi": {

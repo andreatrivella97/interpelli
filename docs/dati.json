@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-03T20:08",
+ "generato": "2026-10-03T20:28",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -525,12 +525,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da www.icdeandrerho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-03T19:07",
-   "ultimo_controllo": "2026-10-03T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T20:28",
+   "ultimo_controllo": "2026-10-03T20:28"
   },
   {
    "id": "rho-grossi",
@@ -551,12 +549,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da www.icgrossirho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-03T19:07",
-   "ultimo_controllo": "2026-10-03T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T20:28",
+   "ultimo_controllo": "2026-10-03T20:28"
   },
   {
    "id": "rho-annafrank",
@@ -577,12 +573,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-03T19:07",
-   "ultimo_controllo": "2026-10-03T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T20:28",
+   "ultimo_controllo": "2026-10-03T20:28"
   },
   {
    "id": "rho-franceschini",
@@ -603,12 +597,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da www.icsfranceschini.edu.it"
-   ],
-   "ultimo_ok": "2026-10-03T19:07",
-   "ultimo_controllo": "2026-10-03T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-03T20:28",
+   "ultimo_controllo": "2026-10-03T20:28"
   },
   {
    "id": "milano-consolemarcello",
