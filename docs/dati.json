@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-04T23:16",
+ "generato": "2026-10-04T23:23",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-04T22:03",
-   "ultimo_controllo": "2026-10-04T23:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-04T23:23",
+   "ultimo_controllo": "2026-10-04T23:23"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-04T22:03",
-   "ultimo_controllo": "2026-10-04T23:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-04T23:23",
+   "ultimo_controllo": "2026-10-04T23:23"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-04T22:03",
-   "ultimo_controllo": "2026-10-04T23:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-04T23:23",
+   "ultimo_controllo": "2026-10-04T23:23"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-04T22:03",
-   "ultimo_controllo": "2026-10-04T23:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-04T23:23",
+   "ultimo_controllo": "2026-10-04T23:23"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-04T22:03",
-   "ultimo_controllo": "2026-10-04T23:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-04T23:23",
+   "ultimo_controllo": "2026-10-04T23:23"
   },
   {
    "id": "magnago",
