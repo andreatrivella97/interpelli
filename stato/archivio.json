@@ -7567,6 +7567,122 @@
    "ultima_vista": "2026-10-05",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/aa5araplqp"
   },
+  "8a7e04877367": {
+   "chiave_titolo": "interpellon2perlaclassediconcorsoadaan25oredal14092026al14122026",
+   "chiavi_file": [
+    "674c097e739c4198a5f58834ab56ffe5"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "8a7e04877367",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2026-12-14",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "CONTRATTO ADAA 1 25 14/12/2026 Sede/i di servizio: scuola dell'Infanzia Gianni R",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-05T16:12",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/674c097e-739c-4198-a5f5-8834ab56ffe5"
+   ],
+   "pubblicato": "2026-09-28",
+   "regole": 1,
+   "scadenza": "2026-09-30T12:00",
+   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 12,00 del giorno 30 Settembre 2026 la propria disponibilità al c",
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello N. 2 per la classe di concorso ADAA n. 25 ore dal 14092026 al 14122026"
+   ],
+   "titolo": "Interpello N. 2 per la classe di concorso ADAA n. 25 ore dal 14092026 al 14122026",
+   "ultima_vista": "2026-10-05",
+   "url": "https://www.icscanegrate.edu.it/assets/files/674c097e-739c-4198-a5f5-8834ab56ffe5/"
+  },
+  "8c26fe84fbd9": {
+   "chiave_titolo": "interpellon1icsaldomorocanegrate11",
+   "chiavi_file": [
+    "2e6d936e043744bfa4bd59b82b34361d"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "8c26fe84fbd9",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "CONTRATTO ADEE 7 24 30/06/2027 ADEE 1 12 30/06/2027 Sede/i di servizio: scuola P",
+     "tipo": "sostegno"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 12,
+     "prova": "0/06/2027 ADEE 1 12 30/06/2027 Sede/i di servizio: scuola Primaria Aldo Moro via",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-05T16:12",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/2e6d936e-0437-44bf-a4bd-59b82b34361d"
+   ],
+   "pubblicato": "2026-09-24",
+   "regole": 1,
+   "scadenza": "2026-09-25T15:00",
+   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 15,00 del giorno 25 Settembre 2026 la propria disponibilità al c",
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N 1 ICS ALDO MORO CANEGRATE (1) (1)"
+   ],
+   "titolo": "INTERPELLO N 1 ICS ALDO MORO CANEGRATE (1) (1)",
+   "ultima_vista": "2026-10-05",
+   "url": "https://www.icscanegrate.edu.it/assets/files/2e6d936e-0437-44bf-a4bd-59b82b34361d/"
+  },
   "8c2bf9b8750c": {
    "chiave_titolo": "interpellon15del18022025scuolainfanziapostodisostegno",
    "chiavi_file": [],
@@ -8688,7 +8804,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icscanegrate.edu.it/assets/files/87a359ef-f550-4678-8e7f-13226a301aa3"
@@ -9605,7 +9721,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97"
@@ -9752,7 +9868,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2"
@@ -14127,6 +14243,58 @@
    "titolo": "PRIMO INTERPELLO INFANZIA PER LA COPERTURA DI POSTI ART. 13 C. 23 O.M.88/2024",
    "ultima_vista": "2026-10-05",
    "url": "https://icscairoli.edu.it/2025/11/03/avviso-dinterpello-per-la-copertura-di-posti-art-13-c-23-o-m-88-2024-6/"
+  },
+  "ffc340a3bbec": {
+   "chiave_titolo": "interpellon3eeeealdomoroprimaria2",
+   "chiavi_file": [
+    "cdb99b177c664edca80858188afae626"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "ffc340a3bbec",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-08",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "VIZIO POSTI CONCORSO ORE CONTRATTO POSTO SET- TIMA NALI EEEE Fino all'8/06/2027 1 Posto Comune 22+2 Supplenza Scuola Pr",
+     "tipo": "comune"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-05T16:12",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/cdb99b17-7c66-4edc-a808-58188afae626"
+   ],
+   "pubblicato": "2026-10-05",
+   "regole": 1,
+   "scadenza": "2026-10-07T07:00",
+   "scadenza_prova": "ink https://forms.gle/d5Ts1KEosJ9YEN7D7 entro le ore 07:00 del giorno 07/10/2026 utilizzando tassativamente il",
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA (2)"
+   ],
+   "titolo": "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA (2)",
+   "ultima_vista": "2026-10-05",
+   "url": "https://www.icscanegrate.edu.it/assets/files/cdb99b17-7c66-4edc-a808-58188afae626/"
   }
  },
  "scuole": {
@@ -14279,16 +14447,14 @@
     "axios:84004750158": 0,
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 3
    },
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-05T15:51",
-   "ultimo_ok": "2026-10-05T14:42"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-05T16:12",
+   "ultimo_ok": "2026-10-05T16:12"
   },
   "castellanza": {
    "conteggi": {
@@ -14399,16 +14565,14 @@
     "axios:92044520150": 0,
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 3
    },
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-05T15:51",
-   "ultimo_ok": "2026-10-05T14:42"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-05T16:12",
+   "ultimo_ok": "2026-10-05T16:12"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -14443,16 +14607,14 @@
     "axios:84003710153": 0,
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 4
    },
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-05T15:51",
-   "ultimo_ok": "2026-10-05T14:42"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-05T16:12",
+   "ultimo_ok": "2026-10-05T16:12"
   },
   "magnago": {
    "conteggi": {
@@ -14539,16 +14701,14 @@
     "axios:84004110155": 0,
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-05T15:51",
-   "ultimo_ok": "2026-10-05T14:42"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-05T16:12",
+   "ultimo_ok": "2026-10-05T16:12"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -14625,16 +14785,14 @@
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-05T15:51",
-   "ultimo_ok": "2026-10-05T14:42"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-05T16:12",
+   "ultimo_ok": "2026-10-05T16:12"
   },
   "saronno-davinci": {
    "conteggi": {

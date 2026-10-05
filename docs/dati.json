@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-05T15:51",
+ "generato": "2026-10-05T16:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-05T14:42",
-   "ultimo_controllo": "2026-10-05T15:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-05T16:12",
+   "ultimo_controllo": "2026-10-05T16:12"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-05T14:42",
-   "ultimo_controllo": "2026-10-05T15:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-05T16:12",
+   "ultimo_controllo": "2026-10-05T16:12"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-05T14:42",
-   "ultimo_controllo": "2026-10-05T15:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-05T16:12",
+   "ultimo_controllo": "2026-10-05T16:12"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-05T14:42",
-   "ultimo_controllo": "2026-10-05T15:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-05T16:12",
+   "ultimo_controllo": "2026-10-05T16:12"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-05T14:42",
-   "ultimo_controllo": "2026-10-05T15:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-05T16:12",
+   "ultimo_controllo": "2026-10-05T16:12"
   },
   {
    "id": "magnago",
@@ -1180,7 +1170,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
@@ -1257,6 +1247,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-05T11:29",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "ffc340a3bbec",
+   "scuola": "canegrate",
+   "titolo": "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA (2)",
+   "url": "https://www.icscanegrate.edu.it/assets/files/cdb99b17-7c66-4edc-a808-58188afae626/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-05",
+   "scadenza": "2026-10-07T07:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "ink https://forms.gle/d5Ts1KEosJ9YEN7D7 entro le ore 07:00 del giorno 07/10/2026 utilizzando tassativamente il",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-08",
+     "fine_nota": null,
+     "prova": "VIZIO POSTI CONCORSO ORE CONTRATTO POSTO SET- TIMA NALI EEEE Fino all'8/06/2027 1 Posto Comune 22+2 Supplenza Scuola Pr"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-05T16:12",
    "iniziale": false,
    "presente": true
   },
@@ -1963,6 +1992,45 @@
    "presente": true
   },
   {
+   "id": "8a7e04877367",
+   "scuola": "canegrate",
+   "titolo": "Interpello N. 2 per la classe di concorso ADAA n. 25 ore dal 14092026 al 14122026",
+   "url": "https://www.icscanegrate.edu.it/assets/files/674c097e-739c-4198-a5f5-8834ab56ffe5/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-09-28",
+   "scadenza": "2026-09-30T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 12,00 del giorno 30 Settembre 2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": 25,
+     "intero": false,
+     "inizio": null,
+     "fine": "2026-12-14",
+     "fine_nota": null,
+     "prova": "CONTRATTO ADAA 1 25 14/12/2026 Sede/i di servizio: scuola dell'Infanzia Gianni R"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-05T16:12",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "9a3abf52a04b",
    "scuola": "saronno-davinci",
    "titolo": "INTERPELLO N. 3 SUPPLENZE BREVI POSTO COMUNE E SOSTEGNO SCUOLA PRIMARIA prot. 5669 del 28-09-2026",
@@ -2208,7 +2276,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   }
  ]
 }
