@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-06T12:08",
+ "generato": "2026-10-06T12:28",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T11:07",
-   "ultimo_controllo": "2026-10-06T12:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T12:28",
+   "ultimo_controllo": "2026-10-06T12:28"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T11:07",
-   "ultimo_controllo": "2026-10-06T12:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T12:28",
+   "ultimo_controllo": "2026-10-06T12:28"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T11:07",
-   "ultimo_controllo": "2026-10-06T12:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T12:28",
+   "ultimo_controllo": "2026-10-06T12:28"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T11:07",
-   "ultimo_controllo": "2026-10-06T12:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T12:28",
+   "ultimo_controllo": "2026-10-06T12:28"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T11:07",
-   "ultimo_controllo": "2026-10-06T12:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T12:28",
+   "ultimo_controllo": "2026-10-06T12:28"
   },
   {
    "id": "magnago",
@@ -1045,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,"
+     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1123,16 +1113,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,"
+     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1297,7 +1287,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
@@ -2403,7 +2393,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   }
  ]
 }
