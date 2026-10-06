@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-06T10:07",
+ "generato": "2026-10-06T10:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -877,10 +877,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 502 da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T09:27",
-   "ultimo_controllo": "2026-10-06T09:27"
+   "ultimo_controllo": "2026-10-06T10:27"
   },
   {
    "id": "fagnano",
@@ -1035,16 +1037,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-10-16",
+     "fine_nota": null,
+     "inizio": "2026-10-08",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-10-08",
-     "fine": "2026-10-16",
-     "fine_nota": null,
-     "prova": "CONTRATTO EEEE posto comune primaria 1 24 08/10/2026 16/10/2026 INTERPELLA tutti i docenti forniti dell'abilitazi"
+     "prova": "CONTRATTO EEEE posto comune primaria 1 24 08/10/2026 16/10/2026 INTERPELLA tutti i docenti forniti dell'abilitazi",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
