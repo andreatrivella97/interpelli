@@ -14837,16 +14837,14 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [
-    "risposta 502 da icmoro.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-06T09:06",
-   "ultimo_ok": "2026-10-06T08:06"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-06T09:27",
+   "ultimo_ok": "2026-10-06T09:27"
   },
   "uboldo": {
    "conteggi": {

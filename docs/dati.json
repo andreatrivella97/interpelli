@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-06T09:06",
+ "generato": "2026-10-06T09:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -877,12 +877,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 502 da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-10-06T08:06",
-   "ultimo_controllo": "2026-10-06T09:06"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-06T09:27",
+   "ultimo_controllo": "2026-10-06T09:27"
   },
   {
    "id": "fagnano",
