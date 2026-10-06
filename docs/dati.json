@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-06T09:27",
+ "generato": "2026-10-06T09:47",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T08:46",
-   "ultimo_controllo": "2026-10-06T08:46"
+   "ultimo_controllo": "2026-10-06T09:47"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T08:46",
-   "ultimo_controllo": "2026-10-06T08:46"
+   "ultimo_controllo": "2026-10-06T09:47"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T08:46",
-   "ultimo_controllo": "2026-10-06T08:46"
+   "ultimo_controllo": "2026-10-06T09:47"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T08:46",
-   "ultimo_controllo": "2026-10-06T08:46"
+   "ultimo_controllo": "2026-10-06T09:47"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-06T08:46",
-   "ultimo_controllo": "2026-10-06T08:46"
+   "ultimo_controllo": "2026-10-06T09:47"
   },
   {
    "id": "magnago",
@@ -1170,7 +1180,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -2276,7 +2286,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   }
  ]
 }
