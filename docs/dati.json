@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-06T19:32",
+ "generato": "2026-10-06T19:52",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-06T18:52",
-   "ultimo_controllo": "2026-10-06T18:52"
+   "ultimo_ok": "2026-10-06T19:52",
+   "ultimo_controllo": "2026-10-06T19:52"
   },
   {
    "id": "fagnano",
