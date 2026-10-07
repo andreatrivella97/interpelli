@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T10:20",
+ "generato": "2026-10-07T10:41",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T09:40",
-   "ultimo_controllo": "2026-10-07T09:40"
+   "ultimo_ok": "2026-10-07T10:41",
+   "ultimo_controllo": "2026-10-07T10:41"
   },
   {
    "id": "busto-galilei",
@@ -762,8 +762,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T09:40",
-   "ultimo_controllo": "2026-10-07T09:40"
+   "ultimo_ok": "2026-10-07T10:41",
+   "ultimo_controllo": "2026-10-07T10:41"
   },
   {
    "id": "busto-tommaseo",
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-11-13",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-11-13",
-     "fine_nota": null,
-     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE fino al 13/11/2026; Tutti gli interessati sono tenuti a pr"
+     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE fino al 13/11/2026; Tutti gli interessati sono tenuti a pr",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1074,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "comune",
      "ore": 5,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "attedra di 12,50 IC Lamarmora + 10,00 IC di Pero lasciando Vacante le 5 ore presso il nostro Istituto; RILEVATA la necessità di coprire le 5 ore vacanti fino al 30/06/2027; SI RENDE NOTO la ripubblicazione dell'"
+     "prova": "attedra di 12,50 IC Lamarmora + 10,00 IC di Pero lasciando Vacante le 5 ore presso il nostro Istituto; RILEVATA la necessità di coprire le 5 ore vacanti fino al 30/06/2027; SI RENDE NOTO la ripubblicazione dell'",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
