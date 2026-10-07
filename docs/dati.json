@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T13:22",
+ "generato": "2026-10-07T13:42",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T12:21",
-   "ultimo_controllo": "2026-10-07T13:22"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T12:21",
-   "ultimo_controllo": "2026-10-07T13:22"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T12:21",
-   "ultimo_controllo": "2026-10-07T13:22"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T12:21",
-   "ultimo_controllo": "2026-10-07T13:22"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T12:21",
-   "ultimo_controllo": "2026-10-07T13:22"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "magnago",
@@ -725,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T12:42",
-   "ultimo_controllo": "2026-10-07T12:42"
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "busto-galilei",
@@ -772,8 +762,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T12:42",
-   "ultimo_controllo": "2026-10-07T12:42"
+   "ultimo_ok": "2026-10-07T13:42",
+   "ultimo_controllo": "2026-10-07T13:42"
   },
   {
    "id": "busto-tommaseo",
@@ -1099,6 +1089,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-07T10:20",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "ec944c1f6e8c",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/INTERPELLO%20FINO%20A%2010%20GIORNI%20-%20scuola%20infanzia.pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-07",
+   "scadenza": "2026-10-09T11:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-07T13:42",
    "iniziale": false,
    "presente": true
   },
@@ -1453,7 +1482,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",

@@ -9001,7 +9001,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icscanegrate.edu.it/assets/files/87a359ef-f550-4678-8e7f-13226a301aa3"
@@ -9918,7 +9918,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97"
@@ -10065,7 +10065,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2"
@@ -13516,6 +13516,59 @@
    "ultima_vista": "2026-10-07",
    "url": "https://www.scuoledicerro.edu.it/pvw2/app/default/tools.php?act=downloadFile&id=1862"
   },
+  "ec944c1f6e8c": {
+   "chiave_titolo": "interpellopersupplenzefinoa10giornipostocomuneepostosostegnoscuoladellinfanzia",
+   "chiavi_file": [
+    "interpellofinoa10giorniscuolainfanzia"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "ec944c1f6e8c",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-07T13:42",
+   "provati": [
+    "icsviadeisalici.edu.it/uploads/files/INTERPELLO%20FINO%20A%2010%20GIORNI%20-%20scuola%20infanzia.pdf"
+   ],
+   "pubblicato": "2026-10-07",
+   "regole": 1,
+   "scadenza": "2026-10-09T11:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "legnano-salici",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA"
+   ],
+   "titolo": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
+   "ultima_vista": "2026-10-07",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/INTERPELLO%20FINO%20A%2010%20GIORNI%20-%20scuola%20infanzia.pdf"
+  },
   "eda00aabd0c2": {
    "chiave_titolo": "scuoladellinfanziapostocomuneaaaa",
    "chiavi_file": [
@@ -14742,8 +14795,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-07T12:42",
-   "ultimo_ok": "2026-10-07T12:42"
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "busto-galilei": {
    "conteggi": {
@@ -14768,8 +14821,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-07T12:42",
-   "ultimo_ok": "2026-10-07T12:42"
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "busto-tommaseo": {
    "conteggi": {
@@ -14800,16 +14853,14 @@
     "axios:84004750158": 0,
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 3
    },
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-07T13:22",
-   "ultimo_ok": "2026-10-07T12:21"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "castellanza": {
    "conteggi": {
@@ -14920,16 +14971,14 @@
     "axios:92044520150": 0,
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 3
    },
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-07T13:22",
-   "ultimo_ok": "2026-10-07T12:21"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -14962,18 +15011,16 @@
   "legnano-salici": {
    "conteggi": {
     "axios:84003710153": 0,
-    "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 4
+    "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 5
    },
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-07T13:22",
-   "ultimo_ok": "2026-10-07T12:21"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "magnago": {
    "conteggi": {
@@ -15060,16 +15107,14 @@
     "axios:84004110155": 0,
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-07T13:22",
-   "ultimo_ok": "2026-10-07T12:21"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -15146,16 +15191,14 @@
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-07T13:22",
-   "ultimo_ok": "2026-10-07T12:21"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-07T13:42",
+   "ultimo_ok": "2026-10-07T13:42"
   },
   "saronno-davinci": {
    "conteggi": {
