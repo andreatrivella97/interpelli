@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T14:42",
+ "generato": "2026-10-07T15:03",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -760,12 +760,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icpertinibusto.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T14:42"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-07T15:03",
+   "ultimo_controllo": "2026-10-07T15:03"
   },
   {
    "id": "busto-tommaseo",
@@ -881,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T14:02",
-   "ultimo_controllo": "2026-10-07T14:02"
+   "ultimo_ok": "2026-10-07T15:03",
+   "ultimo_controllo": "2026-10-07T15:03"
   },
   {
    "id": "fagnano",
