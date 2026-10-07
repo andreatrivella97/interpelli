@@ -14912,13 +14912,15 @@
     "axios:81014010128": 0,
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": 10
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da icpertinibusto.edu.it"
+   ],
    "fonti_viste": {
     "axios:81014010128": "2026-10-03T00:06",
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-07T17:04",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-07T18:04",
    "ultimo_ok": "2026-10-07T17:04"
   },
   "busto-tommaseo": {
@@ -15346,8 +15348,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-07T17:04",
-   "ultimo_ok": "2026-10-07T17:04"
+   "ultimo_controllo": "2026-10-07T18:04",
+   "ultimo_ok": "2026-10-07T18:04"
   },
   "uboldo": {
    "conteggi": {
