@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T14:22",
+ "generato": "2026-10-07T14:42",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "magnago",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_ok": "2026-10-07T14:42",
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "busto-galilei",
@@ -760,10 +760,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icpertinibusto.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T13:42",
-   "ultimo_controllo": "2026-10-07T13:42"
+   "ultimo_controllo": "2026-10-07T14:42"
   },
   {
    "id": "busto-tommaseo",
