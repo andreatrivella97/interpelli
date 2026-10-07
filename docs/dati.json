@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T12:42",
+ "generato": "2026-10-07T13:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T12:01",
-   "ultimo_controllo": "2026-10-07T12:01"
+   "ultimo_ok": "2026-10-07T13:02",
+   "ultimo_controllo": "2026-10-07T13:02"
   },
   {
    "id": "fagnano",
@@ -2178,45 +2178,6 @@
      "ore": 25,
      "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 30.10.2026 Questa Istituzione scolastica, ai sensi",
      "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "d0e179f981c4",
-   "scuola": "villacortese",
-   "titolo": "02- INTERPELLO n 1 SOSTEGNO ADMM 18.10.2026",
-   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/02-_INTERPELLO_n_1_SOSTEGNO_ADMM_18.10.2026.pdf.pades_.pdf?x49255",
-   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-29",
-   "scadenza": "2026-09-30T13:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a comunicare entro e non oltre le ore 13.00 del 30.09.2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-18",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": 18,
-     "prova": "ocente per il conferimento di supplenze per N.1 POSTO SOSTEGNO ADMM - 18 ore fino al 18.10.26 Tutti gli interessati sono tenuti a com",
-     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
