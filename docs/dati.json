@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T13:42",
+ "generato": "2026-10-07T14:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T13:02",
-   "ultimo_controllo": "2026-10-07T13:02"
+   "ultimo_ok": "2026-10-07T14:02",
+   "ultimo_controllo": "2026-10-07T14:02"
   },
   {
    "id": "fagnano",
@@ -1113,16 +1113,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA"
+     "prova": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
