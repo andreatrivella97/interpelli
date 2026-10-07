@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T09:19",
+ "generato": "2026-10-07T09:40",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T08:39",
-   "ultimo_controllo": "2026-10-07T08:39"
+   "ultimo_ok": "2026-10-07T09:40",
+   "ultimo_controllo": "2026-10-07T09:40"
   },
   {
    "id": "busto-galilei",
@@ -762,8 +762,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T08:39",
-   "ultimo_controllo": "2026-10-07T08:39"
+   "ultimo_ok": "2026-10-07T09:40",
+   "ultimo_controllo": "2026-10-07T09:40"
   },
   {
    "id": "busto-tommaseo",
@@ -2184,57 +2184,6 @@
    "nota": null,
    "prima_vista": "2026-10-05T16:12",
    "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "9a3abf52a04b",
-   "scuola": "saronno-davinci",
-   "titolo": "INTERPELLO N. 3 SUPPLENZE BREVI POSTO COMUNE E SOSTEGNO SCUOLA PRIMARIA prot. 5669 del 28-09-2026",
-   "url": "https://www.istitutocomprensivodavinci.edu.it/wp/wp-content/uploads/2026/09/Interpello-prot.-5669-del-28-09-2026-supplenz-brevi-scuola-primaria-posto-comune-e-sostegno.docx",
-   "pagina": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-28",
-   "scadenza": "2026-09-30T09:30",
-   "scadenza_certa": null,
-   "scadenza_prova": "nteressati sono tenuti a presentare entro e non oltre le ore 9:30 del 30 settembre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-16",
-     "fine_nota": null,
-     "inizio": "2026-09-30",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 30/09/2026 al 16/10/2026; N.1 posto comune scuola primaria 24 or",
-     "tipo": "comune"
-    },
-    {
-     "fine": "2026-10-03",
-     "fine_nota": null,
-     "inizio": "2026-09-30",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "i EEEE dal 30/09/2026 al 16/10/2026; N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 30/09/2026 presumibilmente per 10 giorni; N.1 posto di sostegno scuola primaria 24 ore settimanali ADEE dal 30/09/2026 al 03/10/2026. Tutti gli interessati sono tenuti a pr",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
    "presente": true
   },
   {
