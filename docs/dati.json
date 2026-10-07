@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T23:47",
+ "generato": "2026-10-08T00:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T23:07",
-   "ultimo_controllo": "2026-10-07T23:07"
+   "ultimo_ok": "2026-10-08T00:12",
+   "ultimo_controllo": "2026-10-08T00:12"
   },
   {
    "id": "fagnano",
@@ -2414,45 +2414,6 @@
      "ore": null,
      "prova": "Interpello strumento musicale AI56 e AB56 Scuola Secondaria di 1° grado I.C. Bossi",
      "tipo": null
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "7804a90ede4d",
-   "scuola": "busto-bossi",
-   "titolo": "Interpello Scuola primaria posti ADEE, EEEE (ALTERNATIVA IRC) - IC \"G.A. BOSSI\" - BUSTO A.",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/j1l0h2fqtj",
-   "pagina": "https://www.icbossibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-09-23",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello Scuola primaria posti ADEE, EEEE (ALTERNATIVA IRC) - IC \"G.A. BOSSI\" - BUSTO A",
-     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
