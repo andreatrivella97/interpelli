@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T11:41",
+ "generato": "2026-10-07T12:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "magnago",
@@ -879,8 +889,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T11:01",
-   "ultimo_controllo": "2026-10-07T11:01"
+   "ultimo_ok": "2026-10-07T12:01",
+   "ultimo_controllo": "2026-10-07T12:01"
   },
   {
    "id": "fagnano",
@@ -1443,7 +1453,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -2226,45 +2236,6 @@
    "presente": true
   },
   {
-   "id": "8a7e04877367",
-   "scuola": "canegrate",
-   "titolo": "Interpello N. 2 per la classe di concorso ADAA n. 25 ore dal 14092026 al 14122026",
-   "url": "https://www.icscanegrate.edu.it/assets/files/674c097e-739c-4198-a5f5-8834ab56ffe5/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-28",
-   "scadenza": "2026-09-30T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 12,00 del giorno 30 Settembre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-14",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "CONTRATTO ADAA 1 25 14/12/2026 Sede/i di servizio: scuola dell'Infanzia Gianni R",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T16:12",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "cbf2339964ee",
    "scuola": "busto-tommaseo",
    "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso AAAA posto comune nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 20262027",
@@ -2421,45 +2392,6 @@
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": true
-  },
-  {
-   "id": "b00eb1482554",
-   "scuola": "canegrate",
-   "titolo": "Interpello N. 2 per la classe di concorso ADAA, n. 25 ore, dal 14092026 al 14122026",
-   "url": "https://www.icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-10",
-   "scadenza": "2026-09-30T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 12,00 del giorno 30 Settembre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-14",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "CONTRATTO ADAA 1 25 14/12/2026 Sede/i di servizio: scuola dell'Infanzia Gianni R",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T14:42",
-   "iniziale": false,
-   "presente": false
   }
  ]
 }
