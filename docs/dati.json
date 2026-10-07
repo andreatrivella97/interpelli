@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-07T08:20",
+ "generato": "2026-10-07T08:39",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-07T07:18",
-   "ultimo_controllo": "2026-10-07T08:20"
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-07T07:18",
-   "ultimo_controllo": "2026-10-07T08:20"
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-07T07:18",
-   "ultimo_controllo": "2026-10-07T08:20"
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-07T07:18",
-   "ultimo_controllo": "2026-10-07T08:20"
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-07T07:18",
-   "ultimo_controllo": "2026-10-07T08:20"
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "magnago",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T07:39",
-   "ultimo_controllo": "2026-10-07T07:39"
+   "ultimo_ok": "2026-10-07T08:39",
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "busto-galilei",
@@ -772,8 +772,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-07T07:39",
-   "ultimo_controllo": "2026-10-07T07:39"
+   "ultimo_ok": "2026-10-07T08:39",
+   "ultimo_controllo": "2026-10-07T08:39"
   },
   {
    "id": "busto-tommaseo",
