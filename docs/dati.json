@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T08:51",
+ "generato": "2026-10-08T09:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-08T07:51",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-08T07:51",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-08T07:51",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-08T07:51",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-08T07:51",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "magnago",
@@ -636,7 +636,7 @@
     "risposta 404 da www.consolemarcello.edu.it"
    ],
    "ultimo_ok": "2026-10-07T23:47",
-   "ultimo_controllo": "2026-10-08T08:51"
+   "ultimo_controllo": "2026-10-08T09:12"
   },
   {
    "id": "busto-bertacchi",
@@ -2228,45 +2228,6 @@
      ],
      "ore": 24,
      "prova": "nza temporanea classe di concorso EEEE - scuola primaria posto Comune 24 ore settimanali fino al 18 ottobre 2026; Sede di servizio scuola primaria IC Co",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "220f97abe2ff",
-   "scuola": "busto-pertini",
-   "titolo": "INTERPELLO N. 1 POSTO COMUNE AAAA fino al 11/10/2026",
-   "url": "https://icpertinibusto.edu.it/documento/interpello-n-1-posto-comune-aaaa/",
-   "pagina": "https://icpertinibusto.edu.it/argomento/interpello/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-30",
-   "scadenza": "2026-10-01T09:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "one, unicamente tramite mail da inviare entro le ore 09:00 del giorno 01/10/2026, all'indirizzo: interpelli.ic",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-11",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "rsonale docente per il conferimento del seguente incarico: n. 1 posto 25 h. settimanali - Scuola Infanzia (posto comune AAAA) fino al 11/10/2026 Il Il/la candidato/a dovrà far pervenir",
      "tipo": "comune"
     }
    ],
