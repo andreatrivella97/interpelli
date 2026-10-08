@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T03:49",
+ "generato": "2026-10-08T04:09",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -626,7 +626,7 @@
     "risposta 404 da www.consolemarcello.edu.it"
    ],
    "ultimo_ok": "2026-10-07T23:47",
-   "ultimo_controllo": "2026-10-08T03:49"
+   "ultimo_controllo": "2026-10-08T04:09"
   },
   {
    "id": "busto-bertacchi",
@@ -881,8 +881,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T03:09",
-   "ultimo_controllo": "2026-10-08T03:09"
+   "ultimo_ok": "2026-10-08T04:09",
+   "ultimo_controllo": "2026-10-08T04:09"
   },
   {
    "id": "fagnano",
