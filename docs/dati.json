@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T18:57",
+ "generato": "2026-10-08T19:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "magnago",
@@ -723,12 +713,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T17:57",
-   "ultimo_controllo": "2026-10-08T18:57"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T19:17",
+   "ultimo_controllo": "2026-10-08T19:17"
   },
   {
    "id": "busto-galilei",
@@ -1623,7 +1611,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
