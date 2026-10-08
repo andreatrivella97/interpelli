@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T17:57",
+ "generato": "2026-10-08T18:37",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T17:37",
-   "ultimo_controllo": "2026-10-08T17:37"
+   "ultimo_ok": "2026-10-08T18:37",
+   "ultimo_controllo": "2026-10-08T18:37"
   },
   {
    "id": "busto-bertacchi",
