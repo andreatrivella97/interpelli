@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T11:13",
+ "generato": "2026-10-08T11:33",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -621,12 +621,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 404 da www.consolemarcello.edu.it"
-   ],
-   "ultimo_ok": "2026-10-07T23:47",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T11:33",
+   "ultimo_controllo": "2026-10-08T11:33"
   },
   {
    "id": "busto-bertacchi",

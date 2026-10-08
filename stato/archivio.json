@@ -83,7 +83,7 @@
     "Interpello per supplenza- scuola primaria"
    ],
    "titolo": "Interpello per supplenza- scuola primaria",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/interpello-per-supplenza-scuola-primaria-3/"
   },
   "016afda3741b": {
@@ -4537,7 +4537,7 @@
     "Individuazione docenti Interpello per supplenza - scuola secondaria Prot. 0007889/U del 08/10/2024."
    ],
    "titolo": "Individuazione docenti Interpello per supplenza - scuola secondaria Prot. 0007889/U del 08/10/2024.",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/individuazione-docenti-interpello-per-supplenza-scuola-secondaria/"
   },
   "4c8c3d4bc013": {
@@ -6894,7 +6894,7 @@
     "Interpello per supplenza- scuola primaria Individuazione e reclutamento di personale docente per il conferimento di supplenze."
    ],
    "titolo": "Interpello per supplenza- scuola primaria Individuazione e reclutamento di personale docente per il conferimento di supplenze.",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/interpello-per-supplenza-scuola-primaria-2/"
   },
   "7d4e9e929d93": {
@@ -8226,7 +8226,7 @@
     "Interpello per supplenza- scuola primaria Avviso per l'individuazione e il reclutamento di personale docente."
    ],
    "titolo": "Interpello per supplenza- scuola primaria Avviso per l'individuazione e il reclutamento di personale docente.",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/interpello-per-supplenza-scuola-primaria/"
   },
   "944b201e328e": {
@@ -10310,7 +10310,7 @@
     "Individuazione docenti- Interpello per supplenza- scuola primaria Milano"
    ],
    "titolo": "Individuazione docenti- Interpello per supplenza- scuola primaria Milano",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/individuazione-docenti-interpello-per-supplenza-scuola-primaria-milano/"
   },
   "b7d7827c553e": {
@@ -11067,7 +11067,7 @@
     "Interpello primaria SOSTEGNO ADEE"
    ],
    "titolo": "Interpello primaria SOSTEGNO ADEE -",
-   "ultima_vista": "2026-10-07",
+   "ultima_vista": "2026-10-08",
    "url": "https://www.consolemarcello.edu.it/interpello-primaria-sostegno-adee/"
   },
   "c2d7ee926c89": {
@@ -15152,16 +15152,14 @@
     "axios:80193870153": 1,
     "pagina:https://www.consolemarcello.edu.it/argomento/interpello/": 6
    },
-   "errori": [
-    "risposta 404 da www.consolemarcello.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:80193870153": "2026-10-03T00:06",
     "pagina:https://www.consolemarcello.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-08T11:13",
-   "ultimo_ok": "2026-10-07T23:47"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-08T11:33",
+   "ultimo_ok": "2026-10-08T11:33"
   },
   "olgiate": {
    "conteggi": {
