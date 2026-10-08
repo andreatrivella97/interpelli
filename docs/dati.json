@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T10:52",
+ "generato": "2026-10-08T11:13",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T10:12",
-   "ultimo_controllo": "2026-10-08T10:12"
+   "ultimo_ok": "2026-10-08T11:13",
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T10:12",
-   "ultimo_controllo": "2026-10-08T10:12"
+   "ultimo_ok": "2026-10-08T11:13",
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T10:12",
-   "ultimo_controllo": "2026-10-08T10:12"
+   "ultimo_ok": "2026-10-08T11:13",
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T10:12",
-   "ultimo_controllo": "2026-10-08T10:12"
+   "ultimo_ok": "2026-10-08T11:13",
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T10:12",
-   "ultimo_controllo": "2026-10-08T10:12"
+   "ultimo_ok": "2026-10-08T11:13",
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "magnago",
@@ -626,7 +626,7 @@
     "risposta 404 da www.consolemarcello.edu.it"
    ],
    "ultimo_ok": "2026-10-07T23:47",
-   "ultimo_controllo": "2026-10-08T10:52"
+   "ultimo_controllo": "2026-10-08T11:13"
   },
   {
    "id": "busto-bertacchi",
