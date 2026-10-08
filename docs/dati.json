@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T05:50",
+ "generato": "2026-10-08T06:10",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T04:50",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T06:10",
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T04:50",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T06:10",
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T04:50",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T06:10",
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T04:50",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T06:10",
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-08T04:50",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-08T06:10",
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "magnago",
@@ -636,7 +626,7 @@
     "risposta 404 da www.consolemarcello.edu.it"
    ],
    "ultimo_ok": "2026-10-07T23:47",
-   "ultimo_controllo": "2026-10-08T05:50"
+   "ultimo_controllo": "2026-10-08T06:10"
   },
   {
    "id": "busto-bertacchi",
@@ -1572,7 +1562,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
