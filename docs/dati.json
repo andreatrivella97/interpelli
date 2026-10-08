@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T15:55",
+ "generato": "2026-10-08T16:35",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "magnago",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-08T15:35",
-   "ultimo_controllo": "2026-10-08T15:35"
+   "ultimo_ok": "2026-10-08T16:35",
+   "ultimo_controllo": "2026-10-08T16:35"
   },
   {
    "id": "busto-bertacchi",
@@ -1014,6 +1014,57 @@
   }
  ],
  "avvisi": [
+  {
+   "id": "c839b6e1a99e",
+   "scuola": "legnano-bonvesin",
+   "titolo": "INTERPELLO N. 4 - 2 posti EEEE supplenze brevi e saltuarie",
+   "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_4_-_2_posti_EEEE_supplenze_brevi_e_saltuarie.docx.pdf",
+   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-08",
+   "scadenza": "2026-10-10T16:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "ati sono tenuti a presentare entro e non oltre le ore 16:00 di sabato 10/10/2026 la propria disponibilità al c",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": 24,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-08",
+     "fine_nota": null,
+     "prova": "e docente per il conferimento di 2 supplenze: ● 1 posto EEEE fino all'08/06/2027 - 24 ore settimanali ● 1 posto EEEE fino al"
+    },
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": 24,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-05-29",
+     "fine_nota": null,
+     "prova": "EEEE fino all'08/06/2027 - 24 ore settimanali ● 1 posto EEEE fino al 29/05/2027 - 24 ore settimanali - conoscenza della ling"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-08T16:35",
+   "iniziale": false,
+   "presente": true
+  },
   {
    "id": "2ad1777f9308",
    "scuola": "saronno-davinci",
