@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-08T11:53",
+ "generato": "2026-10-08T12:13",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-08T11:13",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "ultimo_controllo": "2026-10-08T12:13"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-08T11:13",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "ultimo_controllo": "2026-10-08T12:13"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-08T11:13",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "ultimo_controllo": "2026-10-08T12:13"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-08T11:13",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "ultimo_controllo": "2026-10-08T12:13"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-08T11:13",
-   "ultimo_controllo": "2026-10-08T11:13"
+   "ultimo_controllo": "2026-10-08T12:13"
   },
   {
    "id": "magnago",
@@ -1560,7 +1570,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -2216,45 +2226,6 @@
      ],
      "ore": 24,
      "prova": "nza temporanea classe di concorso EEEE - scuola primaria posto Comune 24 ore settimanali fino al 18 ottobre 2026; Sede di servizio scuola primaria IC Co",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "7b02f7617872",
-   "scuola": "magnago",
-   "titolo": "INTERPELLO infanzia POSTO comune fino al 30.10",
-   "url": "https://icadanegri.edu.it/sito-download-file/2470/all",
-   "pagina": "https://icadanegri.edu.it/servizi/274-interpelli",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-09-30",
-   "scadenza": "2026-10-01T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 12.00 del 01.10.2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 30.10.2026 Questa Istituzione scolastica, ai sensi",
      "tipo": "comune"
     }
    ],
