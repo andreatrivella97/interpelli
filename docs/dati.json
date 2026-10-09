@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-09T14:06",
+ "generato": "2026-10-09T14:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "magnago",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T13:26",
-   "ultimo_controllo": "2026-10-09T13:26"
+   "ultimo_ok": "2026-10-09T14:27",
+   "ultimo_controllo": "2026-10-09T14:27"
   },
   {
    "id": "busto-bertacchi",
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-17",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-12-17",
-     "fine_nota": null,
-     "prova": "INTERPELLO SUPPLENZA BREVE EEEE FINO AL 17/12/2026"
+     "prova": "INTERPELLO SUPPLENZA BREVE EEEE FINO AL 17/12/2026",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
