@@ -5867,7 +5867,8 @@
     "84e83b8cc72b",
     "e9ed7bf20058",
     "8295a0082cec",
-    "d95cc0e76fa7"
+    "d95cc0e76fa7",
+    "344b5c7a6d2f"
    ],
    "chiave_titolo": "interpellon6primariasupplenzabrevecomune20262027",
    "chiavi_file": [
@@ -5909,11 +5910,12 @@
     "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=e26abad1-aad7-43f0-afdc-7fbd7423dfac&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uNV9QcmltYXJpYV9zdXBwbGVuemFfYnJldmVfY29tdW5lXzIwMjZfMjAyNy5wZGYucGFkZXMucGRm",
     "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=540b8e29-fee0-470b-80f0-fe96dbdebc42&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uNF9QcmltYXJpYV9zb3N0ZWdub18yMDI2XzIwMjdfLnBkZi5wYWRlcy5wZGY%3d",
     "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=a2c356b9-5f29-4bee-a057-41f9de134e7c&sourcefilename=dGltYnJhdG9fRXJyYXRhX2NvcnJpZ2VfSW50ZXJwZWxsb19OLjdfUHJpbWFyaWFfc29zdGVnbm9fZmlub19hbF8wOV8xMC5wZGY%3d",
-    "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=8488c131-3f9a-42f1-96d9-662542b4f1e9&sourcefilename=dGltYnJhdG9fSW50ZXJwZWxsb19OLjdfUHJpbWFyaWFfc29zdGVnbm9fZmlub19hbF8wOV8xMC5wZGY%3d"
+    "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=8488c131-3f9a-42f1-96d9-662542b4f1e9&sourcefilename=dGltYnJhdG9fSW50ZXJwZWxsb19OLjdfUHJpbWFyaWFfc29zdGVnbm9fZmlub19hbF8wOV8xMC5wZGY%3d",
+    "trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=1ed5636b-c6db-489a-84c8-a72facf05c5b&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uOF9QcmltYXJpYV9zb3N0ZWdub19maW5vX2FsXzIwXzAxXzIwMjcucGRmLnBhZGVzLnBkZg%3d%3d"
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 5,
+   "tentativi": 6,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -7358,6 +7360,55 @@
    "titolo": "SUPPLENZE POSTI DI SOSTEGNO SCUOLA DELL'INFANZIA (ADAA)",
    "ultima_vista": "2026-10-09",
    "url": "https://www.icsfranceschini.edu.it/public/files/2024-2025/Interpelli/interpello-ADAA-08-11-2024.pdf.pades.pdf"
+  },
+  "83f6ba3b44ce": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
+   "chiave_titolo": "interpellon8primariasostegnodal06102026al22012027",
+   "chiavi_file": [],
+   "fonti": [
+    "axios"
+   ],
+   "id": "83f6ba3b44ce",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93546630158"
+   ],
+   "letto": "titolo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-01-22",
+     "fine_nota": null,
+     "inizio": "2026-10-06",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello n.8 Primaria sostegno dal 06/10/2026 al 22/01/2027",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-09T16:07",
+   "pubblicato": "2026-10-09",
+   "regole": 1,
+   "scadenza": "2026-10-10T15:15",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "rho-annafrank",
+   "tentativi": 0,
+   "titoli": [
+    "Interpello_n.8_Primaria_sostegno_dal_06/10/2026_al_22/01/2027"
+   ],
+   "titolo": "Interpello_n.8_Primaria_sostegno_dal_06/10/2026_al_22/01/2027",
+   "ultima_vista": "2026-10-09",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb"
   },
   "848c61c041a0": {
    "chiave_titolo": "interpello13042026primariapostocomunesumaternita",
@@ -14974,8 +15025,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "arluno": {
    "conteggi": {
@@ -14988,8 +15039,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "bareggio": {
    "conteggi": {
@@ -15002,8 +15053,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-bertacchi": {
    "conteggi": {
@@ -15016,8 +15067,8 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-bossi": {
    "conteggi": {
@@ -15028,8 +15079,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-crespi": {
    "conteggi": {
@@ -15042,8 +15093,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -15068,8 +15119,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-pertini": {
    "conteggi": {
@@ -15082,8 +15133,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "busto-tommaseo": {
    "conteggi": {
@@ -15094,8 +15145,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -15106,8 +15157,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "canegrate": {
    "conteggi": {
@@ -15134,8 +15185,8 @@
     "pagina:https://istitutocomprensivocastellanza.edu.it/servizi/135-interpelli": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "cerro": {
    "conteggi": {
@@ -15148,8 +15199,8 @@
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "cuggiono": {
    "conteggi": {
@@ -15160,8 +15211,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "fagnano": {
    "conteggi": {
@@ -15172,8 +15223,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "gerenzano": {
    "conteggi": {
@@ -15184,8 +15235,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "gorlaminore": {
    "conteggi": {
@@ -15198,8 +15249,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -15212,8 +15263,8 @@
     "pagina:https://icscairoli.edu.it/interpelli-nazionali/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "lainate-lamarmora": {
    "conteggi": {
@@ -15224,8 +15275,8 @@
     "axios:93528430155": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "legnano-bonvesin": {
    "conteggi": {
@@ -15252,8 +15303,8 @@
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "legnano-manzoni": {
    "conteggi": {
@@ -15266,8 +15317,8 @@
     "pagina:https://icsmanzonilegnano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "legnano-salici": {
    "conteggi": {
@@ -15294,8 +15345,8 @@
     "pagina:https://icadanegri.edu.it/servizi/274-interpelli-e-mad": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "marcallo": {
    "conteggi": {
@@ -15308,8 +15359,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -15334,8 +15385,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "ossona": {
    "conteggi": {
@@ -15348,8 +15399,8 @@
     "pagina:https://www.icossona.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "pogliano": {
    "conteggi": {
@@ -15360,8 +15411,8 @@
     "axios:93527530153": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "rescaldina-alighieri": {
    "conteggi": {
@@ -15388,8 +15439,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -15402,8 +15453,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "rho-deandre": {
    "conteggi": {
@@ -15416,8 +15467,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -15430,8 +15481,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "rho-grossi": {
    "conteggi": {
@@ -15444,8 +15495,8 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "sanvittore": {
    "conteggi": {
@@ -15472,8 +15523,8 @@
     "pagina:https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "saronno-militi": {
    "conteggi": {
@@ -15484,8 +15535,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "saronno-moro": {
    "conteggi": {
@@ -15496,8 +15547,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "solbiate": {
    "conteggi": {
@@ -15510,8 +15561,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "uboldo": {
    "conteggi": {
@@ -15522,8 +15573,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   },
   "villacortese": {
    "conteggi": {
@@ -15536,8 +15587,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-09T15:07",
-   "ultimo_ok": "2026-10-09T15:07"
+   "ultimo_controllo": "2026-10-09T16:07",
+   "ultimo_ok": "2026-10-09T16:07"
   }
  },
  "versione": 1
