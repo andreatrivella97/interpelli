@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-09T10:04",
+ "generato": "2026-10-09T10:25",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "magnago",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "busto-bertacchi",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T09:24",
-   "ultimo_controllo": "2026-10-09T09:24"
+   "ultimo_ok": "2026-10-09T10:25",
+   "ultimo_controllo": "2026-10-09T10:25"
   },
   {
    "id": "busto-galilei",
@@ -1014,6 +1014,45 @@
   }
  ],
  "avvisi": [
+  {
+   "id": "9a86d1b78166",
+   "scuola": "canegrate",
+   "titolo": "INTERPELLO N. 4 (1)",
+   "url": "https://www.icscanegrate.edu.it/assets/files/314da023-6155-4b12-80bb-43a19b25092c/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-09",
+   "scadenza": "2026-10-10T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "ink:https://forms.gle/gmBbEdcTRDcgNBgz9 entro le ore 12:00 del giorno 10/10/2026 utilizzando tassativamente il",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": "termine delle attività didattiche",
+     "prova": "imento delle seguenti supplenze: - N. 1 posto di SOSTEGNO - ADEE - h. 24 ore settimanali fino al termine delle attività didattiche così suddiviso: 12.00 ore da svolgere"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-09T10:25",
+   "iniziale": false,
+   "presente": true
+  },
   {
    "id": "c839b6e1a99e",
    "scuola": "legnano-bonvesin",
