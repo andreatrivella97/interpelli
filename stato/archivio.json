@@ -15002,16 +15002,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-09T12:26",
-   "ultimo_ok": "2026-10-09T11:25"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-09T12:51",
+   "ultimo_ok": "2026-10-09T12:51"
   },
   "busto-galilei": {
    "conteggi": {
@@ -15068,13 +15066,15 @@
     "axios:84004750158": 0,
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 4
    },
-   "errori": [],
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-09T11:40",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-09T12:51",
    "ultimo_ok": "2026-10-09T11:40"
   },
   "castellanza": {
@@ -15186,13 +15186,15 @@
     "axios:92044520150": 0,
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 4
    },
-   "errori": [],
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-09T11:40",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-09T12:51",
    "ultimo_ok": "2026-10-09T11:40"
   },
   "legnano-carducci": {
@@ -15228,13 +15230,15 @@
     "axios:84003710153": 0,
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 5
    },
-   "errori": [],
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-09T11:40",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-09T12:51",
    "ultimo_ok": "2026-10-09T11:40"
   },
   "magnago": {
@@ -15322,13 +15326,15 @@
     "axios:84004110155": 0,
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-09T11:40",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-09T12:51",
    "ultimo_ok": "2026-10-09T11:40"
   },
   "rescaldina-manzoni": {
@@ -15406,13 +15412,15 @@
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-09T11:40",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-09T12:51",
    "ultimo_ok": "2026-10-09T11:40"
   },
   "saronno-davinci": {
