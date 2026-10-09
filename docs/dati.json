@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-09T11:25",
+ "generato": "2026-10-09T11:40",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-09T10:25",
-   "ultimo_controllo": "2026-10-09T11:25"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-09T11:40",
+   "ultimo_controllo": "2026-10-09T11:40"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-09T10:25",
-   "ultimo_controllo": "2026-10-09T11:25"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-09T11:40",
+   "ultimo_controllo": "2026-10-09T11:40"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-09T10:25",
-   "ultimo_controllo": "2026-10-09T11:25"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-09T11:40",
+   "ultimo_controllo": "2026-10-09T11:40"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-09T10:25",
-   "ultimo_controllo": "2026-10-09T11:25"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-09T11:40",
+   "ultimo_controllo": "2026-10-09T11:40"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-09T10:25",
-   "ultimo_controllo": "2026-10-09T11:25"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-09T11:40",
+   "ultimo_controllo": "2026-10-09T11:40"
   },
   {
    "id": "magnago",
@@ -1660,7 +1650,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
