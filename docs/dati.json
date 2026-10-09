@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-09T06:02",
+ "generato": "2026-10-09T06:23",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T05:22",
-   "ultimo_controllo": "2026-10-09T05:22"
+   "ultimo_ok": "2026-10-09T06:23",
+   "ultimo_controllo": "2026-10-09T06:23"
   },
   {
    "id": "busto-bertacchi",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T05:22",
-   "ultimo_controllo": "2026-10-09T05:22"
+   "ultimo_ok": "2026-10-09T06:23",
+   "ultimo_controllo": "2026-10-09T06:23"
   },
   {
    "id": "busto-galilei",
