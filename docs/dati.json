@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-09T15:27",
+ "generato": "2026-10-09T15:47",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-09T14:47",
-   "ultimo_controllo": "2026-10-09T14:47"
+   "ultimo_ok": "2026-10-09T15:47",
+   "ultimo_controllo": "2026-10-09T15:47"
   },
   {
    "id": "busto-galilei",
