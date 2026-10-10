@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-10T13:57",
+ "generato": "2026-10-10T14:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T13:57"
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T13:57"
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T13:57"
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T13:57"
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T13:57"
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "magnago",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-10T13:17",
-   "ultimo_controllo": "2026-10-10T13:17"
+   "ultimo_ok": "2026-10-10T14:17",
+   "ultimo_controllo": "2026-10-10T14:17"
   },
   {
    "id": "busto-galilei",
@@ -2048,86 +2048,6 @@
    ],
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "74c1a9bbf9b0",
-   "scuola": "legnano-carducci",
-   "titolo": "Interpello per supplenza ore 6 fino al 30 giugno 2027 posto COMUNE scuola primaria",
-   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_05-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_ore_6_fino_al_30-06-2027.pdf",
-   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "fonti": [
-    "axios",
-    "pagina"
-   ],
-   "pubblicato": "2026-10-02",
-   "scadenza": "2026-10-03T14:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 6,
-     "prova": "CONTRATTO EEEE 1 6 30/06/2027 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "e76c8fb9c55f",
-   "scuola": "legnano-carducci",
-   "titolo": "Interpello per supplenza breve ore 24 fino al 14 ottobre 2026 posto COMUNE scuola primaria",
-   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_05-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_14-10-2026.p.pdf",
-   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "fonti": [
-    "axios",
-    "pagina"
-   ],
-   "pubblicato": "2026-10-02",
-   "scadenza": "2026-10-03T14:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-14",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "CONTRATTO EEEE 1 24 14/09/2026 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": true
