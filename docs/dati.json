@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-10T11:56",
+ "generato": "2026-10-10T12:16",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -713,12 +713,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-10-10T10:56",
-   "ultimo_controllo": "2026-10-10T11:56"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-10T12:16",
+   "ultimo_controllo": "2026-10-10T12:16"
   },
   {
    "id": "busto-galilei",
@@ -2083,45 +2081,6 @@
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": false
-  },
-  {
-   "id": "78816e35ed15",
-   "scuola": "saronno-davinci",
-   "titolo": "INTERPELLO N. 1 SUPPLENZA BREVE POSTO COMUNE SCUOLA PRIMARIA prot. 5785 del 2-10-2026",
-   "url": "https://www.istitutocomprensivodavinci.edu.it/wp/wp-content/uploads/2026/10/Interpello_supplenza_breve_scuola_primaria_posto_comune_dal_06-10-2026_al_16-10-2026.pdf.pades_.pdf",
-   "pagina": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-02",
-   "scadenza": "2026-10-03T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 12:00 del 03 ottobre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-16",
-     "fine_nota": null,
-     "inizio": "2026-10-06",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE dal 06/10/2026 al 16/10/2026; Tutti gli interessati sono tenuti a pr",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
   },
   {
    "id": "bb846c25360b",

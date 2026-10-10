@@ -15101,16 +15101,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-10T11:56",
-   "ultimo_ok": "2026-10-10T10:56"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-10T12:16",
+   "ultimo_ok": "2026-10-10T12:16"
   },
   "busto-galilei": {
    "conteggi": {
