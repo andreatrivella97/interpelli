@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-10T12:57",
+ "generato": "2026-10-10T13:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T12:57"
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T12:57"
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T12:57"
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T12:57"
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-10T11:56",
-   "ultimo_controllo": "2026-10-10T12:57"
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "magnago",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-10T12:16",
-   "ultimo_controllo": "2026-10-10T12:16"
+   "ultimo_ok": "2026-10-10T13:17",
+   "ultimo_controllo": "2026-10-10T13:17"
   },
   {
    "id": "busto-galilei",
@@ -2091,57 +2091,6 @@
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": true
-  },
-  {
-   "id": "bb846c25360b",
-   "scuola": "lainate-lamarmora",
-   "titolo": "Interpello per la classe di concorso AAAA n. 25 ore dal 06.10.2026 al 30.06.2027 - AAAA n.5 ore dal 06.10.2026 al 30.06.2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-02",
-   "scadenza": "2026-10-03T13:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "so l'ICS via Lamarmora quanto segue: 1 posto (TIPOLOGIA POSTO ORARIO) 25 ore settimanali INFANZIA POSTO COMUNE fino al 30/06/2027 la cattedra è così costituita: 12,50 h",
-     "tipo": "comune"
-    },
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 5,
-     "prova": "o sarà gestito interamente dall'Istituto scrivente. 1 posto part-time 5 ore settimanali INFANZIA POSTO COMUNE fino al 30/06/2027 - Presso ICS LAMARMORA INTERPELLA tutti",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": false
   },
   {
    "id": "e76c8fb9c55f",
