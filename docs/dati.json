@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-11T19:30",
+ "generato": "2026-10-11T19:50",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-11T18:30",
-   "ultimo_controllo": "2026-10-11T19:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-11T19:50",
+   "ultimo_controllo": "2026-10-11T19:50"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-11T18:30",
-   "ultimo_controllo": "2026-10-11T19:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-11T19:50",
+   "ultimo_controllo": "2026-10-11T19:50"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-11T18:30",
-   "ultimo_controllo": "2026-10-11T19:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-11T19:50",
+   "ultimo_controllo": "2026-10-11T19:50"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-11T18:30",
-   "ultimo_controllo": "2026-10-11T19:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-11T19:50",
+   "ultimo_controllo": "2026-10-11T19:50"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-11T18:30",
-   "ultimo_controllo": "2026-10-11T19:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-11T19:50",
+   "ultimo_controllo": "2026-10-11T19:50"
   },
   {
    "id": "magnago",
@@ -1362,7 +1352,7 @@
    "scadenza": "2026-10-09T11:00",
    "scadenza_certa": true,
    "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
+   "chiuso": "Chiuso",
    "personale": "docente",
    "ordini": [
     "infanzia"
@@ -1738,7 +1728,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
