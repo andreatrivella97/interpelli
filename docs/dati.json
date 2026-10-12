@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-12T07:35",
+ "generato": "2026-10-12T08:15",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "legnano-manzoni",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "busto-deamicis",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "fagnano",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   },
   {
    "id": "saronno-davinci",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T07:15",
-   "ultimo_controllo": "2026-10-12T07:15"
+   "ultimo_ok": "2026-10-12T08:15",
+   "ultimo_controllo": "2026-10-12T08:15"
   }
  ],
  "avvisi": [
@@ -1882,84 +1882,6 @@
    ],
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "81dc774f214d",
-   "scuola": "villacortese",
-   "titolo": "03- INTERPELLO n 1 SOSTEGNO ADMM 26.11.2026",
-   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/03-_INTERPELLO_n_1_SOSTEGNO_ADMM_26.11.2026.pdf.pades_.pdf?x49255",
-   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-03",
-   "scadenza": "2026-10-05T08:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "nteressati sono tenuti a comunicare entro e non oltre le ore 8.00 del 5 ottobre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-26",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": 18,
-     "prova": "ocente per il conferimento di supplenze per N.1 POSTO SOSTEGNO ADMM - 18 ore fino al 26.11.26 Tutti gli interessati sono tenuti a com",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "87b1974f36e3",
-   "scuola": "villacortese",
-   "titolo": "04-INTERPELLO A028 FINO AL 11.10.2026",
-   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/04-INTERPELLO_A028_FINO_AL_11.10.2026.pdf.pades_.pdf?x49255",
-   "pagina": "https://icvillacortese.edu.it/servizio/invio-mad/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-03",
-   "scadenza": "2026-10-05T08:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "nteressati sono tenuti a comunicare entro e non oltre le ore 8.00 del 5 ottobre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-11",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": 18,
-     "prova": "l conferimento di supplenze per N.1 POSTO A028 MATEMATICA E SCIENZE - 18 ore fino al 11.10.26 Tutti gli interessati sono tenuti a com",
-     "tipo": null
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": true
