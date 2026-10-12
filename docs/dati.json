@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-12T23:43",
+ "generato": "2026-10-13T00:03",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-12T23:02",
-   "ultimo_controllo": "2026-10-12T23:02"
+   "ultimo_ok": "2026-10-13T00:03",
+   "ultimo_controllo": "2026-10-13T00:03"
   },
   {
    "id": "sanvittore",
@@ -1985,16 +1985,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2150,45 +2150,6 @@
      ],
      "ore": 24,
      "prova": "Interpello n. 4 - n. 1 post EEEE - posto COMUNE primaria 24 ore al 30.06",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": false
-  },
-  {
-   "id": "cbf2339964ee",
-   "scuola": "busto-tommaseo",
-   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso AAAA posto comune nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 20262027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/jsn2qoi84d",
-   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-09-28",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso AAAA posto comune nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 20262027",
      "tipo": "comune"
     }
    ],
