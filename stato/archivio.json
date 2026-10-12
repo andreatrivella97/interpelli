@@ -13932,6 +13932,54 @@
    "ultima_vista": "2026-10-12",
    "url": "https://www.icsfranceschini.edu.it/public/files/2024-2025/Interpelli/interpello%20aaaa%20del%2010.03.2025.pdf"
   },
+  "ee302e3de943": {
+   "chiave_titolo": "interpellon2supplenze24oresostegnoprimariabreveefinoallafinedelleattivitadidatticapresaserizioil19102026",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "ee302e3de943",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icsmiliti.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2026-10-19",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "Interpello n. 2 SUPPLENZE 24 ore, SOSTEGNO PRIMARIA (BREVE e FINO ALLA FINE DELLE ATTIVITA' DIDATTICA) Presa serizio il 19.10.2026",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-12T12:17",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0044/aq419de424"
+   ],
+   "pubblicato": "2026-10-12",
+   "regole": 1,
+   "scuola": "saronno-militi",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello n. 2 SUPPLENZE 24 ore, SOSTEGNO PRIMARIA (BREVE e FINO ALLA FINE DELLE ATTIVITA' DIDATTICA) Presa serizio il 19.10.2026"
+   ],
+   "titolo": "Interpello n. 2 SUPPLENZE 24 ore, SOSTEGNO PRIMARIA (BREVE e FINO ALLA FINE DELLE ATTIVITA' DIDATTICA) Presa serizio il 19.10.2026",
+   "ultima_vista": "2026-10-12",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0044/aq419de424"
+  },
   "eeea51f7bf9f": {
    "chiave_titolo": "avvisoselezionepersonaledocentesupplentescuolaprimariapostocomune",
    "chiavi_file": [
@@ -15076,8 +15124,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "arluno": {
    "conteggi": {
@@ -15118,8 +15166,8 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "busto-bossi": {
    "conteggi": {
@@ -15130,8 +15178,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "busto-crespi": {
    "conteggi": {
@@ -15144,8 +15192,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -15170,8 +15218,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "busto-pertini": {
    "conteggi": {
@@ -15196,8 +15244,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -15208,8 +15256,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "canegrate": {
    "conteggi": {
@@ -15262,8 +15310,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "fagnano": {
    "conteggi": {
@@ -15300,8 +15348,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -15410,8 +15458,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -15436,8 +15484,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "ossona": {
    "conteggi": {
@@ -15579,15 +15627,15 @@
   },
   "saronno-militi": {
    "conteggi": {
-    "albo:": 0
+    "albo:": 1
    },
    "errori": [],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "saronno-moro": {
    "conteggi": {
@@ -15598,8 +15646,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "solbiate": {
    "conteggi": {
@@ -15612,8 +15660,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "uboldo": {
    "conteggi": {
@@ -15624,8 +15672,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-12T11:17",
-   "ultimo_ok": "2026-10-12T11:17"
+   "ultimo_controllo": "2026-10-12T12:17",
+   "ultimo_ok": "2026-10-12T12:17"
   },
   "villacortese": {
    "conteggi": {
