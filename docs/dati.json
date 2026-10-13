@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-13T10:48",
+ "generato": "2026-10-13T11:08",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_ok": "2026-10-13T11:08",
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "sanvittore",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-13T10:08",
-   "ultimo_controllo": "2026-10-13T10:08"
+   "ultimo_controllo": "2026-10-13T11:08"
   },
   {
    "id": "magnago",
@@ -1035,16 +1045,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-11-03",
+     "fine_nota": null,
+     "inizio": "2025-10-14",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2025-10-14",
-     "fine": "2026-11-03",
-     "fine_nota": null,
-     "prova": "contratto ADEE posto Scuola primaria 1 24 14/10/2025 03/11/2026 comune dell'ICS Duca D'Aosta La candidatura dovrà"
+     "prova": "contratto ADEE posto Scuola primaria 1 24 14/10/2025 03/11/2026 comune dell'ICS Duca D'Aosta La candidatura dovrà",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1884,7 +1894,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -1922,45 +1932,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-05T12:29",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "cc67c3f0e50c",
-   "scuola": "legnano-salici",
-   "titolo": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E SOSTEGNO SCUOLA PRIMARIA",
-   "url": "https://www.icsviadeisalici.edu.it/uploads/files/INTERPELLO%20FINO%20A%2010%20GIORNI%20EEEE-ADEE.pdf",
-   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": null,
-   "scadenza": "2026-10-06T11:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": "Chiuso",
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E SOSTEGNO SCUOLA PRIMARIA",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T11:29",
    "iniziale": false,
    "presente": true
   },
@@ -2024,16 +1995,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
