@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-13T23:55",
+ "generato": "2026-10-14T00:15",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-13T23:11",
-   "ultimo_controllo": "2026-10-13T23:11"
+   "ultimo_ok": "2026-10-14T00:15",
+   "ultimo_controllo": "2026-10-14T00:15"
   },
   {
    "id": "sanvittore",
@@ -1809,45 +1809,6 @@
    "presente": true
   },
   {
-   "id": "9e6311562371",
-   "scuola": "pogliano",
-   "titolo": "interpello scuola primaria posto Comune 24 H",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-05",
-   "scadenza": "2026-10-07T00:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "interpello scuola primaria posto Comune 24 H",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T13:30",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "b22065a9ee82",
    "scuola": "canegrate",
    "titolo": "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA",
@@ -1985,16 +1946,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
