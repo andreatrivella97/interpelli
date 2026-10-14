@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-14T14:02",
+ "generato": "2026-10-14T14:22",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "magnago",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "marcallo",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "bareggio",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T13:21",
-   "ultimo_controllo": "2026-10-14T13:21"
+   "ultimo_ok": "2026-10-14T14:22",
+   "ultimo_controllo": "2026-10-14T14:22"
   },
   {
    "id": "fagnano",
@@ -1946,16 +1946,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
