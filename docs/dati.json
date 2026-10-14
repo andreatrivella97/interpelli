@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-14T06:58",
+ "generato": "2026-10-14T07:14",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T06:18",
-   "ultimo_controllo": "2026-10-14T06:18"
+   "ultimo_ok": "2026-10-14T07:14",
+   "ultimo_controllo": "2026-10-14T07:14"
   },
   {
    "id": "sanvittore",
@@ -1887,45 +1887,6 @@
    "presente": true
   },
   {
-   "id": "ffc340a3bbec",
-   "scuola": "canegrate",
-   "titolo": "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA (2)",
-   "url": "https://www.icscanegrate.edu.it/assets/files/cdb99b17-7c66-4edc-a808-58188afae626/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-05",
-   "scadenza": "2026-10-07T07:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ink https://forms.gle/d5Ts1KEosJ9YEN7D7 entro le ore 07:00 del giorno 07/10/2026 utilizzando tassativamente il",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-08",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "VIZIO POSTI CONCORSO ORE CONTRATTO POSTO SET- TIMA NALI EEEE Fino all'8/06/2027 1 Posto Comune 22+2 Supplenza Scuola Pr",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T16:12",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "6a92aa67fc4e",
    "scuola": "rho-annafrank",
    "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
@@ -1946,16 +1907,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
