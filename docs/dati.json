@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-14T10:00",
+ "generato": "2026-10-14T10:20",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T09:19",
-   "ultimo_controllo": "2026-10-14T09:19"
+   "ultimo_ok": "2026-10-14T10:20",
+   "ultimo_controllo": "2026-10-14T10:20"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T09:19",
-   "ultimo_controllo": "2026-10-14T09:19"
+   "ultimo_ok": "2026-10-14T10:20",
+   "ultimo_controllo": "2026-10-14T10:20"
   },
   {
    "id": "marcallo",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T09:19",
-   "ultimo_controllo": "2026-10-14T09:19"
+   "ultimo_ok": "2026-10-14T10:20",
+   "ultimo_controllo": "2026-10-14T10:20"
   },
   {
    "id": "bareggio",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-14T09:19",
-   "ultimo_controllo": "2026-10-14T09:19"
+   "ultimo_ok": "2026-10-14T10:20",
+   "ultimo_controllo": "2026-10-14T10:20"
   },
   {
    "id": "fagnano",
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-08",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 18,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-08",
-     "fine_nota": null,
-     "prova": "di INTERPELLO per l'attribuzione di una supplenza temporanea fino al 8 giugno 2027 per complessive n. 18 ore settimanali di Attività Alternative"
+     "prova": "di INTERPELLO per l'attribuzione di una supplenza temporanea fino al 8 giugno 2027 per complessive n. 18 ore settimanali di Attività Alternative",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1074,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-10-20",
+     "fine_nota": null,
+     "inizio": "2026-10-16",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-10-16",
-     "fine": "2026-10-20",
-     "fine_nota": null,
-     "prova": "CONTRATTO EEEE comune primaria 1 24 16/10/2026 20/10/2026 INTERPELLA tutti i docenti forniti dell'abilitazi"
+     "prova": "CONTRATTO EEEE comune primaria 1 24 16/10/2026 20/10/2026 INTERPELLA tutti i docenti forniti dell'abilitazi",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1985,16 +1985,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
