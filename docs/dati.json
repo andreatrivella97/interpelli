@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T09:31",
+ "generato": "2026-10-15T10:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "legnano-manzoni",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "cuggiono",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "busto-galilei",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "solbiate",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   },
   {
    "id": "saronno-davinci",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T09:11",
-   "ultimo_controllo": "2026-10-15T09:11"
+   "ultimo_ok": "2026-10-15T10:12",
+   "ultimo_controllo": "2026-10-15T10:12"
   }
  ],
  "avvisi": [
@@ -1074,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "le docente per il conferimento di 1 supplenza: ● 1 posto EEEE fino al 30/06/2027 - 24 ore settimanali Sede di servizio: Scuol"
+     "prova": "le docente per il conferimento di 1 supplenza: ● 1 posto EEEE fino al 30/06/2027 - 24 ore settimanali Sede di servizio: Scuol",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1573,45 +1573,6 @@
    "presente": true
   },
   {
-   "id": "2ad1777f9308",
-   "scuola": "saronno-davinci",
-   "titolo": "INTERPELLO N. 1 SUPPLENZA BREVE POSTO COMUNE SCUOLA PRIMARIA prot. 590 del 07-10-2026",
-   "url": "https://www.istitutocomprensivodavinci.edu.it/wp/wp-content/uploads/2026/10/Interpello_prot.590-del-07-10-2026_supplenza_breve_scuola_primaria_posto_comune.pdf.pades_.pdf",
-   "pagina": "https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-07",
-   "scadenza": "2026-10-08T10:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 10:00 del 08 ottobre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-13",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "aventi le seguenti caratteristiche: N.1 posto comune scuola primaria 24 ore settimanali EEEE fino al 13/11/2026; Tutti gli interessati sono tenuti a pr",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-07T10:20",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "464b07677357",
    "scuola": "arconate",
    "titolo": "Interpello supplenza breve - Classe di Concorso AS2D- 4 ore dal 09/10/2026 al 30/06/2027",
@@ -2024,16 +1985,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
