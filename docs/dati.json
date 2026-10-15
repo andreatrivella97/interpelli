@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T14:54",
+ "generato": "2026-10-15T15:14",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "legnano-manzoni",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   },
   {
    "id": "solbiate",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T14:14",
-   "ultimo_controllo": "2026-10-15T14:14"
+   "ultimo_ok": "2026-10-15T15:14",
+   "ultimo_controllo": "2026-10-15T15:14"
   }
  ],
  "avvisi": [
@@ -1035,28 +1035,28 @@
    ],
    "posti": [
     {
-     "ordini": [
-      "primaria"
-     ],
-     "tipo": "comune",
-     "ore": 24,
-     "intero": false,
-     "inizio": null,
      "fine": "2026-10-22",
      "fine_nota": null,
-     "prova": "rsonale docente per il conferimento del seguente incarico: n. 1 posto 24 h. settimanali - Scuola Primaria (posto comune EEEE) fino al 22/10/2026 Il Il/la candidato/a dovrà far pervenir"
-    },
-    {
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
-     "ore": null,
-     "intero": false,
-     "inizio": null,
+     "ore": 24,
+     "prova": "rsonale docente per il conferimento del seguente incarico: n. 1 posto 24 h. settimanali - Scuola Primaria (posto comune EEEE) fino al 22/10/2026 Il Il/la candidato/a dovrà far pervenir",
+     "tipo": "comune"
+    },
+    {
      "fine": "2026-11-30",
      "fine_nota": null,
-     "prova": "nsegnamento di: POSTO: EEEE (COMUNE PRIMARIA) TIPO CONTRATTO: T.D. AL 30/11/2026 A tal fine, dichiara, ai sensi degli ar"
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "nsegnamento di: POSTO: EEEE (COMUNE PRIMARIA) TIPO CONTRATTO: T.D. AL 30/11/2026 A tal fine, dichiara, ai sensi degli ar",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1958,16 +1958,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
