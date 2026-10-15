@@ -5939,6 +5939,54 @@
    "ultima_vista": "2026-10-15",
    "url": "https://www.icgrossirho.edu.it/public/files/Interpello_posto_comune_priamria_12h_(2).pdf"
   },
+  "65e8f189243f": {
+   "chiave_titolo": "cliccapervedereildocumento",
+   "chiavi_file": [],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "65e8f189243f",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show"
+   ],
+   "letto": "pagina",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Clicca per vedere il documento",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-15T15:34",
+   "provati": [
+    "nuvola.madisoft.it/bacheca-digitale/3591/documento/VAIC84600P"
+   ],
+   "pubblicato": "2026-10-15",
+   "regole": 1,
+   "scuola": "solbiate",
+   "tentativi": 1,
+   "titoli": [
+    "Clicca per vedere il documento"
+   ],
+   "titolo": "Clicca per vedere il documento",
+   "ultima_vista": "2026-10-15",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/3591/documento/VAIC84600P"
+  },
   "66ad647cb42e": {
    "chiave_titolo": "interpellon9del12012026a028",
    "chiavi_file": [],
@@ -15619,8 +15667,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "arluno": {
    "conteggi": {
@@ -15673,8 +15721,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "busto-crespi": {
    "conteggi": {
@@ -15713,8 +15761,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "busto-pertini": {
    "conteggi": {
@@ -15739,8 +15787,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -15765,8 +15813,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "castellanza": {
    "conteggi": {
@@ -15805,8 +15853,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "fagnano": {
    "conteggi": {
@@ -15883,8 +15931,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -15925,8 +15973,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "magnago": {
    "conteggi": {
@@ -15979,8 +16027,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "ossona": {
    "conteggi": {
@@ -16019,8 +16067,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -16103,8 +16151,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -16129,8 +16177,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "saronno-moro": {
    "conteggi": {
@@ -16141,13 +16189,13 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "solbiate": {
    "conteggi": {
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
-    "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 0
+    "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
    "errori": [],
    "fonti_viste": {
@@ -16155,8 +16203,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T14:34",
-   "ultimo_ok": "2026-10-15T14:34"
+   "ultimo_controllo": "2026-10-15T15:34",
+   "ultimo_ok": "2026-10-15T15:34"
   },
   "uboldo": {
    "conteggi": {
