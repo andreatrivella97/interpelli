@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T08:31",
+ "generato": "2026-10-15T08:51",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T07:50",
-   "ultimo_controllo": "2026-10-15T07:50"
+   "ultimo_controllo": "2026-10-15T08:51"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T07:50",
-   "ultimo_controllo": "2026-10-15T07:50"
+   "ultimo_controllo": "2026-10-15T08:51"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T07:50",
-   "ultimo_controllo": "2026-10-15T07:50"
+   "ultimo_controllo": "2026-10-15T08:51"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T07:50",
-   "ultimo_controllo": "2026-10-15T07:50"
+   "ultimo_controllo": "2026-10-15T08:51"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T07:50",
-   "ultimo_controllo": "2026-10-15T07:50"
+   "ultimo_controllo": "2026-10-15T08:51"
   },
   {
    "id": "magnago",
@@ -1035,16 +1045,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-10-23",
+     "fine_nota": null,
+     "inizio": "2026-10-19",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 16,
-     "intero": false,
-     "inizio": "2026-10-19",
-     "fine": "2026-10-23",
-     "fine_nota": null,
-     "prova": "EEE): 1 POSTO COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 19/10/2026 AL 23/10/2026 n. ore settimanali: 16 ICS EZIO FRANCESCHINI C.F. 93546600151"
+     "prova": "EEE): 1 POSTO COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 19/10/2026 AL 23/10/2026 n. ore settimanali: 16 ICS EZIO FRANCESCHINI C.F. 93546600151",
+     "tipo": "comune"
     }
    ],
    "letto": "ocr",
@@ -1923,7 +1933,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -1985,16 +1995,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
