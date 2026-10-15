@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T10:32",
+ "generato": "2026-10-15T11:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "legnano-manzoni",
@@ -318,10 +318,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.omnicomprensivoeuropeo.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "cuggiono",
@@ -365,8 +367,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "ossona",
@@ -647,8 +649,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "busto-bossi",
@@ -665,10 +667,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.icbossibusto.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "busto-galilei",
@@ -736,10 +740,12 @@
     "motivo": "le candidature passano dal portale Spaggiari, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.galileibusto.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "busto-pertini",
@@ -780,10 +786,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.tommaseobusto.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "castellanza",
@@ -827,10 +835,12 @@
     "motivo": "pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.scuoleolgiate.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +864,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "solbiate",
@@ -940,10 +950,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.icsmiliti.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "saronno-moro",
@@ -963,10 +975,12 @@
     "motivo": "pubblica gli interpelli solo sul portale Spaggiari, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da www.aldomorosaronno.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12"
   },
   {
    "id": "saronno-davinci",
@@ -1009,8 +1023,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T10:12",
-   "ultimo_controllo": "2026-10-15T10:12"
+   "ultimo_ok": "2026-10-15T11:12",
+   "ultimo_controllo": "2026-10-15T11:12"
   }
  ],
  "avvisi": [
@@ -1765,7 +1779,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-06T14:09",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "9b9ab298f319",
@@ -1985,16 +1999,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2118,7 +2132,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
-   "presente": false
+   "presente": true
   },
   {
    "id": "9bd74adecd7e",
@@ -2157,7 +2171,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
-   "presente": false
+   "presente": true
   }
  ]
 }

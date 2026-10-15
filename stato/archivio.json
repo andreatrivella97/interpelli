@@ -2332,7 +2332,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0026/l0uih12fe6"
@@ -4321,7 +4321,7 @@
      "tipo": null
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0022/2c3oejandg"
@@ -5712,7 +5712,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-06T14:09",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0026/tdkn0kokhv"
@@ -6958,7 +6958,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0022/j1l0h2fqtj"
@@ -8120,7 +8120,7 @@
      "tipo": null
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0022/aa5araplqp"
@@ -9153,7 +9153,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0026/s0d4e1pa57"
@@ -11728,7 +11728,7 @@
      "tipo": null
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/MILS0037/5ugb57pti7"
@@ -12042,7 +12042,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0030/jsn2qoi84d"
@@ -15552,12 +15552,14 @@
    "conteggi": {
     "albo:": 10
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.omnicomprensivoeuropeo.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "arluno": {
@@ -15599,19 +15601,21 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "busto-bossi": {
    "conteggi": {
     "albo:": 4
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.icbossibusto.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "busto-crespi": {
@@ -15625,8 +15629,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -15639,19 +15643,21 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "busto-galilei": {
    "conteggi": {
     "albo:": 3
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.galileibusto.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "busto-pertini": {
@@ -15672,12 +15678,14 @@
    "conteggi": {
     "albo:": 1
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.tommaseobusto.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "bustogarolfo": {
@@ -15689,8 +15697,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "canegrate": {
    "conteggi": {
@@ -15781,8 +15789,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -15891,8 +15899,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -15912,12 +15920,14 @@
    "conteggi": {
     "albo:": 0
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.scuoleolgiate.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "ossona": {
@@ -16062,24 +16072,28 @@
    "conteggi": {
     "albo:": 1
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.icsmiliti.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "saronno-moro": {
    "conteggi": {
     "albo:": 0
    },
-   "errori": [],
+   "errori": [
+    "ReadTimeout da www.aldomorosaronno.edu.it"
+   ],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-15T11:12",
    "ultimo_ok": "2026-10-15T10:12"
   },
   "solbiate": {
@@ -16105,8 +16119,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-15T10:12",
-   "ultimo_ok": "2026-10-15T10:12"
+   "ultimo_controllo": "2026-10-15T11:12",
+   "ultimo_ok": "2026-10-15T11:12"
   },
   "villacortese": {
    "conteggi": {
