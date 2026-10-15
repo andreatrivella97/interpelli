@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T11:32",
+ "generato": "2026-10-15T12:13",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "legnano-manzoni",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   },
   {
    "id": "solbiate",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T11:12",
-   "ultimo_controllo": "2026-10-15T11:12"
+   "ultimo_ok": "2026-10-15T12:13",
+   "ultimo_controllo": "2026-10-15T12:13"
   }
  ],
  "avvisi": [
@@ -1612,84 +1612,6 @@
    "presente": true
   },
   {
-   "id": "cc9d70173592",
-   "scuola": "cerro",
-   "titolo": "AVVISO INTERPELLO N. 4 posto comune AAAA",
-   "url": "https://www.scuoledicerro.edu.it/pvw2/app/default/tools.php?act=downloadFile&id=1863",
-   "pagina": "https://www.scuoledicerro.edu.it/pagine/interpelli-1",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": null,
-   "scadenza": "2026-10-08T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 12.00 di giovedì 08.10.2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 10,
-     "prova": "la dell'infanzia (12,5 presso Sc. infanzia Via Saffi Cerro maggiore e 10 ore I.C. Carducci San Vittore Olona) b) TIPO CONTRATTO: a tempo determinato fino al 30/06/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 22,5",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-07T15:24",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "d5600699384f",
-   "scuola": "lainate-lamarmora",
-   "titolo": "Interpello per la classe di concorso infanzia AAAA n. 5 ore dal 09.10.2026 al 30.06.2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-07",
-   "scadenza": "2026-10-08T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 5,
-     "prova": "attedra di 12,50 IC Lamarmora + 10,00 IC di Pero lasciando Vacante le 5 ore presso il nostro Istituto; RILEVATA la necessità di coprire le 5 ore vacanti fino al 30/06/2027; SI RENDE NOTO la ripubblicazione dell'",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-07T10:20",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "ec944c1f6e8c",
    "scuola": "legnano-salici",
    "titolo": "INTERPELLO PER SUPPLENZE FINO A 10 GIORNI POSTO COMUNE E POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
@@ -1985,16 +1907,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
