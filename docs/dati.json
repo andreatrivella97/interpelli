@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T23:59",
+ "generato": "2026-10-16T00:19",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "legnano-manzoni",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   },
   {
    "id": "solbiate",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T23:18",
-   "ultimo_controllo": "2026-10-15T23:18"
+   "ultimo_ok": "2026-10-16T00:19",
+   "ultimo_controllo": "2026-10-16T00:19"
   }
  ],
  "avvisi": [
@@ -1997,16 +1997,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2092,84 +2092,6 @@
    "prima_vista": "2026-10-03T00:06",
    "iniziale": true,
    "presente": true
-  },
-  {
-   "id": "22e6738114dc",
-   "scuola": "busto-galilei",
-   "titolo": "Interpello n. 5 - n. 1 posto ADEE - posto SOSTEGNO primaria 24 ore al 17.12",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/l0uih12fe6",
-   "pagina": "https://www.galileibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-01",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-17",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "Interpello n. 5 - n. 1 posto ADEE - posto SOSTEGNO primaria 24 ore al 17.12",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": false
-  },
-  {
-   "id": "9bd74adecd7e",
-   "scuola": "busto-galilei",
-   "titolo": "Interpello n. 4 - n. 1 post EEEE - posto COMUNE primaria 24 ore al 30.06",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/s0d4e1pa57",
-   "pagina": "https://www.galileibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-01",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "Interpello n. 4 - n. 1 post EEEE - posto COMUNE primaria 24 ore al 30.06",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": false
   }
  ]
 }
