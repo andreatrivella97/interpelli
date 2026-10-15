@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-15T01:28",
+ "generato": "2026-10-15T02:08",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "bustogarolfo",
@@ -104,8 +108,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "legnano-manzoni",
@@ -129,10 +133,12 @@
     "motivo": "pubblica gli interpelli in una sezione del portale Axios che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "legnano-bonvesin",
@@ -153,10 +159,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "legnano-carducci",
@@ -177,10 +185,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "legnano-salici",
@@ -201,10 +211,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "cerro",
@@ -225,10 +237,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rescaldina-manzoni",
@@ -249,10 +263,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rescaldina-alighieri",
@@ -273,10 +289,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "magnago",
@@ -297,10 +315,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "arconate",
@@ -320,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "cuggiono",
@@ -365,8 +385,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "ossona",
@@ -388,10 +408,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "arluno",
@@ -436,10 +458,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "pogliano",
@@ -457,10 +481,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "lainate-lamarmora",
@@ -477,10 +503,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "lainate-cairoli",
@@ -501,10 +529,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rho-deandre",
@@ -525,10 +555,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rho-grossi",
@@ -549,10 +581,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rho-annafrank",
@@ -573,10 +607,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "rho-franceschini",
@@ -597,10 +633,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "milano-consolemarcello",
@@ -621,10 +659,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-bertacchi",
@@ -647,8 +687,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +707,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +731,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +755,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-galilei",
@@ -738,8 +778,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-pertini",
@@ -760,10 +800,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "busto-tommaseo",
@@ -782,8 +824,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "castellanza",
@@ -804,10 +846,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "olgiate",
@@ -829,8 +873,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +898,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "solbiate",
@@ -897,10 +941,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ConnectTimeout da www.icfermifagnano.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "gerenzano",
@@ -920,10 +966,12 @@
     "motivo": "pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ConnectTimeout da www.icsgerenzano.edu.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "saronno-militi",
@@ -942,8 +990,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +1013,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "saronno-davinci",
@@ -987,10 +1035,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 403 da serviziweb.axioscloud.it"
+   ],
    "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_controllo": "2026-10-15T02:08"
   },
   {
    "id": "uboldo",
@@ -1009,8 +1059,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-15T01:07",
-   "ultimo_controllo": "2026-10-15T01:07"
+   "ultimo_ok": "2026-10-15T02:08",
+   "ultimo_controllo": "2026-10-15T02:08"
   }
  ],
  "avvisi": [
@@ -1168,7 +1218,7 @@
    "nota": null,
    "prima_vista": "2026-10-13T10:48",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "58850efd21ac",
@@ -1207,7 +1257,7 @@
    "nota": null,
    "prima_vista": "2026-10-12T18:40",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "7346a693afed",
@@ -1246,7 +1296,7 @@
    "nota": null,
    "prima_vista": "2026-10-12T13:39",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "ee302e3de943",
@@ -1402,7 +1452,7 @@
    "nota": null,
    "prima_vista": "2026-10-09T16:07",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "9a86d1b78166",
@@ -1648,7 +1698,7 @@
    "nota": null,
    "prima_vista": "2026-10-07T10:20",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "ec944c1f6e8c",
@@ -1946,16 +1996,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
