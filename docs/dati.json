@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T12:04",
+ "generato": "2026-10-16T12:24",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "sanvittore",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "bareggio",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:24",
-   "ultimo_controllo": "2026-10-16T11:24"
+   "ultimo_ok": "2026-10-16T12:24",
+   "ultimo_controllo": "2026-10-16T12:24"
   }
  ],
  "avvisi": [
@@ -1035,28 +1035,28 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "che: a) Inizio__dal 19/10/2026 __etermine___01/11/2026__ b) Orario settimanale: 24 ore c) Sede di servizio Scuola Primaria F. Wittgens Tutti g"
+     "prova": "che: a) Inizio__dal 19/10/2026 __etermine___01/11/2026__ b) Orario settimanale: 24 ore c) Sede di servizio Scuola Primaria F. Wittgens Tutti g",
+     "tipo": "comune"
     },
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Ministero dell'istruzione e del merito =} Istituto Comprensivo \"Fabrizio De André\" \\ fa Via Di Giacomo, 8 - 20017 Rho - (MI) SEA ES ch Tel. 029303862 - 0293500461 - Fax 0293181483 WES ss ue, e-mail; M"
+     "prova": "Ministero dell'istruzione e del merito =} Istituto Comprensivo \"Fabrizio De André\" \\ fa Via Di Giacomo, 8 - 20017 Rho - (MI) SEA ES ch Tel. 029303862 - 0293500461 - Fax 0293181483 WES ss ue, e-mail; M",
+     "tipo": "comune"
     }
    ],
    "letto": "ocr",
@@ -2009,16 +2009,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2048,16 +2048,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
