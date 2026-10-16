@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T15:05",
+ "generato": "2026-10-16T15:26",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "bustogarolfo",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "legnano-manzoni",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "magnago",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "bareggio",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T14:25",
-   "ultimo_controllo": "2026-10-16T14:25"
+   "ultimo_ok": "2026-10-16T15:26",
+   "ultimo_controllo": "2026-10-16T15:26"
   }
  ],
  "avvisi": [
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-10-23",
+     "fine_nota": null,
+     "inizio": "2026-10-19",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": 25,
-     "intero": false,
-     "inizio": "2026-10-19",
-     "fine": "2026-10-23",
-     "fine_nota": null,
-     "prova": "di Ossona ADAA posto di 1 25 19/10/2026 23/10/2026 12.5h ICS Papa sostegno Giovanni XXII di Magenta"
+     "prova": "di Ossona ADAA posto di 1 25 19/10/2026 23/10/2026 12.5h ICS Papa sostegno Giovanni XXII di Magenta",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1090,7 +1090,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-16T13:24",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "abfdc040578f",
@@ -1297,7 +1297,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-16T13:24",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "d6c7b99caa89",
@@ -1320,16 +1320,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-10-20",
+     "fine_nota": null,
+     "inizio": "2026-10-20",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "comune",
      "ore": 25,
-     "intero": false,
-     "inizio": "2026-10-20",
-     "fine": "2026-10-20",
-     "fine_nota": null,
-     "prova": "CONTRATTO AAAA 1 25 20/10/2026 20/10/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE IN ORDINE"
+     "prova": "CONTRATTO AAAA 1 25 20/10/2026 20/10/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE IN ORDINE",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1359,16 +1359,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "NCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 24 20/10/2026 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+     "prova": "NCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 24 20/10/2026 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -2321,16 +2321,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
