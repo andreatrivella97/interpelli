@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T12:24",
+ "generato": "2026-10-16T12:44",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "magnago",
@@ -320,8 +330,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "cuggiono",
@@ -667,8 +677,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "busto-crespi",
@@ -738,8 +748,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +792,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "castellanza",
@@ -829,8 +839,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "gorlaminore",
@@ -942,8 +952,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +975,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T11:44"
+   "ultimo_ok": "2026-10-16T12:44",
+   "ultimo_controllo": "2026-10-16T12:44"
   },
   {
    "id": "saronno-davinci",
@@ -1947,7 +1957,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
