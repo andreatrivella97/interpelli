@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T10:03",
+ "generato": "2026-10-16T10:23",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "sanvittore",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "bareggio",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T09:23",
-   "ultimo_controllo": "2026-10-16T09:23"
+   "ultimo_ok": "2026-10-16T10:23",
+   "ultimo_controllo": "2026-10-16T10:23"
   }
  ],
  "avvisi": [
@@ -1997,16 +1997,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
