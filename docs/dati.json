@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-17T00:10",
+ "generato": "2026-10-17T00:30",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "sanvittore",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "bareggio",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "busto-deamicis",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "busto-galilei",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:29",
-   "ultimo_controllo": "2026-10-16T23:29"
+   "ultimo_ok": "2026-10-17T00:30",
+   "ultimo_controllo": "2026-10-17T00:30"
   }
  ],
  "avvisi": [
