@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T23:46",
+ "generato": "2026-10-17T00:10",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:09",
-   "ultimo_controllo": "2026-10-16T23:09"
+   "ultimo_ok": "2026-10-17T00:10",
+   "ultimo_controllo": "2026-10-17T00:10"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:09",
-   "ultimo_controllo": "2026-10-16T23:09"
+   "ultimo_ok": "2026-10-17T00:10",
+   "ultimo_controllo": "2026-10-17T00:10"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:09",
-   "ultimo_controllo": "2026-10-16T23:09"
+   "ultimo_ok": "2026-10-17T00:10",
+   "ultimo_controllo": "2026-10-17T00:10"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:09",
-   "ultimo_controllo": "2026-10-16T23:09"
+   "ultimo_ok": "2026-10-17T00:10",
+   "ultimo_controllo": "2026-10-17T00:10"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T23:09",
-   "ultimo_controllo": "2026-10-16T23:09"
+   "ultimo_ok": "2026-10-17T00:10",
+   "ultimo_controllo": "2026-10-17T00:10"
   },
   {
    "id": "magnago",
@@ -2360,16 +2360,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2409,45 +2409,6 @@
      "ore": null,
      "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
      "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "2ca6e7505420",
-   "scuola": "busto-bossi",
-   "titolo": "Interpello strumento musicale AI56 e AM56 del 02-10-26 -IC \"BOSSI\" (BUSTO ARISIZIO)",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/3262eo6a41",
-   "pagina": "https://www.icbossibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-02",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": null,
-     "prova": "Interpello strumento musicale AI56 e AM56 del 02-10-26 -IC \"BOSSI\" (BUSTO ARISIZIO)",
-     "tipo": null
     }
    ],
    "letto": "non_leggibile",
