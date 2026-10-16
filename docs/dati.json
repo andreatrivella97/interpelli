@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-16T13:04",
+ "generato": "2026-10-16T13:24",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "sanvittore",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T13:04"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T13:04"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "bustogarolfo",
@@ -108,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "legnano-manzoni",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T13:04"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T13:04"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-16T11:44",
-   "ultimo_controllo": "2026-10-16T13:04"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "magnago",
@@ -350,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "marcallo",
@@ -375,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "ossona",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "bareggio",
@@ -657,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "busto-bossi",
@@ -701,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "busto-deamicis",
@@ -725,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "busto-galilei",
@@ -864,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "solbiate",
@@ -889,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   },
   {
    "id": "fagnano",
@@ -1019,11 +1009,50 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-16T12:24",
-   "ultimo_controllo": "2026-10-16T12:24"
+   "ultimo_ok": "2026-10-16T13:24",
+   "ultimo_controllo": "2026-10-16T13:24"
   }
  ],
  "avvisi": [
+  {
+   "id": "6baead9a8c92",
+   "scuola": "uboldo",
+   "titolo": "Avviso ottobre interpello per supplenze brevi posto comune primaria",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/p6lpb9njje",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-16",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Avviso ottobre interpello per supplenze brevi posto comune primaria"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-16T13:24",
+   "iniziale": false,
+   "presente": true
+  },
   {
    "id": "abfdc040578f",
    "scuola": "rho-deandre",
@@ -1096,21 +1125,60 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "i le seguenti caratteristiche: N. 2 posti di sostegno scuola primaria 24 ore settimanali ADEE fino al 30/06/2027; Tutti gli interessati sono tenuti a pr"
+     "prova": "i le seguenti caratteristiche: N. 2 posti di sostegno scuola primaria 24 ore settimanali ADEE fino al 30/06/2027; Tutti gli interessati sono tenuti a pr",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-16T13:04",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "b9b0731199ed",
+   "scuola": "uboldo",
+   "titolo": "Avviso ottobre interpello per 3 cattedre TAD Sostegno primaria",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/tptfib0sv6",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-16",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Avviso ottobre interpello per 3 cattedre TAD Sostegno primaria"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-16T13:24",
    "iniziale": false,
    "presente": true
   },
@@ -1280,7 +1348,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "554ce4e925fc",
@@ -1996,7 +2064,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
@@ -2058,16 +2126,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
