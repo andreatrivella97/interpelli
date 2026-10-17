@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-17T11:55",
+ "generato": "2026-10-17T12:35",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "sanvittore",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "bareggio",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T11:34",
-   "ultimo_controllo": "2026-10-17T11:34"
+   "ultimo_ok": "2026-10-17T12:35",
+   "ultimo_controllo": "2026-10-17T12:35"
   }
  ],
  "avvisi": [
@@ -1975,45 +1975,6 @@
    "presente": false
   },
   {
-   "id": "9a86d1b78166",
-   "scuola": "canegrate",
-   "titolo": "INTERPELLO N. 4 (1)",
-   "url": "https://www.icscanegrate.edu.it/assets/files/314da023-6155-4b12-80bb-43a19b25092c/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-09",
-   "scadenza": "2026-10-10T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ink:https://forms.gle/gmBbEdcTRDcgNBgz9 entro le ore 12:00 del giorno 10/10/2026 utilizzando tassativamente il",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": "termine delle attività didattiche",
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "imento delle seguenti supplenze: - N. 1 posto di SOSTEGNO - ADEE - h. 24 ore settimanali fino al termine delle attività didattiche così suddiviso: 12.00 ore da svolgere",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-09T10:25",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "c839b6e1a99e",
    "scuola": "legnano-bonvesin",
    "titolo": "INTERPELLO N. 4 - 2 posti EEEE supplenze brevi e saltuarie",
@@ -2360,16 +2321,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
