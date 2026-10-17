@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-17T14:56",
+ "generato": "2026-10-17T15:16",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T14:16",
-   "ultimo_controllo": "2026-10-17T14:16"
+   "ultimo_ok": "2026-10-17T15:16",
+   "ultimo_controllo": "2026-10-17T15:16"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T14:16",
-   "ultimo_controllo": "2026-10-17T14:16"
+   "ultimo_ok": "2026-10-17T15:16",
+   "ultimo_controllo": "2026-10-17T15:16"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T14:16",
-   "ultimo_controllo": "2026-10-17T14:16"
+   "ultimo_ok": "2026-10-17T15:16",
+   "ultimo_controllo": "2026-10-17T15:16"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T14:16",
-   "ultimo_controllo": "2026-10-17T14:16"
+   "ultimo_ok": "2026-10-17T15:16",
+   "ultimo_controllo": "2026-10-17T15:16"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-17T14:16",
-   "ultimo_controllo": "2026-10-17T14:16"
+   "ultimo_ok": "2026-10-17T15:16",
+   "ultimo_controllo": "2026-10-17T15:16"
   },
   {
    "id": "magnago",
@@ -1936,45 +1936,6 @@
    "presente": true
   },
   {
-   "id": "83f6ba3b44ce",
-   "scuola": "rho-annafrank",
-   "titolo": "Interpello_n.8_Primaria_sostegno_dal_06/10/2026_al_22/01/2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-09",
-   "scadenza": "2026-10-10T15:15",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-01-22",
-     "fine_nota": null,
-     "inizio": "2026-10-06",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello n.8 Primaria sostegno dal 06/10/2026 al 22/01/2027",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "titolo",
-   "nota": null,
-   "prima_vista": "2026-10-09T16:07",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "c839b6e1a99e",
    "scuola": "legnano-bonvesin",
    "titolo": "INTERPELLO N. 4 - 2 posti EEEE supplenze brevi e saltuarie",
@@ -2321,16 +2282,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
