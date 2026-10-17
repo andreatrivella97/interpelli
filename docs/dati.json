@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-17T15:56",
+ "generato": "2026-10-17T16:16",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-17T15:16",
-   "ultimo_controllo": "2026-10-17T15:16"
+   "ultimo_controllo": "2026-10-17T16:16"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-17T15:16",
-   "ultimo_controllo": "2026-10-17T15:16"
+   "ultimo_controllo": "2026-10-17T16:16"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-17T15:16",
-   "ultimo_controllo": "2026-10-17T15:16"
+   "ultimo_controllo": "2026-10-17T16:16"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-17T15:16",
-   "ultimo_controllo": "2026-10-17T15:16"
+   "ultimo_controllo": "2026-10-17T16:16"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-17T15:16",
-   "ultimo_controllo": "2026-10-17T15:16"
+   "ultimo_controllo": "2026-10-17T16:16"
   },
   {
    "id": "magnago",
@@ -1582,7 +1592,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "554ce4e925fc",
@@ -1936,57 +1946,6 @@
    "presente": true
   },
   {
-   "id": "c839b6e1a99e",
-   "scuola": "legnano-bonvesin",
-   "titolo": "INTERPELLO N. 4 - 2 posti EEEE supplenze brevi e saltuarie",
-   "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_4_-_2_posti_EEEE_supplenze_brevi_e_saltuarie.docx.pdf",
-   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-08",
-   "scadenza": "2026-10-10T16:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "ati sono tenuti a presentare entro e non oltre le ore 16:00 di sabato 10/10/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-08",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "e docente per il conferimento di 2 supplenze: ● 1 posto EEEE fino all'08/06/2027 - 24 ore settimanali ● 1 posto EEEE fino al",
-     "tipo": "comune"
-    },
-    {
-     "fine": "2027-05-29",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "EEEE fino all'08/06/2027 - 24 ore settimanali ● 1 posto EEEE fino al 29/05/2027 - 24 ore settimanali - conoscenza della ling",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-08T16:35",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "464b07677357",
    "scuola": "arconate",
    "titolo": "Interpello supplenza breve - Classe di Concorso AS2D- 4 ore dal 09/10/2026 al 30/06/2027",
@@ -2220,7 +2179,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
@@ -2282,16 +2241,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
