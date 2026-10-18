@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-18T11:25",
+ "generato": "2026-10-18T11:45",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:45",
-   "ultimo_controllo": "2026-10-18T10:45"
+   "ultimo_ok": "2026-10-18T11:45",
+   "ultimo_controllo": "2026-10-18T11:45"
   }
  ],
  "avvisi": [
