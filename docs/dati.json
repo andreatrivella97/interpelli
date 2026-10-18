@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-18T22:10",
+ "generato": "2026-10-18T22:30",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-18T21:09",
-   "ultimo_controllo": "2026-10-18T22:10"
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-18T21:09",
-   "ultimo_controllo": "2026-10-18T22:10"
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-18T21:09",
-   "ultimo_controllo": "2026-10-18T22:10"
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-18T21:09",
-   "ultimo_controllo": "2026-10-18T22:10"
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-18T21:09",
-   "ultimo_controllo": "2026-10-18T22:10"
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "magnago",
@@ -424,8 +424,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T21:29",
-   "ultimo_controllo": "2026-10-18T21:29"
+   "ultimo_ok": "2026-10-18T22:30",
+   "ultimo_controllo": "2026-10-18T22:30"
   },
   {
    "id": "bareggio",
@@ -2241,16 +2241,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
