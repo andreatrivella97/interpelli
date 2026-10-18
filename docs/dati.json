@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-18T11:05",
+ "generato": "2026-10-18T11:25",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T10:04",
-   "ultimo_controllo": "2026-10-18T11:05"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T10:04",
-   "ultimo_controllo": "2026-10-18T11:05"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T10:04",
-   "ultimo_controllo": "2026-10-18T11:05"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T10:04",
-   "ultimo_controllo": "2026-10-18T11:05"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T10:04",
-   "ultimo_controllo": "2026-10-18T11:05"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "magnago",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T10:25",
-   "ultimo_controllo": "2026-10-18T10:25"
+   "ultimo_ok": "2026-10-18T11:25",
+   "ultimo_controllo": "2026-10-18T11:25"
   },
   {
    "id": "bareggio",
@@ -1592,7 +1582,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "554ce4e925fc",
@@ -2179,7 +2169,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "c1f63807fd2b",
@@ -2241,16 +2231,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
