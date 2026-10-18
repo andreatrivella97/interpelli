@@ -16215,16 +16215,14 @@
     "axios:93527540152": 0,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [
-    "risposta 502 da icspellico.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-18T09:04",
-   "ultimo_ok": "2026-10-18T08:03"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-18T09:24",
+   "ultimo_ok": "2026-10-18T09:24"
   },
   "bareggio": {
    "conteggi": {
