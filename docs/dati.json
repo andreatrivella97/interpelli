@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-18T18:28",
+ "generato": "2026-10-18T18:48",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-18T17:07",
-   "ultimo_controllo": "2026-10-18T18:28"
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-18T17:07",
-   "ultimo_controllo": "2026-10-18T18:28"
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "bustogarolfo",
@@ -108,8 +108,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "legnano-manzoni",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-18T17:07",
-   "ultimo_controllo": "2026-10-18T18:28"
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-18T17:07",
-   "ultimo_controllo": "2026-10-18T18:28"
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-18T17:07",
-   "ultimo_controllo": "2026-10-18T18:28"
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "magnago",
@@ -350,8 +350,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "marcallo",
@@ -375,8 +375,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "ossona",
@@ -657,8 +657,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "busto-bossi",
@@ -701,8 +701,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "busto-deamicis",
@@ -864,8 +864,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "solbiate",
@@ -889,8 +889,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   },
   {
    "id": "fagnano",
@@ -1019,8 +1019,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T17:48",
-   "ultimo_controllo": "2026-10-18T17:48"
+   "ultimo_ok": "2026-10-18T18:48",
+   "ultimo_controllo": "2026-10-18T18:48"
   }
  ],
  "avvisi": [
