@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T00:10",
+ "generato": "2026-10-19T00:30",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "sanvittore",
@@ -62,10 +60,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
+    "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-18T22:50",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "canegrate",
@@ -88,10 +86,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
+    "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-18T22:50",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "bustogarolfo",
@@ -135,12 +133,10 @@
     "motivo": "pubblica gli interpelli in una sezione del portale Axios che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "legnano-bonvesin",
@@ -163,10 +159,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
+    "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-18T22:50",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "legnano-carducci",
@@ -187,12 +183,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "legnano-salici",
@@ -215,10 +209,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-18T22:50",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "cerro",
@@ -239,12 +233,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rescaldina-manzoni",
@@ -265,12 +257,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rescaldina-alighieri",
@@ -293,10 +283,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-18T22:50",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "magnago",
@@ -317,12 +307,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "arconate",
@@ -410,12 +398,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "arluno",
@@ -438,8 +424,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-18T23:30",
-   "ultimo_controllo": "2026-10-18T23:30"
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "bareggio",
@@ -460,12 +446,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "pogliano",
@@ -483,12 +467,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "lainate-lamarmora",
@@ -505,12 +487,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "lainate-cairoli",
@@ -531,12 +511,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rho-deandre",
@@ -557,12 +535,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rho-grossi",
@@ -583,12 +559,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rho-annafrank",
@@ -609,12 +583,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "rho-franceschini",
@@ -635,12 +607,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "milano-consolemarcello",
@@ -661,12 +631,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "busto-bertacchi",
@@ -802,12 +770,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "busto-tommaseo",
@@ -848,12 +814,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "olgiate",
@@ -943,12 +907,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icfermifagnano.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "gerenzano",
@@ -968,12 +930,10 @@
     "motivo": "pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icsgerenzano.edu.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "saronno-militi",
@@ -1037,12 +997,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-18T23:10",
-   "ultimo_controllo": "2026-10-19T00:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-19T00:30",
+   "ultimo_controllo": "2026-10-19T00:30"
   },
   {
    "id": "uboldo",
@@ -1232,7 +1190,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T12:04",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "ae58d2e17222",
@@ -1427,7 +1385,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T15:05",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "f0b602e8872a",
@@ -1466,7 +1424,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T15:05",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "1fd61b4a547e",
@@ -1634,7 +1592,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "554ce4e925fc",
@@ -1673,7 +1631,7 @@
    "nota": null,
    "prima_vista": "2026-10-14T10:00",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "5f87842ea6e5",
@@ -1712,7 +1670,7 @@
    "nota": null,
    "prima_vista": "2026-10-14T10:00",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "e0d9a372fab4",
@@ -1790,7 +1748,7 @@
    "nota": null,
    "prima_vista": "2026-10-13T10:48",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "58850efd21ac",
@@ -1829,7 +1787,7 @@
    "nota": null,
    "prima_vista": "2026-10-12T18:40",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "7346a693afed",
@@ -1868,7 +1826,7 @@
    "nota": null,
    "prima_vista": "2026-10-12T13:39",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "ee302e3de943",
@@ -2221,7 +2179,7 @@
    "nota": null,
    "prima_vista": "2026-10-05T14:42",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "c1f63807fd2b",
