@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T10:35",
+ "generato": "2026-10-19T10:55",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T09:55",
-   "ultimo_controllo": "2026-10-19T09:55"
+   "ultimo_ok": "2026-10-19T10:55",
+   "ultimo_controllo": "2026-10-19T10:55"
   }
  ],
  "avvisi": [
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "SETTIMANALI CONTRATTO EDEE sostegno primaria 2 24 21/10/2026 Fino al 30/06/2027 INTERPELLA tutti i docenti forniti dell"
+     "prova": "SETTIMANALI CONTRATTO EDEE sostegno primaria 2 24 21/10/2026 Fino al 30/06/2027 INTERPELLA tutti i docenti forniti dell",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -2309,16 +2309,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
