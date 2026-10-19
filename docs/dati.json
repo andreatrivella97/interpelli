@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T14:57",
+ "generato": "2026-10-19T15:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "cuggiono",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "busto-crespi",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "busto-galilei",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "gorlaminore",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T14:16",
-   "ultimo_controllo": "2026-10-19T14:16"
+   "ultimo_ok": "2026-10-19T15:17",
+   "ultimo_controllo": "2026-10-19T15:17"
   },
   {
    "id": "saronno-davinci",
@@ -1294,6 +1294,45 @@
    "prima_vista": "2026-10-19T12:56",
    "iniziale": false,
    "presente": false
+  },
+  {
+   "id": "8ab764ba3130",
+   "scuola": "busto-galilei",
+   "titolo": "Interpello n. 7- n. 1 posto ADEE - posto in deroga primaria 12 ore al 30.06",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/re0s03vlka",
+   "pagina": "https://www.galileibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-19",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 12,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "Interpello n. 7- n. 1 posto ADEE - posto in deroga primaria 12 ore al 30.06"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-19T15:17",
+   "iniziale": false,
+   "presente": true
   },
   {
    "id": "bd412a8e68ec",

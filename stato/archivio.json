@@ -8819,6 +8819,54 @@
    "ultima_vista": "2026-10-19",
    "url": "https://www.icscanegrate.edu.it/assets/files/674c097e-739c-4198-a5f5-8834ab56ffe5/"
   },
+  "8ab764ba3130": {
+   "chiave_titolo": "interpellon7n1postoadeepostoinderogaprimaria12oreal3006",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "8ab764ba3130",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.galileibusto.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 12,
+     "prova": "Interpello n. 7- n. 1 posto ADEE - posto in deroga primaria 12 ore al 30.06",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-19T15:17",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0026/re0s03vlka"
+   ],
+   "pubblicato": "2026-10-19",
+   "regole": 1,
+   "scuola": "busto-galilei",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello n. 7- n. 1 posto ADEE - posto in deroga primaria 12 ore al 30.06"
+   ],
+   "titolo": "Interpello n. 7- n. 1 posto ADEE - posto in deroga primaria 12 ore al 30.06",
+   "ultima_vista": "2026-10-19",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/re0s03vlka"
+  },
   "8c26fe84fbd9": {
    "chiave_titolo": "interpellon1icsaldomorocanegrate11",
    "chiavi_file": [
@@ -16727,8 +16775,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "arluno": {
    "conteggi": {
@@ -16781,8 +16829,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "busto-crespi": {
    "conteggi": {
@@ -16809,8 +16857,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "busto-galilei": {
    "conteggi": {
@@ -16821,8 +16869,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "busto-pertini": {
    "conteggi": {
@@ -16847,8 +16895,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -17087,8 +17135,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "ossona": {
    "conteggi": {
@@ -17237,8 +17285,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "saronno-moro": {
    "conteggi": {
@@ -17249,8 +17297,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T14:16",
-   "ultimo_ok": "2026-10-19T14:16"
+   "ultimo_controllo": "2026-10-19T15:17",
+   "ultimo_ok": "2026-10-19T15:17"
   },
   "solbiate": {
    "conteggi": {
