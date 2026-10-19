@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T11:35",
+ "generato": "2026-10-19T11:56",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T10:55",
-   "ultimo_controllo": "2026-10-19T10:55"
+   "ultimo_ok": "2026-10-19T11:56",
+   "ultimo_controllo": "2026-10-19T11:56"
   }
  ],
  "avvisi": [
@@ -1050,6 +1050,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-19T10:35",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "663dc3b0754a",
+   "scuola": "uboldo",
+   "titolo": "Interpello primaria posto comune fino al 30/06/2027",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/665mogm5ue",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-19",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "Interpello primaria posto comune fino al 30/06/2027"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-19T11:56",
    "iniziale": false,
    "presente": true
   },
@@ -2309,16 +2348,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
