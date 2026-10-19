@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T16:38",
+ "generato": "2026-10-19T16:58",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T15:57",
-   "ultimo_controllo": "2026-10-19T15:57"
+   "ultimo_ok": "2026-10-19T16:58",
+   "ultimo_controllo": "2026-10-19T16:58"
   }
  ],
  "avvisi": [
@@ -1203,16 +1203,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": null,
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "INTERPELLO PREVENTIVO SCUOLA PRIMARIA"
+     "prova": "INTERPELLO PREVENTIVO SCUOLA PRIMARIA",
+     "tipo": null
     }
    ],
    "letto": "testo",
@@ -1242,16 +1242,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": null,
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "INTERPELLO PREVENTIVO SCUOLA INFANZIA"
+     "prova": "INTERPELLO PREVENTIVO SCUOLA INFANZIA",
+     "tipo": null
     }
    ],
    "letto": "testo",
@@ -2754,16 +2754,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
