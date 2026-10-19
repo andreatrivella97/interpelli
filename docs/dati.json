@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T13:36",
+ "generato": "2026-10-19T13:56",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T12:56",
-   "ultimo_controllo": "2026-10-19T12:56"
+   "ultimo_ok": "2026-10-19T13:56",
+   "ultimo_controllo": "2026-10-19T13:56"
   }
  ],
  "avvisi": [
@@ -1035,28 +1035,28 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 12,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "O ORE INIZIO SCADENZA CONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 12 H 21/10/2026 23/10/2026 TITOLI PER L'ACCOGLIMENTO DELLE IST"
+     "prova": "O ORE INIZIO SCADENZA CONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 12 H 21/10/2026 23/10/2026 TITOLI PER L'ACCOGLIMENTO DELLE IST",
+     "tipo": "sostegno"
     },
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "I.C.S \"PAOLO NEGLIA\" C.F. 93527530153 C.M. MIIC8BU003 ADF57CA - ISTITUTO COMPRENSIVO NEGLIA Prot. 0006362/U del 19/10/2026 13:00 Istituto Comprensivo Statale \"Paolo Neglia\" Vanzago - Pogliano M.se via"
+     "prova": "I.C.S \"PAOLO NEGLIA\" C.F. 93527530153 C.M. MIIC8BU003 ADF57CA - ISTITUTO COMPRENSIVO NEGLIA Prot. 0006362/U del 19/10/2026 13:00 Istituto Comprensivo Statale \"Paolo Neglia\" Vanzago - Pogliano M.se via",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1125,21 +1125,99 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 12,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "IO SCADENZA CONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 12h c/o IC 21/10/2026 30/06/2027 NEGLIA POGLIANO + 8h c/o IC SETTIMO MIL"
+     "prova": "IO SCADENZA CONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 12h c/o IC 21/10/2026 30/06/2027 NEGLIA POGLIANO + 8h c/o IC SETTIMO MIL",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-19T13:36",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "233ddefaa623",
+   "scuola": "uboldo",
+   "titolo": "Interpello posto comune fino al 21/03/2027 scuola primaria",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/83fue685m7",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-19",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-03-21",
+     "fine_nota": null,
+     "prova": "Interpello posto comune fino al 21/03/2027 scuola primaria"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-19T13:56",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "51d982635029",
+   "scuola": "uboldo",
+   "titolo": "Interpello - posto comune supplenza breve fino al 30/10/2026 scuola primaria",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/akbkgjdtk8",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-19",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2026-10-30",
+     "fine_nota": null,
+     "prova": "Interpello - posto comune supplenza breve fino al 30/10/2026 scuola primaria"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-19T13:56",
    "iniziale": false,
    "presente": true
   },
@@ -1215,7 +1293,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-19T12:56",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "bd412a8e68ec",
@@ -2559,16 +2637,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",

@@ -2693,6 +2693,54 @@
    "ultima_vista": "2026-10-06",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/l0uih12fe6"
   },
+  "233ddefaa623": {
+   "chiave_titolo": "interpellopostocomunefinoal21032027scuolaprimaria",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "233ddefaa623",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-03-21",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello posto comune fino al 21/03/2027 scuola primaria",
+     "tipo": "comune"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-19T13:56",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0018/83fue685m7"
+   ],
+   "pubblicato": "2026-10-19",
+   "regole": 1,
+   "scuola": "uboldo",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello posto comune fino al 21/03/2027 scuola primaria"
+   ],
+   "titolo": "Interpello posto comune fino al 21/03/2027 scuola primaria",
+   "ultima_vista": "2026-10-19",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/83fue685m7"
+  },
   "23cd0c8a24a1": {
    "chiave_titolo": "interpello4369udel19092024eeeepostocomuneprimaria",
    "chiavi_file": [],
@@ -5289,6 +5337,54 @@
    "titolo": "INTERPELLO n. 7 del 06.11.2024 - SCUOLA INFANZIA -POSTI DI SOSTEGNO",
    "ultima_vista": "2026-10-19",
    "url": "https://icstarra.edu.it/sito-download-file/4779/all"
+  },
+  "51d982635029": {
+   "chiave_titolo": "interpellopostocomunesupplenzabrevefinoal30102026scuolaprimaria",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "51d982635029",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2026-10-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello - posto comune supplenza breve fino al 30/10/2026 scuola primaria",
+     "tipo": "comune"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-19T13:56",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0018/akbkgjdtk8"
+   ],
+   "pubblicato": "2026-10-19",
+   "regole": 1,
+   "scuola": "uboldo",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello - posto comune supplenza breve fino al 30/10/2026 scuola primaria"
+   ],
+   "titolo": "Interpello - posto comune supplenza breve fino al 30/10/2026 scuola primaria",
+   "ultima_vista": "2026-10-19",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/akbkgjdtk8"
   },
   "51e975555c08": {
    "chiave_titolo": "interpello4912udel22102024aaaapostocomuneinfanzia",
@@ -7999,7 +8095,7 @@
      "tipo": null
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-19T12:56",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/VAME0018/94f8910pg9"
@@ -16673,8 +16769,8 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "busto-bossi": {
    "conteggi": {
@@ -16699,8 +16795,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -16763,8 +16859,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "canegrate": {
    "conteggi": {
@@ -16817,8 +16913,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "fagnano": {
    "conteggi": {
@@ -16855,8 +16951,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -16965,8 +17061,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -17167,20 +17263,20 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "uboldo": {
    "conteggi": {
-    "albo:": 3
+    "albo:": 4
    },
    "errori": [],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T12:56",
-   "ultimo_ok": "2026-10-19T12:56"
+   "ultimo_controllo": "2026-10-19T13:56",
+   "ultimo_ok": "2026-10-19T13:56"
   },
   "villacortese": {
    "conteggi": {
