@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T23:39",
+ "generato": "2026-10-20T00:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T23:01",
-   "ultimo_controllo": "2026-10-19T23:01"
+   "ultimo_ok": "2026-10-20T00:01",
+   "ultimo_controllo": "2026-10-20T00:01"
   }
  ],
  "avvisi": [
@@ -1484,7 +1484,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T09:55",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "e3bb5a7eec75",
@@ -2615,125 +2615,6 @@
    "presente": true
   },
   {
-   "id": "61b0590276f4",
-   "scuola": "lainate-cairoli",
-   "titolo": "Interpello breve EE e AA Primaria e Infanzia",
-   "url": "https://icscairoli.edu.it/2026/10/05/interpello-breve-ee-e-aa-primaria-e-infanzia/",
-   "pagina": "https://icscairoli.edu.it/interpelli-nazionali/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-05",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia",
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia",
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello breve EE e AA Primaria e Infanzia",
-     "tipo": null
-    }
-   ],
-   "letto": "pagina",
-   "nota": null,
-   "prima_vista": "2026-10-05T14:30",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "b22065a9ee82",
-   "scuola": "canegrate",
-   "titolo": "INTERPELLO N. 3 EEEE ALDO MORO PRIMARIA",
-   "url": "https://www.icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-05",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-08",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "VIZIO POSTI CONCORSO ORE CONTRATTO POSTO SET- TIMA NALI EEEE Fino all'8/06/2027 1 Posto Comune 22+2 Supplenza Scuola Pr",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-05T14:42",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "c1f63807fd2b",
-   "scuola": "busto-bossi",
-   "titolo": "Interpello posto comune Infanzia del 05.10.2026",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/1fb1mf9a48",
-   "pagina": "https://www.icbossibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-05",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": null,
-     "prova": "Interpello posto comune Infanzia del 05.10.2026",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-05T12:29",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "6a92aa67fc4e",
    "scuola": "rho-annafrank",
    "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
@@ -2754,16 +2635,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
