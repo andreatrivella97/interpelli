@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-19T12:36",
+ "generato": "2026-10-19T12:56",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "legnano-manzoni",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-19T11:56",
-   "ultimo_controllo": "2026-10-19T11:56"
+   "ultimo_ok": "2026-10-19T12:56",
+   "ultimo_controllo": "2026-10-19T12:56"
   }
  ],
  "avvisi": [
@@ -1089,6 +1089,41 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-19T11:56",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "815a13ea5022",
+   "scuola": "uboldo",
+   "titolo": "Interpello su doc. Lo Mascolo fino al 21/03/2026",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/94f8910pg9",
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-19",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [],
+   "posti": [
+    {
+     "ordini": [],
+     "tipo": null,
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello su doc. Lo Mascolo fino al 21/03/2026"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-19T12:56",
    "iniziale": false,
    "presente": true
   },
@@ -1187,28 +1222,28 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-21",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-10-21",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO DI SOSTEGNO 24H DAL 21/10/2026 AL 30/06/2027 SUPPLENZA PERN.1 POSTO DI SOSTEGNO 11 H"
+     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO DI SOSTEGNO 24H DAL 21/10/2026 AL 30/06/2027 SUPPLENZA PERN.1 POSTO DI SOSTEGNO 11 H",
+     "tipo": "sostegno"
     },
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-21",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 11,
-     "intero": false,
-     "inizio": "2026-10-21",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "O 24H DAL 21/10/2026 AL 30/06/2027 SUPPLENZA PERN.1 POSTO DI SOSTEGNO 11 H DAL 21/10/2026 AL 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+     "prova": "O 24H DAL 21/10/2026 AL 30/06/2027 SUPPLENZA PERN.1 POSTO DI SOSTEGNO 11 H DAL 21/10/2026 AL 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -2434,16 +2469,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",

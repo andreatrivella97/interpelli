@@ -7851,6 +7851,50 @@
    "ultima_vista": "2026-10-19",
    "url": "https://icadanegri.edu.it/sito-download-file/2463/all"
   },
+  "815a13ea5022": {
+   "chiave_titolo": "interpellosudoclomascolofinoal21032026",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "815a13ea5022",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [],
+   "pagina": "https://www.ic-manzoni-uboldo.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [],
+     "ore": null,
+     "prova": "Interpello su doc. Lo Mascolo fino al 21/03/2026",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-19T12:56",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0018/94f8910pg9"
+   ],
+   "pubblicato": "2026-10-19",
+   "regole": 1,
+   "scuola": "uboldo",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello su doc. Lo Mascolo fino al 21/03/2026"
+   ],
+   "titolo": "Interpello su doc. Lo Mascolo fino al 21/03/2026",
+   "ultima_vista": "2026-10-19",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0018/94f8910pg9"
+  },
   "81ca0c0b17c0": {
    "chiave_titolo": "interpellon14del18022026am12lettere",
    "chiavi_file": [],
@@ -16509,8 +16553,8 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "busto-bossi": {
    "conteggi": {
@@ -16535,8 +16579,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -16599,8 +16643,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "canegrate": {
    "conteggi": {
@@ -16653,8 +16697,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "fagnano": {
    "conteggi": {
@@ -16691,8 +16735,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -16801,8 +16845,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -17003,8 +17047,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "uboldo": {
    "conteggi": {
@@ -17015,8 +17059,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:56",
-   "ultimo_ok": "2026-10-19T11:56"
+   "ultimo_controllo": "2026-10-19T12:56",
+   "ultimo_ok": "2026-10-19T12:56"
   },
   "villacortese": {
    "conteggi": {
