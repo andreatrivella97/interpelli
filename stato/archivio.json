@@ -11858,6 +11858,50 @@
    "ultima_vista": "2026-10-19",
    "url": "https://www.icsfranceschini.edu.it/public/files/2024-2025/Interpelli/interpello-ADEE-28-01-2025_signed.pdf"
   },
+  "bd412a8e68ec": {
+   "chiave_titolo": "convocazionipernomineatempodeterminatodocentiinterpellonr4postisostegno24oredal21102026al30062027",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "bd412a8e68ec",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [],
+   "pagina": "https://www.omnicomprensivoeuropeo.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-21",
+     "intero": false,
+     "ordini": [],
+     "ore": 24,
+     "prova": "r nomine a tempo determinato docenti- interpello nr. 4 posti sostegno 24 ore dal 21/10/2026 al 30/06/2027",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-19T12:16",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/MILS0037/vqpeacnijt"
+   ],
+   "pubblicato": "2026-10-19",
+   "regole": 1,
+   "scuola": "arconate",
+   "tentativi": 1,
+   "titoli": [
+    "Convocazioni per nomine a tempo determinato docenti- interpello nr. 4 posti sostegno 24 ore dal 21/10/2026 al 30/06/2027"
+   ],
+   "titolo": "Convocazioni per nomine a tempo determinato docenti- interpello nr. 4 posti sostegno 24 ore dal 21/10/2026 al 30/06/2027",
+   "ultima_vista": "2026-10-19",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/MILS0037/vqpeacnijt"
+  },
   "bd74ea303bcf": {
    "chiave_titolo": "interpello4526udel01102024adeepostosostegnoprimaria",
    "chiavi_file": [],
@@ -13193,7 +13237,7 @@
      "tipo": null
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "web.spaggiari.eu/sdg2/Documenti/MILS0037/ib3o7gr7k3"
@@ -16357,8 +16401,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "arluno": {
    "conteggi": {
@@ -16411,8 +16455,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "busto-crespi": {
    "conteggi": {
@@ -16439,8 +16483,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "busto-galilei": {
    "conteggi": {
@@ -16451,8 +16495,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "busto-pertini": {
    "conteggi": {
@@ -16477,8 +16521,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -16503,8 +16547,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "castellanza": {
    "conteggi": {
@@ -16621,8 +16665,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -16663,8 +16707,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "magnago": {
    "conteggi": {
@@ -16717,8 +16761,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "ossona": {
    "conteggi": {
@@ -16757,8 +16801,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -16841,8 +16885,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -16867,8 +16911,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "saronno-moro": {
    "conteggi": {
@@ -16879,8 +16923,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-19T11:15",
-   "ultimo_ok": "2026-10-19T11:15"
+   "ultimo_controllo": "2026-10-19T12:16",
+   "ultimo_ok": "2026-10-19T12:16"
   },
   "solbiate": {
    "conteggi": {
