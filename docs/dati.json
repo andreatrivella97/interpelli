@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-20T05:04",
+ "generato": "2026-10-20T05:24",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,10 +60,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-20T03:43",
-   "ultimo_controllo": "2026-10-20T05:04"
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "canegrate",
@@ -86,10 +86,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-20T03:43",
-   "ultimo_controllo": "2026-10-20T05:04"
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "bustogarolfo",
@@ -159,10 +159,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-20T03:43",
-   "ultimo_controllo": "2026-10-20T05:04"
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "legnano-carducci",
@@ -209,10 +209,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-20T03:43",
-   "ultimo_controllo": "2026-10-20T05:04"
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "cerro",
@@ -283,10 +283,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-20T03:43",
-   "ultimo_controllo": "2026-10-20T05:04"
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "magnago",
@@ -330,8 +330,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "cuggiono",
@@ -677,8 +677,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "busto-crespi",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "busto-galilei",
@@ -748,8 +748,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "busto-pertini",
@@ -792,8 +792,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "castellanza",
@@ -839,8 +839,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "gorlaminore",
@@ -952,8 +952,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "saronno-moro",
@@ -975,8 +975,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T04:23",
-   "ultimo_controllo": "2026-10-20T04:23"
+   "ultimo_ok": "2026-10-20T05:24",
+   "ultimo_controllo": "2026-10-20T05:24"
   },
   {
    "id": "saronno-davinci",
@@ -2115,7 +2115,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "554ce4e925fc",

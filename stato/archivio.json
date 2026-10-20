@@ -10260,7 +10260,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icscanegrate.edu.it/assets/files/87a359ef-f550-4678-8e7f-13226a301aa3"
@@ -11293,7 +11293,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97"
@@ -11345,7 +11345,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-15T09:31",
    "provati": [
     "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_5_-_1_posto_EEEE_fino_al_30_06_2027_docx_(2).pdf"
@@ -11544,7 +11544,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2"
@@ -16883,8 +16883,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "arluno": {
    "conteggi": {
@@ -16937,8 +16937,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "busto-crespi": {
    "conteggi": {
@@ -16965,8 +16965,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "busto-galilei": {
    "conteggi": {
@@ -16977,8 +16977,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "busto-pertini": {
    "conteggi": {
@@ -17003,8 +17003,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -17024,14 +17024,14 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 4
    },
    "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-20T05:04",
+   "ultimo_controllo": "2026-10-20T05:24",
    "ultimo_ok": "2026-10-20T03:43"
   },
   "castellanza": {
@@ -17144,14 +17144,14 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 5
    },
    "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-20T05:04",
+   "ultimo_controllo": "2026-10-20T05:24",
    "ultimo_ok": "2026-10-20T03:43"
   },
   "legnano-carducci": {
@@ -17188,14 +17188,14 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 5
    },
    "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-20T05:04",
+   "ultimo_controllo": "2026-10-20T05:24",
    "ultimo_ok": "2026-10-20T03:43"
   },
   "magnago": {
@@ -17249,8 +17249,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "ossona": {
    "conteggi": {
@@ -17284,14 +17284,14 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
    "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-20T05:04",
+   "ultimo_controllo": "2026-10-20T05:24",
    "ultimo_ok": "2026-10-20T03:43"
   },
   "rescaldina-manzoni": {
@@ -17370,14 +17370,14 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
    "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
+    "risposta 403 da serviziweb.axioscloud.it"
    ],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-20T05:04",
+   "ultimo_controllo": "2026-10-20T05:24",
    "ultimo_ok": "2026-10-20T03:43"
   },
   "saronno-davinci": {
@@ -17403,8 +17403,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "saronno-moro": {
    "conteggi": {
@@ -17415,8 +17415,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T04:23",
-   "ultimo_ok": "2026-10-20T04:23"
+   "ultimo_controllo": "2026-10-20T05:24",
+   "ultimo_ok": "2026-10-20T05:24"
   },
   "solbiate": {
    "conteggi": {
