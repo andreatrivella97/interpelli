@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-20T22:12",
+ "generato": "2026-10-20T22:32",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "magnago",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "marcallo",
@@ -671,8 +671,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "busto-crespi",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "busto-galilei",
@@ -742,8 +742,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "busto-pertini",
@@ -786,8 +786,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "castellanza",
@@ -833,8 +833,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "gorlaminore",
@@ -946,8 +946,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "saronno-moro",
@@ -969,8 +969,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T21:26",
-   "ultimo_controllo": "2026-10-20T21:26"
+   "ultimo_ok": "2026-10-20T22:32",
+   "ultimo_controllo": "2026-10-20T22:32"
   },
   {
    "id": "saronno-davinci",
