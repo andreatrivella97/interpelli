@@ -3743,6 +3743,54 @@
    "ultima_vista": "2026-10-20",
    "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_1_-_8_posti_ADEE_30_06___1_fino_al_05_10_esclusi_sabati_e_domeniche_docx_(1).pdf"
   },
+  "308cc8e2091c": {
+   "chiave_titolo": "interpelloperselezionepersonaleclassediconcorsoadaapostodisostegnonellascuoladellinfanziaicntommaseobustoarsiziovaas20262027",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "308cc8e2091c",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-20T19:31",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d"
+   ],
+   "pubblicato": "2026-10-20",
+   "regole": 1,
+   "scuola": "busto-tommaseo",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027"
+   ],
+   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+   "ultima_vista": "2026-10-20",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d"
+  },
   "30c211d8048e": {
    "chiave_titolo": "interpellon11supplenzebreviefinoalterminedelleattivitadidattichepostocomunescuolaprimariaprotn5341del16092026",
    "chiavi_file": [
@@ -10826,6 +10874,54 @@
    "ultima_vista": "2026-10-05",
    "url": "https://icscairoli.edu.it/2025/10/21/avviso-dinterpello-per-la-copertura-di-posti-art-13-c-23-o-m-88-2024-4/"
   },
+  "a989d260c3a5": {
+   "chiave_titolo": "interpelloperselezionepersonaleclassediconcorsoadeepostodisostegnonellascuolaprimariaicntommaseobustoarsiziovaas20262027",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "a989d260c3a5",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADEE posto di sostegno nella Scuola Primaria I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-20T19:31",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0030/le40am0dk1"
+   ],
+   "pubblicato": "2026-10-20",
+   "regole": 1,
+   "scuola": "busto-tommaseo",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADEE posto di sostegno nella Scuola Primaria I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027"
+   ],
+   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADEE posto di sostegno nella Scuola Primaria I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+   "ultima_vista": "2026-10-20",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/le40am0dk1"
+  },
   "a9f8a54b1cb0": {
    "chiave_titolo": "interpellon13del24012025scuolainfanziapostodisostegno",
    "chiavi_file": [],
@@ -12618,6 +12714,54 @@
    "titolo": "Interpello 4526/U DEL 01/10/2024 (ADEE posto sostegno primaria)",
    "ultima_vista": "2026-10-20",
    "url": "https://www.manzonirescalda.edu.it/interpello/"
+  },
+  "bf67a2b0dcbd": {
+   "chiave_titolo": "interpelloperselezionepersonaleclassediconcorsoadaapostodisostegnonellascuoladellinfanziaicntommaseobustoarsiziovaas20262027",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "bf67a2b0dcbd",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-20T19:31",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d"
+   ],
+   "pubblicato": "2026-10-20",
+   "regole": 1,
+   "scuola": "busto-tommaseo",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027"
+   ],
+   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
+   "ultima_vista": "2026-10-20",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d"
   },
   "bf9c83fca834": {
    "chiave_titolo": "interpellon9del02122024scuolainfanziapostodisostegno",
@@ -17183,8 +17327,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "arluno": {
    "conteggi": {
@@ -17237,8 +17381,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "busto-crespi": {
    "conteggi": {
@@ -17265,8 +17409,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "busto-galilei": {
    "conteggi": {
@@ -17277,8 +17421,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "busto-pertini": {
    "conteggi": {
@@ -17296,15 +17440,15 @@
   },
   "busto-tommaseo": {
    "conteggi": {
-    "albo:": 1
+    "albo:": 3
    },
    "errori": [],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -17329,8 +17473,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "castellanza": {
    "conteggi": {
@@ -17369,8 +17513,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "fagnano": {
    "conteggi": {
@@ -17447,8 +17591,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -17489,8 +17633,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "magnago": {
    "conteggi": {
@@ -17543,8 +17687,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "ossona": {
    "conteggi": {
@@ -17583,8 +17727,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -17667,8 +17811,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -17693,8 +17837,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "saronno-moro": {
    "conteggi": {
@@ -17705,8 +17849,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T18:30",
-   "ultimo_ok": "2026-10-20T18:30"
+   "ultimo_controllo": "2026-10-20T19:31",
+   "ultimo_ok": "2026-10-20T19:31"
   },
   "solbiate": {
    "conteggi": {
