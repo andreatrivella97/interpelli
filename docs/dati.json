@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-20T10:46",
+ "generato": "2026-10-20T11:06",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "bustogarolfo",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "legnano-manzoni",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "magnago",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "busto-bossi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "busto-deamicis",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   },
   {
    "id": "fagnano",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T10:06",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "ultimo_ok": "2026-10-20T11:06",
+   "ultimo_controllo": "2026-10-20T11:06"
   }
  ],
  "avvisi": [
@@ -1035,21 +1035,60 @@
    ],
    "posti": [
     {
+     "fine": "2027-07-30",
+     "fine_nota": null,
+     "inizio": "2026-10-22",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": 25,
-     "intero": false,
-     "inizio": "2026-10-22",
-     "fine": "2027-07-30",
-     "fine_nota": null,
-     "prova": "ntratto I ADAA posto di ICS Duca D'Aosta di 1 25 22/10/2026 30/07/2027 sostegno Ossona La candidatura dovrà pervenire en"
+     "prova": "ntratto I ADAA posto di ICS Duca D'Aosta di 1 25 22/10/2026 30/07/2027 sostegno Ossona La candidatura dovrà pervenire en",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-20T10:46",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "8629e82d67b3",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO PER SUPPLENZA POSTO COMUNE PRIMARIA FINO AL 30/06/2027",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/Interpello%2020%20ottobre%202026.pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-20",
+   "scadenza": "2026-10-21T12:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": "2026-10-22",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "contratto EEEE (posto 1 24 22/10/2026 30/06/2026 sostegno scuola primaria) Sede/i di servizio: Scu"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-20T11:06",
    "iniziale": false,
    "presente": true
   },
@@ -2635,16 +2674,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
