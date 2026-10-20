@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-20T10:06",
+ "generato": "2026-10-20T10:26",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "cuggiono",
@@ -338,12 +338,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ChunkedEncodingError da istitutocomprensivocuggiono.edu.it"
-   ],
-   "ultimo_ok": "2026-10-20T09:05",
-   "ultimo_controllo": "2026-10-20T10:06"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "marcallo",
@@ -669,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "busto-crespi",
@@ -717,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "busto-galilei",
@@ -740,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "busto-pertini",
@@ -784,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "castellanza",
@@ -831,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "gorlaminore",
@@ -944,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "saronno-moro",
@@ -967,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T09:25",
-   "ultimo_controllo": "2026-10-20T09:25"
+   "ultimo_ok": "2026-10-20T10:26",
+   "ultimo_controllo": "2026-10-20T10:26"
   },
   {
    "id": "saronno-davinci",
