@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-20T13:07",
+ "generato": "2026-10-20T13:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "marcallo",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "busto-crespi",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "busto-galilei",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "gorlaminore",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-20T12:27",
-   "ultimo_controllo": "2026-10-20T12:27"
+   "ultimo_ok": "2026-10-20T13:27",
+   "ultimo_controllo": "2026-10-20T13:27"
   },
   {
    "id": "saronno-davinci",
@@ -1074,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,"
+     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1128,6 +1128,84 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-20T11:06",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "8b4ac15c0606",
+   "scuola": "saronno-militi",
+   "titolo": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0044/1i99eeckg1",
+   "pagina": "https://www.icsmiliti.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-20",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 12,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-20T13:27",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "c3e0581176f5",
+   "scuola": "busto-bossi",
+   "titolo": "Interpello posto sostegno Primaria del 20.10.2026",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/v9o8co0fhd",
+   "pagina": "https://www.icbossibusto.edu.it/albo-online",
+   "candidatura": null,
+   "fonti": [
+    "albo"
+   ],
+   "pubblicato": "2026-10-20",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello posto sostegno Primaria del 20.10.2026"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-20T13:27",
    "iniziale": false,
    "presente": true
   },
@@ -2713,16 +2791,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",

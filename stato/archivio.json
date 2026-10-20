@@ -9131,6 +9131,54 @@
    "ultima_vista": "2026-10-20",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/re0s03vlka"
   },
+  "8b4ac15c0606": {
+   "chiave_titolo": "interpellon1postosostegnoprimaria12orefinoal30062027scuolaignotomilitisaronno",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "8b4ac15c0606",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icsmiliti.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 12,
+     "prova": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-20T13:27",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0044/1i99eeckg1"
+   ],
+   "pubblicato": "2026-10-20",
+   "regole": 1,
+   "scuola": "saronno-militi",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO"
+   ],
+   "titolo": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO",
+   "ultima_vista": "2026-10-20",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0044/1i99eeckg1"
+  },
   "8c26fe84fbd9": {
    "chiave_titolo": "interpellon1icsaldomorocanegrate11",
    "chiavi_file": [
@@ -12850,6 +12898,54 @@
    "titolo": "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA SECONDARIA I GRADO CLASSE DI CONCORSO AM2B",
    "ultima_vista": "2026-10-20",
    "url": "https://www.icsfranceschini.edu.it/public/files/2025-2026/Interpelli/timbro_protocollo_INTERPELLO_AM48_DEL_15.05.2026.pdf.pades.pdf"
+  },
+  "c3e0581176f5": {
+   "chiave_titolo": "interpellopostosostegnoprimariadel20102026",
+   "chiavi_file": [],
+   "fonti": [
+    "albo"
+   ],
+   "id": "c3e0581176f5",
+   "iniziale": false,
+   "letti_da": [
+    "albo:"
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icbossibusto.edu.it/albo-online",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello posto sostegno Primaria del 20.10.2026",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-20T13:27",
+   "provati": [
+    "web.spaggiari.eu/sdg2/Documenti/VAME0022/v9o8co0fhd"
+   ],
+   "pubblicato": "2026-10-20",
+   "regole": 1,
+   "scuola": "busto-bossi",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello posto sostegno Primaria del 20.10.2026"
+   ],
+   "titolo": "Interpello posto sostegno Primaria del 20.10.2026",
+   "ultima_vista": "2026-10-20",
+   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/v9o8co0fhd"
   },
   "c400924e969c": {
    "chiave_titolo": "cliccapervedereildocumento",
@@ -17039,8 +17135,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "arluno": {
    "conteggi": {
@@ -17093,8 +17189,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "busto-crespi": {
    "conteggi": {
@@ -17121,8 +17217,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "busto-galilei": {
    "conteggi": {
@@ -17133,8 +17229,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "busto-pertini": {
    "conteggi": {
@@ -17159,8 +17255,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -17225,8 +17321,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "fagnano": {
    "conteggi": {
@@ -17399,8 +17495,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "ossona": {
    "conteggi": {
@@ -17542,15 +17638,15 @@
   },
   "saronno-militi": {
    "conteggi": {
-    "albo:": 1
+    "albo:": 2
    },
    "errori": [],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "saronno-moro": {
    "conteggi": {
@@ -17561,8 +17657,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-20T12:27",
-   "ultimo_ok": "2026-10-20T12:27"
+   "ultimo_controllo": "2026-10-20T13:27",
+   "ultimo_ok": "2026-10-20T13:27"
   },
   "solbiate": {
    "conteggi": {
