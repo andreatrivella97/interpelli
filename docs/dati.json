@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T22:43",
+ "generato": "2026-10-21T23:03",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -343,7 +343,7 @@
     "risposta 503 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T22:43"
+   "ultimo_controllo": "2026-10-21T23:03"
   },
   {
    "id": "marcallo",
@@ -717,10 +717,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T22:03",
-   "ultimo_controllo": "2026-10-21T22:03"
+   "ultimo_controllo": "2026-10-21T23:03"
   },
   {
    "id": "busto-galilei",
