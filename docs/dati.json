@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T17:41",
+ "generato": "2026-10-21T18:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -717,8 +717,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T17:00",
-   "ultimo_controllo": "2026-10-21T17:00"
+   "ultimo_ok": "2026-10-21T18:01",
+   "ultimo_controllo": "2026-10-21T18:01"
   },
   {
    "id": "busto-galilei",
@@ -1232,28 +1232,28 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "le docente per il conferimento di 3 supplenze: ● 1 posto EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al"
+     "prova": "le docente per il conferimento di 3 supplenze: ● 1 posto EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al",
+     "tipo": "comune"
     },
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "o EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al 30/06/2027 - 24 ore settimanali Sede di servizio: Scuol"
+     "prova": "o EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al 30/06/2027 - 24 ore settimanali Sede di servizio: Scuol",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
