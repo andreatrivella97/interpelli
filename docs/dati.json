@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T22:16",
+ "generato": "2026-10-21T22:43",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:22",
-   "ultimo_controllo": "2026-10-21T22:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:22",
-   "ultimo_controllo": "2026-10-21T22:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:22",
-   "ultimo_controllo": "2026-10-21T22:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:22",
-   "ultimo_controllo": "2026-10-21T22:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:22",
-   "ultimo_controllo": "2026-10-21T22:16"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "magnago",
@@ -330,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "cuggiono",
@@ -348,10 +338,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "risposta 503 da istitutocomprensivocuggiono.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "marcallo",
@@ -679,8 +671,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "busto-crespi",
@@ -750,8 +742,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "busto-pertini",
@@ -794,8 +786,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "castellanza",
@@ -841,8 +833,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "gorlaminore",
@@ -934,8 +926,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "saronno-militi",
@@ -954,8 +946,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "saronno-moro",
@@ -977,8 +969,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T21:42"
+   "ultimo_ok": "2026-10-21T22:43",
+   "ultimo_controllo": "2026-10-21T22:43"
   },
   {
    "id": "saronno-davinci",
@@ -2804,7 +2796,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "554ce4e925fc",
@@ -3061,16 +3053,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
