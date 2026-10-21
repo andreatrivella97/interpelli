@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T23:43",
+ "generato": "2026-10-22T00:04",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "sanvittore",
@@ -345,7 +345,7 @@
     "risposta 503 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "marcallo",
@@ -372,7 +372,7 @@
     "risposta 503 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "ossona",
@@ -423,7 +423,7 @@
     "risposta 503 da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "bareggio",
@@ -704,7 +704,7 @@
     "risposta 503 da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "busto-deamicis",
@@ -894,7 +894,7 @@
     "risposta 503 da icmoro.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-21T23:43"
+   "ultimo_controllo": "2026-10-22T00:04"
   },
   {
    "id": "fagnano",
@@ -3000,45 +3000,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-09T14:06",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "464b07677357",
-   "scuola": "arconate",
-   "titolo": "Interpello supplenza breve - Classe di Concorso AS2D- 4 ore dal 09/10/2026 al 30/06/2027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/MILS0037/599u4a0k0e",
-   "pagina": "https://www.omnicomprensivoeuropeo.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-07",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-10-09",
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": 4,
-     "prova": "Interpello supplenza breve - Classe di Concorso AS2D- 4 ore dal 09/10/2026 al 30/06/2027",
-     "tipo": null
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-07T16:23",
    "iniziale": false,
    "presente": true
   },
