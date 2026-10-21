@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T11:17",
+ "generato": "2026-10-21T11:38",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "magnago",
@@ -320,8 +330,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "cuggiono",
@@ -340,8 +350,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "marcallo",
@@ -667,8 +677,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "busto-crespi",
@@ -738,8 +748,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +792,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "castellanza",
@@ -829,8 +839,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "gorlaminore",
@@ -942,8 +952,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +975,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T10:37",
-   "ultimo_controllo": "2026-10-21T10:37"
+   "ultimo_ok": "2026-10-21T11:38",
+   "ultimo_controllo": "2026-10-21T11:38"
   },
   {
    "id": "saronno-davinci",
@@ -1113,16 +1123,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "RTESE classe di concorso ADEE- POSTO SOSTEGNO SCUOLA PRIMARIA fino al 30.06.2027 Il DIRIGENTE SCOLASTICO - VISTA l'O.M."
+     "prova": "RTESE classe di concorso ADEE- POSTO SOSTEGNO SCUOLA PRIMARIA fino al 30.06.2027 Il DIRIGENTE SCOLASTICO - VISTA l'O.M.",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -2624,7 +2634,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "554ce4e925fc",
@@ -2881,16 +2891,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
