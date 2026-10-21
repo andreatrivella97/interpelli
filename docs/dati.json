@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T14:59",
+ "generato": "2026-10-21T15:19",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "sanvittore",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T13:59",
-   "ultimo_controllo": "2026-10-21T14:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T13:59",
-   "ultimo_controllo": "2026-10-21T14:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "bustogarolfo",
@@ -108,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "legnano-manzoni",
@@ -135,8 +131,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "legnano-bonvesin",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T13:59",
-   "ultimo_controllo": "2026-10-21T14:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "legnano-carducci",
@@ -185,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "legnano-salici",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T13:59",
-   "ultimo_controllo": "2026-10-21T14:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "cerro",
@@ -235,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rescaldina-manzoni",
@@ -259,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rescaldina-alighieri",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T13:59",
-   "ultimo_controllo": "2026-10-21T14:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "magnago",
@@ -309,8 +299,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "arconate",
@@ -375,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "ossona",
@@ -400,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "arluno",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "bareggio",
@@ -448,8 +438,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "pogliano",
@@ -469,8 +459,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "lainate-lamarmora",
@@ -489,8 +479,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "lainate-cairoli",
@@ -513,8 +503,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rho-deandre",
@@ -539,8 +529,8 @@
    "errori": [
     "la pagina non elenca piu' avvisi: forse e' cambiata"
    ],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rho-grossi",
@@ -563,8 +553,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rho-annafrank",
@@ -587,8 +577,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "rho-franceschini",
@@ -611,8 +601,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "milano-consolemarcello",
@@ -635,8 +625,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "busto-bertacchi",
@@ -659,8 +649,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "busto-bossi",
@@ -703,8 +693,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "busto-deamicis",
@@ -774,8 +764,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "busto-tommaseo",
@@ -818,8 +808,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "olgiate",
@@ -866,8 +856,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "solbiate",
@@ -891,8 +881,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "fagnano",
@@ -911,8 +901,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "gerenzano",
@@ -934,8 +924,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "saronno-militi",
@@ -1001,8 +991,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   },
   {
    "id": "uboldo",
@@ -1021,8 +1011,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T14:19",
-   "ultimo_controllo": "2026-10-21T14:19"
+   "ultimo_ok": "2026-10-21T15:19",
+   "ultimo_controllo": "2026-10-21T15:19"
   }
  ],
  "avvisi": [
@@ -1105,6 +1095,45 @@
    "presente": true
   },
   {
+   "id": "7013f5261160",
+   "scuola": "rho-grossi",
+   "titolo": "Interpello_ PRIMARIA posto comune_12h_ fino al 22.12.26.pdf",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-10-21",
+   "scadenza": "2026-10-22T14:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": 12,
+     "intero": false,
+     "inizio": "2026-10-26",
+     "fine": "2026-12-22",
+     "fine_nota": null,
+     "prova": "a di inizio della supplenza 26/10/2026 Durata della supplenza fino al 22/12/2026 Orario complessivo settimanale 12h Sede di servizio Via Sartirana, 3 Rho"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-21T15:19",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "79971100b98e",
    "scuola": "olgiate",
    "titolo": "Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
@@ -1179,6 +1208,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-21T11:17",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "f554c6a8cd1b",
+   "scuola": "rho-grossi",
+   "titolo": "6200/U Interpello Primaria posto comune 12h fino al 22/12/26",
+   "url": "https://www.icgrossirho.edu.it/public/files/Interpello_PRIMARIA_12h_fino_al_22.12.26(1).pdf",
+   "pagina": "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-21",
+   "scadenza": "2026-10-22T14:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "a pagina Termine di presentazione dell'istanza entro le ore 14.00 del 22/10/2026 Modalità e termini di riscont",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": 12,
+     "intero": false,
+     "inizio": "2026-10-26",
+     "fine": "2026-12-22",
+     "fine_nota": null,
+     "prova": "a di inizio della supplenza 26/10/2026 Durata della supplenza fino al 22/12/2026 Orario complessivo settimanale 12h Sede di servizio Via Sartirana, 3 Rho"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-21T15:19",
    "iniziale": false,
    "presente": true
   },
@@ -1297,7 +1365,7 @@
    "nota": null,
    "prima_vista": "2026-10-20T13:07",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "308cc8e2091c",
@@ -2675,7 +2743,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "554ce4e925fc",
@@ -2932,16 +3000,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
