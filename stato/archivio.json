@@ -11385,6 +11385,70 @@
    "ultima_vista": "2026-10-21",
    "url": "https://www.icsfranceschini.edu.it/public/files/2026-2027/Interpelli/INTERPELLO_DEL_11.09.2026.pdf"
   },
+  "ab8c5680a54f": {
+   "chiave_titolo": "interpellon51postoeeeefinoal300620272postiadeefinoal30062027",
+   "chiavi_file": [
+    "interpellon51postoeeeefinoal300620272postiadeefinoal30062027"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "ab8c5680a54f",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "le docente per il conferimento di 3 supplenze: ● 1 posto EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "o EEEE fino al 30/06/2027 - 24 ore settimanali ● 2 posti ADEE fino al 30/06/2027 - 24 ore settimanali Sede di servizio: Scuol",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-21T17:41",
+   "provati": [
+    "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_5_-_1_posto_EEEE_fino_al_30_06_2027___2_posti_ADEE_fino_al_30_06_2027.docx.pdf"
+   ],
+   "pubblicato": "2026-10-21",
+   "regole": 1,
+   "scadenza": "2026-10-23T11:30",
+   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 11:30 di venerdì 23/10/2026 la loro disponibilità al conf",
+   "scuola": "legnano-bonvesin",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 5 - 1 posto EEEE fino al 30/06/2027 + 2 posti ADEE fino al 30/06/2027"
+   ],
+   "titolo": "INTERPELLO N. 5 - 1 posto EEEE fino al 30/06/2027 + 2 posti ADEE fino al 30/06/2027",
+   "ultima_vista": "2026-10-21",
+   "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_5_-_1_posto_EEEE_fino_al_30_06_2027___2_posti_ADEE_fino_al_30_06_2027.docx.pdf"
+  },
   "abfdc040578f": {
    "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
    "chiave_titolo": "interpellosupplenzabrevepostocomunescuolaprimariafino011126",
@@ -17697,8 +17761,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "arluno": {
    "conteggi": {
@@ -17751,8 +17815,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "busto-crespi": {
    "conteggi": {
@@ -17791,8 +17855,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "busto-pertini": {
    "conteggi": {
@@ -17817,8 +17881,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -17843,8 +17907,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "castellanza": {
    "conteggi": {
@@ -17883,8 +17947,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "fagnano": {
    "conteggi": {
@@ -17907,8 +17971,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "gorlaminore": {
    "conteggi": {
@@ -17961,8 +18025,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -18003,8 +18067,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "magnago": {
    "conteggi": {
@@ -18057,8 +18121,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "ossona": {
    "conteggi": {
@@ -18097,8 +18161,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -18183,8 +18247,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -18209,8 +18273,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "saronno-moro": {
    "conteggi": {
@@ -18221,8 +18285,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-21T16:40",
-   "ultimo_ok": "2026-10-21T16:40"
+   "ultimo_controllo": "2026-10-21T17:41",
+   "ultimo_ok": "2026-10-21T17:41"
   },
   "solbiate": {
    "conteggi": {
