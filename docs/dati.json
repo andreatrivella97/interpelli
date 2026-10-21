@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T10:37",
+ "generato": "2026-10-21T10:57",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T09:57",
-   "ultimo_controllo": "2026-10-21T09:57"
+   "ultimo_ok": "2026-10-21T10:57",
+   "ultimo_controllo": "2026-10-21T10:57"
   },
   {
    "id": "busto-galilei",
@@ -1035,16 +1035,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga"
+     "prova": "Interpello Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
+     "tipo": "sostegno"
     }
    ],
    "letto": "pagina",
@@ -1074,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga"
+     "prova": "Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
