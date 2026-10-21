@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T20:22",
+ "generato": "2026-10-21T20:42",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "marcallo",
@@ -669,8 +669,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "busto-crespi",
@@ -740,8 +740,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "busto-pertini",
@@ -784,8 +784,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "castellanza",
@@ -831,8 +831,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "gorlaminore",
@@ -924,8 +924,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "saronno-militi",
@@ -944,8 +944,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "saronno-moro",
@@ -967,8 +967,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T19:41",
-   "ultimo_controllo": "2026-10-21T19:41"
+   "ultimo_ok": "2026-10-21T20:42",
+   "ultimo_controllo": "2026-10-21T20:42"
   },
   {
    "id": "saronno-davinci",
@@ -3051,16 +3051,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
