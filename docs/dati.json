@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-21T20:42",
+ "generato": "2026-10-21T21:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "magnago",
@@ -717,8 +727,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-21T20:02",
-   "ultimo_controllo": "2026-10-21T20:02"
+   "ultimo_ok": "2026-10-21T21:02",
+   "ultimo_controllo": "2026-10-21T21:02"
   },
   {
    "id": "busto-galilei",
@@ -2794,7 +2804,7 @@
    "nota": null,
    "prima_vista": "2026-10-15T09:31",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "554ce4e925fc",
