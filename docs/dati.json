@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T03:45",
+ "generato": "2026-10-22T03:55",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "sanvittore",
@@ -62,8 +62,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T03:05",
-   "ultimo_controllo": "2026-10-22T03:05"
+   "ultimo_ok": "2026-10-22T03:55",
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "canegrate",
@@ -86,8 +86,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T03:05",
-   "ultimo_controllo": "2026-10-22T03:05"
+   "ultimo_ok": "2026-10-22T03:55",
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +157,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T03:05",
-   "ultimo_controllo": "2026-10-22T03:05"
+   "ultimo_ok": "2026-10-22T03:55",
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "legnano-carducci",
@@ -205,8 +205,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T03:05",
-   "ultimo_controllo": "2026-10-22T03:05"
+   "ultimo_ok": "2026-10-22T03:55",
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "cerro",
@@ -277,8 +277,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T03:05",
-   "ultimo_controllo": "2026-10-22T03:05"
+   "ultimo_ok": "2026-10-22T03:55",
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "magnago",
@@ -345,7 +345,7 @@
     "risposta 503 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "marcallo",
@@ -372,7 +372,7 @@
     "risposta 503 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "ossona",
@@ -423,7 +423,7 @@
     "risposta 503 da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "bareggio",
@@ -704,7 +704,7 @@
     "risposta 503 da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "busto-deamicis",
@@ -894,7 +894,7 @@
     "risposta 503 da icmoro.edu.it"
    ],
    "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T03:45"
+   "ultimo_controllo": "2026-10-22T03:55"
   },
   {
    "id": "fagnano",
