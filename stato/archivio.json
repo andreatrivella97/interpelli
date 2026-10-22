@@ -17769,13 +17769,15 @@
     "axios:93527540152": 1,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icspellico.edu.it"
+   ],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   },
   "bareggio": {
@@ -17823,13 +17825,15 @@
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": 1,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da comprensivocrespi.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   },
   "busto-deamicis": {
@@ -17942,12 +17946,14 @@
    "conteggi": {
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": 1
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da istitutocomprensivocuggiono.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "errore",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   },
   "fagnano": {
@@ -18089,13 +18095,15 @@
     "pagina:https://icmarcallo.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icmarcallo.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icmarcallo.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   },
   "milano-consolemarcello": {
@@ -18293,13 +18301,15 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icmoro.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   },
   "uboldo": {
@@ -18319,13 +18329,15 @@
     "axios:92034300159": 0,
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 5
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icvillacortese.edu.it"
+   ],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-10-22T07:07",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-10-22T08:07",
    "ultimo_ok": "2026-10-22T07:07"
   }
  },
