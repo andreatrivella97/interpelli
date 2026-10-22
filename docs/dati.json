@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T12:29",
+ "generato": "2026-10-22T12:49",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "cuggiono",
@@ -669,8 +669,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "busto-crespi",
@@ -740,8 +740,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "busto-pertini",
@@ -784,8 +784,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "castellanza",
@@ -808,8 +808,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "olgiate",
@@ -831,8 +831,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "gorlaminore",
@@ -924,8 +924,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "saronno-militi",
@@ -944,8 +944,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "saronno-moro",
@@ -967,8 +967,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:49",
-   "ultimo_controllo": "2026-10-22T11:49"
+   "ultimo_ok": "2026-10-22T12:49",
+   "ultimo_controllo": "2026-10-22T12:49"
   },
   {
    "id": "saronno-davinci",
@@ -1077,16 +1077,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 11,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "gia Documento Generico Descrizione n. 1 posti ADEE (SOSTEGNO) fino al 30/06/2027 ore 11 Presso scuola primaria n. 1 posti ADAA"
+     "prova": "gia Documento Generico Descrizione n. 1 posti ADEE (SOSTEGNO) fino al 30/06/2027 ore 11 Presso scuola primaria n. 1 posti ADAA",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -3013,16 +3013,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
