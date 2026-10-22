@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T18:52",
+ "generato": "2026-10-22T19:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T18:12",
-   "ultimo_controllo": "2026-10-22T18:12"
+   "ultimo_ok": "2026-10-22T19:12",
+   "ultimo_controllo": "2026-10-22T19:12"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T18:12",
-   "ultimo_controllo": "2026-10-22T18:12"
+   "ultimo_ok": "2026-10-22T19:12",
+   "ultimo_controllo": "2026-10-22T19:12"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T18:12",
-   "ultimo_controllo": "2026-10-22T18:12"
+   "ultimo_ok": "2026-10-22T19:12",
+   "ultimo_controllo": "2026-10-22T19:12"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T18:12",
-   "ultimo_controllo": "2026-10-22T18:12"
+   "ultimo_ok": "2026-10-22T19:12",
+   "ultimo_controllo": "2026-10-22T19:12"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T18:12",
-   "ultimo_controllo": "2026-10-22T18:12"
+   "ultimo_ok": "2026-10-22T19:12",
+   "ultimo_controllo": "2026-10-22T19:12"
   },
   {
    "id": "magnago",
@@ -3169,16 +3169,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
