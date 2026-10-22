@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T14:32",
+ "generato": "2026-10-22T14:50",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "cuggiono",
@@ -575,12 +575,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-22T13:29",
-   "ultimo_controllo": "2026-10-22T14:32"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "rho-franceschini",
@@ -671,8 +669,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "busto-crespi",
@@ -742,8 +740,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "busto-pertini",
@@ -786,8 +784,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "castellanza",
@@ -810,8 +808,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "olgiate",
@@ -833,8 +831,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "gorlaminore",
@@ -926,8 +924,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "saronno-militi",
@@ -946,8 +944,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "saronno-moro",
@@ -969,8 +967,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T13:51",
-   "ultimo_controllo": "2026-10-22T13:51"
+   "ultimo_ok": "2026-10-22T14:50",
+   "ultimo_controllo": "2026-10-22T14:50"
   },
   {
    "id": "saronno-davinci",
@@ -1039,16 +1037,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "BO PRETORIO Interpello n. 4 spezzone sostegno scuola Infanzia fino al 30.06.27 Torna indietro Data pubblicazione 22/10"
+     "prova": "BO PRETORIO Interpello n. 4 spezzone sostegno scuola Infanzia fino al 30.06.27 Torna indietro Data pubblicazione 22/10",
+     "tipo": "sostegno"
     }
    ],
    "letto": "pagina",
@@ -1117,16 +1115,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,"
+     "prova": "primaria b) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 c) ORARIO COMPLESSIVO SETTIMANALE: 24h d) sede di servizio: Scuola primaria,",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -3093,16 +3091,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",

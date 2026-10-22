@@ -7082,7 +7082,7 @@
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 355,
+   "tentativi": 357,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -17965,8 +17965,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "arluno": {
    "conteggi": {
@@ -18019,8 +18019,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "busto-crespi": {
    "conteggi": {
@@ -18059,8 +18059,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "busto-pertini": {
    "conteggi": {
@@ -18085,8 +18085,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -18125,8 +18125,8 @@
     "pagina:https://istitutocomprensivocastellanza.edu.it/servizi/135-interpelli": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "cerro": {
    "conteggi": {
@@ -18175,8 +18175,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "gorlaminore": {
    "conteggi": {
@@ -18325,8 +18325,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "ossona": {
    "conteggi": {
@@ -18387,16 +18387,14 @@
     "axios:93546630158": 1,
     "pagina:https://www.icsannafrankrho.edu.it/": 4
    },
-   "errori": [
-    "ReadTimeout da www.icsannafrankrho.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93546630158": "2026-10-03T00:06",
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-22T14:32",
-   "ultimo_ok": "2026-10-22T13:29"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "rho-deandre": {
    "conteggi": {
@@ -18479,8 +18477,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "saronno-moro": {
    "conteggi": {
@@ -18491,8 +18489,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-22T13:51",
-   "ultimo_ok": "2026-10-22T13:51"
+   "ultimo_controllo": "2026-10-22T14:50",
+   "ultimo_ok": "2026-10-22T14:50"
   },
   "solbiate": {
    "conteggi": {
