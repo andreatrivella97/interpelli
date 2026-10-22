@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T11:49",
+ "generato": "2026-10-22T12:09",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:12",
-   "ultimo_controllo": "2026-10-22T11:12"
+   "ultimo_ok": "2026-10-22T12:09",
+   "ultimo_controllo": "2026-10-22T12:09"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:12",
-   "ultimo_controllo": "2026-10-22T11:12"
+   "ultimo_ok": "2026-10-22T12:09",
+   "ultimo_controllo": "2026-10-22T12:09"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:12",
-   "ultimo_controllo": "2026-10-22T11:12"
+   "ultimo_ok": "2026-10-22T12:09",
+   "ultimo_controllo": "2026-10-22T12:09"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:12",
-   "ultimo_controllo": "2026-10-22T11:12"
+   "ultimo_ok": "2026-10-22T12:09",
+   "ultimo_controllo": "2026-10-22T12:09"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T11:12",
-   "ultimo_controllo": "2026-10-22T11:12"
+   "ultimo_ok": "2026-10-22T12:09",
+   "ultimo_controllo": "2026-10-22T12:09"
   },
   {
    "id": "magnago",
@@ -2873,84 +2873,6 @@
    "prima_vista": "2026-10-14T10:00",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "5f87842ea6e5",
-   "scuola": "lainate-lamarmora",
-   "titolo": "Interpello per la classe di concorso primaria EEEE n. 24 ore dal 16.10.2026 al 20.10.2026",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4figJkXw5IBwqAJVg%3D%3D",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-14",
-   "scadenza": "2026-10-15T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-20",
-     "fine_nota": null,
-     "inizio": "2026-10-16",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "CONTRATTO EEEE comune primaria 1 24 16/10/2026 20/10/2026 INTERPELLA tutti i docenti forniti dell'abilitazi",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-14T10:00",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "e0d9a372fab4",
-   "scuola": "bustogarolfo",
-   "titolo": "Interpello n. 4 del 14-10-2026 -Scuola Primaria",
-   "url": "https://icstarra.edu.it/sito-download-file/6715/all",
-   "pagina": "https://icstarra.edu.it/servizi/99-interpello",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-14",
-   "scadenza": "2026-10-15T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "e seguenti caratteristiche: POSTI DISPONIBILI SCUOLA PRIMARIA FINO AL 30/06/2027 Cattedra di 24 ore posto comune così composta: 12 ore",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-14T12:01",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "ee302e3de943",
