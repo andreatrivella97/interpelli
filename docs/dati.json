@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T10:48",
+ "generato": "2026-10-22T11:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "sanvittore",
@@ -62,8 +62,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T10:09",
-   "ultimo_controllo": "2026-10-22T10:09"
+   "ultimo_ok": "2026-10-22T11:12",
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "canegrate",
@@ -86,8 +86,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T10:09",
-   "ultimo_controllo": "2026-10-22T10:09"
+   "ultimo_ok": "2026-10-22T11:12",
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +157,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T10:09",
-   "ultimo_controllo": "2026-10-22T10:09"
+   "ultimo_ok": "2026-10-22T11:12",
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "legnano-carducci",
@@ -205,8 +205,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T10:09",
-   "ultimo_controllo": "2026-10-22T10:09"
+   "ultimo_ok": "2026-10-22T11:12",
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "cerro",
@@ -277,8 +277,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-22T10:09",
-   "ultimo_controllo": "2026-10-22T10:09"
+   "ultimo_ok": "2026-10-22T11:12",
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "magnago",
@@ -345,7 +345,7 @@
     "risposta 503 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "marcallo",
@@ -372,7 +372,7 @@
     "risposta 503 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "ossona",
@@ -423,7 +423,7 @@
     "risposta 503 da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "bareggio",
@@ -704,7 +704,7 @@
     "risposta 503 da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "busto-deamicis",
@@ -894,7 +894,7 @@
     "risposta 503 da icmoro.edu.it"
    ],
    "ultimo_ok": "2026-10-22T07:07",
-   "ultimo_controllo": "2026-10-22T10:48"
+   "ultimo_controllo": "2026-10-22T11:12"
   },
   {
    "id": "fagnano",
@@ -1028,6 +1028,45 @@
   }
  ],
  "avvisi": [
+  {
+   "id": "73b392322ee4",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO ADAA POSTO SOSTEGNO SCUOLA DELL'INFANZIA",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/view_documento_php%20(16).pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-22",
+   "scadenza": "2026-10-23T12:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": 25,
+     "intero": false,
+     "inizio": "2026-10-26",
+     "fine": "2026-10-30",
+     "fine_nota": null,
+     "prova": "contratto ADAA (posto 1 25 26/10/2026 30/10/2026 sostegno scuola infanzia) Sede/i di servizio: Scu"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-22T11:12",
+   "iniziale": false,
+   "presente": true
+  },
   {
    "id": "026f73320afd",
    "scuola": "olgiate",
@@ -1483,7 +1522,7 @@
    "scadenza": "2026-10-21T12:00",
    "scadenza_certa": true,
    "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
+   "chiuso": "Chiuso",
    "personale": "docente",
    "ordini": [
     "primaria"
