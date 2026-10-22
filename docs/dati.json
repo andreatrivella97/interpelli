@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-22T06:46",
+ "generato": "2026-10-22T07:07",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icvillacortese.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "sanvittore",
@@ -340,12 +338,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 503 da istitutocomprensivocuggiono.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T21:42",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "marcallo",
@@ -367,12 +363,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icmarcallo.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "ossona",
@@ -418,12 +412,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "bareggio",
@@ -699,12 +691,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "busto-deamicis",
@@ -889,12 +879,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-10-21T22:16",
-   "ultimo_controllo": "2026-10-22T06:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-22T07:07",
+   "ultimo_controllo": "2026-10-22T07:07"
   },
   {
    "id": "fagnano",
