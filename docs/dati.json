@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-23T07:58",
+ "generato": "2026-10-23T08:42",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T07:38",
-   "ultimo_controllo": "2026-10-23T07:38"
+   "ultimo_ok": "2026-10-23T08:42",
+   "ultimo_controllo": "2026-10-23T08:42"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T07:38",
-   "ultimo_controllo": "2026-10-23T07:38"
+   "ultimo_ok": "2026-10-23T08:42",
+   "ultimo_controllo": "2026-10-23T08:42"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T07:38",
-   "ultimo_controllo": "2026-10-23T07:38"
+   "ultimo_ok": "2026-10-23T08:42",
+   "ultimo_controllo": "2026-10-23T08:42"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T07:38",
-   "ultimo_controllo": "2026-10-23T07:38"
+   "ultimo_ok": "2026-10-23T08:42",
+   "ultimo_controllo": "2026-10-23T08:42"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T07:38",
-   "ultimo_controllo": "2026-10-23T07:38"
+   "ultimo_ok": "2026-10-23T08:42",
+   "ultimo_controllo": "2026-10-23T08:42"
   },
   {
    "id": "magnago",
@@ -2915,45 +2915,6 @@
    "presente": true
   },
   {
-   "id": "4db3151474b3",
-   "scuola": "rho-franceschini",
-   "titolo": "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA PRIMARIA POSTO COMUNE (EEEE)",
-   "url": "https://www.icsfranceschini.edu.it/public/files/2026-2027/Interpelli/INTERPELLO_DEL_15.10.2026.pdf",
-   "pagina": "https://www.icsfranceschini.edu.it/interpelli/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-15",
-   "scadenza": "2026-10-16T08:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 08.00 del 16/10/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-23",
-     "fine_nota": null,
-     "inizio": "2026-10-19",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 16,
-     "prova": "EEE): 1 POSTO COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 19/10/2026 AL 23/10/2026 n. ore settimanali: 16 ICS EZIO FRANCESCHINI C.F. 93546600151",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "ocr",
-   "nota": null,
-   "prima_vista": "2026-10-15T08:31",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "65e8f189243f",
    "scuola": "solbiate",
    "titolo": "Clicca per vedere il documento",
@@ -3169,16 +3130,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
