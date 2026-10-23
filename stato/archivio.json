@@ -18478,16 +18478,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T14:01",
-   "ultimo_ok": "2026-10-23T13:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-10-23T14:21",
+   "ultimo_ok": "2026-10-23T14:21"
   },
   "busto-galilei": {
    "conteggi": {
