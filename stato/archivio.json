@@ -18637,8 +18637,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T22:25",
-   "ultimo_ok": "2026-10-23T22:25"
+   "ultimo_controllo": "2026-10-23T23:26",
+   "ultimo_ok": "2026-10-23T23:26"
   },
   "busto-galilei": {
    "conteggi": {
@@ -18703,7 +18703,7 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T23:06",
+   "ultimo_controllo": "2026-10-23T23:26",
    "ultimo_ok": "2026-10-23T22:05"
   },
   "castellanza": {
@@ -18823,7 +18823,7 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T23:06",
+   "ultimo_controllo": "2026-10-23T23:26",
    "ultimo_ok": "2026-10-23T22:05"
   },
   "legnano-carducci": {
@@ -18867,7 +18867,7 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T23:06",
+   "ultimo_controllo": "2026-10-23T23:26",
    "ultimo_ok": "2026-10-23T22:05"
   },
   "magnago": {
@@ -18963,7 +18963,7 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T23:06",
+   "ultimo_controllo": "2026-10-23T23:26",
    "ultimo_ok": "2026-10-23T22:05"
   },
   "rescaldina-manzoni": {
@@ -19049,7 +19049,7 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-10-23T23:06",
+   "ultimo_controllo": "2026-10-23T23:26",
    "ultimo_ok": "2026-10-23T22:05"
   },
   "saronno-davinci": {
