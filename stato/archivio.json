@@ -4784,6 +4784,70 @@
    "ultima_vista": "2026-10-23",
    "url": "https://www.manzonirescalda.edu.it/interpello/"
   },
+  "42c7b7c880d9": {
+   "chiave_titolo": "interpellon5scuolaprimariaaldomoro",
+   "chiavi_file": [
+    "6f3ba005f52f417cbab5d20310d75ac4"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "42c7b7c880d9",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-28",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "imento delle seguenti supplenze: - N. 2 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
+     "tipo": "sostegno"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-28",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 12,
+     "prova": "a Redipuglia, 8 - Canegrate (MI) - N. 1 posto di SOSTEGNO - ADEE - h. 12 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-23T10:40",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/6f3ba005-f52f-417c-bab5-d20310d75ac4"
+   ],
+   "pubblicato": "2026-10-23",
+   "regole": 1,
+   "scadenza": "2026-10-27T12:00",
+   "scadenza_prova": "nk: https://forms.gle/qoPJb7anhMb8kBC47 entro le ore 12:00 del giorno 27/10/2026 utilizzando tassativamente il",
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello N. 5 scuola primaria Aldo Moro"
+   ],
+   "titolo": "Interpello N. 5 scuola primaria Aldo Moro",
+   "ultima_vista": "2026-10-23",
+   "url": "https://www.icscanegrate.edu.it/assets/files/6f3ba005-f52f-417c-bab5-d20310d75ac4/"
+  },
   "437ae99a1690": {
    "chiave_titolo": "interpellon10del15012026sostegnoscuolaprimaria",
    "chiavi_file": [],
@@ -18305,7 +18369,7 @@
   "canegrate": {
    "conteggi": {
     "axios:84004750158": 0,
-    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 4
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 5
    },
    "errori": [],
    "fonti_viste": {
@@ -18313,8 +18377,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T09:39",
-   "ultimo_ok": "2026-10-23T09:39"
+   "ultimo_controllo": "2026-10-23T10:40",
+   "ultimo_ok": "2026-10-23T10:40"
   },
   "castellanza": {
    "conteggi": {
@@ -18431,8 +18495,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T09:39",
-   "ultimo_ok": "2026-10-23T09:39"
+   "ultimo_controllo": "2026-10-23T10:40",
+   "ultimo_ok": "2026-10-23T10:40"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -18473,8 +18537,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T09:39",
-   "ultimo_ok": "2026-10-23T09:39"
+   "ultimo_controllo": "2026-10-23T10:40",
+   "ultimo_ok": "2026-10-23T10:40"
   },
   "magnago": {
    "conteggi": {
@@ -18567,8 +18631,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T09:39",
-   "ultimo_ok": "2026-10-23T09:39"
+   "ultimo_controllo": "2026-10-23T10:40",
+   "ultimo_ok": "2026-10-23T10:40"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -18653,8 +18717,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-23T09:39",
-   "ultimo_ok": "2026-10-23T09:39"
+   "ultimo_controllo": "2026-10-23T10:40",
+   "ultimo_ok": "2026-10-23T10:40"
   },
   "saronno-davinci": {
    "conteggi": {

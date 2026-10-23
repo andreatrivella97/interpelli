@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-23T09:59",
+ "generato": "2026-10-23T10:40",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T09:39",
-   "ultimo_controllo": "2026-10-23T09:39"
+   "ultimo_ok": "2026-10-23T10:40",
+   "ultimo_controllo": "2026-10-23T10:40"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T09:39",
-   "ultimo_controllo": "2026-10-23T09:39"
+   "ultimo_ok": "2026-10-23T10:40",
+   "ultimo_controllo": "2026-10-23T10:40"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T09:39",
-   "ultimo_controllo": "2026-10-23T09:39"
+   "ultimo_ok": "2026-10-23T10:40",
+   "ultimo_controllo": "2026-10-23T10:40"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T09:39",
-   "ultimo_controllo": "2026-10-23T09:39"
+   "ultimo_ok": "2026-10-23T10:40",
+   "ultimo_controllo": "2026-10-23T10:40"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-23T09:39",
-   "ultimo_controllo": "2026-10-23T09:39"
+   "ultimo_ok": "2026-10-23T10:40",
+   "ultimo_controllo": "2026-10-23T10:40"
   },
   {
    "id": "magnago",
@@ -1056,6 +1056,57 @@
    "presente": true
   },
   {
+   "id": "42c7b7c880d9",
+   "scuola": "canegrate",
+   "titolo": "Interpello N. 5 scuola primaria Aldo Moro",
+   "url": "https://www.icscanegrate.edu.it/assets/files/6f3ba005-f52f-417c-bab5-d20310d75ac4/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-23",
+   "scadenza": "2026-10-27T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "nk: https://forms.gle/qoPJb7anhMb8kBC47 entro le ore 12:00 del giorno 27/10/2026 utilizzando tassativamente il",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": "2026-10-28",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "imento delle seguenti supplenze: - N. 2 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del"
+    },
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 12,
+     "intero": false,
+     "inizio": "2026-10-28",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "a Redipuglia, 8 - Canegrate (MI) - N. 1 posto di SOSTEGNO - ADEE - h. 12 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-23T10:40",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "82ca57c29e45",
    "scuola": "villacortese",
    "titolo": "06- ADEE INTERPELLO SOSTEGNO PRIMARIA",
@@ -1076,16 +1127,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-10-27",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": "2026-10-27",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "concorso ADEE- POSTO SOSTEGNO SCUOLA PRIMARIA dal 27.10.2026 fino al 30.06.2027 Il DIRIGENTE SCOLASTICO - VISTA l'O.M."
+     "prova": "concorso ADEE- POSTO SOSTEGNO SCUOLA PRIMARIA dal 27.10.2026 fino al 30.06.2027 Il DIRIGENTE SCOLASTICO - VISTA l'O.M.",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -3169,16 +3220,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
