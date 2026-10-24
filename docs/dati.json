@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-24T06:09",
+ "generato": "2026-10-24T06:29",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "sanvittore",
@@ -131,12 +129,10 @@
     "motivo": "pubblica gli interpelli in una sezione del portale Axios che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "legnano-bonvesin",
@@ -181,12 +177,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "legnano-salici",
@@ -231,12 +225,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rescaldina-manzoni",
@@ -257,12 +249,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rescaldina-alighieri",
@@ -307,12 +297,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "arconate",
@@ -400,12 +388,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "arluno",
@@ -426,12 +412,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "bareggio",
@@ -452,12 +436,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "pogliano",
@@ -475,12 +457,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "lainate-lamarmora",
@@ -497,12 +477,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "lainate-cairoli",
@@ -523,12 +501,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rho-deandre",
@@ -549,12 +525,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rho-grossi",
@@ -575,12 +549,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rho-annafrank",
@@ -601,12 +573,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "rho-franceschini",
@@ -627,12 +597,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "milano-consolemarcello",
@@ -653,12 +621,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "busto-bertacchi",
@@ -749,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T05:29",
-   "ultimo_controllo": "2026-10-24T05:29"
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "busto-galilei",
@@ -794,12 +760,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "busto-tommaseo",
@@ -840,12 +804,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "olgiate",
@@ -935,12 +897,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icfermifagnano.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "gerenzano",
@@ -960,12 +920,10 @@
     "motivo": "pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icsgerenzano.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "saronno-militi",
@@ -1029,12 +987,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 403 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-10-24T05:08",
-   "ultimo_controllo": "2026-10-24T06:09"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T06:29",
+   "ultimo_controllo": "2026-10-24T06:29"
   },
   {
    "id": "uboldo",
@@ -1744,7 +1700,7 @@
    "nota": null,
    "prima_vista": "2026-10-21T12:18",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "7013f5261160",
@@ -1783,7 +1739,7 @@
    "nota": null,
    "prima_vista": "2026-10-21T15:19",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "79971100b98e",
@@ -2068,7 +2024,7 @@
    "nota": null,
    "prima_vista": "2026-10-20T10:46",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "1cdd3cb482b6",
@@ -2392,7 +2348,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T13:36",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "17a4cb731924",
@@ -2431,7 +2387,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T10:35",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "1ae682973941",
@@ -2470,7 +2426,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T13:36",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "233ddefaa623",
@@ -2548,7 +2504,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T16:38",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "472b6c8ab7db",
@@ -2587,7 +2543,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T16:38",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "51d982635029",
@@ -2864,7 +2820,7 @@
    "nota": null,
    "prima_vista": "2026-10-19T12:36",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "efdae729772a",
@@ -2954,7 +2910,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T15:05",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "13cc9619cacb",
@@ -2993,7 +2949,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T16:06",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "6baead9a8c92",
@@ -3083,7 +3039,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T12:04",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "ae58d2e17222",
@@ -3278,7 +3234,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T15:05",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "f0b602e8872a",
@@ -3317,7 +3273,7 @@
    "nota": null,
    "prima_vista": "2026-10-16T15:05",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "1fd61b4a547e",
