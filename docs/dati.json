@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-24T23:36",
+ "generato": "2026-10-25T00:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "legnano-manzoni",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "busto-deamicis",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "fagnano",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   },
   {
    "id": "saronno-davinci",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T23:16",
-   "ultimo_controllo": "2026-10-24T23:16"
+   "ultimo_ok": "2026-10-25T00:17",
+   "ultimo_controllo": "2026-10-25T00:17"
   }
  ],
  "avvisi": [
@@ -2695,7 +2695,7 @@
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-19T15:17",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "bd412a8e68ec",
@@ -3069,84 +3069,6 @@
    "presente": false
   },
   {
-   "id": "d6c7b99caa89",
-   "scuola": "pogliano",
-   "titolo": "INTERPELLO SOSTITUZIONE SCUOLA INFANZIA",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-16",
-   "scadenza": "2026-10-18T00:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-20",
-     "fine_nota": null,
-     "inizio": "2026-10-20",
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "CONTRATTO AAAA 1 25 20/10/2026 20/10/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE IN ORDINE",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-16T15:05",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "f0b602e8872a",
-   "scuola": "pogliano",
-   "titolo": "Interpello SCUOLA PRIMARIA SOSTEGNO n. 24 ore, dal 20/10/2026 al 30/06/2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-16",
-   "scadenza": "2026-10-18T00:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "NCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 24 20/10/2026 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-16T15:05",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "1fd61b4a547e",
    "scuola": "busto-pertini",
    "titolo": "00020/2026 INTERPELLO PER SELEZIONE PERSONALE Classe di concorso EEEE n. 1 posto comune Scuola Primaria I.C. \"S. Pertini\" - Busto Arsizio (VA) - A.S. 2026/2027",
@@ -3296,16 +3218,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -3335,16 +3257,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
