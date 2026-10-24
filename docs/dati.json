@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-24T14:52",
+ "generato": "2026-10-24T15:13",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T13:52",
-   "ultimo_controllo": "2026-10-24T14:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T13:52",
-   "ultimo_controllo": "2026-10-24T14:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "bustogarolfo",
@@ -108,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "legnano-manzoni",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T13:52",
-   "ultimo_controllo": "2026-10-24T14:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T13:52",
-   "ultimo_controllo": "2026-10-24T14:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-24T13:52",
-   "ultimo_controllo": "2026-10-24T14:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "magnago",
@@ -330,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "cuggiono",
@@ -350,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "marcallo",
@@ -375,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "ossona",
@@ -657,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "busto-bossi",
@@ -677,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "busto-crespi",
@@ -701,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "busto-deamicis",
@@ -748,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "busto-pertini",
@@ -792,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "castellanza",
@@ -839,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "gorlaminore",
@@ -864,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "solbiate",
@@ -889,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "fagnano",
@@ -952,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "saronno-moro",
@@ -975,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   },
   {
    "id": "saronno-davinci",
@@ -1019,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-24T14:12",
-   "ultimo_controllo": "2026-10-24T14:12"
+   "ultimo_ok": "2026-10-24T15:13",
+   "ultimo_controllo": "2026-10-24T15:13"
   }
  ],
  "avvisi": [
@@ -2997,57 +2987,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-16T13:24",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "abfdc040578f",
-   "scuola": "rho-deandre",
-   "titolo": "INTERPELLO SUPPLENZA BREVE POSTO COMUNE SCUOLA PRIMARIA FINO 01_11_26",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-16",
-   "scadenza": "2026-10-17T15:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "che: a) Inizio__dal 19/10/2026 __etermine___01/11/2026__ b) Orario settimanale: 24 ore c) Sede di servizio Scuola Primaria F. Wittgens Tutti g",
-     "tipo": "comune"
-    },
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Ministero dell'istruzione e del merito =} Istituto Comprensivo \"Fabrizio De André\" \\ fa Via Di Giacomo, 8 - 20017 Rho - (MI) SEA ES ch Tel. 029303862 - 0293500461 - Fax 0293181483 WES ss ue, e-mail; M",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "ocr",
-   "nota": null,
-   "prima_vista": "2026-10-16T12:04",
    "iniziale": false,
    "presente": false
   },
