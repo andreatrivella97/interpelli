@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-25T11:42",
+ "generato": "2026-10-25T12:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-25T10:41",
-   "ultimo_controllo": "2026-10-25T11:42"
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-25T10:41",
-   "ultimo_controllo": "2026-10-25T11:42"
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-25T10:41",
-   "ultimo_controllo": "2026-10-25T11:42"
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-25T10:41",
-   "ultimo_controllo": "2026-10-25T11:42"
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-25T10:41",
-   "ultimo_controllo": "2026-10-25T11:42"
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "magnago",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:58",
-   "ultimo_controllo": "2026-10-25T10:58"
+   "ultimo_ok": "2026-10-25T12:02",
+   "ultimo_controllo": "2026-10-25T12:02"
   },
   {
    "id": "busto-galilei",
@@ -3228,16 +3228,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -3267,16 +3267,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
