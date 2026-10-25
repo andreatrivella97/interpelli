@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-25T10:58",
+ "generato": "2026-10-25T11:22",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "legnano-manzoni",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "ossona",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "busto-deamicis",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "busto-pertini",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "castellanza",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "fagnano",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   },
   {
    "id": "saronno-davinci",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T10:21",
-   "ultimo_controllo": "2026-10-25T10:21"
+   "ultimo_ok": "2026-10-25T11:22",
+   "ultimo_controllo": "2026-10-25T11:22"
   }
  ],
  "avvisi": [
