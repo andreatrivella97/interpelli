@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-25T21:46",
+ "generato": "2026-10-25T22:26",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-25T20:46",
-   "ultimo_controllo": "2026-10-25T21:46"
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-25T20:46",
-   "ultimo_controllo": "2026-10-25T21:46"
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "bustogarolfo",
@@ -108,8 +108,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "legnano-manzoni",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-25T20:46",
-   "ultimo_controllo": "2026-10-25T21:46"
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-25T20:46",
-   "ultimo_controllo": "2026-10-25T21:46"
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-25T20:46",
-   "ultimo_controllo": "2026-10-25T21:46"
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "magnago",
@@ -330,8 +330,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "cuggiono",
@@ -350,8 +350,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "marcallo",
@@ -375,8 +375,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "ossona",
@@ -657,8 +657,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "busto-bossi",
@@ -677,8 +677,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "busto-crespi",
@@ -701,8 +701,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "busto-deamicis",
@@ -725,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "busto-galilei",
@@ -748,8 +748,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "busto-pertini",
@@ -792,8 +792,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "castellanza",
@@ -839,8 +839,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "gorlaminore",
@@ -864,8 +864,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "solbiate",
@@ -889,8 +889,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "fagnano",
@@ -952,8 +952,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "saronno-moro",
@@ -975,8 +975,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   },
   {
    "id": "saronno-davinci",
@@ -1019,8 +1019,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-25T21:26",
-   "ultimo_controllo": "2026-10-25T21:26"
+   "ultimo_ok": "2026-10-25T22:26",
+   "ultimo_controllo": "2026-10-25T22:26"
   }
  ],
  "avvisi": [
@@ -3228,16 +3228,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -3267,16 +3267,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
