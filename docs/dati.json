@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-27T12:28",
+ "generato": "2026-10-27T12:48",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T11:48",
-   "ultimo_controllo": "2026-10-27T11:48"
+   "ultimo_ok": "2026-10-27T12:48",
+   "ultimo_controllo": "2026-10-27T12:48"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T11:48",
-   "ultimo_controllo": "2026-10-27T11:48"
+   "ultimo_ok": "2026-10-27T12:48",
+   "ultimo_controllo": "2026-10-27T12:48"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T11:48",
-   "ultimo_controllo": "2026-10-27T11:48"
+   "ultimo_ok": "2026-10-27T12:48",
+   "ultimo_controllo": "2026-10-27T12:48"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T11:48",
-   "ultimo_controllo": "2026-10-27T11:48"
+   "ultimo_ok": "2026-10-27T12:48",
+   "ultimo_controllo": "2026-10-27T12:48"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T11:48",
-   "ultimo_controllo": "2026-10-27T11:48"
+   "ultimo_ok": "2026-10-27T12:48",
+   "ultimo_controllo": "2026-10-27T12:48"
   },
   {
    "id": "magnago",
@@ -1054,6 +1054,45 @@
    "presente": false
   },
   {
+   "id": "793d19b71005",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO ADEE SOSTEGNO SCUOLA PRIMARIA",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/Interpello_27_ottobre_2026.pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-27",
+   "scadenza": "2026-10-28T12:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": "2026-10-29",
+     "fine": "2026-11-13",
+     "fine_nota": null,
+     "prova": "contratto ADEE (posto 1 24 29/10/2026 13/11/2026 sostegno scuola primaria) Sede/i di servizio: Scu"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-27T12:48",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "1917d0de7fb2",
    "scuola": "saronno-militi",
    "titolo": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 24 ORE FINO AL 21/12/2026 - I.C. I. MILTI DI SARONNO",
@@ -1637,7 +1676,7 @@
    "scadenza": "2026-10-23T12:00",
    "scadenza_certa": true,
    "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
+   "chiuso": "Chiuso",
    "personale": "docente",
    "ordini": [
     "infanzia"
@@ -3116,16 +3155,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -3155,16 +3194,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
