@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-27T22:53",
+ "generato": "2026-10-27T23:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "sanvittore",
@@ -65,7 +65,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:32",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "canegrate",
@@ -91,7 +91,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:32",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "bustogarolfo",
@@ -110,8 +110,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "legnano-manzoni",
@@ -140,7 +140,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "legnano-bonvesin",
@@ -166,7 +166,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:32",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "legnano-carducci",
@@ -192,7 +192,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "legnano-salici",
@@ -218,7 +218,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:32",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "cerro",
@@ -244,7 +244,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rescaldina-manzoni",
@@ -270,7 +270,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rescaldina-alighieri",
@@ -296,7 +296,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:32",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "magnago",
@@ -322,7 +322,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "arconate",
@@ -342,8 +342,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "cuggiono",
@@ -362,8 +362,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "marcallo",
@@ -387,8 +387,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "ossona",
@@ -415,7 +415,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "arluno",
@@ -441,7 +441,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "bareggio",
@@ -467,7 +467,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "pogliano",
@@ -490,7 +490,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "lainate-lamarmora",
@@ -512,7 +512,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "lainate-cairoli",
@@ -538,7 +538,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rho-deandre",
@@ -565,7 +565,7 @@
     "la pagina non elenca piu' avvisi: forse e' cambiata"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rho-grossi",
@@ -591,7 +591,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rho-annafrank",
@@ -618,7 +618,7 @@
     "la pagina non elenca piu' avvisi: forse e' cambiata"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "rho-franceschini",
@@ -644,7 +644,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "milano-consolemarcello",
@@ -670,7 +670,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-bertacchi",
@@ -693,8 +693,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-bossi",
@@ -713,8 +713,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-crespi",
@@ -737,8 +737,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-deamicis",
@@ -761,8 +761,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-galilei",
@@ -784,8 +784,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-pertini",
@@ -811,7 +811,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "busto-tommaseo",
@@ -830,8 +830,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "castellanza",
@@ -857,7 +857,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "olgiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "gorlaminore",
@@ -904,8 +904,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "solbiate",
@@ -929,8 +929,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "fagnano",
@@ -992,8 +992,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "saronno-moro",
@@ -1015,8 +1015,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "saronno-davinci",
@@ -1042,7 +1042,7 @@
     "risposta 522 da serviziweb.axioscloud.it"
    ],
    "ultimo_ok": "2026-10-27T21:52",
-   "ultimo_controllo": "2026-10-27T22:53"
+   "ultimo_controllo": "2026-10-27T23:27"
   },
   {
    "id": "uboldo",
@@ -1061,8 +1061,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-27T22:33",
-   "ultimo_controllo": "2026-10-27T22:33"
+   "ultimo_ok": "2026-10-27T23:27",
+   "ultimo_controllo": "2026-10-27T23:27"
   }
  ],
  "avvisi": [
