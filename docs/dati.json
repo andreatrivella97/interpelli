@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-28T11:59",
+ "generato": "2026-10-28T12:19",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T09:58",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:19",
+   "ultimo_controllo": "2026-10-28T12:19"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T09:58",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:19",
+   "ultimo_controllo": "2026-10-28T12:19"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T09:58",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:19",
+   "ultimo_controllo": "2026-10-28T12:19"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T09:58",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:19",
+   "ultimo_controllo": "2026-10-28T12:19"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T09:58",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:19",
+   "ultimo_controllo": "2026-10-28T12:19"
   },
   {
    "id": "magnago",
@@ -1064,6 +1054,45 @@
    "presente": false
   },
   {
+   "id": "a42a9eb79be0",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO ADEE SOSTEGNO SCUOLA PRIMARIA",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/Interpello_28_ottobre_2026.pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-10-28",
+   "scadenza": "2026-10-29T23:59",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": "2026-10-30",
+     "fine": "2026-11-10",
+     "fine_nota": null,
+     "prova": "contratto ADEE (posto 1 24 30/10/2026 10/11/2026 sostegno scuola primaria) Sede/i di servizio: Scu"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-28T12:19",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "693f728fa0df",
    "scuola": "arconate",
    "titolo": "Interpello supplenza breve 1 posto scuola dell'infanzia comune AAAA 25 ore dal 28/10 al 05/11/2026",
@@ -1116,7 +1145,7 @@
    "scadenza": "2026-10-28T12:00",
    "scadenza_certa": true,
    "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
+   "chiuso": "Chiuso",
    "personale": "docente",
    "ordini": [
     "primaria"
@@ -2359,45 +2388,6 @@
    "prima_vista": "2026-10-20T19:31",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "8629e82d67b3",
-   "scuola": "legnano-salici",
-   "titolo": "INTERPELLO PER SUPPLENZA POSTO COMUNE PRIMARIA FINO AL 30/06/2027",
-   "url": "https://www.icsviadeisalici.edu.it/uploads/files/Interpello%2020%20ottobre%202026.pdf",
-   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": "2026-10-21T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": "Chiuso",
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-10-22",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "contratto EEEE (posto 1 24 22/10/2026 30/06/2026 sostegno scuola primaria) Sede/i di servizio: Scu",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-20T11:06",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "8b4ac15c0606",
