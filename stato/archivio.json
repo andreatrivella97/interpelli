@@ -7396,7 +7396,7 @@
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 745,
+   "tentativi": 748,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -16014,7 +16014,7 @@
    ],
    "regole": 1,
    "scuola": "rho-deandre",
-   "tentativi": 362,
+   "tentativi": 366,
    "titoli": [
     "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
     "DECRETO INDIVIDUAZIONE DOCENTI POSTO DI SOSTEGNO SCUOLA PRIMARIA FINO AL 30/06/2026 - INTERPELLO PROT. 3735 DEL 30/09/2027",
@@ -19347,8 +19347,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "gerenzano": {
    "conteggi": {
@@ -19359,8 +19359,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "gorlaminore": {
    "conteggi": {
@@ -19577,8 +19577,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "rho-deandre": {
    "conteggi": {
@@ -19591,8 +19591,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -19605,8 +19605,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "rho-grossi": {
    "conteggi": {
@@ -19619,8 +19619,8 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   },
   "sanvittore": {
    "conteggi": {
@@ -19711,8 +19711,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T12:59",
-   "ultimo_ok": "2026-10-28T12:59"
+   "ultimo_controllo": "2026-10-28T14:00",
+   "ultimo_ok": "2026-10-28T14:00"
   }
  },
  "versione": 1
