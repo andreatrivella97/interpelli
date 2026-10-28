@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-28T14:40",
+ "generato": "2026-10-28T15:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "sanvittore",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "milano-consolemarcello",
@@ -899,8 +899,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "gerenzano",
@@ -922,8 +922,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T14:00",
-   "ultimo_controllo": "2026-10-28T14:00"
+   "ultimo_ok": "2026-10-28T15:01",
+   "ultimo_controllo": "2026-10-28T15:01"
   },
   {
    "id": "saronno-militi",
@@ -1167,6 +1167,45 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-10-28T12:39",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "f8749e914e77",
+   "scuola": "rho-deandre",
+   "titolo": "INTERPELLO SCUOLA INFANZIA POSTO SOSTEGNO FINO AL 30.06.2027",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-10-28",
+   "scadenza": "2026-10-29T15:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": 25,
+     "intero": false,
+     "inizio": "2026-11-02",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "e seguenti caratteristiche: a) Inizio __dal 02/11/2026 __ e termine___30/06/2027__ b) Orario settimanale: 25 ore c) Sede di servizio Scuola Infanzia"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-10-28T15:01",
    "iniziale": false,
    "presente": true
   },
@@ -3116,16 +3155,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -3155,16 +3194,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",

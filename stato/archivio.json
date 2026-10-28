@@ -7396,7 +7396,7 @@
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 748,
+   "tentativi": 751,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -16019,7 +16019,10 @@
     "149bea97ef58",
     "481eaaaf1f10",
     "9321744e4a5d",
-    "d380dcfbd92c"
+    "d380dcfbd92c",
+    "5440826313d5",
+    "c33f93bcf6c3",
+    "16430fb55650"
    ],
    "chiave_titolo": "interpellon7postidisostegnosullascuolaprimariafinoal300627",
    "chiavi_file": [
@@ -16066,7 +16069,7 @@
    ],
    "regole": 1,
    "scuola": "rho-deandre",
-   "tentativi": 366,
+   "tentativi": 373,
    "titoli": [
     "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
     "DECRETO INDIVIDUAZIONE DOCENTI POSTO DI SOSTEGNO SCUOLA PRIMARIA FINO AL 30/06/2026 - INTERPELLO PROT. 3735 DEL 30/09/2027",
@@ -18705,6 +18708,60 @@
    "ultima_vista": "2026-10-28",
    "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/05-_ADEE_INTERPELLO_SOSTEGNO_PRIMARIA_.pdf.pades_ANNULLATO.pdf?x34858"
   },
+  "f8749e914e77": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
+   "chiave_titolo": "interpelloscuolainfanziapostosostegnofinoal30062027",
+   "chiavi_file": [
+    "interpellosostegnoscuolainfanziapostovacanteal30062026"
+   ],
+   "fonti": [
+    "axios"
+   ],
+   "id": "f8749e914e77",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93527170158"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-02",
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "e seguenti caratteristiche: a) Inizio __dal 02/11/2026 __ e termine___30/06/2027__ b) Orario settimanale: 25 ore c) Sede di servizio Scuola Infanzia",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-28T15:01",
+   "provati": [
+    "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527170158&Folder=SC/Folders/Files&file=2ff07cc3-5381-43eb-9190-17b722b689c7.pdf&faction=0000&SourceFileName=INTERPELLO_SOSTEGNO_SCUOLA_INFANZIA_POSTO_VACANTE_AL_30_06_2026.pdf"
+   ],
+   "pubblicato": "2026-10-28",
+   "regole": 1,
+   "scadenza": "2026-10-29T15:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "rho-deandre",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO SCUOLA INFANZIA POSTO SOSTEGNO FINO AL 30.06.2027"
+   ],
+   "titolo": "INTERPELLO SCUOLA INFANZIA POSTO SOSTEGNO FINO AL 30.06.2027",
+   "ultima_vista": "2026-10-28",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb"
+  },
   "f8c80e7d09a1": {
    "chiave_titolo": "interpello5633udel03122024aaaapostocomuneinfanzia",
    "chiavi_file": [],
@@ -19399,8 +19456,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "gerenzano": {
    "conteggi": {
@@ -19411,8 +19468,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "gorlaminore": {
    "conteggi": {
@@ -19629,8 +19686,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "rho-deandre": {
    "conteggi": {
@@ -19643,8 +19700,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -19657,8 +19714,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "rho-grossi": {
    "conteggi": {
@@ -19671,8 +19728,8 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   },
   "sanvittore": {
    "conteggi": {
@@ -19763,8 +19820,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T14:00",
-   "ultimo_ok": "2026-10-28T14:00"
+   "ultimo_controllo": "2026-10-28T15:01",
+   "ultimo_ok": "2026-10-28T15:01"
   }
  },
  "versione": 1
