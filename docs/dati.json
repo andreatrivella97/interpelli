@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-28T12:39",
+ "generato": "2026-10-28T12:59",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T11:59",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "sanvittore",
@@ -525,12 +525,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icdeandrerho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T11:39",
-   "ultimo_controllo": "2026-10-28T12:39"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "rho-grossi",
@@ -551,12 +549,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icgrossirho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T11:39",
-   "ultimo_controllo": "2026-10-28T12:39"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "rho-annafrank",
@@ -577,12 +573,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T11:39",
-   "ultimo_controllo": "2026-10-28T12:39"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "rho-franceschini",
@@ -603,12 +597,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsfranceschini.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T11:39",
-   "ultimo_controllo": "2026-10-28T12:39"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "milano-consolemarcello",
@@ -907,8 +899,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T11:59",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "gerenzano",
@@ -930,8 +922,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T11:59",
-   "ultimo_controllo": "2026-10-28T11:59"
+   "ultimo_ok": "2026-10-28T12:59",
+   "ultimo_controllo": "2026-10-28T12:59"
   },
   {
    "id": "saronno-militi",
@@ -1121,16 +1113,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-21",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-12-21",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 24 ORE, FINO AL 21/12/2026 - I.C. I. MILTI DI SARONNO"
+     "prova": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 24 ORE, FINO AL 21/12/2026 - I.C. I. MILTI DI SARONNO",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
@@ -3085,16 +3077,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -3124,16 +3116,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
