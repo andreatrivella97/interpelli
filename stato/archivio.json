@@ -11529,6 +11529,58 @@
    "ultima_vista": "2026-10-06",
    "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ"
   },
+  "9e6aea17b4a2": {
+   "chiave_titolo": "interpellon61postoadaafinoal30062027",
+   "chiavi_file": [
+    "interpellon61postoadaafinoal30062027docx"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "9e6aea17b4a2",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "mento di 1 supplenza: ● 1 posto ADAA sostegno scuola infanzia fino al 30/06/2027 - 25 ore settimanali; Sede di servizio: Scuo",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-10-28T14:20",
+   "provati": [
+    "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_6-1_posto_ADAA_fino_al_30_06_2027_docx.pdf"
+   ],
+   "pubblicato": "2026-10-28",
+   "regole": 1,
+   "scadenza": "2026-10-29T14:00",
+   "scadenza_prova": "ti sono tenuti a presentare entro e non oltre le ore 14:00 di giovedì 29/10/2026 la propria disponibilità al c",
+   "scuola": "legnano-bonvesin",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 6 - 1 posto ADAA fino al 30/06/2027"
+   ],
+   "titolo": "INTERPELLO N. 6 - 1 posto ADAA fino al 30/06/2027",
+   "ultima_vista": "2026-10-28",
+   "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_6-1_posto_ADAA_fino_al_30_06_2027_docx.pdf"
+  },
   "9fac561645d9": {
    "chiave_titolo": "interpellon2del180920261postoadaafinoal13102026",
    "chiavi_file": [
@@ -19295,8 +19347,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T13:20",
-   "ultimo_ok": "2026-10-28T13:20"
+   "ultimo_controllo": "2026-10-28T14:20",
+   "ultimo_ok": "2026-10-28T14:20"
   },
   "castellanza": {
    "conteggi": {
@@ -19405,7 +19457,7 @@
   "legnano-bonvesin": {
    "conteggi": {
     "axios:92044520150": 0,
-    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 5
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 6
    },
    "errori": [],
    "fonti_viste": {
@@ -19413,8 +19465,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T13:20",
-   "ultimo_ok": "2026-10-28T13:20"
+   "ultimo_controllo": "2026-10-28T14:20",
+   "ultimo_ok": "2026-10-28T14:20"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -19455,8 +19507,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T13:20",
-   "ultimo_ok": "2026-10-28T13:20"
+   "ultimo_controllo": "2026-10-28T14:20",
+   "ultimo_ok": "2026-10-28T14:20"
   },
   "magnago": {
    "conteggi": {
@@ -19549,8 +19601,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T13:20",
-   "ultimo_ok": "2026-10-28T13:20"
+   "ultimo_controllo": "2026-10-28T14:20",
+   "ultimo_ok": "2026-10-28T14:20"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -19633,8 +19685,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-10-28T13:20",
-   "ultimo_ok": "2026-10-28T13:20"
+   "ultimo_controllo": "2026-10-28T14:20",
+   "ultimo_ok": "2026-10-28T14:20"
   },
   "saronno-davinci": {
    "conteggi": {
