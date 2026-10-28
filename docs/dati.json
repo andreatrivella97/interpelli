@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-28T09:38",
+ "generato": "2026-10-28T09:58",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
-   ],
-   "ultimo_ok": "2026-10-28T08:33",
-   "ultimo_controllo": "2026-10-28T09:38"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "sanvittore",
@@ -62,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "canegrate",
@@ -86,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "legnano-carducci",
@@ -205,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "cerro",
@@ -277,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "magnago",
@@ -901,8 +899,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "gerenzano",
@@ -924,8 +922,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-28T08:58",
-   "ultimo_controllo": "2026-10-28T08:58"
+   "ultimo_ok": "2026-10-28T09:58",
+   "ultimo_controllo": "2026-10-28T09:58"
   },
   {
    "id": "saronno-militi",
@@ -2143,7 +2141,7 @@
    "nota": null,
    "prima_vista": "2026-10-21T11:17",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "ab8c5680a54f",
@@ -3079,16 +3077,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -3118,16 +3116,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
