@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-29T13:51",
+ "generato": "2026-10-29T14:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "magnago",
@@ -535,12 +525,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icdeandrerho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "rho-grossi",
@@ -561,12 +549,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icgrossirho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "rho-annafrank",
@@ -587,12 +573,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "rho-franceschini",
@@ -613,12 +597,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsfranceschini.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "milano-consolemarcello",
@@ -731,12 +713,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-10-29T12:48",
-   "ultimo_controllo": "2026-10-29T13:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-29T14:11",
+   "ultimo_controllo": "2026-10-29T14:11"
   },
   {
    "id": "busto-galilei",
@@ -1094,16 +1074,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-11-08",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "comune",
      "ore": 25,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-11-08",
-     "fine_nota": null,
-     "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 08.11.2026 Questa Istituzione scolastica, ai sensi"
+     "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 08.11.2026 Questa Istituzione scolastica, ai sensi",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -2203,45 +2183,6 @@
    "presente": false
   },
   {
-   "id": "7013f5261160",
-   "scuola": "rho-grossi",
-   "titolo": "Interpello_ PRIMARIA posto comune_12h_ fino al 22.12.26.pdf",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-21",
-   "scadenza": "2026-10-22T14:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-22",
-     "fine_nota": null,
-     "inizio": "2026-10-26",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 12,
-     "prova": "a di inizio della supplenza 26/10/2026 Durata della supplenza fino al 22/12/2026 Orario complessivo settimanale 12h Sede di servizio Via Sartirana, 3 Rho",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-21T15:19",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "79971100b98e",
    "scuola": "olgiate",
    "titolo": "Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
@@ -2367,45 +2308,6 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-21T17:41",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "f554c6a8cd1b",
-   "scuola": "rho-grossi",
-   "titolo": "6200/U Interpello Primaria posto comune 12h fino al 22/12/26",
-   "url": "https://www.icgrossirho.edu.it/public/files/Interpello_PRIMARIA_12h_fino_al_22.12.26(1).pdf",
-   "pagina": "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-21",
-   "scadenza": "2026-10-22T14:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "a pagina Termine di presentazione dell'istanza entro le ore 14.00 del 22/10/2026 Modalità e termini di riscont",
-   "chiuso": "Assegnato",
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-22",
-     "fine_nota": null,
-     "inizio": "2026-10-26",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 12,
-     "prova": "a di inizio della supplenza 26/10/2026 Durata della supplenza fino al 22/12/2026 Orario complessivo settimanale 12h Sede di servizio Via Sartirana, 3 Rho",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-21T15:19",
    "iniziale": false,
    "presente": true
   },
@@ -3175,16 +3077,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -3214,16 +3116,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
