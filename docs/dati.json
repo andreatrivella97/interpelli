@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-29T23:54",
+ "generato": "2026-10-30T00:15",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-29T23:15",
-   "ultimo_controllo": "2026-10-29T23:15"
+   "ultimo_ok": "2026-10-30T00:15",
+   "ultimo_controllo": "2026-10-30T00:15"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-29T23:15",
-   "ultimo_controllo": "2026-10-29T23:15"
+   "ultimo_ok": "2026-10-30T00:15",
+   "ultimo_controllo": "2026-10-30T00:15"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-29T23:15",
-   "ultimo_controllo": "2026-10-29T23:15"
+   "ultimo_ok": "2026-10-30T00:15",
+   "ultimo_controllo": "2026-10-30T00:15"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-29T23:15",
-   "ultimo_controllo": "2026-10-29T23:15"
+   "ultimo_ok": "2026-10-30T00:15",
+   "ultimo_controllo": "2026-10-30T00:15"
   },
   {
    "id": "milano-consolemarcello",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-29T23:15",
-   "ultimo_controllo": "2026-10-29T23:15"
+   "ultimo_ok": "2026-10-30T00:15",
+   "ultimo_controllo": "2026-10-30T00:15"
   },
   {
    "id": "busto-galilei",
@@ -2144,45 +2144,6 @@
    "presente": true
   },
   {
-   "id": "0f542a028a07",
-   "scuola": "pogliano",
-   "titolo": "Interpello per supplenza Scuola Primaria Posto Sostegno 24H",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-21",
-   "scadenza": "2026-10-23T00:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "Interpello per supplenza Scuola Primaria Posto Sostegno 24H",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-21T12:18",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "79971100b98e",
    "scuola": "olgiate",
    "titolo": "Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
@@ -2967,96 +2928,6 @@
    "presente": false
   },
   {
-   "id": "1fd61b4a547e",
-   "scuola": "busto-pertini",
-   "titolo": "00020/2026 INTERPELLO PER SELEZIONE PERSONALE Classe di concorso EEEE n. 1 posto comune Scuola Primaria I.C. \"S. Pertini\" - Busto Arsizio (VA) - A.S. 2026/2027",
-   "url": "https://icpertinibusto.edu.it/documento/interpello-per-selezione-personale-classe-di-concorso-eeee-3/",
-   "pagina": "https://icpertinibusto.edu.it/argomento/interpello/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-15",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-10-22",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "rsonale docente per il conferimento del seguente incarico: n. 1 posto 24 h. settimanali - Scuola Primaria (posto comune EEEE) fino al 22/10/2026 Il Il/la candidato/a dovrà far pervenir",
-     "tipo": "comune"
-    },
-    {
-     "fine": "2026-11-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "nsegnamento di: POSTO: EEEE (COMUNE PRIMARIA) TIPO CONTRATTO: T.D. AL 30/11/2026 A tal fine, dichiara, ai sensi degli ar",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-15T14:54",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "65e8f189243f",
-   "scuola": "solbiate",
-   "titolo": "Clicca per vedere il documento",
-   "url": "https://nuvola.madisoft.it/bacheca-digitale/3591/documento/VAIC84600P",
-   "pagina": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-15",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Clicca per vedere il documento",
-     "tipo": null
-    }
-   ],
-   "letto": "pagina",
-   "nota": null,
-   "prima_vista": "2026-10-15T15:34",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "6a92aa67fc4e",
    "scuola": "rho-annafrank",
    "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
@@ -3077,16 +2948,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -3116,16 +2987,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
