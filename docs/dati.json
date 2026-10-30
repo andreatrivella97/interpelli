@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-30T02:57",
+ "generato": "2026-10-30T03:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -525,10 +525,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
-   "ultimo_ok": "2026-10-30T02:16",
-   "ultimo_controllo": "2026-10-30T02:16"
+   "stato": "da_controllare",
+   "errori": [
+    "la pagina non elenca piu' avvisi: forse e' cambiata"
+   ],
+   "ultimo_ok": "2026-10-30T03:17",
+   "ultimo_controllo": "2026-10-30T03:17"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +553,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T02:16",
-   "ultimo_controllo": "2026-10-30T02:16"
+   "ultimo_ok": "2026-10-30T03:17",
+   "ultimo_controllo": "2026-10-30T03:17"
   },
   {
    "id": "rho-annafrank",
@@ -573,10 +575,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
-   "ultimo_ok": "2026-10-30T02:16",
-   "ultimo_controllo": "2026-10-30T02:16"
+   "stato": "da_controllare",
+   "errori": [
+    "la pagina non elenca piu' avvisi: forse e' cambiata"
+   ],
+   "ultimo_ok": "2026-10-30T03:17",
+   "ultimo_controllo": "2026-10-30T03:17"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +603,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T02:16",
-   "ultimo_controllo": "2026-10-30T02:16"
+   "ultimo_ok": "2026-10-30T03:17",
+   "ultimo_controllo": "2026-10-30T03:17"
   },
   {
    "id": "milano-consolemarcello",
@@ -715,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T02:16",
-   "ultimo_controllo": "2026-10-30T02:16"
+   "ultimo_ok": "2026-10-30T03:17",
+   "ultimo_controllo": "2026-10-30T03:17"
   },
   {
    "id": "busto-galilei",
@@ -2926,84 +2930,6 @@
    "prima_vista": "2026-10-16T13:24",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "6a92aa67fc4e",
-   "scuola": "rho-annafrank",
-   "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=c317caf1-b397-4514-bc9e-5a1541d5cbfe&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uNl9QcmltYXJpYV9zdXBwbGVuemFfYnJldmVfY29tdW5lXzIwMjZfMjAyNy5wZGYucGFkZXMucGRm",
-   "pagina": "https://www.icsannafrankrho.edu.it/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": null,
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
-  },
-  {
-   "id": "d4d836c4377c",
-   "scuola": "rho-deandre",
-   "titolo": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=5c83ec6d-c898-4ab2-8b53-1ed341b90599&folder=APD&storagefilename=cac412c5-c771-4599-aeed-f74020c705c1.pdf&sourcefilename=dGltYnJhdG9fSU5URVJQRUxMT19OLl83X1BPU1RJX0RJX1NPU1RFR05PX1NVTExBX1NDVU9MQV9QUklNQVJJQV9GSU5PX0FMXzMwXzA2XzI3LnBkZg%3d%3d",
-   "pagina": "https://www.icdeandrerho.edu.it/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": null,
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-03T00:06",
-   "iniziale": true,
-   "presente": true
   }
  ]
 }
