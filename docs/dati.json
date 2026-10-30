@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-30T03:57",
+ "generato": "2026-10-30T04:17",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -529,8 +529,8 @@
    "errori": [
     "la pagina non elenca piu' avvisi: forse e' cambiata"
    ],
-   "ultimo_ok": "2026-10-30T03:17",
-   "ultimo_controllo": "2026-10-30T03:17"
+   "ultimo_ok": "2026-10-30T04:17",
+   "ultimo_controllo": "2026-10-30T04:17"
   },
   {
    "id": "rho-grossi",
@@ -553,8 +553,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T03:17",
-   "ultimo_controllo": "2026-10-30T03:17"
+   "ultimo_ok": "2026-10-30T04:17",
+   "ultimo_controllo": "2026-10-30T04:17"
   },
   {
    "id": "rho-annafrank",
@@ -579,8 +579,8 @@
    "errori": [
     "la pagina non elenca piu' avvisi: forse e' cambiata"
    ],
-   "ultimo_ok": "2026-10-30T03:17",
-   "ultimo_controllo": "2026-10-30T03:17"
+   "ultimo_ok": "2026-10-30T04:17",
+   "ultimo_controllo": "2026-10-30T04:17"
   },
   {
    "id": "rho-franceschini",
@@ -603,8 +603,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T03:17",
-   "ultimo_controllo": "2026-10-30T03:17"
+   "ultimo_ok": "2026-10-30T04:17",
+   "ultimo_controllo": "2026-10-30T04:17"
   },
   {
    "id": "milano-consolemarcello",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T03:17",
-   "ultimo_controllo": "2026-10-30T03:17"
+   "ultimo_ok": "2026-10-30T04:17",
+   "ultimo_controllo": "2026-10-30T04:17"
   },
   {
    "id": "busto-galilei",
