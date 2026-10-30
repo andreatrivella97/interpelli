@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-30T13:21",
+ "generato": "2026-10-30T13:41",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -63,7 +63,7 @@
     "ConnectTimeout da www.icscarducci.edu.it"
    ],
    "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "canegrate",
@@ -89,7 +89,7 @@
     "ConnectTimeout da www.icscanegrate.edu.it"
    ],
    "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "bustogarolfo",
@@ -162,7 +162,7 @@
     "ConnectTimeout da www.icsbonvesin.edu.it"
    ],
    "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "legnano-carducci",
@@ -212,7 +212,7 @@
     "ConnectTimeout da www.icsviadeisalici.edu.it"
    ],
    "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "cerro",
@@ -286,7 +286,7 @@
     "ConnectTimeout da www.alighierirescaldina.edu.it"
    ],
    "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "magnago",
@@ -535,12 +535,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icdeandrerho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-30T13:41",
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "rho-grossi",
@@ -561,12 +559,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icgrossirho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-30T13:41",
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "rho-annafrank",
@@ -587,12 +583,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-30T13:41",
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "rho-franceschini",
@@ -613,12 +607,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsfranceschini.edu.it"
-   ],
-   "ultimo_ok": "2026-10-30T12:21",
-   "ultimo_controllo": "2026-10-30T13:21"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-10-30T13:41",
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "milano-consolemarcello",
@@ -733,8 +725,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T12:41",
-   "ultimo_controllo": "2026-10-30T12:41"
+   "ultimo_ok": "2026-10-30T13:41",
+   "ultimo_controllo": "2026-10-30T13:41"
   },
   {
    "id": "busto-galilei",
@@ -2797,16 +2789,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -2836,16 +2828,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
