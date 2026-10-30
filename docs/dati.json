@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-30T15:02",
+ "generato": "2026-10-30T15:43",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T14:42",
-   "ultimo_controllo": "2026-10-30T14:42"
+   "ultimo_ok": "2026-10-30T15:43",
+   "ultimo_controllo": "2026-10-30T15:43"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T14:42",
-   "ultimo_controllo": "2026-10-30T14:42"
+   "ultimo_ok": "2026-10-30T15:43",
+   "ultimo_controllo": "2026-10-30T15:43"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T14:42",
-   "ultimo_controllo": "2026-10-30T14:42"
+   "ultimo_ok": "2026-10-30T15:43",
+   "ultimo_controllo": "2026-10-30T15:43"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T14:42",
-   "ultimo_controllo": "2026-10-30T14:42"
+   "ultimo_ok": "2026-10-30T15:43",
+   "ultimo_controllo": "2026-10-30T15:43"
   },
   {
    "id": "milano-consolemarcello",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-10-30T14:42",
-   "ultimo_controllo": "2026-10-30T14:42"
+   "ultimo_ok": "2026-10-30T15:43",
+   "ultimo_controllo": "2026-10-30T15:43"
   },
   {
    "id": "busto-galilei",
@@ -1948,45 +1948,6 @@
    "presente": false
   },
   {
-   "id": "7e14216bed25",
-   "scuola": "bustogarolfo",
-   "titolo": "Interpello n. 5 del 22-10-2026-Scuola infanzia - sostegno",
-   "url": "https://icstarra.edu.it/sito-download-file/6741/all",
-   "pagina": "https://icstarra.edu.it/servizi/99-interpello",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-22",
-   "scadenza": "2026-10-23T15:30",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": "Chiuso",
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "con le seguenti caratteristiche: POSTI DISPONIBILI SCUOLA INFANZIA AL 30/06/2027 2 cattedre di 25 ore di sostegno scuola dell'infanzia. I",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-22T15:57",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "026f73320afd",
    "scuola": "olgiate",
    "titolo": "Interpello Interpello Scuola Primaria Sostegno 24/24 - Olgiate Olona n. 1 posto in deroga",
@@ -2779,16 +2740,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -2818,16 +2779,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
