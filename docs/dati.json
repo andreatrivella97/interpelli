@@ -1,5 +1,5 @@
 {
- "generato": "2026-10-31T15:13",
+ "generato": "2026-10-31T15:33",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-10-31T14:33",
-   "ultimo_controllo": "2026-10-31T14:33"
+   "ultimo_controllo": "2026-10-31T15:33"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-10-31T14:33",
-   "ultimo_controllo": "2026-10-31T14:33"
+   "ultimo_controllo": "2026-10-31T15:33"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-10-31T14:33",
-   "ultimo_controllo": "2026-10-31T14:33"
+   "ultimo_controllo": "2026-10-31T15:33"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-10-31T14:33",
-   "ultimo_controllo": "2026-10-31T14:33"
+   "ultimo_controllo": "2026-10-31T15:33"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-10-31T14:33",
-   "ultimo_controllo": "2026-10-31T14:33"
+   "ultimo_controllo": "2026-10-31T15:33"
   },
   {
    "id": "magnago",
@@ -1714,45 +1724,6 @@
    "presente": true
   },
   {
-   "id": "883ce676b7e8",
-   "scuola": "legnano-carducci",
-   "titolo": "Decreto Interpello del 23-10-2026 supplenza as 26-27 N. 1 POSTO COMUNE PRIMARIA fino al 11-02-2027",
-   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_23-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_11-02-2027_-.pdf",
-   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-23",
-   "scadenza": "2026-10-24T15:30",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 15:30 del 24/10/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-02-11",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "CONTRATTO EEEE 1 24 11/02/2027 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-23T15:04",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "bc7da0e38edd",
    "scuola": "rho-annafrank",
    "titolo": "Interpello_N.11_Primaria_posto_comune_2026_2027",
@@ -1788,45 +1759,6 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-10-24T00:10",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "d7c9c6381ce6",
-   "scuola": "legnano-carducci",
-   "titolo": "DECRETO Interpello per supplenza breve ore 24 fino al 11 febbraio 2027 posto COMUNE scuola primaria",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-10-23",
-   "scadenza": "2026-10-24T15:30",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-02-11",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "DECRETO Interpello per supplenza breve ore 24 fino al 11 febbraio 2027 posto COMUNE scuola primaria",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "titolo",
-   "nota": null,
-   "prima_vista": "2026-10-23T15:04",
    "iniziale": false,
    "presente": false
   },
