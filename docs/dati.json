@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-03T11:56",
+ "generato": "2026-11-03T12:36",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "sanvittore",
@@ -104,8 +104,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "legnano-manzoni",
@@ -131,8 +131,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "legnano-bonvesin",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "legnano-salici",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rescaldina-alighieri",
@@ -299,8 +299,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "arconate",
@@ -320,8 +320,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "cuggiono",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "ossona",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "bareggio",
@@ -438,8 +438,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "pogliano",
@@ -459,8 +459,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "lainate-lamarmora",
@@ -479,8 +479,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "lainate-cairoli",
@@ -503,8 +503,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rho-deandre",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "milano-consolemarcello",
@@ -623,8 +623,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-bertacchi",
@@ -647,8 +647,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-bossi",
@@ -667,8 +667,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-crespi",
@@ -691,8 +691,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-deamicis",
@@ -738,8 +738,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-pertini",
@@ -762,8 +762,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "busto-tommaseo",
@@ -782,8 +782,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "castellanza",
@@ -806,8 +806,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "olgiate",
@@ -829,8 +829,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "gorlaminore",
@@ -854,8 +854,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "solbiate",
@@ -879,8 +879,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "fagnano",
@@ -899,8 +899,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "gerenzano",
@@ -922,8 +922,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "saronno-militi",
@@ -942,8 +942,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "saronno-moro",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "saronno-davinci",
@@ -989,8 +989,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   },
   {
    "id": "uboldo",
@@ -1009,8 +1009,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T11:35",
-   "ultimo_controllo": "2026-11-03T11:35"
+   "ultimo_ok": "2026-11-03T12:36",
+   "ultimo_controllo": "2026-11-03T12:36"
   }
  ],
  "avvisi": [
@@ -1534,57 +1534,6 @@
    "presente": false
   },
   {
-   "id": "42c7b7c880d9",
-   "scuola": "canegrate",
-   "titolo": "Interpello N. 5 scuola primaria Aldo Moro",
-   "url": "https://www.icscanegrate.edu.it/assets/files/6f3ba005-f52f-417c-bab5-d20310d75ac4/",
-   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-23",
-   "scadenza": "2026-10-27T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "nk: https://forms.gle/qoPJb7anhMb8kBC47 entro le ore 12:00 del giorno 27/10/2026 utilizzando tassativamente il",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-10-28",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "imento delle seguenti supplenze: - N. 2 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
-     "tipo": "sostegno"
-    },
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-10-28",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 12,
-     "prova": "a Redipuglia, 8 - Canegrate (MI) - N. 1 posto di SOSTEGNO - ADEE - h. 12 ore settimanali dal 28 ottobre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-23T10:40",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "072965e382ee",
    "scuola": "busto-tommaseo",
    "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADMM posto di sostegno nella Scuola secondaria di I grado I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
@@ -2073,16 +2022,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -2112,16 +2061,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
