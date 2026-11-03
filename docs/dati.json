@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-03T23:41",
+ "generato": "2026-11-04T00:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T23:01",
-   "ultimo_controllo": "2026-11-03T23:01"
+   "ultimo_ok": "2026-11-04T00:02",
+   "ultimo_controllo": "2026-11-04T00:02"
   },
   {
    "id": "busto-galilei",
@@ -1725,240 +1725,6 @@
    "presente": true
   },
   {
-   "id": "0189b577399a",
-   "scuola": "lainate-cairoli",
-   "titolo": "INTERPELLO COPERTURA DI 1 POSTO SOSTEGNO PRIMARIA",
-   "url": "https://icscairoli.edu.it/2026/10/20/interpello-copertura-di-1-posto-sostegno-primaria/",
-   "pagina": "https://icscairoli.edu.it/interpelli-nazionali/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "PRIMARIA n.1 CATTEDRA su classe di concorso ADEE - Sostegno Primaria 24 ore fino al 30 giugno 2027 Assistente Amministrativo 0 Interpello_",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "pagina",
-   "nota": null,
-   "prima_vista": "2026-10-20T15:08",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "308cc8e2091c",
-   "scuola": "busto-tommaseo",
-   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d",
-   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-20T19:31",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "8b4ac15c0606",
-   "scuola": "saronno-militi",
-   "titolo": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0044/1i99eeckg1",
-   "pagina": "https://www.icsmiliti.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 12,
-     "prova": "INTERPELLO N. 1 POSTO SOSTEGNO PRIMARIA 12 ORE FINO AL 30/06/2027 - SCUOLA IGNOTO MILITI SARONNO",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-20T13:27",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "a989d260c3a5",
-   "scuola": "busto-tommaseo",
-   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADEE posto di sostegno nella Scuola Primaria I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/le40am0dk1",
-   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADEE posto di sostegno nella Scuola Primaria I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-20T19:31",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "bf67a2b0dcbd",
-   "scuola": "busto-tommaseo",
-   "titolo": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/a47b11km8d",
-   "pagina": "https://www.tommaseobusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO PER SELEZIONE PERSONALE Classe di concorso ADAA posto di sostegno nella Scuola dell'Infanzia I.C. \"N. Tommaseo\" - Busto Arsizio (VA) - A.S. 2026-2027",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-20T19:31",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "c3e0581176f5",
-   "scuola": "busto-bossi",
-   "titolo": "Interpello posto sostegno Primaria del 20.10.2026",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0022/v9o8co0fhd",
-   "pagina": "https://www.icbossibusto.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-10-20",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello posto sostegno Primaria del 20.10.2026",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-10-20T13:27",
-   "iniziale": false,
-   "presente": true
-  },
-  {
    "id": "ae58d2e17222",
    "scuola": "magnago",
    "titolo": "INTERPELLO infanzia POSTO INFANZIAfino al 30.06.27",
@@ -2018,16 +1784,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -2057,16 +1823,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
