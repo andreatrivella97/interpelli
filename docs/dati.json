@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-03T21:00",
+ "generato": "2026-11-03T21:21",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T20:21",
-   "ultimo_controllo": "2026-11-03T20:21"
+   "ultimo_ok": "2026-11-03T21:21",
+   "ultimo_controllo": "2026-11-03T21:21"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T20:21",
-   "ultimo_controllo": "2026-11-03T20:21"
+   "ultimo_ok": "2026-11-03T21:21",
+   "ultimo_controllo": "2026-11-03T21:21"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T20:21",
-   "ultimo_controllo": "2026-11-03T20:21"
+   "ultimo_ok": "2026-11-03T21:21",
+   "ultimo_controllo": "2026-11-03T21:21"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T20:21",
-   "ultimo_controllo": "2026-11-03T20:21"
+   "ultimo_ok": "2026-11-03T21:21",
+   "ultimo_controllo": "2026-11-03T21:21"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-03T20:21",
-   "ultimo_controllo": "2026-11-03T20:21"
+   "ultimo_ok": "2026-11-03T21:21",
+   "ultimo_controllo": "2026-11-03T21:21"
   },
   {
    "id": "magnago",
