@@ -7396,7 +7396,7 @@
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 1210,
+   "tentativi": 1212,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -11993,7 +11993,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icscanegrate.edu.it/assets/files/87a359ef-f550-4678-8e7f-13226a301aa3"
@@ -13301,7 +13301,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97"
@@ -13353,7 +13353,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-15T09:31",
    "provati": [
     "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_5_-_1_posto_EEEE_fino_al_30_06_2027_docx_(2).pdf"
@@ -13552,7 +13552,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2"
@@ -16337,7 +16337,7 @@
    ],
    "regole": 1,
    "scuola": "rho-deandre",
-   "tentativi": 1676,
+   "tentativi": 1683,
    "titoli": [
     "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
     "DECRETO INDIVIDUAZIONE DOCENTI POSTO DI SOSTEGNO SCUOLA PRIMARIA FINO AL 30/06/2026 - INTERPELLO PROT. 3735 DEL 30/09/2027",
@@ -19659,8 +19659,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "busto-galilei": {
    "conteggi": {
@@ -19717,13 +19717,15 @@
     "axios:84004750158": 0,
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 5
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-05T05:36",
    "ultimo_ok": "2026-11-05T04:35"
   },
   "castellanza": {
@@ -19835,13 +19837,15 @@
     "axios:92044520150": 0,
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 6
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-05T05:36",
    "ultimo_ok": "2026-11-05T04:35"
   },
   "legnano-carducci": {
@@ -19877,13 +19881,15 @@
     "axios:84003710153": 0,
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 9
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-05T05:36",
    "ultimo_ok": "2026-11-05T04:35"
   },
   "magnago": {
@@ -19971,13 +19977,15 @@
     "axios:84004110155": 0,
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-05T05:36",
    "ultimo_ok": "2026-11-05T04:35"
   },
   "rescaldina-manzoni": {
@@ -19991,8 +19999,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -20005,8 +20013,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "rho-deandre": {
    "conteggi": {
@@ -20019,8 +20027,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -20033,8 +20041,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "rho-grossi": {
    "conteggi": {
@@ -20047,21 +20055,23 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
-   "ultimo_ok": "2026-11-05T04:35"
+   "ultimo_controllo": "2026-11-05T05:36",
+   "ultimo_ok": "2026-11-05T05:36"
   },
   "sanvittore": {
    "conteggi": {
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-05T04:35",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-05T05:36",
    "ultimo_ok": "2026-11-05T04:35"
   },
   "saronno-davinci": {
