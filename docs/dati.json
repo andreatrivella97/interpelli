@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-05T22:23",
+ "generato": "2026-11-05T22:44",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "cerro",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "rescaldina-alighieri",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "magnago",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "bareggio",
@@ -525,12 +525,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
+   "stato": "parziale",
    "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
+    "ConnectTimeout da www.icdeandrerho.edu.it"
    ],
    "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "rho-grossi",
@@ -551,10 +551,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectionError da www.icgrossirho.edu.it"
+   ],
    "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "rho-annafrank",
@@ -575,12 +577,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
+   "stato": "parziale",
    "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
+    "ConnectTimeout da www.icsannafrankrho.edu.it"
    ],
    "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "rho-franceschini",
@@ -601,10 +603,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsfranceschini.edu.it"
+   ],
    "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "milano-consolemarcello",
@@ -719,8 +723,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "busto-galilei",
@@ -969,8 +973,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-05T21:43",
-   "ultimo_controllo": "2026-11-05T21:43"
+   "ultimo_ok": "2026-11-05T22:44",
+   "ultimo_controllo": "2026-11-05T22:44"
   },
   {
    "id": "saronno-davinci",
@@ -1558,6 +1562,84 @@
    "nota": null,
    "prima_vista": "2026-10-16T14:05",
    "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "6a92aa67fc4e",
+   "scuola": "rho-annafrank",
+   "titolo": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=7e57103f-c127-4a4b-8d9c-2097f0dbc1b4&folder=APD&storagefilename=c317caf1-b397-4514-bc9e-5a1541d5cbfe&sourcefilename=dGltYnJhdG9fZmlybWF0b19JbnRlcnBlbGxvX04uNl9QcmltYXJpYV9zdXBwbGVuemFfYnJldmVfY29tdW5lXzIwMjZfMjAyNy5wZGYucGFkZXMucGRm",
+   "pagina": "https://www.icsannafrankrho.edu.it/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": null,
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
+   "presente": true
+  },
+  {
+   "id": "d4d836c4377c",
+   "scuola": "rho-deandre",
+   "titolo": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=5c83ec6d-c898-4ab2-8b53-1ed341b90599&folder=APD&storagefilename=cac412c5-c771-4599-aeed-f74020c705c1.pdf&sourcefilename=dGltYnJhdG9fSU5URVJQRUxMT19OLl83X1BPU1RJX0RJX1NPU1RFR05PX1NVTExBX1NDVU9MQV9QUklNQVJJQV9GSU5PX0FMXzMwXzA2XzI3LnBkZg%3d%3d",
+   "pagina": "https://www.icdeandrerho.edu.it/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": null,
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
+    }
+   ],
+   "letto": "non_leggibile",
+   "nota": "allegato su un portale che non consente la lettura automatica",
+   "prima_vista": "2026-10-03T00:06",
+   "iniziale": true,
    "presente": true
   }
  ]
