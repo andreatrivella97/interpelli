@@ -558,7 +558,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-16T15:05",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93018820154&Folder=SC/Folders/Files&file=669284f4-2822-4c46-90ab-0e4f6e94fafa.pdf&faction=0000&SourceFileName=Interpello%20n%207%20posto%20sostegno%20infanzia.pdf"
@@ -1483,7 +1483,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-20T10:46",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93018820154&Folder=SC/Folders/Files&file=b7e9c598-4680-4b64-a727-6bc0cf3b60c7.pdf&faction=0000&SourceFileName=Interpello%20n%208%20%20posto%20sostegno%20infanzia.pdf"
@@ -7396,7 +7396,7 @@
    ],
    "regole": 1,
    "scuola": "rho-annafrank",
-   "tentativi": 1218,
+   "tentativi": 1220,
    "titoli": [
     "Interpello N.6 Primaria supplenza breve comune 2026 2027",
     "Interpello N.5 Primaria supplenza breve comune 2026 2027",
@@ -9000,7 +9000,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-11-04T08:46",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93018820154&Folder=SC/Folders/Files&file=50d49f1a-0815-4874-8640-4ded51053ca3.pdf&faction=0000&SourceFileName=Interepello%20n%209%20posto%20comune%20EEEE%20e%20sostegno%20ADEE.pdf"
@@ -11153,7 +11153,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-27T13:34",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527540152&Folder=SC/Folders/Files&file=94963b22-e4ec-4385-8a1c-b3bf220870c5.pdf&faction=0000&SourceFileName=INTERPELLO_posto_comune_primaria.pdf.pades.pdf"
@@ -11878,7 +11878,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-27T13:34",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527540152&Folder=SC/Folders/Files&file=da04bf11-e240-41e8-a73b-28cbcefa9783.pdf&faction=0000&SourceFileName=INTERPELLO_SH_INFANZIA_DEL_26_OTTOBRE.pdf.pades.pdf"
@@ -16337,7 +16337,7 @@
    ],
    "regole": 1,
    "scuola": "rho-deandre",
-   "tentativi": 1704,
+   "tentativi": 1711,
    "titoli": [
     "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
     "DECRETO INDIVIDUAZIONE DOCENTI POSTO DI SOSTEGNO SCUOLA PRIMARIA FINO AL 30/06/2026 - INTERPELLO PROT. 3735 DEL 30/09/2027",
@@ -17197,7 +17197,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-13T10:48",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93018820154&Folder=SC/Folders/Files&file=2380c8a6-97b2-436d-8fa5-f578cabaf1d1.pdf&faction=0000&SourceFileName=INTERPELLO%20N%206%20SCUOLA%20PRIMARIA%20POSTO%20COMUNE.pdf"
@@ -17534,7 +17534,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-19T12:36",
    "provati": [
     "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527540152&Folder=SC/Folders/Files&file=cdb2468b-f322-487e-b554-1b2a5e577550.pdf&faction=0000&SourceFileName=INTERPELLO_SOSTEGNO_PRIMARIA_DAL_21-10-2026.pdf.pades.pdf"
@@ -19585,16 +19585,14 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [
-    "risposta 500 da serviziweb.axioscloud.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-05T09:18",
-   "ultimo_ok": "2026-11-05T08:17"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "bareggio": {
    "conteggi": {
@@ -19661,8 +19659,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "busto-galilei": {
    "conteggi": {
@@ -19747,16 +19745,14 @@
     "axios:84004130153": 0,
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": 12
    },
-   "errori": [
-    "ReadTimeout da serviziweb.axioscloud.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004130153": "2026-10-03T00:06",
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-05T09:18",
-   "ultimo_ok": "2026-11-05T08:17"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "cuggiono": {
    "conteggi": {
@@ -19949,16 +19945,14 @@
     "axios:93018820154": 1,
     "pagina:https://www.icossona.edu.it/?s=interpello": 7
    },
-   "errori": [
-    "risposta 500 da serviziweb.axioscloud.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93018820154": "2026-10-03T00:06",
     "pagina:https://www.icossona.edu.it/?s=interpello": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-05T09:18",
-   "ultimo_ok": "2026-11-05T08:17"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "pogliano": {
    "conteggi": {
@@ -19997,8 +19991,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -20011,8 +20005,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "rho-deandre": {
    "conteggi": {
@@ -20025,8 +20019,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -20039,8 +20033,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "rho-grossi": {
    "conteggi": {
@@ -20053,8 +20047,8 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-05T08:37",
-   "ultimo_ok": "2026-11-05T08:37"
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "sanvittore": {
    "conteggi": {
@@ -20100,15 +20094,13 @@
    "conteggi": {
     "albo:": 0
    },
-   "errori": [
-    "ReadTimeout da www.aldomorosaronno.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "albo:": "2026-10-03T00:06"
    },
-   "stato": "errore",
-   "ultimo_controllo": "2026-11-05T09:18",
-   "ultimo_ok": "2026-11-05T08:17"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   },
   "solbiate": {
    "conteggi": {
@@ -20141,16 +20133,14 @@
     "axios:92034300159": 0,
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 6
    },
-   "errori": [
-    "risposta 500 da serviziweb.axioscloud.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-05T09:18",
-   "ultimo_ok": "2026-11-05T08:17"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-05T09:37",
+   "ultimo_ok": "2026-11-05T09:37"
   }
  },
  "versione": 1
