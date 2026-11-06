@@ -15104,6 +15104,60 @@
    "ultima_vista": "2026-10-19",
    "url": "https://nuvola.madisoft.it/bacheca-digitale/3609/documento/VAIC84600P"
   },
+  "c4d790cdf398": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "chiave_titolo": "interpellopersupplenzasuadeepostosostegnoscuolaprimaria",
+   "chiavi_file": [
+    "interpelloadee300627"
+   ],
+   "fonti": [
+    "axios"
+   ],
+   "id": "c4d790cdf398",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93527540152"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "mento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO SOSTEGNO ADEE 24H FINO AL 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-06T13:59",
+   "provati": [
+    "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527540152&Folder=SC/Folders/Files&file=3a60c898-1c9f-48f0-9cf7-31add67437b5.pdf&faction=0000&SourceFileName=INTERPELLO%20ADEE%2030_06_27.pdf"
+   ],
+   "pubblicato": "2026-11-06",
+   "regole": 1,
+   "scadenza": "2026-11-09T00:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "arluno",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello per supplenza su ADEE - POSTO SOSTEGNO scuola primaria"
+   ],
+   "titolo": "Interpello per supplenza su ADEE - POSTO SOSTEGNO scuola primaria",
+   "ultima_vista": "2026-11-06",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR"
+  },
   "c5f63c29e488": {
    "chiave_titolo": "3934uinfanziasostegnofinoal30062026",
    "chiavi_file": [
@@ -19693,8 +19747,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "bareggio": {
    "conteggi": {
@@ -19825,8 +19879,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "castellanza": {
    "conteggi": {
@@ -19853,8 +19907,8 @@
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "cuggiono": {
    "conteggi": {
@@ -19943,8 +19997,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -19985,8 +20039,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "magnago": {
    "conteggi": {
@@ -20053,8 +20107,8 @@
     "pagina:https://www.icossona.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "pogliano": {
    "conteggi": {
@@ -20079,8 +20133,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -20093,8 +20147,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -20163,8 +20217,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -20201,8 +20255,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   },
   "solbiate": {
    "conteggi": {
@@ -20241,8 +20295,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T12:53",
-   "ultimo_ok": "2026-11-06T12:53"
+   "ultimo_controllo": "2026-11-06T13:59",
+   "ultimo_ok": "2026-11-06T13:59"
   }
  },
  "versione": 1
