@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-06T08:51",
+ "generato": "2026-11-06T09:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -525,10 +525,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icdeandrerho.edu.it"
+   ],
    "ultimo_ok": "2026-11-06T08:07",
-   "ultimo_controllo": "2026-11-06T08:07"
+   "ultimo_controllo": "2026-11-06T09:11"
   },
   {
    "id": "rho-grossi",
@@ -549,10 +551,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectionError da www.icgrossirho.edu.it"
+   ],
    "ultimo_ok": "2026-11-06T08:07",
-   "ultimo_controllo": "2026-11-06T08:07"
+   "ultimo_controllo": "2026-11-06T09:11"
   },
   {
    "id": "rho-annafrank",
@@ -573,10 +577,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsannafrankrho.edu.it"
+   ],
    "ultimo_ok": "2026-11-06T08:07",
-   "ultimo_controllo": "2026-11-06T08:07"
+   "ultimo_controllo": "2026-11-06T09:11"
   },
   {
    "id": "rho-franceschini",
@@ -597,10 +603,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsfranceschini.edu.it"
+   ],
    "ultimo_ok": "2026-11-06T08:07",
-   "ultimo_controllo": "2026-11-06T08:07"
+   "ultimo_controllo": "2026-11-06T09:11"
   },
   {
    "id": "milano-consolemarcello",
