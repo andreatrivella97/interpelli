@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-06T05:30",
+ "generato": "2026-11-06T05:50",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "sanvittore",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T04:34",
-   "ultimo_controllo": "2026-11-06T05:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T04:34",
-   "ultimo_controllo": "2026-11-06T05:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T04:34",
-   "ultimo_controllo": "2026-11-06T05:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T04:34",
-   "ultimo_controllo": "2026-11-06T05:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "cerro",
@@ -235,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "rescaldina-manzoni",
@@ -259,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "rescaldina-alighieri",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T04:34",
-   "ultimo_controllo": "2026-11-06T05:30"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "magnago",
@@ -400,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "arluno",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "bareggio",
@@ -725,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "busto-galilei",
@@ -975,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T04:55",
-   "ultimo_controllo": "2026-11-06T04:55"
+   "ultimo_ok": "2026-11-06T05:50",
+   "ultimo_controllo": "2026-11-06T05:50"
   },
   {
    "id": "saronno-davinci",
