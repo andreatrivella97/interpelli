@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-06T10:32",
+ "generato": "2026-11-06T10:52",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "cerro",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "rescaldina-alighieri",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "magnago",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "bareggio",
@@ -713,10 +713,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "busto-galilei",
@@ -965,8 +967,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T09:51"
+   "ultimo_ok": "2026-11-06T10:52",
+   "ultimo_controllo": "2026-11-06T10:52"
   },
   {
    "id": "saronno-davinci",
@@ -1499,16 +1501,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -1538,16 +1540,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",

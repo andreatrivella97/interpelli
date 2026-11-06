@@ -19645,8 +19645,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "bareggio": {
    "conteggi": {
@@ -19707,13 +19707,15 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-06T10:52",
    "ultimo_ok": "2026-11-06T09:51"
   },
   "busto-galilei": {
@@ -19777,8 +19779,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "castellanza": {
    "conteggi": {
@@ -19805,8 +19807,8 @@
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "cuggiono": {
    "conteggi": {
@@ -19895,8 +19897,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -19937,8 +19939,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "magnago": {
    "conteggi": {
@@ -20005,8 +20007,8 @@
     "pagina:https://www.icossona.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "pogliano": {
    "conteggi": {
@@ -20031,8 +20033,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -20045,8 +20047,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -20115,8 +20117,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -20153,8 +20155,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   },
   "solbiate": {
    "conteggi": {
@@ -20193,8 +20195,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-06T09:51",
-   "ultimo_ok": "2026-11-06T09:51"
+   "ultimo_controllo": "2026-11-06T10:52",
+   "ultimo_ok": "2026-11-06T10:52"
   }
  },
  "versione": 1
