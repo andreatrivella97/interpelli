@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-06T04:34",
+ "generato": "2026-11-06T04:55",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "sanvittore",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "rescaldina-alighieri",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "bareggio",
@@ -715,8 +715,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "busto-galilei",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-06T03:49",
-   "ultimo_controllo": "2026-11-06T03:49"
+   "ultimo_ok": "2026-11-06T04:55",
+   "ultimo_controllo": "2026-11-06T04:55"
   },
   {
    "id": "saronno-davinci",
