@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-06T10:52",
+ "generato": "2026-11-06T11:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -713,12 +713,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-11-06T09:51",
-   "ultimo_controllo": "2026-11-06T10:52"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-06T11:12",
+   "ultimo_controllo": "2026-11-06T11:12"
   },
   {
    "id": "busto-galilei",
@@ -1284,45 +1282,6 @@
    "prima_vista": "2026-11-02T11:24",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "dd78d8d69221",
-   "scuola": "magnago",
-   "titolo": "INTERPELLO infanzia POSTO INFANZIAfino al 08.11.26",
-   "url": "https://icadanegri.edu.it/sito-download-file/2497/all",
-   "pagina": "https://icadanegri.edu.it/servizi/274-interpelli",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-10-29",
-   "scadenza": "2026-10-30T11:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 11.00 del 30.10.2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-08",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "istituto per gli insegnamenti: n. 1 posto COMUNE scuola dell'infanzia 25 ore settimanali fino al 08.11.2026 Questa Istituzione scolastica, ai sensi",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-10-29T13:51",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "b332c184033e",
