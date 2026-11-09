@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-09T15:04",
+ "generato": "2026-11-09T15:26",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "sanvittore",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "rescaldina-alighieri",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "bareggio",
@@ -527,8 +527,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "rho-grossi",
@@ -551,8 +551,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "rho-annafrank",
@@ -575,8 +575,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "rho-franceschini",
@@ -599,8 +599,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "milano-consolemarcello",
@@ -965,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T14:24",
-   "ultimo_controllo": "2026-11-09T14:24"
+   "ultimo_ok": "2026-11-09T15:26",
+   "ultimo_controllo": "2026-11-09T15:26"
   },
   {
    "id": "saronno-davinci",
@@ -1091,6 +1091,57 @@
    "prima_vista": "2026-11-09T11:23",
    "iniziale": false,
    "presente": false
+  },
+  {
+   "id": "7d822f8ef3c8",
+   "scuola": "rho-annafrank",
+   "titolo": "Interpello_N.14_Primaria_SPEZZONE_SOSTEGNO_12_ORE_fino_al_30_06_2027",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-11-09",
+   "scadenza": "2026-11-10T15:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-08-31",
+     "fine_nota": null,
+     "prova": "nferimento di supplenze per: - n.1 CATTEDRA POSTO COMUNE EEEE fino al 31/08/2027 (cattedra di potenziamento); - n.1 CATT"
+    },
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 12,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "attedra di potenziamento); - n.1 CATTEDRA POSTO SOSTEGNO ADEE fino al 30/06/2027; - n.1 SPEZZONE 12 ORE POSTO SOSTEGNO ADEE fino al 30/06/2"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-09T15:26",
+   "iniziale": false,
+   "presente": true
   },
   {
    "id": "75c0ad697883",
@@ -1616,16 +1667,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -1655,16 +1706,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
