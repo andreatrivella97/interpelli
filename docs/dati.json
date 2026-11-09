@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-09T11:03",
+ "generato": "2026-11-09T11:23",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "sanvittore",
@@ -227,8 +227,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "rescaldina-manzoni",
@@ -251,8 +251,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "rescaldina-alighieri",
@@ -390,8 +390,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "arluno",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "bareggio",
@@ -525,12 +525,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icdeandrerho.edu.it"
-   ],
-   "ultimo_ok": "2026-11-09T10:02",
-   "ultimo_controllo": "2026-11-09T11:03"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "rho-grossi",
@@ -551,12 +549,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icgrossirho.edu.it"
-   ],
-   "ultimo_ok": "2026-11-09T10:02",
-   "ultimo_controllo": "2026-11-09T11:03"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "rho-annafrank",
@@ -577,12 +573,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsannafrankrho.edu.it"
-   ],
-   "ultimo_ok": "2026-11-09T10:02",
-   "ultimo_controllo": "2026-11-09T11:03"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "rho-franceschini",
@@ -603,12 +597,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsfranceschini.edu.it"
-   ],
-   "ultimo_ok": "2026-11-09T10:02",
-   "ultimo_controllo": "2026-11-09T11:03"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "milano-consolemarcello",
@@ -973,8 +965,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-09T10:22",
-   "ultimo_controllo": "2026-11-09T10:22"
+   "ultimo_ok": "2026-11-09T11:23",
+   "ultimo_controllo": "2026-11-09T11:23"
   },
   {
    "id": "saronno-davinci",
@@ -1060,6 +1052,45 @@
    "prima_vista": "2026-10-22T14:32",
    "iniziale": false,
    "presente": false
+  },
+  {
+   "id": "6d185391d48b",
+   "scuola": "arluno",
+   "titolo": "PROROGA INTERPELLO per supplenza su ADEE - POSTO SOSTEGNO scuola primaria",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-11-09",
+   "scadenza": "2026-11-09T14:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "mento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO SOSTEGNO ADEE 24H FINO AL 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-09T11:23",
+   "iniziale": false,
+   "presente": true
   },
   {
    "id": "75c0ad697883",
@@ -1585,16 +1616,16 @@
    ],
    "posti": [
     {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "comune",
      "ore": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
-     "tipo": "comune"
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
     }
    ],
    "letto": "non_leggibile",
@@ -1624,16 +1655,16 @@
    ],
    "posti": [
     {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
      "ordini": [
       "primaria"
      ],
+     "tipo": "sostegno",
      "ore": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
-     "tipo": "sostegno"
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
     }
    ],
    "letto": "non_leggibile",
