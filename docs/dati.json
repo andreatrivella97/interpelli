@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-10T08:39",
+ "generato": "2026-11-10T08:59",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-11-10T07:59",
-   "ultimo_controllo": "2026-11-10T07:59"
+   "ultimo_controllo": "2026-11-10T08:59"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-11-10T07:59",
-   "ultimo_controllo": "2026-11-10T07:59"
+   "ultimo_controllo": "2026-11-10T08:59"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-11-10T07:59",
-   "ultimo_controllo": "2026-11-10T07:59"
+   "ultimo_controllo": "2026-11-10T08:59"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-11-10T07:59",
-   "ultimo_controllo": "2026-11-10T07:59"
+   "ultimo_controllo": "2026-11-10T08:59"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-11-10T07:59",
-   "ultimo_controllo": "2026-11-10T07:59"
+   "ultimo_controllo": "2026-11-10T08:59"
   },
   {
    "id": "magnago",
@@ -1074,16 +1084,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-12",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-12",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom"
+     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1113,16 +1123,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-12",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-12",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom"
+     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1706,16 +1716,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -1745,16 +1755,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
