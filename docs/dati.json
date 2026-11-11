@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-11T10:52",
+ "generato": "2026-11-11T11:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-11-11T10:11",
-   "ultimo_controllo": "2026-11-11T10:11"
+   "ultimo_controllo": "2026-11-11T11:12"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-11-11T10:11",
-   "ultimo_controllo": "2026-11-11T10:11"
+   "ultimo_controllo": "2026-11-11T11:12"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-11-11T10:11",
-   "ultimo_controllo": "2026-11-11T10:11"
+   "ultimo_controllo": "2026-11-11T11:12"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-11-11T10:11",
-   "ultimo_controllo": "2026-11-11T10:11"
+   "ultimo_controllo": "2026-11-11T11:12"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-11-11T10:11",
-   "ultimo_controllo": "2026-11-11T10:11"
+   "ultimo_controllo": "2026-11-11T11:12"
   },
   {
    "id": "magnago",
@@ -1117,16 +1127,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-11-13",
+     "fine_nota": null,
+     "inizio": "2026-11-12",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": 25,
-     "intero": false,
-     "inizio": "2026-11-12",
-     "fine": "2026-11-13",
-     "fine_nota": null,
-     "prova": "guenti caratteristiche: POSTI DISPONIBILI SCUOLA INFANZIA Cattedre di 25 ore di sostegno scuola dell'infanzia dal 12/11/2026 al 13/11/2026 In conformità con quanto previsto dalla"
+     "prova": "guenti caratteristiche: POSTI DISPONIBILI SCUOLA INFANZIA Cattedre di 25 ore di sostegno scuola dell'infanzia dal 12/11/2026 al 13/11/2026 In conformità con quanto previsto dalla",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1156,16 +1166,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-09-30",
+     "fine_nota": null,
+     "inizio": "2026-11-13",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-13",
-     "fine": "2027-09-30",
-     "fine_nota": null,
-     "prova": "Interpello posto sostegno 24 ore scuola primaria fino al termine delle attività didattiche dal 13/11/2026 al 30/09/2027"
+     "prova": "Interpello posto sostegno 24 ore scuola primaria fino al termine delle attività didattiche dal 13/11/2026 al 30/09/2027",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
