@@ -15189,6 +15189,56 @@
    "ultima_vista": "2026-11-12",
    "url": "https://www.manzonirescalda.edu.it/interpello/"
   },
+  "be6f253e0669": {
+   "chiave_titolo": "interpellon72postieeeefinoal30062027",
+   "chiavi_file": [
+    "nterpellon72postieeeefinoal30062027docxpdfpades"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "be6f253e0669",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"
+   ],
+   "letto": "titolo",
+   "nota": "avviso dello storico: letto solo il titolo",
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO N. 7 - 2 posti EEEE fino al 30/06/2027",
+     "tipo": "comune"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-12T11:06",
+   "provati": [
+    "icsbonvesin.edu.it/uploads/files/NTERPELLO_N_7-2_posti_EEEE_fino_al_30_06_2027_docx_pdf_pades.pdf"
+   ],
+   "regole": 1,
+   "scuola": "legnano-bonvesin",
+   "storico": true,
+   "tentativi": 0,
+   "titoli": [
+    "INTERPELLO N. 7 - 2 posti EEEE fino al 30/06/2027"
+   ],
+   "titolo": "INTERPELLO N. 7 - 2 posti EEEE fino al 30/06/2027",
+   "ultima_vista": "2026-11-12",
+   "url": "https://www.icsbonvesin.edu.it/uploads/files/NTERPELLO_N_7-2_posti_EEEE_fino_al_30_06_2027_docx_pdf_pades.pdf"
+  },
   "bf633d035d4b": {
    "chiave_titolo": "interpelloperselezionepersonalen1postiadeesostegnon1postiadaasostegno",
    "chiavi_file": [
@@ -20589,8 +20639,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-12T10:06",
-   "ultimo_ok": "2026-11-12T10:06"
+   "ultimo_controllo": "2026-11-12T11:06",
+   "ultimo_ok": "2026-11-12T11:06"
   },
   "castellanza": {
    "conteggi": {
@@ -20699,7 +20749,7 @@
   "legnano-bonvesin": {
    "conteggi": {
     "axios:92044520150": 0,
-    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 6
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 7
    },
    "errori": [],
    "fonti_viste": {
@@ -20707,8 +20757,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-12T10:06",
-   "ultimo_ok": "2026-11-12T10:06"
+   "ultimo_controllo": "2026-11-12T11:06",
+   "ultimo_ok": "2026-11-12T11:06"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -20749,8 +20799,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-12T10:06",
-   "ultimo_ok": "2026-11-12T10:06"
+   "ultimo_controllo": "2026-11-12T11:06",
+   "ultimo_ok": "2026-11-12T11:06"
   },
   "magnago": {
    "conteggi": {
@@ -20843,8 +20893,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-12T10:06",
-   "ultimo_ok": "2026-11-12T10:06"
+   "ultimo_controllo": "2026-11-12T11:06",
+   "ultimo_ok": "2026-11-12T11:06"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -20931,8 +20981,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-12T10:06",
-   "ultimo_ok": "2026-11-12T10:06"
+   "ultimo_controllo": "2026-11-12T11:06",
+   "ultimo_ok": "2026-11-12T11:06"
   },
   "saronno-davinci": {
    "conteggi": {

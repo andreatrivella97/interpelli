@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-12T10:26",
+ "generato": "2026-11-12T11:06",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T10:06",
-   "ultimo_controllo": "2026-11-12T10:06"
+   "ultimo_ok": "2026-11-12T11:06",
+   "ultimo_controllo": "2026-11-12T11:06"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T10:06",
-   "ultimo_controllo": "2026-11-12T10:06"
+   "ultimo_ok": "2026-11-12T11:06",
+   "ultimo_controllo": "2026-11-12T11:06"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T10:06",
-   "ultimo_controllo": "2026-11-12T10:06"
+   "ultimo_ok": "2026-11-12T11:06",
+   "ultimo_controllo": "2026-11-12T11:06"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T10:06",
-   "ultimo_controllo": "2026-11-12T10:06"
+   "ultimo_ok": "2026-11-12T11:06",
+   "ultimo_controllo": "2026-11-12T11:06"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T10:06",
-   "ultimo_controllo": "2026-11-12T10:06"
+   "ultimo_ok": "2026-11-12T11:06",
+   "ultimo_controllo": "2026-11-12T11:06"
   },
   {
    "id": "magnago",
@@ -1117,40 +1117,40 @@
    ],
    "posti": [
     {
-     "ordini": [
-      "primaria"
-     ],
-     "tipo": "sostegno",
-     "ore": 24,
-     "intero": false,
-     "inizio": null,
      "fine": "2027-06-30",
      "fine_nota": null,
-     "prova": "nza con le seguenti caratteristiche: POSTI DI SOSTEGNO: • Cattedra di 24 ore al 30/06/2027 • Cattedra di 24 ore Posto comune al 30"
-    },
-    {
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
+     "prova": "nza con le seguenti caratteristiche: POSTI DI SOSTEGNO: • Cattedra di 24 ore al 30/06/2027 • Cattedra di 24 ore Posto comune al 30",
+     "tipo": "sostegno"
+    },
+    {
      "fine": "2027-06-30",
      "fine_nota": null,
-     "prova": ": POSTI DI SOSTEGNO: • Cattedra di 24 ore al 30/06/2027 • Cattedra di 24 ore Posto comune al 30/06/2027(Nell'ambito dell'autonomia della scuola"
-    },
-    {
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
+     "ore": 24,
+     "prova": ": POSTI DI SOSTEGNO: • Cattedra di 24 ore al 30/06/2027 • Cattedra di 24 ore Posto comune al 30/06/2027(Nell'ambito dell'autonomia della scuola",
+     "tipo": "comune"
+    },
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
      "ore": 12,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "ella Legge 107/2025 Art. 1 commi 63,64 e 65-68). • Spezzone orario di 12 ore al 30/06/2027 In conformità con quanto previsto dalla"
+     "prova": "ella Legge 107/2025 Art. 1 commi 63,64 e 65-68). • Spezzone orario di 12 ore al 30/06/2027 In conformità con quanto previsto dalla",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1180,16 +1180,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-16",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": "2026-11-16",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "ne orario di 12,50 di sostegno scuola dell'infanzia dal 16/11/2026 al 30/06/2027 In conformità con quanto previsto dalla"
+     "prova": "ne orario di 12,50 di sostegno scuola dell'infanzia dal 16/11/2026 al 30/06/2027 In conformità con quanto previsto dalla",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
