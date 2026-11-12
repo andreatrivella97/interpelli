@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-12T08:25",
+ "generato": "2026-11-12T09:05",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T08:04",
-   "ultimo_controllo": "2026-11-12T08:04"
+   "ultimo_ok": "2026-11-12T09:05",
+   "ultimo_controllo": "2026-11-12T09:05"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T08:04",
-   "ultimo_controllo": "2026-11-12T08:04"
+   "ultimo_ok": "2026-11-12T09:05",
+   "ultimo_controllo": "2026-11-12T09:05"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T08:04",
-   "ultimo_controllo": "2026-11-12T08:04"
+   "ultimo_ok": "2026-11-12T09:05",
+   "ultimo_controllo": "2026-11-12T09:05"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T08:04",
-   "ultimo_controllo": "2026-11-12T08:04"
+   "ultimo_ok": "2026-11-12T09:05",
+   "ultimo_controllo": "2026-11-12T09:05"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-12T08:04",
-   "ultimo_controllo": "2026-11-12T08:04"
+   "ultimo_ok": "2026-11-12T09:05",
+   "ultimo_controllo": "2026-11-12T09:05"
   },
   {
    "id": "magnago",
@@ -1651,45 +1651,6 @@
    "presente": true
   },
   {
-   "id": "7beb21c01a21",
-   "scuola": "ossona",
-   "titolo": "Interpello n.9 Scuola Primaria posto comune EEEE e di sostegno ADEE",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-04",
-   "scadenza": "2026-11-05T08:30",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-08",
-     "fine_nota": null,
-     "inizio": "2026-11-05",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 12,
-     "prova": "contratto ADEE posto Scuola primaria 1 12 05/11/26 08/06/2027 sostegno dell'ICS Duca D'Aosta EEEE posto 2 24 Sc",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-04T08:46",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "94d51300f987",
    "scuola": "marcallo",
    "titolo": "Clicca per vedere il documento",
@@ -1784,16 +1745,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027"
+     "prova": "Interpello N.6 Primaria supplenza breve comune 2026 2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
@@ -1823,16 +1784,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27"
+     "prova": "INTERPELLO N. 7 POSTI DI SOSTEGNO SULLA SCUOLA PRIMARIA FINO AL 30/06/27",
+     "tipo": "sostegno"
     }
    ],
    "letto": "non_leggibile",
