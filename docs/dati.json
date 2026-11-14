@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-14T04:46",
+ "generato": "2026-11-14T05:06",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -764,12 +764,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 507 da icpertinibusto.edu.it"
-   ],
-   "ultimo_ok": "2026-11-14T03:45",
-   "ultimo_controllo": "2026-11-14T04:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-14T05:06",
+   "ultimo_controllo": "2026-11-14T05:06"
   },
   {
    "id": "busto-tommaseo",

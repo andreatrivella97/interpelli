@@ -8230,7 +8230,7 @@
      "tipo": null
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icpertinibusto.edu.it/documento/interpello-per-selezione-personale-3"
@@ -17279,7 +17279,7 @@
      "tipo": null
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icpertinibusto.edu.it/documento/interpello-per-selezione-personale"
@@ -17870,7 +17870,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icpertinibusto.edu.it/documento/interpello-per-supplenze-a-s-2024-25-posto-comune-aaaa-scuola-infanzia"
@@ -19788,7 +19788,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icpertinibusto.edu.it/documento/interpello-per-selezione-personale-2"
@@ -21004,16 +21004,14 @@
     "axios:81014010128": 0,
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": 10
    },
-   "errori": [
-    "risposta 507 da icpertinibusto.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:81014010128": "2026-10-03T00:06",
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-14T04:46",
-   "ultimo_ok": "2026-11-14T03:45"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-14T05:06",
+   "ultimo_ok": "2026-11-14T05:06"
   },
   "busto-tommaseo": {
    "conteggi": {
