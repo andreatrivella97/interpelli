@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-14T23:54",
+ "generato": "2026-11-15T00:14",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-14T23:13",
-   "ultimo_controllo": "2026-11-14T23:13"
+   "ultimo_ok": "2026-11-15T00:14",
+   "ultimo_controllo": "2026-11-15T00:14"
   },
   {
    "id": "bareggio",
@@ -717,10 +717,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "ultimo_ok": "2026-11-14T23:13",
-   "ultimo_controllo": "2026-11-14T23:13"
+   "ultimo_controllo": "2026-11-15T00:14"
   },
   {
    "id": "busto-galilei",
@@ -766,8 +768,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-14T23:13",
-   "ultimo_controllo": "2026-11-14T23:13"
+   "ultimo_ok": "2026-11-15T00:14",
+   "ultimo_controllo": "2026-11-15T00:14"
   },
   {
    "id": "busto-tommaseo",
