@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-15T00:14",
+ "generato": "2026-11-15T00:34",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -717,12 +717,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-11-14T23:13",
-   "ultimo_controllo": "2026-11-15T00:14"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-15T00:34",
+   "ultimo_controllo": "2026-11-15T00:34"
   },
   {
    "id": "busto-galilei",
