@@ -20910,16 +20910,14 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [
-    "risposta 503 da icspellico.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-14T10:48",
-   "ultimo_ok": "2026-11-14T09:48"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-14T11:08",
+   "ultimo_ok": "2026-11-14T11:08"
   },
   "bareggio": {
    "conteggi": {
@@ -21012,8 +21010,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-14T10:08",
-   "ultimo_ok": "2026-11-14T10:08"
+   "ultimo_controllo": "2026-11-14T11:08",
+   "ultimo_ok": "2026-11-14T11:08"
   },
   "busto-tommaseo": {
    "conteggi": {
