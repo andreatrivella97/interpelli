@@ -20970,16 +20970,14 @@
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": 1,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-15T22:04",
-   "ultimo_ok": "2026-11-15T21:03"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-15T22:24",
+   "ultimo_ok": "2026-11-15T22:24"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -20992,8 +20990,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T21:24",
-   "ultimo_ok": "2026-11-15T21:24"
+   "ultimo_controllo": "2026-11-15T22:24",
+   "ultimo_ok": "2026-11-15T22:24"
   },
   "busto-galilei": {
    "conteggi": {
@@ -21018,8 +21016,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T21:24",
-   "ultimo_ok": "2026-11-15T21:24"
+   "ultimo_controllo": "2026-11-15T22:24",
+   "ultimo_ok": "2026-11-15T22:24"
   },
   "busto-tommaseo": {
    "conteggi": {
@@ -21096,8 +21094,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T21:24",
-   "ultimo_ok": "2026-11-15T21:24"
+   "ultimo_controllo": "2026-11-15T22:24",
+   "ultimo_ok": "2026-11-15T22:24"
   },
   "fagnano": {
    "conteggi": {
