@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T00:05",
+ "generato": "2026-11-16T00:25",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T23:24",
-   "ultimo_controllo": "2026-11-15T23:24"
+   "ultimo_ok": "2026-11-16T00:25",
+   "ultimo_controllo": "2026-11-16T00:25"
   },
   {
    "id": "marcallo",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T23:24",
-   "ultimo_controllo": "2026-11-15T23:24"
+   "ultimo_ok": "2026-11-16T00:25",
+   "ultimo_controllo": "2026-11-16T00:25"
   },
   {
    "id": "busto-deamicis",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T23:24",
-   "ultimo_controllo": "2026-11-15T23:24"
+   "ultimo_ok": "2026-11-16T00:25",
+   "ultimo_controllo": "2026-11-16T00:25"
   },
   {
    "id": "busto-galilei",
@@ -766,8 +766,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T23:24",
-   "ultimo_controllo": "2026-11-15T23:24"
+   "ultimo_ok": "2026-11-16T00:25",
+   "ultimo_controllo": "2026-11-16T00:25"
   },
   {
    "id": "busto-tommaseo",
