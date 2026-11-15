@@ -20922,8 +20922,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T15:21",
-   "ultimo_ok": "2026-11-15T15:21"
+   "ultimo_controllo": "2026-11-15T16:21",
+   "ultimo_ok": "2026-11-15T16:21"
   },
   "bareggio": {
    "conteggi": {
@@ -20984,16 +20984,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-15T16:01",
-   "ultimo_ok": "2026-11-15T15:01"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-15T16:21",
+   "ultimo_ok": "2026-11-15T16:21"
   },
   "busto-galilei": {
    "conteggi": {
@@ -21018,8 +21016,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T15:21",
-   "ultimo_ok": "2026-11-15T15:21"
+   "ultimo_controllo": "2026-11-15T16:21",
+   "ultimo_ok": "2026-11-15T16:21"
   },
   "busto-tommaseo": {
    "conteggi": {
@@ -21096,8 +21094,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T15:21",
-   "ultimo_ok": "2026-11-15T15:21"
+   "ultimo_controllo": "2026-11-15T16:21",
+   "ultimo_ok": "2026-11-15T16:21"
   },
   "fagnano": {
    "conteggi": {
@@ -21452,8 +21450,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-15T15:21",
-   "ultimo_ok": "2026-11-15T15:21"
+   "ultimo_controllo": "2026-11-15T16:21",
+   "ultimo_ok": "2026-11-15T16:21"
   },
   "uboldo": {
    "conteggi": {
