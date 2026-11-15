@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-15T21:03",
+ "generato": "2026-11-15T21:24",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T20:23",
-   "ultimo_controllo": "2026-11-15T20:23"
+   "ultimo_ok": "2026-11-15T21:24",
+   "ultimo_controllo": "2026-11-15T21:24"
   },
   {
    "id": "marcallo",
@@ -412,10 +412,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icspellico.edu.it"
+   ],
    "ultimo_ok": "2026-11-15T20:23",
-   "ultimo_controllo": "2026-11-15T20:23"
+   "ultimo_controllo": "2026-11-15T21:24"
   },
   {
    "id": "bareggio",
@@ -719,8 +721,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T20:23",
-   "ultimo_controllo": "2026-11-15T20:23"
+   "ultimo_ok": "2026-11-15T21:24",
+   "ultimo_controllo": "2026-11-15T21:24"
   },
   {
    "id": "busto-galilei",
@@ -766,8 +768,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-15T20:23",
-   "ultimo_controllo": "2026-11-15T20:23"
+   "ultimo_ok": "2026-11-15T21:24",
+   "ultimo_controllo": "2026-11-15T21:24"
   },
   {
    "id": "busto-tommaseo",
@@ -881,10 +883,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 503 da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-15T20:23",
-   "ultimo_controllo": "2026-11-15T20:23"
+   "ultimo_controllo": "2026-11-15T21:24"
   },
   {
    "id": "fagnano",
