@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T10:30",
+ "generato": "2026-11-16T10:50",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T10:30"
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "sanvittore",
@@ -62,8 +62,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:58",
-   "ultimo_controllo": "2026-11-16T09:58"
+   "ultimo_ok": "2026-11-16T10:50",
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "canegrate",
@@ -86,8 +86,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:58",
-   "ultimo_controllo": "2026-11-16T09:58"
+   "ultimo_ok": "2026-11-16T10:50",
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +157,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:58",
-   "ultimo_controllo": "2026-11-16T09:58"
+   "ultimo_ok": "2026-11-16T10:50",
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "legnano-carducci",
@@ -205,8 +205,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:58",
-   "ultimo_controllo": "2026-11-16T09:58"
+   "ultimo_ok": "2026-11-16T10:50",
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "cerro",
@@ -277,8 +277,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:58",
-   "ultimo_controllo": "2026-11-16T09:58"
+   "ultimo_ok": "2026-11-16T10:50",
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "magnago",
@@ -345,7 +345,7 @@
     "risposta 503 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T10:30"
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "marcallo",
@@ -418,10 +418,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icspellico.edu.it"
+    "risposta 503 da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T10:30"
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "bareggio",
@@ -704,7 +704,7 @@
     "risposta 503 da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T10:30"
+   "ultimo_controllo": "2026-11-16T10:50"
   },
   {
    "id": "busto-deamicis",
