@@ -12965,7 +12965,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-03T00:06",
    "provati": [
     "icscanegrate.edu.it/assets/files/87a359ef-f550-4678-8e7f-13226a301aa3"
@@ -14273,7 +14273,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/e7acb06d-221a-4eb2-93be-682598039e97"
@@ -14325,7 +14325,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-15T09:31",
    "provati": [
     "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_5_-_1_posto_EEEE_fino_al_30_06_2027_docx_(2).pdf"
@@ -14525,7 +14525,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": false,
+   "presente": true,
    "prima_vista": "2026-10-05T14:42",
    "provati": [
     "icscanegrate.edu.it/assets/files/2064a58c-4b69-414b-8347-639354e0efe2"
@@ -21076,14 +21076,14 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
    "errori": [
-    "ConnectTimeout da icspellico.edu.it"
+    "ReadTimeout da icspellico.edu.it"
    ],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T11:29",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T09:09"
   },
   "bareggio": {
@@ -21132,14 +21132,14 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
    "errori": [
-    "ConnectTimeout da comprensivocrespi.edu.it"
+    "risposta 503 da comprensivocrespi.edu.it"
    ],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T11:29",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T09:29"
   },
   "busto-deamicis": {
@@ -21211,13 +21211,15 @@
     "axios:84004750158": 0,
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 5
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004750158": "2026-10-03T00:06",
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-16T10:50",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:50"
   },
   "castellanza": {
@@ -21329,13 +21331,15 @@
     "axios:92044520150": 0,
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 7
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "fonti_viste": {
     "axios:92044520150": "2026-10-03T00:06",
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-16T10:50",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:50"
   },
   "legnano-carducci": {
@@ -21371,13 +21375,15 @@
     "axios:84003710153": 0,
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": 9
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "fonti_viste": {
     "axios:84003710153": "2026-10-03T00:06",
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-16T10:50",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:50"
   },
   "magnago": {
@@ -21400,14 +21406,14 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": 1
    },
    "errori": [
-    "ReadTimeout da icmarcallo.edu.it"
+    "risposta 503 da icmarcallo.edu.it"
    ],
    "fonti_viste": {
     "pagina:https://icmarcallo.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T11:29",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:30"
   },
   "milano-consolemarcello": {
@@ -21467,13 +21473,15 @@
     "axios:84004110155": 0,
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": 0
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004110155": "2026-10-03T00:06",
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-16T10:50",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:50"
   },
   "rescaldina-manzoni": {
@@ -21555,13 +21563,15 @@
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [],
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-16T10:50",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T10:50"
   },
   "saronno-davinci": {
@@ -21607,16 +21617,14 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [
-    "ConnectTimeout da icmoro.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T11:29",
-   "ultimo_ok": "2026-11-16T10:10"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-16T11:51",
+   "ultimo_ok": "2026-11-16T11:51"
   },
   "uboldo": {
    "conteggi": {
@@ -21636,14 +21644,14 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 7
    },
    "errori": [
-    "ConnectTimeout da icvillacortese.edu.it"
+    "ReadTimeout da icvillacortese.edu.it"
    ],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T11:29",
+   "ultimo_controllo": "2026-11-16T11:51",
    "ultimo_ok": "2026-11-16T09:09"
   }
  },
