@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T12:31",
+ "generato": "2026-11-16T12:51",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T11:51",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "ultimo_ok": "2026-11-16T12:51",
+   "ultimo_controllo": "2026-11-16T12:51"
   },
   {
    "id": "fagnano",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-18",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-18",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "Interpello per nr. 1 posto comune scuola primaria 24 ore dal 18/11/2026 al 30/06/2027"
+     "prova": "Interpello per nr. 1 posto comune scuola primaria 24 ore dal 18/11/2026 al 30/06/2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
