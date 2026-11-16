@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T16:34",
+ "generato": "2026-11-16T16:54",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -299,8 +299,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T15:53",
-   "ultimo_controllo": "2026-11-16T15:53"
+   "ultimo_ok": "2026-11-16T16:54",
+   "ultimo_controllo": "2026-11-16T16:54"
   },
   {
    "id": "arconate",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T15:53",
-   "ultimo_controllo": "2026-11-16T15:53"
+   "ultimo_ok": "2026-11-16T16:54",
+   "ultimo_controllo": "2026-11-16T16:54"
   },
   {
    "id": "busto-galilei",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T15:53",
-   "ultimo_controllo": "2026-11-16T15:53"
+   "ultimo_ok": "2026-11-16T16:54",
+   "ultimo_controllo": "2026-11-16T16:54"
   },
   {
    "id": "fagnano",
