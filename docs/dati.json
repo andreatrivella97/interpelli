@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T11:51",
+ "generato": "2026-11-16T12:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,10 +35,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
+    "risposta 502 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "sanvittore",
@@ -60,12 +60,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T10:50",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "canegrate",
@@ -86,12 +84,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T10:50",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "bustogarolfo",
@@ -159,12 +155,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T10:50",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "legnano-carducci",
@@ -209,12 +203,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T10:50",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "cerro",
@@ -283,12 +275,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T10:50",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "magnago",
@@ -380,7 +370,7 @@
     "risposta 503 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-11-16T10:30",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "ossona",
@@ -426,12 +416,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T12:11",
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "bareggio",
@@ -714,7 +702,7 @@
     "risposta 503 da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T11:51"
+   "ultimo_controllo": "2026-11-16T12:11"
   },
   {
    "id": "busto-deamicis",
