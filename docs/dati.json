@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T10:10",
+ "generato": "2026-11-16T10:30",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,10 +35,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
+    "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T10:10"
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "sanvittore",
@@ -340,10 +340,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "risposta 503 da istitutocomprensivocuggiono.edu.it"
+   ],
    "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T09:29"
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "marcallo",
@@ -365,12 +367,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icmarcallo.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T10:10"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T10:30",
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "ossona",
@@ -418,10 +418,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 502 da icspellico.edu.it"
+    "ReadTimeout da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-11-16T09:09",
-   "ultimo_controllo": "2026-11-16T10:10"
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "bareggio",
@@ -699,10 +699,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 503 da comprensivocrespi.edu.it"
+   ],
    "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T09:29"
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "busto-deamicis",
@@ -725,8 +727,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T09:29"
+   "ultimo_ok": "2026-11-16T10:30",
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "busto-galilei",
@@ -772,8 +774,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T09:29",
-   "ultimo_controllo": "2026-11-16T09:29"
+   "ultimo_ok": "2026-11-16T10:30",
+   "ultimo_controllo": "2026-11-16T10:30"
   },
   {
    "id": "busto-tommaseo",
