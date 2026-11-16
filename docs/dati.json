@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-16T15:33",
+ "generato": "2026-11-16T15:53",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -299,12 +299,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da icadanegri.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T14:32",
-   "ultimo_controllo": "2026-11-16T15:33"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T15:53",
+   "ultimo_controllo": "2026-11-16T15:53"
   },
   {
    "id": "arconate",
@@ -721,12 +719,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-11-16T14:32",
-   "ultimo_controllo": "2026-11-16T15:33"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-16T15:53",
+   "ultimo_controllo": "2026-11-16T15:53"
   },
   {
    "id": "busto-galilei",
@@ -889,8 +885,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-16T14:52",
-   "ultimo_controllo": "2026-11-16T14:52"
+   "ultimo_ok": "2026-11-16T15:53",
+   "ultimo_controllo": "2026-11-16T15:53"
   },
   {
    "id": "fagnano",

@@ -21243,16 +21243,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T15:33",
-   "ultimo_ok": "2026-11-16T14:32"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-16T15:53",
+   "ultimo_ok": "2026-11-16T15:53"
   },
   "busto-galilei": {
    "conteggi": {
@@ -21485,16 +21483,14 @@
     "axios:93018880158": 0,
     "pagina:https://icadanegri.edu.it/servizi/274-interpelli-e-mad": 45
    },
-   "errori": [
-    "ConnectionError da icadanegri.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93018880158": "2026-10-03T00:06",
     "pagina:https://icadanegri.edu.it/servizi/274-interpelli-e-mad": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-16T15:33",
-   "ultimo_ok": "2026-11-16T14:32"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-16T15:53",
+   "ultimo_ok": "2026-11-16T15:53"
   },
   "marcallo": {
    "conteggi": {
@@ -21713,8 +21709,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-16T14:52",
-   "ultimo_ok": "2026-11-16T14:52"
+   "ultimo_controllo": "2026-11-16T15:53",
+   "ultimo_ok": "2026-11-16T15:53"
   },
   "uboldo": {
    "conteggi": {
