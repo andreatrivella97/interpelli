@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-17T14:09",
+ "generato": "2026-11-17T14:29",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T13:29",
-   "ultimo_controllo": "2026-11-17T13:29"
+   "ultimo_ok": "2026-11-17T14:29",
+   "ultimo_controllo": "2026-11-17T14:29"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T13:29",
-   "ultimo_controllo": "2026-11-17T13:29"
+   "ultimo_ok": "2026-11-17T14:29",
+   "ultimo_controllo": "2026-11-17T14:29"
   },
   {
    "id": "ossona",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T13:29",
-   "ultimo_controllo": "2026-11-17T13:29"
+   "ultimo_ok": "2026-11-17T14:29",
+   "ultimo_controllo": "2026-11-17T14:29"
   },
   {
    "id": "busto-deamicis",
@@ -1246,16 +1246,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-02-27",
+     "fine_nota": null,
+     "inizio": "2026-11-19",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 18,
-     "intero": false,
-     "inizio": "2026-11-19",
-     "fine": "2027-02-27",
-     "fine_nota": null,
-     "prova": "enza breve as 26-27 N. 1 POSTO COMUNE PRIMARIA dal 19.11.2026 fino al 27.02.27 - 18 ore"
+     "prova": "enza breve as 26-27 N. 1 POSTO COMUNE PRIMARIA dal 19.11.2026 fino al 27.02.27 - 18 ore",
+     "tipo": "comune"
     }
    ],
    "letto": "titolo",
