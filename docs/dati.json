@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-17T11:08",
+ "generato": "2026-11-17T11:28",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "ReadTimeout da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T11:08"
+   "ultimo_controllo": "2026-11-17T11:28"
   },
   {
    "id": "sanvittore",
@@ -342,8 +342,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T10:27",
-   "ultimo_controllo": "2026-11-17T10:27"
+   "ultimo_ok": "2026-11-17T11:28",
+   "ultimo_controllo": "2026-11-17T11:28"
   },
   {
    "id": "marcallo",
@@ -414,10 +414,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 503 da icspellico.edu.it"
+   ],
    "ultimo_ok": "2026-11-17T10:27",
-   "ultimo_controllo": "2026-11-17T10:27"
+   "ultimo_controllo": "2026-11-17T11:28"
   },
   {
    "id": "bareggio",
@@ -697,8 +699,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T10:27",
-   "ultimo_controllo": "2026-11-17T10:27"
+   "ultimo_ok": "2026-11-17T11:28",
+   "ultimo_controllo": "2026-11-17T11:28"
   },
   {
    "id": "busto-deamicis",
@@ -883,10 +885,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 503 da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-17T10:27",
-   "ultimo_controllo": "2026-11-17T10:27"
+   "ultimo_controllo": "2026-11-17T11:28"
   },
   {
    "id": "fagnano",

@@ -21229,13 +21229,15 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icspellico.edu.it"
+   ],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-17T10:27",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-17T11:28",
    "ultimo_ok": "2026-11-17T10:27"
   },
   "bareggio": {
@@ -21289,8 +21291,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-17T10:27",
-   "ultimo_ok": "2026-11-17T10:27"
+   "ultimo_controllo": "2026-11-17T11:28",
+   "ultimo_ok": "2026-11-17T11:28"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -21407,8 +21409,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-17T10:27",
-   "ultimo_ok": "2026-11-17T10:27"
+   "ultimo_controllo": "2026-11-17T11:28",
+   "ultimo_ok": "2026-11-17T11:28"
   },
   "fagnano": {
    "conteggi": {
@@ -21755,13 +21757,15 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [],
+   "errori": [
+    "risposta 503 da icmoro.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-17T10:27",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-17T11:28",
    "ultimo_ok": "2026-11-17T10:27"
   },
   "uboldo": {
@@ -21789,7 +21793,7 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-17T11:08",
+   "ultimo_controllo": "2026-11-17T11:28",
    "ultimo_ok": "2026-11-17T09:07"
   }
  },
