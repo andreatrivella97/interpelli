@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-17T18:31",
+ "generato": "2026-11-17T18:44",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,10 +33,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icvillacortese.edu.it"
+   ],
    "ultimo_ok": "2026-11-17T17:51",
-   "ultimo_controllo": "2026-11-17T17:51"
+   "ultimo_controllo": "2026-11-17T18:44"
   },
   {
    "id": "sanvittore",
@@ -414,8 +416,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T17:51",
-   "ultimo_controllo": "2026-11-17T17:51"
+   "ultimo_ok": "2026-11-17T18:44",
+   "ultimo_controllo": "2026-11-17T18:44"
   },
   {
    "id": "bareggio",
@@ -693,12 +695,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-17T17:31",
-   "ultimo_controllo": "2026-11-17T18:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-17T18:44",
+   "ultimo_controllo": "2026-11-17T18:44"
   },
   {
    "id": "busto-deamicis",
@@ -721,8 +721,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T17:51",
-   "ultimo_controllo": "2026-11-17T17:51"
+   "ultimo_ok": "2026-11-17T18:44",
+   "ultimo_controllo": "2026-11-17T18:44"
   },
   {
    "id": "busto-galilei",
@@ -885,8 +885,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-17T17:51",
-   "ultimo_controllo": "2026-11-17T17:51"
+   "ultimo_ok": "2026-11-17T18:44",
+   "ultimo_controllo": "2026-11-17T18:44"
   },
   {
    "id": "fagnano",
