@@ -21243,13 +21243,15 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-17T01:21",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-17T02:24",
    "ultimo_ok": "2026-11-17T01:21"
   },
   "busto-galilei": {
