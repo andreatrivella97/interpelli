@@ -10836,7 +10836,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-21T11:17",
    "provati": [
     "icvillacortese.edu.it/wp-content/uploads/sites/1121/05-_ADEE_INTERPELLO_SOSTEGNO_PRIMARIA_.pdf.pades_.pdf"
@@ -21229,16 +21229,14 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [
-    "risposta 503 da icspellico.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-17T11:28",
-   "ultimo_ok": "2026-11-17T10:27"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-17T11:48",
+   "ultimo_ok": "2026-11-17T11:48"
   },
   "bareggio": {
    "conteggi": {
@@ -21305,8 +21303,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-17T10:47",
-   "ultimo_ok": "2026-11-17T10:47"
+   "ultimo_controllo": "2026-11-17T11:48",
+   "ultimo_ok": "2026-11-17T11:48"
   },
   "busto-galilei": {
    "conteggi": {
@@ -21757,16 +21755,14 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [
-    "risposta 503 da icmoro.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-17T11:28",
-   "ultimo_ok": "2026-11-17T10:27"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-17T11:48",
+   "ultimo_ok": "2026-11-17T11:48"
   },
   "uboldo": {
    "conteggi": {
@@ -21785,16 +21781,14 @@
     "axios:92034300159": 0,
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 7
    },
-   "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-17T11:28",
-   "ultimo_ok": "2026-11-17T09:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-17T11:48",
+   "ultimo_ok": "2026-11-17T11:48"
   }
  },
  "versione": 1
