@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-17T10:07",
+ "generato": "2026-11-17T10:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,10 +35,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
+    "risposta 503 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "sanvittore",
@@ -340,12 +340,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
-   ],
-   "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-17T10:27",
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "marcallo",
@@ -372,7 +370,7 @@
     "risposta 503 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "ossona",
@@ -418,12 +416,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-17T10:27",
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "bareggio",
@@ -701,12 +697,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-17T10:27",
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "busto-deamicis",
@@ -891,12 +885,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 503 da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-11-17T09:07",
-   "ultimo_controllo": "2026-11-17T10:07"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-17T10:27",
+   "ultimo_controllo": "2026-11-17T10:27"
   },
   {
    "id": "fagnano",
@@ -1129,16 +1121,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-19",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-19",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "contratto ADEE posto Scuola primaria 1 24 19/11/2026 30/06/2027 sostegno dell'ICS Duca D'Aosta La candidatura dov"
+     "prova": "contratto ADEE posto Scuola primaria 1 24 19/11/2026 30/06/2027 sostegno dell'ICS Duca D'Aosta La candidatura dov",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
