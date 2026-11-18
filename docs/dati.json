@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T11:40",
+ "generato": "2026-11-18T12:00",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,10 +35,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
+    "risposta 500 da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-18T09:18",
-   "ultimo_controllo": "2026-11-18T11:40"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "sanvittore",
@@ -342,10 +342,10 @@
    "nota": null,
    "stato": "errore",
    "errori": [
-    "risposta 500 da istitutocomprensivocuggiono.edu.it"
+    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-11-18T09:39",
-   "ultimo_controllo": "2026-11-18T11:40"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "marcallo",
@@ -369,10 +369,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icmarcallo.edu.it"
+    "risposta 500 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T11:40"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "ossona",
@@ -420,10 +420,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icspellico.edu.it"
+    "risposta 500 da icspellico.edu.it"
    ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T11:40"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "bareggio",
@@ -703,10 +703,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "risposta 502 da comprensivocrespi.edu.it"
+    "ReadTimeout da comprensivocrespi.edu.it"
    ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T11:40"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "busto-deamicis",
@@ -891,10 +891,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T10:59",
-   "ultimo_controllo": "2026-11-18T10:59"
+   "ultimo_controllo": "2026-11-18T12:00"
   },
   {
    "id": "fagnano",
