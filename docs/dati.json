@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T15:42",
+ "generato": "2026-11-18T16:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -412,12 +412,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T15:42"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T16:02",
+   "ultimo_controllo": "2026-11-18T16:02"
   },
   {
    "id": "bareggio",
@@ -695,12 +693,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T15:42"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T16:02",
+   "ultimo_controllo": "2026-11-18T16:02"
   },
   {
    "id": "busto-deamicis",
@@ -885,12 +881,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T15:42"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T16:02",
+   "ultimo_controllo": "2026-11-18T16:02"
   },
   {
    "id": "fagnano",
@@ -1123,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-11-27",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-11-27",
-     "fine_nota": null,
-     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO COMUNE EEEE 24H FINO AL 27/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO COMUNE EEEE 24H FINO AL 27/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",

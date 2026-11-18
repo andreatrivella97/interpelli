@@ -21557,16 +21557,14 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [
-    "ReadTimeout da icspellico.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T15:42",
-   "ultimo_ok": "2026-11-18T14:41"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-18T16:02",
+   "ultimo_ok": "2026-11-18T16:02"
   },
   "bareggio": {
    "conteggi": {
@@ -21613,16 +21611,14 @@
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": 1,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T15:42",
-   "ultimo_ok": "2026-11-18T14:41"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-18T16:02",
+   "ultimo_ok": "2026-11-18T16:02"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22087,16 +22083,14 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [
-    "ReadTimeout da icmoro.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T15:42",
-   "ultimo_ok": "2026-11-18T14:41"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-18T16:02",
+   "ultimo_ok": "2026-11-18T16:02"
   },
   "uboldo": {
    "conteggi": {
