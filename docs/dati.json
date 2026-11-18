@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T16:42",
+ "generato": "2026-11-18T17:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T16:02",
-   "ultimo_controllo": "2026-11-18T16:02"
+   "ultimo_ok": "2026-11-18T17:02",
+   "ultimo_controllo": "2026-11-18T17:02"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T16:02",
-   "ultimo_controllo": "2026-11-18T16:02"
+   "ultimo_ok": "2026-11-18T17:02",
+   "ultimo_controllo": "2026-11-18T17:02"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T16:02",
-   "ultimo_controllo": "2026-11-18T16:02"
+   "ultimo_ok": "2026-11-18T17:02",
+   "ultimo_controllo": "2026-11-18T17:02"
   },
   {
    "id": "fagnano",
@@ -1132,6 +1132,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-11-18T15:42",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "6fd331adbfe1",
+   "scuola": "arluno",
+   "titolo": "INTERPELLO AM12",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-11-18",
+   "scadenza": "2026-11-19T16:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "secondaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "secondaria"
+     ],
+     "tipo": null,
+     "ore": 18,
+     "intero": false,
+     "inizio": "2026-11-20",
+     "fine": "2026-11-30",
+     "fine_nota": null,
+     "prova": "ento delle seguenti supplenze: - N. 1 POSTO CLASSE DI CONCORSO AM12 - 18 ORE SETTIMANALI - DAL 20/11/2026 AL 30/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-18T17:02",
    "iniziale": false,
    "presente": true
   },

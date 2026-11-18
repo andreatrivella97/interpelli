@@ -8525,6 +8525,60 @@
    "ultima_vista": "2026-11-10",
    "url": "https://icpertinibusto.edu.it/documento/interpello-per-selezione-personale-3/"
   },
+  "6fd331adbfe1": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "chiave_titolo": null,
+   "chiavi_file": [
+    "interpelloam12"
+   ],
+   "fonti": [
+    "axios"
+   ],
+   "id": "6fd331adbfe1",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93527540152"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "secondaria"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2026-11-30",
+     "fine_nota": null,
+     "inizio": "2026-11-20",
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": 18,
+     "prova": "ento delle seguenti supplenze: - N. 1 POSTO CLASSE DI CONCORSO AM12 - 18 ORE SETTIMANALI - DAL 20/11/2026 AL 30/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-18T17:02",
+   "provati": [
+    "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527540152&Folder=SC/Folders/Files&file=c8333b77-fa10-48f0-8daf-b3ed87c18970.pdf&faction=0000&SourceFileName=INTERPELLO_AM12.pdf.pades.pdf"
+   ],
+   "pubblicato": "2026-11-18",
+   "regole": 1,
+   "scadenza": "2026-11-19T16:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "arluno",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO AM12"
+   ],
+   "titolo": "INTERPELLO AM12",
+   "ultima_vista": "2026-11-18",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR"
+  },
   "7013f5261160": {
    "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
    "chiave_titolo": "interpelloprimariapostocomune12hfinoal221226",
@@ -21563,8 +21617,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T16:02",
-   "ultimo_ok": "2026-11-18T16:02"
+   "ultimo_controllo": "2026-11-18T17:02",
+   "ultimo_ok": "2026-11-18T17:02"
   },
   "bareggio": {
    "conteggi": {
@@ -21617,8 +21671,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T16:02",
-   "ultimo_ok": "2026-11-18T16:02"
+   "ultimo_controllo": "2026-11-18T17:02",
+   "ultimo_ok": "2026-11-18T17:02"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22089,8 +22143,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T16:02",
-   "ultimo_ok": "2026-11-18T16:02"
+   "ultimo_controllo": "2026-11-18T17:02",
+   "ultimo_ok": "2026-11-18T17:02"
   },
   "uboldo": {
    "conteggi": {
