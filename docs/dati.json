@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T09:39",
+ "generato": "2026-11-18T10:02",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -363,10 +363,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 502 da icmarcallo.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T08:58"
+   "ultimo_controllo": "2026-11-18T10:02"
   },
   {
    "id": "ossona",
@@ -412,10 +414,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 504 da icspellico.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T08:58"
+   "ultimo_controllo": "2026-11-18T10:02"
   },
   {
    "id": "bareggio",
@@ -693,10 +697,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 502 da comprensivocrespi.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T08:58"
+   "ultimo_controllo": "2026-11-18T10:02"
   },
   {
    "id": "busto-deamicis",
@@ -881,10 +887,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta 502 da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T08:58"
+   "ultimo_controllo": "2026-11-18T10:02"
   },
   {
    "id": "fagnano",
@@ -2032,45 +2040,6 @@
    "presente": false
   },
   {
-   "id": "b834c2ca731c",
-   "scuola": "rho-grossi",
-   "titolo": "Interpello_Sostegno Primaria_24h_fino al 30/06/2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkwHCoAla",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-10",
-   "scadenza": "2026-11-11T10:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-11-12",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-10T08:39",
-   "iniziale": false,
-   "presente": false
-  },
-  {
    "id": "cb736d29d94a",
    "scuola": "busto-bossi",
    "titolo": "Interpello per supplenza breve Scuola Secondaria di I grado- Classe di concorso ADMM - I.C. G.A. BOSSI\"",
@@ -2106,45 +2075,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-11-10T14:42",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "ffd38b259a4f",
-   "scuola": "rho-grossi",
-   "titolo": "6521/U Interpello Sostegno Primaria 24h fino al 30/06/2027",
-   "url": "https://www.icgrossirho.edu.it/public/files/Interpello_PRIMARIA_SOSTEGNO(1).pdf",
-   "pagina": "https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-10",
-   "scadenza": "2026-11-11T10:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "a pagina Termine di presentazione dell'istanza entro le ore 10.00 del 11/11/2026 Modalità e termini di riscont",
-   "chiuso": "Assegnato",
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-11-12",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "a di inizio della supplenza 12/11/2026 Durata della supplenza fino al 30/06/2027 Orario complessivo settimanale 24h Primaria Sede di servizio RHO I.C. Tom",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-10T08:39",
    "iniziale": false,
    "presente": true
   },

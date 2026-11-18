@@ -21451,13 +21451,15 @@
     "axios:93527540152": 2,
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
-   "errori": [],
+   "errori": [
+    "risposta 504 da icspellico.edu.it"
+   ],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-18T08:58",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-18T10:02",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "bareggio": {
@@ -21505,13 +21507,15 @@
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": 1,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
-   "errori": [],
+   "errori": [
+    "risposta 502 da comprensivocrespi.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-18T08:58",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-18T10:02",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "busto-deamicis": {
@@ -21771,13 +21775,15 @@
     "pagina:https://icmarcallo.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [],
+   "errori": [
+    "risposta 502 da icmarcallo.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icmarcallo.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-18T08:58",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-18T10:02",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "milano-consolemarcello": {
@@ -21977,13 +21983,15 @@
     "pagina:https://icmoro.edu.it/?s=interpello": 0,
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": 1
    },
-   "errori": [],
+   "errori": [
+    "risposta 502 da icmoro.edu.it"
+   ],
    "fonti_viste": {
     "pagina:https://icmoro.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-18T08:58",
+   "stato": "parziale",
+   "ultimo_controllo": "2026-11-18T10:02",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "uboldo": {
