@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T15:22",
+ "generato": "2026-11-18T15:42",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "legnano-salici",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "magnago",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "ossona",
@@ -412,10 +412,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icspellico.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "bareggio",
@@ -693,10 +695,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da comprensivocrespi.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "busto-deamicis",
@@ -719,8 +723,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_ok": "2026-11-18T15:42",
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "busto-galilei",
@@ -881,10 +885,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-18T14:41",
-   "ultimo_controllo": "2026-11-18T14:41"
+   "ultimo_controllo": "2026-11-18T15:42"
   },
   {
    "id": "fagnano",
@@ -1095,6 +1101,45 @@
    "prima_vista": "2026-10-22T14:32",
    "iniziale": false,
    "presente": false
+  },
+  {
+   "id": "53820e676855",
+   "scuola": "arluno",
+   "titolo": "Interpello per supplenza su EEEE - POSTO COMUNE scuola primaria",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
+   "fonti": [
+    "axios"
+   ],
+   "pubblicato": "2026-11-18",
+   "scadenza": "2026-11-19T14:30",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "comune",
+     "ore": 24,
+     "intero": false,
+     "inizio": null,
+     "fine": "2026-11-27",
+     "fine_nota": null,
+     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO COMUNE EEEE 24H FINO AL 27/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-18T15:42",
+   "iniziale": false,
+   "presente": true
   },
   {
    "id": "adcbe92a62c4",
