@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T23:46",
+ "generato": "2026-11-19T00:06",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T22:49",
-   "ultimo_controllo": "2026-11-18T23:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T22:49",
-   "ultimo_controllo": "2026-11-18T23:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T22:49",
-   "ultimo_controllo": "2026-11-18T23:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "legnano-carducci",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T22:49",
-   "ultimo_controllo": "2026-11-18T23:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T22:49",
-   "ultimo_controllo": "2026-11-18T23:46"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "magnago",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T23:05",
-   "ultimo_controllo": "2026-11-18T23:05"
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "bareggio",
@@ -705,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T23:05",
-   "ultimo_controllo": "2026-11-18T23:05"
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "busto-deamicis",
@@ -893,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T23:05",
-   "ultimo_controllo": "2026-11-18T23:05"
+   "ultimo_ok": "2026-11-19T00:06",
+   "ultimo_controllo": "2026-11-19T00:06"
   },
   {
    "id": "fagnano",
@@ -2118,45 +2108,6 @@
    "prima_vista": "2026-11-11T10:52",
    "iniziale": false,
    "presente": true
-  },
-  {
-   "id": "78e5a43653a1",
-   "scuola": "pogliano",
-   "titolo": "Interpello SCUOLA PRIMARIA ADEE n.24 ore, dal 10/11/2026 al 30/06/2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-10",
-   "scadenza": "2026-11-12T00:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "NCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 24 12/11/2026 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-10T12:41",
-   "iniziale": false,
-   "presente": false
   },
   {
    "id": "cb736d29d94a",
