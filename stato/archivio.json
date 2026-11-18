@@ -21452,14 +21452,14 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": 4
    },
    "errori": [
-    "risposta 504 da icspellico.edu.it"
+    "ReadTimeout da icspellico.edu.it"
    ],
    "fonti_viste": {
     "axios:93527540152": "2026-10-03T00:06",
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T11:19",
+   "ultimo_controllo": "2026-11-18T11:40",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "bareggio": {
@@ -21508,14 +21508,14 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": 0
    },
    "errori": [
-    "risposta 504 da comprensivocrespi.edu.it"
+    "risposta 502 da comprensivocrespi.edu.it"
    ],
    "fonti_viste": {
     "pagina:https://comprensivocrespi.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T11:19",
+   "ultimo_controllo": "2026-11-18T11:40",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "busto-deamicis": {
@@ -21593,8 +21593,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T10:39",
-   "ultimo_ok": "2026-11-18T10:39"
+   "ultimo_controllo": "2026-11-18T11:40",
+   "ultimo_ok": "2026-11-18T11:40"
   },
   "castellanza": {
    "conteggi": {
@@ -21629,13 +21629,13 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": 1
    },
    "errori": [
-    "risposta 504 da istitutocomprensivocuggiono.edu.it"
+    "risposta 500 da istitutocomprensivocuggiono.edu.it"
    ],
    "fonti_viste": {
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "errore",
-   "ultimo_controllo": "2026-11-18T11:19",
+   "ultimo_controllo": "2026-11-18T11:40",
    "ultimo_ok": "2026-11-18T09:39"
   },
   "fagnano": {
@@ -21713,8 +21713,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T10:39",
-   "ultimo_ok": "2026-11-18T10:39"
+   "ultimo_controllo": "2026-11-18T11:40",
+   "ultimo_ok": "2026-11-18T11:40"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -21755,8 +21755,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T10:39",
-   "ultimo_ok": "2026-11-18T10:39"
+   "ultimo_controllo": "2026-11-18T11:40",
+   "ultimo_ok": "2026-11-18T11:40"
   },
   "magnago": {
    "conteggi": {
@@ -21778,14 +21778,14 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": 1
    },
    "errori": [
-    "risposta 504 da icmarcallo.edu.it"
+    "ReadTimeout da icmarcallo.edu.it"
    ],
    "fonti_viste": {
     "pagina:https://icmarcallo.edu.it/?s=interpello": "2026-10-03T00:06",
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T11:19",
+   "ultimo_controllo": "2026-11-18T11:40",
    "ultimo_ok": "2026-11-18T08:58"
   },
   "milano-consolemarcello": {
@@ -21851,8 +21851,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T10:39",
-   "ultimo_ok": "2026-11-18T10:39"
+   "ultimo_controllo": "2026-11-18T11:40",
+   "ultimo_ok": "2026-11-18T11:40"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -21939,8 +21939,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-18T10:39",
-   "ultimo_ok": "2026-11-18T10:39"
+   "ultimo_controllo": "2026-11-18T11:40",
+   "ultimo_ok": "2026-11-18T11:40"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -22012,14 +22012,14 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 7
    },
    "errori": [
-    "risposta 504 da icvillacortese.edu.it"
+    "ReadTimeout da icvillacortese.edu.it"
    ],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-18T11:19",
+   "ultimo_controllo": "2026-11-18T11:40",
    "ultimo_ok": "2026-11-18T09:18"
   }
  },
