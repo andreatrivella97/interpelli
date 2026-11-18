@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T13:20",
+ "generato": "2026-11-18T13:41",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T09:18",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "sanvittore",
@@ -62,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "canegrate",
@@ -86,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "legnano-carducci",
@@ -181,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "legnano-salici",
@@ -205,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "cerro",
@@ -277,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "magnago",
@@ -340,12 +338,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "risposta 500 da istitutocomprensivocuggiono.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T09:39",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "marcallo",
@@ -367,12 +363,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 500 da icmarcallo.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "ossona",
@@ -418,12 +412,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "bareggio",
@@ -701,12 +693,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 500 da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T08:58",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "busto-deamicis",
@@ -729,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T12:40",
-   "ultimo_controllo": "2026-11-18T12:40"
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "busto-galilei",
@@ -891,12 +881,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-11-18T10:59",
-   "ultimo_controllo": "2026-11-18T13:20"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T13:41",
+   "ultimo_controllo": "2026-11-18T13:41"
   },
   {
    "id": "fagnano",
@@ -1313,7 +1301,7 @@
    "nota": null,
    "prima_vista": "2026-11-17T14:09",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "1743574b3bd0",
