@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-18T18:23",
+ "generato": "2026-11-18T18:43",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "legnano-carducci",
@@ -177,12 +177,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
-   "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
-   ],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "legnano-salici",
@@ -205,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "cerro",
@@ -277,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "magnago",
@@ -342,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "marcallo",
@@ -367,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-18T17:40",
-   "ultimo_controllo": "2026-11-18T17:40"
+   "ultimo_ok": "2026-11-18T18:43",
+   "ultimo_controllo": "2026-11-18T18:43"
   },
   {
    "id": "ossona",
@@ -2031,7 +2029,7 @@
    "nota": null,
    "prima_vista": "2026-11-12T17:29",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "2a906b34dd79",
