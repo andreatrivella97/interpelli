@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T07:52",
+ "generato": "2026-11-19T08:15",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:09",
-   "ultimo_controllo": "2026-11-19T07:09"
+   "ultimo_ok": "2026-11-19T08:15",
+   "ultimo_controllo": "2026-11-19T08:15"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:09",
-   "ultimo_controllo": "2026-11-19T07:09"
+   "ultimo_ok": "2026-11-19T08:15",
+   "ultimo_controllo": "2026-11-19T08:15"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:09",
-   "ultimo_controllo": "2026-11-19T07:09"
+   "ultimo_ok": "2026-11-19T08:15",
+   "ultimo_controllo": "2026-11-19T08:15"
   },
   {
    "id": "fagnano",
