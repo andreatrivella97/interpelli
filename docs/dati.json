@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T08:30",
+ "generato": "2026-11-19T08:52",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:52",
-   "ultimo_controllo": "2026-11-19T07:52"
+   "ultimo_ok": "2026-11-19T08:52",
+   "ultimo_controllo": "2026-11-19T08:52"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:52",
-   "ultimo_controllo": "2026-11-19T07:52"
+   "ultimo_ok": "2026-11-19T08:52",
+   "ultimo_controllo": "2026-11-19T08:52"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:52",
-   "ultimo_controllo": "2026-11-19T07:52"
+   "ultimo_ok": "2026-11-19T08:52",
+   "ultimo_controllo": "2026-11-19T08:52"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:52",
-   "ultimo_controllo": "2026-11-19T07:52"
+   "ultimo_ok": "2026-11-19T08:52",
+   "ultimo_controllo": "2026-11-19T08:52"
   },
   {
    "id": "ossona",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T07:52",
-   "ultimo_controllo": "2026-11-19T07:52"
+   "ultimo_ok": "2026-11-19T08:52",
+   "ultimo_controllo": "2026-11-19T08:52"
   },
   {
    "id": "busto-galilei",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-22",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "secondaria"
      ],
-     "tipo": null,
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-12-22",
-     "fine_nota": null,
-     "prova": "INTERPELLO CDC A028-18 ORE-FINO AL 22/12/26 I.C. MILITI-SARONNO"
+     "prova": "INTERPELLO CDC A028-18 ORE-FINO AL 22/12/26 I.C. MILITI-SARONNO",
+     "tipo": null
     }
    ],
    "letto": "non_leggibile",
