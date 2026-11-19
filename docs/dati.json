@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T10:31",
+ "generato": "2026-11-19T10:51",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,12 +33,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "sanvittore",
@@ -62,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "canegrate",
@@ -86,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "bustogarolfo",
@@ -157,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "legnano-carducci",
@@ -181,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "legnano-salici",
@@ -205,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "cerro",
@@ -277,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "magnago",
@@ -340,12 +338,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "marcallo",
@@ -367,12 +363,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icmarcallo.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "ossona",
@@ -418,12 +412,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da icspellico.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "bareggio",
@@ -701,12 +693,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "busto-deamicis",
@@ -729,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T09:51",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "busto-galilei",
@@ -891,12 +881,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 502 da icmoro.edu.it"
-   ],
-   "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T10:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T10:51",
+   "ultimo_controllo": "2026-11-19T10:51"
   },
   {
    "id": "fagnano",
@@ -1129,28 +1117,28 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "secondaria"
      ],
-     "tipo": null,
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "ento della graduatoria. La presa di servizio dovrà avvenire entro le successive 24 ore dal conferimento della supplenza, o comunque nella data"
+     "prova": "ento della graduatoria. La presa di servizio dovrà avvenire entro le successive 24 ore dal conferimento della supplenza, o comunque nella data",
+     "tipo": null
     },
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "secondaria"
      ],
-     "tipo": null,
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Ministero dell'Istruzione e del Merito Istituto Comprensivo Statale Duca D'Aosta Via Dante, 1 - 20002 OSSONA (MI) Tel. 02.9010008 CF 93018820154 Codice Univoco UFYLUO miic85400q@istruzione.it - miic85"
+     "prova": "Ministero dell'Istruzione e del Merito Istituto Comprensivo Statale Duca D'Aosta Via Dante, 1 - 20002 OSSONA (MI) Tel. 02.9010008 CF 93018820154 Codice Univoco UFYLUO miic85400q@istruzione.it - miic85",
+     "tipo": null
     }
    ],
    "letto": "testo",
