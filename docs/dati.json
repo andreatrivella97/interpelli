@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T15:33",
+ "generato": "2026-11-19T15:53",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "sanvittore",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "legnano-carducci",
@@ -177,12 +177,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
-   "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
-   ],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "legnano-salici",
@@ -205,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "cerro",
@@ -277,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "magnago",
@@ -342,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "marcallo",
@@ -367,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "ossona",
@@ -416,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "bareggio",
@@ -697,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "busto-deamicis",
@@ -885,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T14:53",
-   "ultimo_controllo": "2026-11-19T14:53"
+   "ultimo_ok": "2026-11-19T15:53",
+   "ultimo_controllo": "2026-11-19T15:53"
   },
   {
    "id": "fagnano",
@@ -1170,16 +1168,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-23",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 12,
-     "intero": false,
-     "inizio": "2026-11-23",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "contratto ADEE posto Scuola primaria 1 12 23/11/2026 30/06/2027 sostegno dell'ICS Duca D'Aosta La candidatura dov"
+     "prova": "contratto ADEE posto Scuola primaria 1 12 23/11/2026 30/06/2027 sostegno dell'ICS Duca D'Aosta La candidatura dov",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -2160,7 +2158,7 @@
    "nota": null,
    "prima_vista": "2026-11-12T17:29",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "3ca2013f674b",
