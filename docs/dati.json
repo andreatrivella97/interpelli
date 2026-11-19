@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T00:46",
+ "generato": "2026-11-19T01:06",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "legnano-carducci",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "magnago",
@@ -414,8 +424,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_ok": "2026-11-19T01:06",
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "bareggio",
@@ -695,8 +705,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_ok": "2026-11-19T01:06",
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +893,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T00:06",
-   "ultimo_controllo": "2026-11-19T00:06"
+   "ultimo_ok": "2026-11-19T01:06",
+   "ultimo_controllo": "2026-11-19T01:06"
   },
   {
    "id": "fagnano",
