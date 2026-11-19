@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T07:31",
+ "generato": "2026-11-19T07:52",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T06:49",
-   "ultimo_controllo": "2026-11-19T06:49"
+   "ultimo_ok": "2026-11-19T07:52",
+   "ultimo_controllo": "2026-11-19T07:52"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T06:49",
-   "ultimo_controllo": "2026-11-19T06:49"
+   "ultimo_ok": "2026-11-19T07:52",
+   "ultimo_controllo": "2026-11-19T07:52"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T06:49",
-   "ultimo_controllo": "2026-11-19T06:49"
+   "ultimo_ok": "2026-11-19T07:52",
+   "ultimo_controllo": "2026-11-19T07:52"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T06:49",
-   "ultimo_controllo": "2026-11-19T06:49"
+   "ultimo_ok": "2026-11-19T07:52",
+   "ultimo_controllo": "2026-11-19T07:52"
   },
   {
    "id": "ossona",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-19T06:49",
-   "ultimo_controllo": "2026-11-19T06:49"
+   "ultimo_ok": "2026-11-19T07:52",
+   "ultimo_controllo": "2026-11-19T07:52"
   },
   {
    "id": "busto-galilei",
