@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-19T09:51",
+ "generato": "2026-11-19T10:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -38,7 +38,7 @@
     "ReadTimeout da icvillacortese.edu.it"
    ],
    "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "sanvittore",
@@ -342,10 +342,10 @@
    "nota": null,
    "stato": "errore",
    "errori": [
-    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
+    "risposta 502 da istitutocomprensivocuggiono.edu.it"
    ],
    "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "marcallo",
@@ -369,10 +369,10 @@
    "nota": null,
    "stato": "parziale",
    "errori": [
-    "ReadTimeout da icmarcallo.edu.it"
+    "risposta 502 da icmarcallo.edu.it"
    ],
    "ultimo_ok": "2026-11-19T08:52",
-   "ultimo_controllo": "2026-11-19T09:51"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "ossona",
@@ -418,10 +418,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icspellico.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T09:10"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "bareggio",
@@ -699,10 +701,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da comprensivocrespi.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T09:10"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "busto-deamicis",
@@ -887,10 +891,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icmoro.edu.it"
+   ],
    "ultimo_ok": "2026-11-19T09:10",
-   "ultimo_controllo": "2026-11-19T09:10"
+   "ultimo_controllo": "2026-11-19T10:11"
   },
   {
    "id": "fagnano",
@@ -2073,45 +2079,6 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-11-12T17:29",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "2a906b34dd79",
-   "scuola": "bustogarolfo",
-   "titolo": "Interpello n. 7 del 11-11-2026 scuola infazia posto comune",
-   "url": "https://icstarra.edu.it/sito-download-file/6806/all",
-   "pagina": "https://icstarra.edu.it/servizi/99-interpello",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-11",
-   "scadenza": "2026-11-12T10:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": "Chiuso",
-   "personale": "docente",
-   "ordini": [
-    "infanzia"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-13",
-     "fine_nota": null,
-     "inizio": "2026-11-12",
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "guenti caratteristiche: POSTI DISPONIBILI SCUOLA INFANZIA Cattedre di 25 ore di sostegno scuola dell'infanzia dal 12/11/2026 al 13/11/2026 In conformità con quanto previsto dalla",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-11T10:52",
    "iniziale": false,
    "presente": true
   },
