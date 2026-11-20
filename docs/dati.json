@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-20T12:47",
+ "generato": "2026-11-20T13:04",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T12:03",
-   "ultimo_controllo": "2026-11-20T12:03"
+   "ultimo_ok": "2026-11-20T13:04",
+   "ultimo_controllo": "2026-11-20T13:04"
   },
   {
    "id": "fagnano",
@@ -1860,45 +1860,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-11-13T13:39",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "8deb03dc6c10",
-   "scuola": "cerro",
-   "titolo": "AVVISO INTERPELLO 5 SCUOLA PRIMARIA 2 posto di sostegno 1 posto comune",
-   "url": "https://www.scuoledicerro.edu.it/pvw2/app/default/tools.php?act=downloadFile&id=1878",
-   "pagina": "https://www.scuoledicerro.edu.it/pagine/interpelli-1",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": null,
-   "scadenza": "2026-11-13T13:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 13.00 del 13/11/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "primaria c) TIPO CONTRATTO: fino al termine delle attività didattiche 30/6/2027 d) ORARIO COMPLESSIVO SETTIMANALE: 24h e) sede di servizio: Scuola primaria,",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-12T13:27",
    "iniziale": false,
    "presente": true
   },
