@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-20T11:43",
+ "generato": "2026-11-20T12:03",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T11:03",
-   "ultimo_controllo": "2026-11-20T11:03"
+   "ultimo_ok": "2026-11-20T12:03",
+   "ultimo_controllo": "2026-11-20T12:03"
   },
   {
    "id": "fagnano",
@@ -1940,45 +1940,6 @@
    "prima_vista": "2026-11-12T13:27",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "a0e4943c7938",
-   "scuola": "villacortese",
-   "titolo": "07- ADEE INTERPELLO N 01 POSTO SOSTEGNO PRIMARIA",
-   "url": "https://icvillacortese.edu.it/wp-content/uploads/sites/1121/07-_ADEE_INTERPELLO_N_01_POSTO_SOSTEGNO_PRIMARIA.pdf.pades_.pdf?x27179",
-   "pagina": "https://icvillacortese.edu.it/servizio/invio-interpelli/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-12",
-   "scadenza": "2026-11-13T12:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a comunicare entro e non oltre le ore 12.00 del 13 novembre 2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-11-16",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "osti disponibili. Periodo di Incarico Sostegno primaria ADEE 1 posti- 24 ORE Dal 16/11/2026 al 30/06/2027 Tutti gli interessati sono tenuti a com",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-12T12:27",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "da8b842632f2",
