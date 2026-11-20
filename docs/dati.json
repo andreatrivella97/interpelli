@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-20T14:44",
+ "generato": "2026-11-20T15:04",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-20T14:04",
-   "ultimo_controllo": "2026-11-20T14:04"
+   "ultimo_ok": "2026-11-20T15:04",
+   "ultimo_controllo": "2026-11-20T15:04"
   },
   {
    "id": "fagnano",
@@ -1862,45 +1862,6 @@
    "prima_vista": "2026-11-13T13:39",
    "iniziale": false,
    "presente": true
-  },
-  {
-   "id": "da8b842632f2",
-   "scuola": "rho-annafrank",
-   "titolo": "Interpello_N.15_Primaria_comune_fino_al_22_11",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-12",
-   "scadenza": "2026-11-13T15:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "Interpello N.15 Primaria comune fino al 22 11",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-12T16:28",
-   "iniziale": false,
-   "presente": false
   },
   {
    "id": "3ca2013f674b",
