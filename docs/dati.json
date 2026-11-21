@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-21T14:58",
+ "generato": "2026-11-21T15:18",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "sanvittore",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "legnano-salici",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-21T14:17",
-   "ultimo_controllo": "2026-11-21T14:17"
+   "ultimo_ok": "2026-11-21T15:18",
+   "ultimo_controllo": "2026-11-21T15:18"
   },
   {
    "id": "fagnano",
@@ -1783,46 +1783,6 @@
    "prima_vista": "2026-11-13T09:36",
    "iniziale": false,
    "presente": true
-  },
-  {
-   "id": "98899818686a",
-   "scuola": "rho-deandre",
-   "titolo": "INTERPELLO SCUOLA PRIMARIA SUPPLENZE BREVI FINO A 10 GG PER TUTTO L'ANNO",
-   "url": "https://www.trasparenzascuole.it/Ajax/SD_UploadDownloadHandler.aspx?cid=5c83ec6d-c898-4ab2-8b53-1ed341b90599&folder=APD&storagefilename=a82ecafc-a323-4b36-811a-cf4f16a6316f&sourcefilename=dGltYnJhdG9fSU5URVJQRUxMT19TQ1VPTEFfUFJJTUFSSUFfU1VQUExFTlpFX0JSRVZJX0ZJTk9fQV8xMF9HR19QRVJfVFVUVE9fTEFOTk8ucGRm",
-   "pagina": "https://www.icdeandrerho.edu.it/",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb",
-   "fonti": [
-    "axios",
-    "pagina"
-   ],
-   "pubblicato": "2026-11-13",
-   "scadenza": "2026-11-14T15:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": null,
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "INTERPELLO SCUOLA PRIMARIA SUPPLENZE BREVI FINO A 10 GG PER TUTTO L'ANNO",
-     "tipo": null
-    }
-   ],
-   "letto": "ocr",
-   "nota": null,
-   "prima_vista": "2026-11-13T14:39",
-   "iniziale": false,
-   "presente": false
   },
   {
    "id": "f1e64100fb67",
