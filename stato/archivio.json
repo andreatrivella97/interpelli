@@ -4950,6 +4950,60 @@
    "ultima_vista": "2026-11-23",
    "url": "https://icstarra.edu.it/sito-download-file/5889/all"
   },
+  "3949edb8add6": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
+   "chiave_titolo": "interpelloscuolaprimariasostegnoadeen111oredal25112026al30062027",
+   "chiavi_file": [
+    "interpelloprimariaspezzonesostegno3006"
+   ],
+   "fonti": [
+    "axios"
+   ],
+   "id": "3949edb8add6",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93527530153"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 25,
+     "prova": "ZA CONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO SOSTEGNO 1 11+1 ORE 25/11/2026 30/06/2027 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-23T13:17",
+   "provati": [
+    "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527530153&Folder=SC/Folders/Files&file=cce318f8-4e24-40b0-bc44-e650a7c70a50.pdf&faction=0000&SourceFileName=INTERPELLO_PRIMARIA_SPEZZONE_SOSTEGNO_30_06.pdf.pades.pdf"
+   ],
+   "pubblicato": "2026-11-23",
+   "regole": 1,
+   "scadenza": "2026-11-25T00:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "pogliano",
+   "tentativi": 1,
+   "titoli": [
+    "Interpello SCUOLA PRIMARIA SOSTEGNO ADEE n.11+1 ore, dal 25/11/2026 al 30/06/2027"
+   ],
+   "titolo": "Interpello SCUOLA PRIMARIA SOSTEGNO ADEE n.11+1 ore, dal 25/11/2026 al 30/06/2027",
+   "ultima_vista": "2026-11-23",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ"
+  },
   "39a0ce3f40ad": {
    "chiave_titolo": "interpellon1del03102024scuolaprimariapostocomuneesostegno",
    "chiavi_file": [],
@@ -14037,6 +14091,60 @@
    "ultima_vista": "2026-10-27",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0030/le40am0dk1"
   },
+  "a9ac19915902": {
+   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
+   "chiave_titolo": "postocomuneaaaa25oredal25112026al22122026postosostegnoadaa1230oredal25112026al30062026",
+   "chiavi_file": [
+    "interpellosupplenzescuolainfanzia"
+   ],
+   "fonti": [
+    "axios"
+   ],
+   "id": "a9ac19915902",
+   "iniziale": false,
+   "letti_da": [
+    "axios:93527530153"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "ONCORSO POSTI SETTIMANALI CONTRATTO CONTRATTO ADAA 1 12,30 25/11/2026 30/06/2027 AAAA 1 25,00 25/11/2026 22/12/2026 TITO",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-23T13:17",
+   "provati": [
+    "serviziweb.axioscloud.it/Handlers/SD_UploadDownloadHandler.aspx?CustomerID=93527530153&Folder=SC/Folders/Files&file=d4a0aa99-f838-41f2-903c-3d7601b1b10d.pdf&faction=0000&SourceFileName=INTERPELLO_SUPPLENZE_SCUOLA_INFANZIA.pdf.pades.pdf"
+   ],
+   "pubblicato": "2026-11-23",
+   "regole": 1,
+   "scadenza": "2026-11-25T00:00",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "scuola": "pogliano",
+   "tentativi": 1,
+   "titoli": [
+    "POSTO COMUNE AAAA 25 ORE DAL 25/11/2026 AL 22/12/2026 - POSTO SOSTEGNO ADAA 12,30 ORE DAL 25/11/2026 AL 30/06/2026"
+   ],
+   "titolo": "POSTO COMUNE AAAA 25 ORE DAL 25/11/2026 AL 22/12/2026 - POSTO SOSTEGNO ADAA 12,30 ORE DAL 25/11/2026 AL 30/06/2026",
+   "ultima_vista": "2026-11-23",
+   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDkgHCoAlQ"
+  },
   "a9f8a54b1cb0": {
    "chiave_titolo": "interpellon13del24012025scuolainfanziapostodisostegno",
    "chiavi_file": [],
@@ -21819,8 +21927,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "arluno": {
    "conteggi": {
@@ -21847,8 +21955,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "busto-bertacchi": {
    "conteggi": {
@@ -21861,8 +21969,8 @@
     "pagina:https://www.istitutobertacchi.edu.it/pagine/interpelli-per-supplenze--as-20262027": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "busto-bossi": {
    "conteggi": {
@@ -21873,8 +21981,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "busto-crespi": {
    "conteggi": {
@@ -21913,8 +22021,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "busto-pertini": {
    "conteggi": {
@@ -21927,8 +22035,8 @@
     "pagina:https://icpertinibusto.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "busto-tommaseo": {
    "conteggi": {
@@ -21939,8 +22047,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "bustogarolfo": {
    "conteggi": {
@@ -21951,8 +22059,8 @@
     "pagina:https://icstarra.edu.it/servizi/99-interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "canegrate": {
    "conteggi": {
@@ -21979,8 +22087,8 @@
     "pagina:https://istitutocomprensivocastellanza.edu.it/servizi/135-interpelli": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "cerro": {
    "conteggi": {
@@ -21993,8 +22101,8 @@
     "pagina:https://www.scuoledicerro.edu.it/pagine/interpelli-1": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "cuggiono": {
    "conteggi": {
@@ -22017,8 +22125,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "gerenzano": {
    "conteggi": {
@@ -22029,8 +22137,8 @@
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "gorlaminore": {
    "conteggi": {
@@ -22043,8 +22151,8 @@
     "pagina:https://comprensivoparini.edu.it/comunicati": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "lainate-cairoli": {
    "conteggi": {
@@ -22057,8 +22165,8 @@
     "pagina:https://icscairoli.edu.it/interpelli-nazionali/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "lainate-lamarmora": {
    "conteggi": {
@@ -22069,8 +22177,8 @@
     "axios:93528430155": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "legnano-bonvesin": {
    "conteggi": {
@@ -22111,8 +22219,8 @@
     "pagina:https://icsmanzonilegnano.edu.it/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "legnano-salici": {
    "conteggi": {
@@ -22139,8 +22247,8 @@
     "pagina:https://icadanegri.edu.it/servizi/274-interpelli-e-mad": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "marcallo": {
    "conteggi": {
@@ -22167,8 +22275,8 @@
     "pagina:https://www.consolemarcello.edu.it/argomento/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "olgiate": {
    "conteggi": {
@@ -22179,8 +22287,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "ossona": {
    "conteggi": {
@@ -22193,8 +22301,8 @@
     "pagina:https://www.icossona.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "pogliano": {
    "conteggi": {
@@ -22205,8 +22313,8 @@
     "axios:93527530153": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "rescaldina-alighieri": {
    "conteggi": {
@@ -22233,8 +22341,8 @@
     "pagina:https://www.manzonirescalda.edu.it/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "rho-annafrank": {
    "conteggi": {
@@ -22249,8 +22357,8 @@
     "pagina:https://www.icsannafrankrho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "da_controllare",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "rho-deandre": {
    "conteggi": {
@@ -22265,8 +22373,8 @@
     "pagina:https://www.icdeandrerho.edu.it/": "2026-10-03T00:06"
    },
    "stato": "da_controllare",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "rho-franceschini": {
    "conteggi": {
@@ -22279,8 +22387,8 @@
     "pagina:https://www.icsfranceschini.edu.it/interpelli/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "rho-grossi": {
    "conteggi": {
@@ -22293,8 +22401,8 @@
     "pagina:https://www.icgrossirho.edu.it/interpelli-ricerca-supplenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "sanvittore": {
    "conteggi": {
@@ -22321,8 +22429,8 @@
     "pagina:https://www.istitutocomprensivodavinci.edu.it/wp/graduatorie/interpelli/interpelli-a-s-2026-2027/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "saronno-militi": {
    "conteggi": {
@@ -22333,8 +22441,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "saronno-moro": {
    "conteggi": {
@@ -22345,8 +22453,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "solbiate": {
    "conteggi": {
@@ -22371,8 +22479,8 @@
     "albo:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T12:18",
-   "ultimo_ok": "2026-11-23T12:18"
+   "ultimo_controllo": "2026-11-23T13:17",
+   "ultimo_ok": "2026-11-23T13:17"
   },
   "villacortese": {
    "conteggi": {
