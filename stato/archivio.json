@@ -11183,7 +11183,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-21T11:17",
    "provati": [
     "icvillacortese.edu.it/wp-content/uploads/sites/1121/05-_ADEE_INTERPELLO_SOSTEGNO_PRIMARIA_.pdf.pades_.pdf"
@@ -21853,8 +21853,8 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-23T08:56",
-   "ultimo_ok": "2026-11-23T08:56"
+   "ultimo_controllo": "2026-11-23T09:57",
+   "ultimo_ok": "2026-11-23T09:57"
   },
   "busto-galilei": {
    "conteggi": {
@@ -21952,15 +21952,13 @@
    "conteggi": {
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": 1
    },
-   "errori": [
-    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
-   "stato": "errore",
-   "ultimo_controllo": "2026-11-23T09:36",
-   "ultimo_ok": "2026-11-23T08:36"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-23T09:57",
+   "ultimo_ok": "2026-11-23T09:57"
   },
   "fagnano": {
    "conteggi": {
@@ -22333,16 +22331,14 @@
     "axios:92034300159": 0,
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": 7
    },
-   "errori": [
-    "ReadTimeout da icvillacortese.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:92034300159": "2026-10-03T00:06",
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-23T09:36",
-   "ultimo_ok": "2026-11-23T08:36"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-23T09:57",
+   "ultimo_ok": "2026-11-23T09:57"
   }
  },
  "versione": 1
