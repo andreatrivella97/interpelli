@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-23T12:18",
+ "generato": "2026-11-23T12:38",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "legnano-salici",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "magnago",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T11:39",
-   "ultimo_controllo": "2026-11-23T11:39"
+   "ultimo_ok": "2026-11-23T12:38",
+   "ultimo_controllo": "2026-11-23T12:38"
   },
   {
    "id": "fagnano",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-04",
+     "fine_nota": null,
+     "inizio": "2026-11-25",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": "2026-11-25",
-     "fine": "2026-12-04",
-     "fine_nota": null,
-     "prova": "Interpello posto comune infanzia IC Bossi Busto Arsizio dal 25/11 al 04/12 2026"
+     "prova": "Interpello posto comune infanzia IC Bossi Busto Arsizio dal 25/11 al 04/12 2026",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
