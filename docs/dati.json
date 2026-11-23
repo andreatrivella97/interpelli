@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-23T09:17",
+ "generato": "2026-11-23T09:36",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -33,10 +33,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ReadTimeout da icvillacortese.edu.it"
+   ],
    "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "sanvittore",
@@ -60,8 +62,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "canegrate",
@@ -84,8 +86,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +157,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +181,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "legnano-salici",
@@ -203,8 +205,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "cerro",
@@ -275,8 +277,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "magnago",
@@ -338,10 +340,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "errore",
+   "errori": [
+    "ReadTimeout da istitutocomprensivocuggiono.edu.it"
+   ],
    "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "marcallo",
@@ -365,8 +369,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "ossona",
@@ -414,8 +418,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "bareggio",
@@ -695,8 +699,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +887,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T08:36",
-   "ultimo_controllo": "2026-11-23T08:36"
+   "ultimo_ok": "2026-11-23T09:36",
+   "ultimo_controllo": "2026-11-23T09:36"
   },
   {
    "id": "fagnano",
