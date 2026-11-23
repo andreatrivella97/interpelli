@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-23T10:37",
+ "generato": "2026-11-23T10:57",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T09:57",
-   "ultimo_controllo": "2026-11-23T09:57"
+   "ultimo_ok": "2026-11-23T10:57",
+   "ultimo_controllo": "2026-11-23T10:57"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T09:57",
-   "ultimo_controllo": "2026-11-23T09:57"
+   "ultimo_ok": "2026-11-23T10:57",
+   "ultimo_controllo": "2026-11-23T10:57"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-23T09:57",
-   "ultimo_controllo": "2026-11-23T09:57"
+   "ultimo_ok": "2026-11-23T10:57",
+   "ultimo_controllo": "2026-11-23T10:57"
   },
   {
    "id": "busto-galilei",
