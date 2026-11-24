@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T12:29",
+ "generato": "2026-11-24T12:50",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T11:49",
-   "ultimo_controllo": "2026-11-24T11:49"
+   "ultimo_ok": "2026-11-24T12:50",
+   "ultimo_controllo": "2026-11-24T12:50"
   },
   {
    "id": "legnano-salici",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T11:49",
-   "ultimo_controllo": "2026-11-24T11:49"
+   "ultimo_ok": "2026-11-24T12:50",
+   "ultimo_controllo": "2026-11-24T12:50"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T11:49",
-   "ultimo_controllo": "2026-11-24T11:49"
+   "ultimo_ok": "2026-11-24T12:50",
+   "ultimo_controllo": "2026-11-24T12:50"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T11:49",
-   "ultimo_controllo": "2026-11-24T11:49"
+   "ultimo_ok": "2026-11-24T12:50",
+   "ultimo_controllo": "2026-11-24T12:50"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T11:49",
-   "ultimo_controllo": "2026-11-24T11:49"
+   "ultimo_ok": "2026-11-24T12:50",
+   "ultimo_controllo": "2026-11-24T12:50"
   },
   {
    "id": "fagnano",
@@ -1156,28 +1156,28 @@
    ],
    "posti": [
     {
-     "ordini": [
-      "infanzia"
-     ],
-     "tipo": "comune",
-     "ore": null,
-     "intero": false,
-     "inizio": null,
      "fine": "2026-11-25",
      "fine_nota": null,
-     "prova": "terpello supplenza breve scuola dell'infanzia posto comune - IC Bossi 25/11/26 - 27/04/2027"
-    },
-    {
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "comune",
      "ore": null,
-     "intero": false,
-     "inizio": null,
+     "prova": "terpello supplenza breve scuola dell'infanzia posto comune - IC Bossi 25/11/26 - 27/04/2027",
+     "tipo": "comune"
+    },
+    {
      "fine": "2027-04-27",
      "fine_nota": null,
-     "prova": "pplenza breve scuola dell'infanzia posto comune - IC Bossi 25/11/26 - 27/04/2027"
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "pplenza breve scuola dell'infanzia posto comune - IC Bossi 25/11/26 - 27/04/2027",
+     "tipo": "comune"
     }
    ],
    "letto": "non_leggibile",
