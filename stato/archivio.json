@@ -11439,7 +11439,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-23T15:04",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_23-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_11-02-2027_-.pdf"
@@ -19738,7 +19738,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-23T15:04",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_23-10-2026_supplenza_as_26-27_N._5_POSTI_SOST._PRIMARIA_fino_al_30-06-27_-.pd_.pdf"
@@ -21556,7 +21556,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-11-12T17:29",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_12-11-2026_supplenza_as_26-27_N._1_POSTI_SOST._PRIMARIA_fino_al_30-06-27.pdf.-1.pdf"
@@ -21995,8 +21995,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T03:45",
-   "ultimo_ok": "2026-11-24T03:45"
+   "ultimo_controllo": "2026-11-24T04:48",
+   "ultimo_ok": "2026-11-24T04:48"
   },
   "bareggio": {
    "conteggi": {
@@ -22049,8 +22049,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T03:45",
-   "ultimo_ok": "2026-11-24T03:45"
+   "ultimo_controllo": "2026-11-24T04:48",
+   "ultimo_ok": "2026-11-24T04:48"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22253,14 +22253,16 @@
     "axios:84005530153": 2,
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": 3
    },
-   "errori": [],
+   "errori": [
+    "la pagina non elenca piu' avvisi: forse e' cambiata"
+   ],
    "fonti_viste": {
     "axios:84005530153": "2026-10-03T00:06",
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": "2026-10-03T00:06"
    },
-   "stato": "ok",
-   "ultimo_controllo": "2026-11-24T03:45",
-   "ultimo_ok": "2026-11-24T03:45"
+   "stato": "da_controllare",
+   "ultimo_controllo": "2026-11-24T04:48",
+   "ultimo_ok": "2026-11-24T04:48"
   },
   "legnano-manzoni": {
    "conteggi": {
@@ -22315,8 +22317,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T03:45",
-   "ultimo_ok": "2026-11-24T03:45"
+   "ultimo_controllo": "2026-11-24T04:48",
+   "ultimo_ok": "2026-11-24T04:48"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -22521,8 +22523,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T03:45",
-   "ultimo_ok": "2026-11-24T03:45"
+   "ultimo_controllo": "2026-11-24T04:48",
+   "ultimo_ok": "2026-11-24T04:48"
   },
   "uboldo": {
    "conteggi": {

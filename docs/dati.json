@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T04:26",
+ "generato": "2026-11-24T04:48",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -177,10 +177,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
-   "ultimo_ok": "2026-11-24T03:45",
-   "ultimo_controllo": "2026-11-24T03:45"
+   "stato": "da_controllare",
+   "errori": [
+    "la pagina non elenca piu' avvisi: forse e' cambiata"
+   ],
+   "ultimo_ok": "2026-11-24T04:48",
+   "ultimo_controllo": "2026-11-24T04:48"
   },
   {
    "id": "legnano-salici",
@@ -365,8 +367,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T03:45",
-   "ultimo_controllo": "2026-11-24T03:45"
+   "ultimo_ok": "2026-11-24T04:48",
+   "ultimo_controllo": "2026-11-24T04:48"
   },
   {
    "id": "ossona",
@@ -414,8 +416,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T03:45",
-   "ultimo_controllo": "2026-11-24T03:45"
+   "ultimo_ok": "2026-11-24T04:48",
+   "ultimo_controllo": "2026-11-24T04:48"
   },
   {
    "id": "bareggio",
@@ -695,8 +697,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T03:45",
-   "ultimo_controllo": "2026-11-24T03:45"
+   "ultimo_ok": "2026-11-24T04:48",
+   "ultimo_controllo": "2026-11-24T04:48"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +885,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T03:45",
-   "ultimo_controllo": "2026-11-24T03:45"
+   "ultimo_ok": "2026-11-24T04:48",
+   "ultimo_controllo": "2026-11-24T04:48"
   },
   {
    "id": "fagnano",
