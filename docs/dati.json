@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T10:49",
+ "generato": "2026-11-24T11:09",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T10:08",
-   "ultimo_controllo": "2026-11-24T10:08"
+   "ultimo_ok": "2026-11-24T11:09",
+   "ultimo_controllo": "2026-11-24T11:09"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T10:08",
-   "ultimo_controllo": "2026-11-24T10:08"
+   "ultimo_ok": "2026-11-24T11:09",
+   "ultimo_controllo": "2026-11-24T11:09"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T10:08",
-   "ultimo_controllo": "2026-11-24T10:08"
+   "ultimo_ok": "2026-11-24T11:09",
+   "ultimo_controllo": "2026-11-24T11:09"
   },
   {
    "id": "busto-galilei",
@@ -1895,46 +1895,6 @@
    "prima_vista": "2026-11-16T11:29",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "b98f666e6dc5",
-   "scuola": "rho-franceschini",
-   "titolo": "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA PRIMARIA POSTO DI SOSTEGNO (ADAA)",
-   "url": "https://www.icsfranceschini.edu.it/public/files/2026-2027/Interpelli/interpello-ADAA-16-11-2026.pdf.pades%20(1).pdf",
-   "pagina": "https://www.icsfranceschini.edu.it/interpelli/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-16",
-   "scadenza": "2026-11-17T11:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 11.00 del 17/11/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "infanzia",
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-27",
-     "fine_nota": null,
-     "inizio": "2026-11-18",
-     "intero": false,
-     "ordini": [
-      "infanzia"
-     ],
-     "ore": 25,
-     "prova": "1 POSTI DI SOSTEGNO SCUOLA INFANZIA (ADAA) Durata: dal 18/11/2026 al 27/11/2026 n. ore settimanali: 25H ICS EZIO FRANCESCHINI C.F. 93546600151",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-16T11:29",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "09811e8bd7ca",
