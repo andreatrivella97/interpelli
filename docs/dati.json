@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T12:50",
+ "generato": "2026-11-24T13:10",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T12:10",
-   "ultimo_controllo": "2026-11-24T12:10"
+   "ultimo_ok": "2026-11-24T13:10",
+   "ultimo_controllo": "2026-11-24T13:10"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T12:10",
-   "ultimo_controllo": "2026-11-24T12:10"
+   "ultimo_ok": "2026-11-24T13:10",
+   "ultimo_controllo": "2026-11-24T13:10"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T12:10",
-   "ultimo_controllo": "2026-11-24T12:10"
+   "ultimo_ok": "2026-11-24T13:10",
+   "ultimo_controllo": "2026-11-24T13:10"
   },
   {
    "id": "busto-galilei",
@@ -1868,45 +1868,6 @@
    "prima_vista": "2026-11-16T12:31",
    "iniziale": false,
    "presente": true
-  },
-  {
-   "id": "757e1e25c3be",
-   "scuola": "legnano-carducci",
-   "titolo": "INTERPELLO DOCENTE SCUOLA PRIMARIA POSTO COMUNE SUPPLENZA BREVE DAL 18/11/2026 AL 27/02/2027",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w43CtsOrw4XFuBbDkgHCoAlQ",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-16",
-   "scadenza": "2026-11-17T13:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-02-27",
-     "fine_nota": null,
-     "inizio": "2026-11-18",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "OCENTE SCUOLA PRIMARIA POSTO COMUNE SUPPLENZA BREVE DAL 18/11/2026 AL 27/02/2027",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "titolo",
-   "nota": null,
-   "prima_vista": "2026-11-16T13:31",
-   "iniziale": false,
-   "presente": false
   },
   {
    "id": "8ac51fe2046f",
