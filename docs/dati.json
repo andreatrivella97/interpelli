@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T09:48",
+ "generato": "2026-11-24T10:08",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T09:08",
-   "ultimo_controllo": "2026-11-24T09:08"
+   "ultimo_ok": "2026-11-24T10:08",
+   "ultimo_controllo": "2026-11-24T10:08"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T09:08",
-   "ultimo_controllo": "2026-11-24T09:08"
+   "ultimo_ok": "2026-11-24T10:08",
+   "ultimo_controllo": "2026-11-24T10:08"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T09:08",
-   "ultimo_controllo": "2026-11-24T09:08"
+   "ultimo_ok": "2026-11-24T10:08",
+   "ultimo_controllo": "2026-11-24T10:08"
   },
   {
    "id": "busto-galilei",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": null,
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": null,
-     "fine_nota": null,
-     "prova": "Clicca per vedere il documento"
+     "prova": "Clicca per vedere il documento",
+     "tipo": null
     }
    ],
    "letto": "pagina",
@@ -1893,45 +1893,6 @@
      "ore": 25,
      "prova": "1 POSTI DI SOSTEGNO SCUOLA INFANZIA (ADAA) Durata: dal 18/11/2026 al 27/11/2026 n. ore settimanali: 25H ICS EZIO FRANCESCHINI C.F. 93546600151",
      "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-16T11:29",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "f1027bd8f8c9",
-   "scuola": "rho-franceschini",
-   "titolo": "AVVISO PER SELEZIONE PERSONALE DOCENTE SUPPLENTE SCUOLA PRIMARIA POSTO COMUNE (EEEE)",
-   "url": "https://www.icsfranceschini.edu.it/public/files/2026-2027/Interpelli/interpello-EEEE-DEL_16.11.2026.pdf.pades(1).pdf",
-   "pagina": "https://www.icsfranceschini.edu.it/interpelli/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-16",
-   "scadenza": "2026-11-17T10:00",
-   "scadenza_certa": null,
-   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 10.00 del 17/11/2026 la propria disponibilità al c",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-11-17",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "EEE): 1 POSTO COMUNE SCUOLA PRIMARIA (EEEE) Durata: dal 17/11/2026 AL 30/06/2027 n. ore settimanali: 24 ICS EZIO FRANCESCHINI C.F. 93546600151",
-     "tipo": "comune"
     }
    ],
    "letto": "testo",
