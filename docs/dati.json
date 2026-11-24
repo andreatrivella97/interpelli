@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T15:52",
+ "generato": "2026-11-24T16:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T15:11",
-   "ultimo_controllo": "2026-11-24T15:11"
+   "ultimo_ok": "2026-11-24T16:11",
+   "ultimo_controllo": "2026-11-24T16:11"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T15:11",
-   "ultimo_controllo": "2026-11-24T15:11"
+   "ultimo_ok": "2026-11-24T16:11",
+   "ultimo_controllo": "2026-11-24T16:11"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T15:11",
-   "ultimo_controllo": "2026-11-24T15:11"
+   "ultimo_ok": "2026-11-24T16:11",
+   "ultimo_controllo": "2026-11-24T16:11"
   },
   {
    "id": "busto-galilei",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": 25,
-     "intero": false,
-     "inizio": "2026-11-27",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADAA - h. 25 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA DELL'INFANZIA"
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADAA - h. 25 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA DELL'INFANZIA",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1235,16 +1235,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-27",
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del"
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
