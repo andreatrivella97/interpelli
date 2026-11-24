@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T14:51",
+ "generato": "2026-11-24T15:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:10",
-   "ultimo_controllo": "2026-11-24T14:10"
+   "ultimo_ok": "2026-11-24T15:11",
+   "ultimo_controllo": "2026-11-24T15:11"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:10",
-   "ultimo_controllo": "2026-11-24T14:10"
+   "ultimo_ok": "2026-11-24T15:11",
+   "ultimo_controllo": "2026-11-24T15:11"
   },
   {
    "id": "marcallo",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:10",
-   "ultimo_controllo": "2026-11-24T14:10"
+   "ultimo_ok": "2026-11-24T15:11",
+   "ultimo_controllo": "2026-11-24T15:11"
   },
   {
    "id": "busto-galilei",
@@ -1157,16 +1157,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "infanzia"
      ],
-     "tipo": "sostegno",
      "ore": null,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "Scadenza concorso settimanali contratto ADAA (posto 1 12.5 26/11/2026 30/06/2027 sostegno scuola INFANZIA) Sede/i di ser"
+     "prova": "Scadenza concorso settimanali contratto ADAA (posto 1 12.5 26/11/2026 30/06/2027 sostegno scuola INFANZIA) Sede/i di ser",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
