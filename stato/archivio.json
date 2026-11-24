@@ -13061,6 +13061,54 @@
    "ultima_vista": "2026-10-06",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/VAME0026/s0d4e1pa57"
   },
+  "9bfe6287971f": {
+   "chiave_titolo": "cliccapervedereildocumento",
+   "chiavi_file": [],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "9bfe6287971f",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show"
+   ],
+   "letto": "pagina",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": null,
+     "prova": "Clicca per vedere il documento",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-24T09:48",
+   "provati": [
+    "nuvola.madisoft.it/bacheca-digitale/3884/documento/VAIC84600P"
+   ],
+   "pubblicato": "2026-11-24",
+   "regole": 1,
+   "scuola": "solbiate",
+   "tentativi": 1,
+   "titoli": [
+    "Clicca per vedere il documento"
+   ],
+   "titolo": "Clicca per vedere il documento",
+   "ultima_vista": "2026-11-24",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/3884/documento/VAIC84600P"
+  },
   "9c240c2e2f95": {
    "chiave_titolo": "primariasostegnofinoal01102025",
    "chiavi_file": [
@@ -21995,8 +22043,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T08:48",
-   "ultimo_ok": "2026-11-24T08:48"
+   "ultimo_controllo": "2026-11-24T09:48",
+   "ultimo_ok": "2026-11-24T09:48"
   },
   "bareggio": {
    "conteggi": {
@@ -22049,8 +22097,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T08:48",
-   "ultimo_ok": "2026-11-24T08:48"
+   "ultimo_controllo": "2026-11-24T09:48",
+   "ultimo_ok": "2026-11-24T09:48"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22259,8 +22307,8 @@
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T08:48",
-   "ultimo_ok": "2026-11-24T08:48"
+   "ultimo_controllo": "2026-11-24T09:48",
+   "ultimo_ok": "2026-11-24T09:48"
   },
   "legnano-manzoni": {
    "conteggi": {
@@ -22315,8 +22363,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T08:48",
-   "ultimo_ok": "2026-11-24T08:48"
+   "ultimo_controllo": "2026-11-24T09:48",
+   "ultimo_ok": "2026-11-24T09:48"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -22521,8 +22569,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T08:48",
-   "ultimo_ok": "2026-11-24T08:48"
+   "ultimo_controllo": "2026-11-24T09:48",
+   "ultimo_ok": "2026-11-24T09:48"
   },
   "uboldo": {
    "conteggi": {
