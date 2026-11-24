@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T14:31",
+ "generato": "2026-11-24T14:51",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,12 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-11-24T13:30",
-   "ultimo_controllo": "2026-11-24T14:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "canegrate",
@@ -84,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-24T13:30",
-   "ultimo_controllo": "2026-11-24T14:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "bustogarolfo",
@@ -157,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-24T13:30",
-   "ultimo_controllo": "2026-11-24T14:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "legnano-carducci",
@@ -185,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T13:50",
-   "ultimo_controllo": "2026-11-24T13:50"
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "legnano-salici",
@@ -207,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-24T13:30",
-   "ultimo_controllo": "2026-11-24T14:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "cerro",
@@ -281,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-24T13:30",
-   "ultimo_controllo": "2026-11-24T14:31"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "magnago",
@@ -375,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T13:50",
-   "ultimo_controllo": "2026-11-24T13:50"
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "ossona",
@@ -424,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T13:50",
-   "ultimo_controllo": "2026-11-24T13:50"
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "bareggio",
@@ -705,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T13:50",
-   "ultimo_controllo": "2026-11-24T13:50"
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "busto-deamicis",
@@ -893,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T13:50",
-   "ultimo_controllo": "2026-11-24T13:50"
+   "ultimo_ok": "2026-11-24T14:51",
+   "ultimo_controllo": "2026-11-24T14:51"
   },
   {
    "id": "fagnano",
@@ -1142,6 +1132,46 @@
    "letto": "pagina",
    "nota": null,
    "prima_vista": "2026-11-24T09:48",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "a24a469e0487",
+   "scuola": "legnano-salici",
+   "titolo": "INTERPELLO ADAA SOSTEGNO PRIMARIA",
+   "url": "https://www.icsviadeisalici.edu.it/uploads/files/INTERPELLO_24-11-2026.pdf",
+   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-11-24",
+   "scadenza": "2026-11-25T23:59",
+   "scadenza_certa": true,
+   "scadenza_prova": "termine indicato nell'elenco della scuola",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia",
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "Scadenza concorso settimanali contratto ADAA (posto 1 12.5 26/11/2026 30/06/2027 sostegno scuola INFANZIA) Sede/i di ser"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-24T14:51",
    "iniziale": false,
    "presente": true
   },
@@ -1686,7 +1716,7 @@
    "scadenza": "2026-11-18T13:00",
    "scadenza_certa": true,
    "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
+   "chiuso": "Chiuso",
    "personale": "docente",
    "ordini": [
     "primaria"
