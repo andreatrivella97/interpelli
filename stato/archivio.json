@@ -13014,6 +13014,58 @@
    "ultima_vista": "2026-11-05",
    "url": "https://web.spaggiari.eu/sdg2/Documenti/MILS0037/6ic7n5739p"
   },
+  "9ba65f1c4c16": {
+   "chiave_titolo": "interpellon7scuolainfanziaadaa",
+   "chiavi_file": [
+    "270584944cab4b3889c216b53589b043"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "9ba65f1c4c16",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "infanzia"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
+     "ordini": [
+      "infanzia"
+     ],
+     "ore": 25,
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADAA - h. 25 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA DELL'INFANZIA",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-24T15:52",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/27058494-4cab-4b38-89c2-16b53589b043"
+   ],
+   "pubblicato": "2026-11-24",
+   "regole": 1,
+   "scadenza": "2026-11-26T12:00",
+   "scadenza_prova": "nk: https://forms.gle/iQEnLPnSrzbsG5a46 entro le ore 12:00 del giorno 26 novembre 2026 utilizzando tassativamente il",
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 7 scuola infanzia ADAA"
+   ],
+   "titolo": "INTERPELLO N. 7 scuola infanzia ADAA",
+   "ultima_vista": "2026-11-24",
+   "url": "https://www.icscanegrate.edu.it/assets/files/27058494-4cab-4b38-89c2-16b53589b043/"
+  },
   "9bd74adecd7e": {
    "chiave_titolo": "interpellon4n1posteeeepostocomuneprimaria24oreal3006",
    "chiavi_file": [],
@@ -15103,6 +15155,56 @@
    "titolo": "INTERPELLO INFANZIA 23.9 (1)",
    "ultima_vista": "2026-11-24",
    "url": "https://icspellico.edu.it/wp-content/uploads/sites/798/INTERPELLO_INFANZIA_23.9.pdf.pades-1.pdf?x96473"
+  },
+  "aef9b67957e6": {
+   "chiave_titolo": "interpellon6scuolaprimariaadee",
+   "chiavi_file": [
+    "069f9a413e27452982de1588c1ba332c"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "aef9b67957e6",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del",
+     "tipo": "sostegno"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-24T15:52",
+   "provati": [
+    "icscanegrate.edu.it/assets/files/069f9a41-3e27-4529-82de-1588c1ba332c"
+   ],
+   "pubblicato": "2026-11-24",
+   "regole": 1,
+   "scuola": "canegrate",
+   "tentativi": 1,
+   "titoli": [
+    "INTERPELLO N. 6 scuola primaria ADEE"
+   ],
+   "titolo": "INTERPELLO N. 6 scuola primaria ADEE",
+   "ultima_vista": "2026-11-24",
+   "url": "https://www.icscanegrate.edu.it/assets/files/069f9a41-3e27-4529-82de-1588c1ba332c/"
   },
   "af1921f86f47": {
    "chiave_titolo": "interpellosupplenzabrevescuoladellinfanziapostocomuneicbossi25112627042027",
@@ -22201,8 +22303,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "bareggio": {
    "conteggi": {
@@ -22255,8 +22357,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22325,7 +22427,7 @@
   "canegrate": {
    "conteggi": {
     "axios:84004750158": 0,
-    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 5
+    "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": 7
    },
    "errori": [],
    "fonti_viste": {
@@ -22333,8 +22435,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "castellanza": {
    "conteggi": {
@@ -22451,8 +22553,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -22465,8 +22567,8 @@
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "legnano-manzoni": {
    "conteggi": {
@@ -22493,8 +22595,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "magnago": {
    "conteggi": {
@@ -22521,8 +22623,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -22587,8 +22689,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -22675,8 +22777,8 @@
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "saronno-davinci": {
    "conteggi": {
@@ -22727,8 +22829,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-24T14:51",
-   "ultimo_ok": "2026-11-24T14:51"
+   "ultimo_controllo": "2026-11-24T15:52",
+   "ultimo_ok": "2026-11-24T15:52"
   },
   "uboldo": {
    "conteggi": {

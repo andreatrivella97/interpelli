@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-24T15:31",
+ "generato": "2026-11-24T15:52",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "legnano-salici",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "magnago",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "ossona",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "bareggio",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "busto-deamicis",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-24T14:51",
-   "ultimo_controllo": "2026-11-24T14:51"
+   "ultimo_ok": "2026-11-24T15:52",
+   "ultimo_controllo": "2026-11-24T15:52"
   },
   {
    "id": "fagnano",
@@ -1097,6 +1097,45 @@
    "presente": false
   },
   {
+   "id": "9ba65f1c4c16",
+   "scuola": "canegrate",
+   "titolo": "INTERPELLO N. 7 scuola infanzia ADAA",
+   "url": "https://www.icscanegrate.edu.it/assets/files/27058494-4cab-4b38-89c2-16b53589b043/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-11-24",
+   "scadenza": "2026-11-26T12:00",
+   "scadenza_certa": null,
+   "scadenza_prova": "nk: https://forms.gle/iQEnLPnSrzbsG5a46 entro le ore 12:00 del giorno 26 novembre 2026 utilizzando tassativamente il",
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "infanzia"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "infanzia"
+     ],
+     "tipo": "sostegno",
+     "ore": 25,
+     "intero": false,
+     "inizio": "2026-11-27",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADAA - h. 25 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA DELL'INFANZIA"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-24T15:52",
+   "iniziale": false,
+   "presente": true
+  },
+  {
    "id": "9bfe6287971f",
    "scuola": "solbiate",
    "titolo": "Clicca per vedere il documento",
@@ -1172,6 +1211,45 @@
    "letto": "testo",
    "nota": null,
    "prima_vista": "2026-11-24T14:51",
+   "iniziale": false,
+   "presente": true
+  },
+  {
+   "id": "aef9b67957e6",
+   "scuola": "canegrate",
+   "titolo": "INTERPELLO N. 6 scuola primaria ADEE",
+   "url": "https://www.icscanegrate.edu.it/assets/files/069f9a41-3e27-4529-82de-1588c1ba332c/",
+   "pagina": "https://www.icscanegrate.edu.it/servizio/interpelli-2/",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-11-24",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": "sostegno",
+     "ore": 24,
+     "intero": false,
+     "inizio": "2026-11-27",
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "prova": "imento delle se- guenti supplenze: N. 1 posti di SOSTEGNO - ADEE - h. 24 ore settimanali dal 27 novembre 2026 fino al termine delle attività didattiche 30/06/2027 presso MIIEE844017 SCUOLA PRIMARIA\" del"
+    }
+   ],
+   "letto": "testo",
+   "nota": null,
+   "prima_vista": "2026-11-24T15:52",
    "iniziale": false,
    "presente": true
   },
