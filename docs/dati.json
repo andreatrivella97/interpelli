@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-25T12:41",
+ "generato": "2026-11-25T13:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T12:01",
-   "ultimo_controllo": "2026-11-25T12:01"
+   "ultimo_ok": "2026-11-25T13:01",
+   "ultimo_controllo": "2026-11-25T13:01"
   },
   {
    "id": "legnano-salici",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T12:01",
-   "ultimo_controllo": "2026-11-25T12:01"
+   "ultimo_ok": "2026-11-25T13:01",
+   "ultimo_controllo": "2026-11-25T13:01"
   },
   {
    "id": "bareggio",
@@ -1234,16 +1234,16 @@
    ],
    "posti": [
     {
+     "fine": "2027-06-30",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "sostegno",
      "ore": 12,
-     "intero": false,
-     "inizio": null,
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "prova": "istituto per gli insegnamenti: n. 1 posto di sostegno scuola primaria 12 ore settimanali al 30.06.2027; Questa Istituzione scolastica, ai sens"
+     "prova": "istituto per gli insegnamenti: n. 1 posto di sostegno scuola primaria 12 ore settimanali al 30.06.2027; Questa Istituzione scolastica, ai sens",
+     "tipo": "sostegno"
     }
    ],
    "letto": "testo",
@@ -1933,57 +1933,6 @@
    "letto": "ocr",
    "nota": null,
    "prima_vista": "2026-11-18T14:21",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "2ca75da2cc4b",
-   "scuola": "legnano-salici",
-   "titolo": "INTERPELLO ADEE SOSTEGNO PRIMARIA E EEEE POSTRO COMUNE PRIMARIA",
-   "url": "https://www.icsviadeisalici.edu.it/uploads/files/INTERPELLO_17_NOVEMBRE_2026.pdf",
-   "pagina": "https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-17",
-   "scadenza": "2026-11-18T13:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": "Chiuso",
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-28",
-     "fine_nota": null,
-     "inizio": "2026-11-19",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "contratto EEEE (posto 1 24 19/11/2026 28/11/2026 sostegno scuola primaria) ADEE (sostegno 2 24 19/",
-     "tipo": "sostegno"
-    },
-    {
-     "fine": "2027-06-30",
-     "fine_nota": null,
-     "inizio": "2026-11-19",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "primaria) ADEE (sostegno 2 24 19/11/2026 30/06/2027 scuola primaria) Sede/i di servizio: Scuola prima",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-17T13:10",
    "iniziale": false,
    "presente": true
   },
