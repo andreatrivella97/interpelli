@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-25T11:40",
+ "generato": "2026-11-25T12:01",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T11:00",
-   "ultimo_controllo": "2026-11-25T11:00"
+   "ultimo_ok": "2026-11-25T12:01",
+   "ultimo_controllo": "2026-11-25T12:01"
   },
   {
    "id": "legnano-salici",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T11:00",
-   "ultimo_controllo": "2026-11-25T11:00"
+   "ultimo_ok": "2026-11-25T12:01",
+   "ultimo_controllo": "2026-11-25T12:01"
   },
   {
    "id": "bareggio",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-14",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-27",
-     "fine": "2026-12-14",
-     "fine_nota": null,
-     "prova": "a di inizio della supplenza 27/11/2026 Durata della supplenza fino al 14/12/2026 Orario complessivo settimanale 24h Sede di servizio Via Sartirana n. 3 Ti"
+     "prova": "a di inizio della supplenza 27/11/2026 Durata della supplenza fino al 14/12/2026 Orario complessivo settimanale 24h Sede di servizio Via Sartirana n. 3 Ti",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1156,16 +1156,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-14",
+     "fine_nota": null,
+     "inizio": "2026-11-27",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-27",
-     "fine": "2026-12-14",
-     "fine_nota": null,
-     "prova": "a di inizio della supplenza 27/11/2026 Durata della supplenza fino al 14/12/2026 Orario complessivo settimanale 24h Sede di servizio Via Sartirana n. 3 Ti"
+     "prova": "a di inizio della supplenza 27/11/2026 Durata della supplenza fino al 14/12/2026 Orario complessivo settimanale 24h Sede di servizio Via Sartirana n. 3 Ti",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1947,84 +1947,6 @@
    "prima_vista": "2026-11-17T13:10",
    "iniziale": false,
    "presente": true
-  },
-  {
-   "id": "64eef29a3763",
-   "scuola": "rho-annafrank",
-   "titolo": "Interpello_N.16_Primaria_sostegno_UDITO_fino_al_10_12",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4HFkxXDkgHCoAlb",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-17",
-   "scadenza": "2026-11-18T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-12-10",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": null,
-     "prova": "il conferimento di supplenze per: - n.1 CATTEDRE SU SOSTEGNO fino al 10/12/2026 ISTITUTO COMPRENSIVO A. FRANK - C.F. 93",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-17T15:10",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "d88b3a039e59",
-   "scuola": "ossona",
-   "titolo": "Interpello n. 11 per supplenza breve posto comune primaria",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOrw4TigJkbw5MBwqAJVw%3D%3D",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-17",
-   "scadenza": "2026-11-18T12:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-25",
-     "fine_nota": null,
-     "inizio": "2026-11-19",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "contratto EEEE posto Scuola primaria 1 24 19/11/2026 25/11/2026 comune dell'ICS Duca D'Aosta La candidatura dovrà",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-17T13:10",
-   "iniziale": false,
-   "presente": false
   },
   {
    "id": "dca13b642021",
