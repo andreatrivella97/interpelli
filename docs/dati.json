@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-25T23:47",
+ "generato": "2026-11-26T00:07",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T23:06",
-   "ultimo_controllo": "2026-11-25T23:06"
+   "ultimo_ok": "2026-11-26T00:07",
+   "ultimo_controllo": "2026-11-26T00:07"
   },
   {
    "id": "legnano-salici",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-25T23:06",
-   "ultimo_controllo": "2026-11-25T23:06"
+   "ultimo_ok": "2026-11-26T00:07",
+   "ultimo_controllo": "2026-11-26T00:07"
   },
   {
    "id": "bareggio",
@@ -2101,45 +2101,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-11-13T13:39",
-   "iniziale": false,
-   "presente": true
-  },
-  {
-   "id": "3ca2013f674b",
-   "scuola": "arconate",
-   "titolo": "Interpello posto sostegno 24 ore scuola primaria fino al termine delle attività didattiche dal 13/11/2026 al 30/09/2027",
-   "url": "https://web.spaggiari.eu/sdg2/Documenti/MILS0037/pnbrsr1tig",
-   "pagina": "https://www.omnicomprensivoeuropeo.edu.it/albo-online",
-   "candidatura": null,
-   "fonti": [
-    "albo"
-   ],
-   "pubblicato": "2026-11-11",
-   "scadenza": null,
-   "scadenza_certa": null,
-   "scadenza_prova": null,
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-09-30",
-     "fine_nota": null,
-     "inizio": "2026-11-13",
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "Interpello posto sostegno 24 ore scuola primaria fino al termine delle attività didattiche dal 13/11/2026 al 30/09/2027",
-     "tipo": "sostegno"
-    }
-   ],
-   "letto": "non_leggibile",
-   "nota": "allegato su un portale che non consente la lettura automatica",
-   "prima_vista": "2026-11-11T10:52",
    "iniziale": false,
    "presente": true
   },
