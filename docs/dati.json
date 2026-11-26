@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T11:53",
+ "generato": "2026-11-26T12:12",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -82,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-26T10:32",
-   "ultimo_controllo": "2026-11-26T11:53"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "bustogarolfo",
@@ -155,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-26T10:32",
-   "ultimo_controllo": "2026-11-26T11:53"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "legnano-carducci",
@@ -183,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T11:14",
-   "ultimo_controllo": "2026-11-26T11:14"
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "legnano-salici",
@@ -205,12 +201,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-26T10:32",
-   "ultimo_controllo": "2026-11-26T11:53"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "cerro",
@@ -279,12 +273,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectionError da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-26T10:32",
-   "ultimo_controllo": "2026-11-26T11:53"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "magnago",
@@ -422,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T11:14",
-   "ultimo_controllo": "2026-11-26T11:14"
+   "ultimo_ok": "2026-11-26T12:12",
+   "ultimo_controllo": "2026-11-26T12:12"
   },
   {
    "id": "bareggio",
