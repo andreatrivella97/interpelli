@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T15:54",
+ "generato": "2026-11-26T16:14",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +179,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "legnano-salici",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "magnago",
@@ -414,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T15:14",
-   "ultimo_controllo": "2026-11-26T15:14"
+   "ultimo_ok": "2026-11-26T16:14",
+   "ultimo_controllo": "2026-11-26T16:14"
   },
   {
    "id": "bareggio",
@@ -1945,45 +1945,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-11-19T08:30",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "6fd331adbfe1",
-   "scuola": "arluno",
-   "titolo": "INTERPELLO AM12",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-18",
-   "scadenza": "2026-11-19T16:00",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "secondaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-30",
-     "fine_nota": null,
-     "inizio": "2026-11-20",
-     "intero": false,
-     "ordini": [
-      "secondaria"
-     ],
-     "ore": 18,
-     "prova": "ento delle seguenti supplenze: - N. 1 POSTO CLASSE DI CONCORSO AM12 - 18 ORE SETTIMANALI - DAL 20/11/2026 AL 30/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
-     "tipo": null
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-18T17:02",
    "iniziale": false,
    "presente": false
   },
