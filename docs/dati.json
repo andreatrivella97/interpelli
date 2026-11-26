@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T13:13",
+ "generato": "2026-11-26T13:33",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "ossona",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "busto-deamicis",
@@ -719,8 +719,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "busto-galilei",
@@ -883,8 +883,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T12:33",
-   "ultimo_controllo": "2026-11-26T12:33"
+   "ultimo_ok": "2026-11-26T13:33",
+   "ultimo_controllo": "2026-11-26T13:33"
   },
   {
    "id": "fagnano",
@@ -1117,16 +1117,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-03",
+     "fine_nota": null,
+     "inizio": "2026-11-30",
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": "2026-11-30",
-     "fine": "2026-12-03",
-     "fine_nota": null,
-     "prova": "Interpello per supplenza breve ore 24 dal 30 novembre 2026 fino al 03 dicembre 2026 posto COMUNE scuola primaria"
+     "prova": "Interpello per supplenza breve ore 24 dal 30 novembre 2026 fino al 03 dicembre 2026 posto COMUNE scuola primaria",
+     "tipo": "comune"
     }
    ],
    "letto": "titolo",
@@ -1986,45 +1986,6 @@
    "prima_vista": "2026-11-18T17:02",
    "iniziale": false,
    "presente": false
-  },
-  {
-   "id": "adcbe92a62c4",
-   "scuola": "busto-pertini",
-   "titolo": "00023/2026 Interpello per selezione personale - classe di concorso EEEE n. 1 posto scuola primaria ICS Pertini - Busto Arsizio - a.s. 2026/27",
-   "url": "https://icpertinibusto.edu.it/documento/interpello-per-selezione-personale-classe-di-concorso-eeee-4/",
-   "pagina": "https://icpertinibusto.edu.it/argomento/interpello/",
-   "candidatura": null,
-   "fonti": [
-    "pagina"
-   ],
-   "pubblicato": "2026-11-18",
-   "scadenza": "2026-11-19T13:30",
-   "scadenza_certa": null,
-   "scadenza_prova": "- fino al 5/02/2027 Scadenza presentazione candidature: ore 13:30 del 19/11/2026 Allegati INTERPELLO_I.C._PERT",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2027-02-05",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "onale docente per il conferimento del seguente incarico: n. 1 posto - 24 ore settimanali - scuola primaria - posto comune EEEE - fino al 5/02/2027 Scadenza presentazione candidature: ore",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "ocr",
-   "nota": null,
-   "prima_vista": "2026-11-18T14:21",
-   "iniziale": false,
-   "presente": true
   },
   {
    "id": "1743574b3bd0",
