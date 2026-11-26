@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T14:13",
+ "generato": "2026-11-26T14:34",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_ok": "2026-11-26T14:34",
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "sanvittore",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_ok": "2026-11-26T14:34",
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "marcallo",
@@ -365,8 +365,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_ok": "2026-11-26T14:34",
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "ossona",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_ok": "2026-11-26T14:34",
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "busto-deamicis",
@@ -717,10 +717,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "risposta inattesa da icdeamicis.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "busto-galilei",
@@ -883,8 +885,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T13:33",
-   "ultimo_controllo": "2026-11-26T13:33"
+   "ultimo_ok": "2026-11-26T14:34",
+   "ultimo_controllo": "2026-11-26T14:34"
   },
   {
    "id": "fagnano",
@@ -1156,16 +1158,16 @@
    ],
    "posti": [
     {
+     "fine": "2026-12-03",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
      "ordini": [
       "primaria"
      ],
-     "tipo": "comune",
      "ore": 24,
-     "intero": false,
-     "inizio": null,
-     "fine": "2026-12-03",
-     "fine_nota": null,
-     "prova": "CONTRATTO EEEE 1 24 03/12/2026 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR"
+     "prova": "CONTRATTO EEEE 1 24 03/12/2026 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
+     "tipo": "comune"
     }
    ],
    "letto": "testo",
@@ -1945,45 +1947,6 @@
    "letto": "non_leggibile",
    "nota": "allegato su un portale che non consente la lettura automatica",
    "prima_vista": "2026-11-19T08:30",
-   "iniziale": false,
-   "presente": false
-  },
-  {
-   "id": "53820e676855",
-   "scuola": "arluno",
-   "titolo": "Interpello per supplenza su EEEE - POSTO COMUNE scuola primaria",
-   "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "pagina": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "candidatura": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRbDlQHCoAlR",
-   "fonti": [
-    "axios"
-   ],
-   "pubblicato": "2026-11-18",
-   "scadenza": "2026-11-19T14:30",
-   "scadenza_certa": true,
-   "scadenza_prova": "termine indicato nell'elenco della scuola",
-   "chiuso": null,
-   "personale": "docente",
-   "ordini": [
-    "primaria"
-   ],
-   "posti": [
-    {
-     "fine": "2026-11-27",
-     "fine_nota": null,
-     "inizio": null,
-     "intero": false,
-     "ordini": [
-      "primaria"
-     ],
-     "ore": 24,
-     "prova": "rimento delle seguenti supplenze: SUPPLENZA PER N.1 POSTO COMUNE EEEE 24H FINO AL 27/11/2026 TITOLI PER L'ACCOGLIMENTO DELLE ISTANZE",
-     "tipo": "comune"
-    }
-   ],
-   "letto": "testo",
-   "nota": null,
-   "prima_vista": "2026-11-18T15:42",
    "iniziale": false,
    "presente": false
   },
