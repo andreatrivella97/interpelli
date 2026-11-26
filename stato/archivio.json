@@ -11699,7 +11699,7 @@
      "tipo": "comune"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-23T15:04",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_23-10-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_11-02-2027_-.pdf"
@@ -14516,6 +14516,56 @@
    "titolo": "INTERPELLO_POSTI_DI_SOSTEGNO_SCUOLA_PRIMARIA_AL_30_06_27_PER_N._1_POSTO___1_SPEZZONE_ORARIO",
    "ultima_vista": "2026-10-27",
    "url": "https://serviziweb.axioscloud.it/Pages/Interpelli/gestioneinterpelli.aspx?cid=w4zCscOuw4fCnRLDlgHCoAlb"
+  },
+  "a6ede95e6046": {
+   "chiave_titolo": "interpellon81postoam2dfinoal05022027",
+   "chiavi_file": [
+    "interpellon81postoam2dfinoal05022027docx"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "a6ede95e6046",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/"
+   ],
+   "letto": "titolo",
+   "nota": "avviso dello storico: letto solo il titolo",
+   "ordini": [
+    "secondaria"
+   ],
+   "pagina": "https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2027-02-05",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "secondaria"
+     ],
+     "ore": null,
+     "prova": "INTERPELLO N. 8 - 1 posto AM2D fino al 05/02/2027",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-26T14:13",
+   "provati": [
+    "icsbonvesin.edu.it/uploads/files/INTERPELLO_N_8-1_posto_AM2D_fino_al_05_02_2027_docx.pdf"
+   ],
+   "regole": 1,
+   "scuola": "legnano-bonvesin",
+   "storico": true,
+   "tentativi": 0,
+   "titoli": [
+    "INTERPELLO N. 8 - 1 posto AM2D fino al 05/02/2027"
+   ],
+   "titolo": "INTERPELLO N. 8 - 1 posto AM2D fino al 05/02/2027",
+   "ultima_vista": "2026-11-26",
+   "url": "https://www.icsbonvesin.edu.it/uploads/files/INTERPELLO_N_8-1_posto_AM2D_fino_al_05_02_2027_docx.pdf"
   },
   "a7e80a88b09e": {
    "chiave_titolo": "avvisodinterpelloperlacoperturadipostiart13c23om882024",
@@ -20102,6 +20152,58 @@
    "ultima_vista": "2026-11-26",
    "url": "https://icstarra.edu.it/sito-download-file/6715/all"
   },
+  "e138b7e8ca08": {
+   "chiave_titolo": "decretointerpellodel26112026supplenzaas2627n1postocomuneprimariafinoal03122026p",
+   "chiavi_file": [
+    "decretointerpellodel26112026supplenzaas2627n1postocomuneprimariafinoal03122026p"
+   ],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "e138b7e8ca08",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/"
+   ],
+   "letto": "testo",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://www.iccarduccilegnano.edu.it/servizio/interpello/",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": "2026-12-03",
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": 24,
+     "prova": "CONTRATTO EEEE 1 24 03/12/2026 Primaria posto comune SEDE DI SERVIZIO ICS G. CAR",
+     "tipo": "comune"
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-26T14:13",
+   "provati": [
+    "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_26-11-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_03-12-2026.p.pdf"
+   ],
+   "pubblicato": "2026-11-26",
+   "regole": 1,
+   "scadenza": "2026-11-27T13:15",
+   "scadenza_prova": "teressati sono tenuti a presentare entro e non oltre le ore 13:15 del 27/11/2026 la propria disponibilità al c",
+   "scuola": "legnano-carducci",
+   "tentativi": 1,
+   "titoli": [
+    "Decreto Interpello del 26-11-2026 supplenza as 26-27 N. 1 POSTO COMUNE PRIMARIA fino al 03-12-2026.p"
+   ],
+   "titolo": "Decreto Interpello del 26-11-2026 supplenza as 26-27 N. 1 POSTO COMUNE PRIMARIA fino al 03-12-2026.p",
+   "ultima_vista": "2026-11-26",
+   "url": "https://www.iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_26-11-2026_supplenza_as_26-27_N._1_POSTO_COMUNE_PRIMARIA_fino_al_03-12-2026.p.pdf"
+  },
   "e1b944dbb64b": {
    "chiave_titolo": "avvisoperselezionepersonaledocentesupplentescuolaprimariapostocomuneeeee",
    "chiavi_file": [
@@ -20421,7 +20523,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-10-23T15:04",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_23-10-2026_supplenza_as_26-27_N._5_POSTI_SOST._PRIMARIA_fino_al_30-06-27_-.pd_.pdf"
@@ -22239,7 +22341,7 @@
      "tipo": "sostegno"
     }
    ],
-   "presente": true,
+   "presente": false,
    "prima_vista": "2026-11-12T17:29",
    "provati": [
     "iccarduccilegnano.edu.it/web/wp-content/uploads/2023/12/Decreto_Interpello_del_12-11-2026_supplenza_as_26-27_N._1_POSTI_SOST._PRIMARIA_fino_al_30-06-27.pdf.-1.pdf"
@@ -22678,8 +22780,8 @@
     "pagina:https://icspellico.edu.it/interpelli-e-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "bareggio": {
    "conteggi": {
@@ -22810,8 +22912,8 @@
     "pagina:https://www.icscanegrate.edu.it/servizio/interpelli-2/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "castellanza": {
    "conteggi": {
@@ -22920,7 +23022,7 @@
   "legnano-bonvesin": {
    "conteggi": {
     "axios:92044520150": 0,
-    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 7
+    "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": 8
    },
    "errori": [],
    "fonti_viste": {
@@ -22928,8 +23030,8 @@
     "pagina:https://www.icsbonvesin.edu.it/pagine/interpelli-docenti/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "legnano-carducci": {
    "conteggi": {
@@ -22942,8 +23044,8 @@
     "pagina:https://www.iccarduccilegnano.edu.it/servizio/interpello/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "legnano-manzoni": {
    "conteggi": {
@@ -22970,8 +23072,8 @@
     "pagina:https://www.icsviadeisalici.edu.it/pagine/interpelli-ricerca-docenti/117/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "magnago": {
    "conteggi": {
@@ -23064,8 +23166,8 @@
     "pagina:https://www.alighierirescaldina.edu.it/documenti/interpelli-51/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-26T13:13",
-   "ultimo_ok": "2026-11-26T13:13"
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "rescaldina-manzoni": {
    "conteggi": {
@@ -23146,16 +23248,14 @@
     "axios:84004470153": 0,
     "pagina:https://www.icscarducci.edu.it/notizie/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "axios:84004470153": "2026-10-03T00:06",
     "pagina:https://www.icscarducci.edu.it/notizie/": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-26T13:53",
-   "ultimo_ok": "2026-11-26T12:53"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-26T14:13",
+   "ultimo_ok": "2026-11-26T14:13"
   },
   "saronno-davinci": {
    "conteggi": {
