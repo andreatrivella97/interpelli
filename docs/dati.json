@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-26T07:50",
+ "generato": "2026-11-26T08:11",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,10 +58,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscarducci.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "canegrate",
@@ -82,10 +84,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icscanegrate.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "bustogarolfo",
@@ -153,10 +157,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsbonvesin.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "legnano-carducci",
@@ -179,8 +185,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_ok": "2026-11-26T08:11",
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "legnano-salici",
@@ -201,10 +207,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.icsviadeisalici.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "cerro",
@@ -273,10 +281,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
+   "stato": "parziale",
+   "errori": [
+    "ConnectTimeout da www.alighierirescaldina.edu.it"
+   ],
    "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "magnago",
@@ -414,8 +424,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-26T07:10",
-   "ultimo_controllo": "2026-11-26T07:10"
+   "ultimo_ok": "2026-11-26T08:11",
+   "ultimo_controllo": "2026-11-26T08:11"
   },
   {
    "id": "bareggio",
