@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T19:07",
+ "generato": "2026-11-27T19:20",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -693,12 +693,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ReadTimeout da comprensivocrespi.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T17:46",
-   "ultimo_controllo": "2026-11-27T19:07"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T19:20",
+   "ultimo_controllo": "2026-11-27T19:20"
   },
   {
    "id": "busto-deamicis",
