@@ -22884,8 +22884,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T19:20",
-   "ultimo_ok": "2026-11-27T19:20"
+   "ultimo_controllo": "2026-11-27T20:27",
+   "ultimo_ok": "2026-11-27T20:27"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -23009,29 +23009,25 @@
    "conteggi": {
     "wp:": 13
    },
-   "errori": [
-    "ConnectTimeout da www.icfermifagnano.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "errore",
-   "ultimo_controllo": "2026-11-27T20:08",
-   "ultimo_ok": "2026-11-27T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-27T20:27",
+   "ultimo_ok": "2026-11-27T20:27"
   },
   "gerenzano": {
    "conteggi": {
     "pagina:https://www.icsgerenzano.edu.it/": 0
    },
-   "errori": [
-    "ConnectTimeout da www.icsgerenzano.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://www.icsgerenzano.edu.it/": "2026-10-03T00:06"
    },
-   "stato": "errore",
-   "ultimo_controllo": "2026-11-27T20:08",
-   "ultimo_ok": "2026-11-27T19:07"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-27T20:27",
+   "ultimo_ok": "2026-11-27T20:27"
   },
   "gorlaminore": {
    "conteggi": {

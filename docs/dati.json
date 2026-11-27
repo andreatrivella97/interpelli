@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T20:08",
+ "generato": "2026-11-27T20:27",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T19:20",
-   "ultimo_controllo": "2026-11-27T19:20"
+   "ultimo_ok": "2026-11-27T20:27",
+   "ultimo_controllo": "2026-11-27T20:27"
   },
   {
    "id": "busto-deamicis",
@@ -901,12 +901,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icfermifagnano.it"
-   ],
-   "ultimo_ok": "2026-11-27T19:07",
-   "ultimo_controllo": "2026-11-27T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T20:27",
+   "ultimo_controllo": "2026-11-27T20:27"
   },
   {
    "id": "gerenzano",
@@ -926,12 +924,10 @@
     "motivo": "pubblica gli interpelli solo sul portale Argo, che non consente la lettura automatica"
    },
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ConnectTimeout da www.icsgerenzano.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T19:07",
-   "ultimo_controllo": "2026-11-27T20:08"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T20:27",
+   "ultimo_controllo": "2026-11-27T20:27"
   },
   {
    "id": "saronno-militi",
