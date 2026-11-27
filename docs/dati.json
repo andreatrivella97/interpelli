@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T01:59",
+ "generato": "2026-11-27T02:19",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -177,12 +177,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
-   "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
-   ],
-   "ultimo_ok": "2026-11-27T01:19",
-   "ultimo_controllo": "2026-11-27T01:19"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T02:19",
+   "ultimo_controllo": "2026-11-27T02:19"
   },
   {
    "id": "legnano-salici",
@@ -416,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T01:19",
-   "ultimo_controllo": "2026-11-27T01:19"
+   "ultimo_ok": "2026-11-27T02:19",
+   "ultimo_controllo": "2026-11-27T02:19"
   },
   {
    "id": "bareggio",
@@ -719,12 +717,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T00:18",
-   "ultimo_controllo": "2026-11-27T01:59"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T02:19",
+   "ultimo_controllo": "2026-11-27T02:19"
   },
   {
    "id": "busto-galilei",
@@ -1176,7 +1172,7 @@
    "nota": null,
    "prima_vista": "2026-11-26T14:13",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "3235321d833c",
