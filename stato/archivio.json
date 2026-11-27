@@ -2206,6 +2206,54 @@
    "ultima_vista": "2026-11-27",
    "url": "https://icadanegri.edu.it/sito-download-file/2305/all"
   },
+  "14c7f69329e4": {
+   "chiave_titolo": "cliccapervedereildocumento",
+   "chiavi_file": [],
+   "fonti": [
+    "pagina"
+   ],
+   "id": "14c7f69329e4",
+   "iniziale": false,
+   "letti_da": [
+    "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show"
+   ],
+   "letto": "pagina",
+   "nota": null,
+   "ordini": [
+    "primaria"
+   ],
+   "pagina": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show",
+   "personale": "docente",
+   "posti": [
+    {
+     "fine": null,
+     "fine_nota": null,
+     "inizio": null,
+     "intero": false,
+     "ordini": [
+      "primaria"
+     ],
+     "ore": null,
+     "prova": "Clicca per vedere il documento",
+     "tipo": null
+    }
+   ],
+   "presente": true,
+   "prima_vista": "2026-11-27T09:43",
+   "provati": [
+    "nuvola.madisoft.it/bacheca-digitale/3930/documento/VAIC84600P"
+   ],
+   "pubblicato": "2026-11-27",
+   "regole": 1,
+   "scuola": "solbiate",
+   "tentativi": 1,
+   "titoli": [
+    "Clicca per vedere il documento"
+   ],
+   "titolo": "Clicca per vedere il documento",
+   "ultima_vista": "2026-11-27",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/3930/documento/VAIC84600P"
+  },
   "14cd45d01852": {
    "chiave_titolo": "interpello4529udel01102024adaapostosostegnoinfanzia",
    "chiavi_file": [],
@@ -22836,8 +22884,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC86600X/2/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T08:42",
-   "ultimo_ok": "2026-11-27T08:42"
+   "ultimo_controllo": "2026-11-27T09:43",
+   "ultimo_ok": "2026-11-27T09:43"
   },
   "busto-deamicis": {
    "conteggi": {
@@ -22852,7 +22900,7 @@
     "wp:": "2026-10-03T00:06"
    },
    "stato": "parziale",
-   "ultimo_controllo": "2026-11-27T09:12",
+   "ultimo_controllo": "2026-11-27T09:43",
    "ultimo_ok": "2026-11-27T08:02"
   },
   "busto-galilei": {
@@ -22956,8 +23004,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T08:42",
-   "ultimo_ok": "2026-11-27T08:42"
+   "ultimo_controllo": "2026-11-27T09:43",
+   "ultimo_ok": "2026-11-27T09:43"
   },
   "fagnano": {
    "conteggi": {
@@ -23106,8 +23154,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/MIIC858003/6/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T08:42",
-   "ultimo_ok": "2026-11-27T08:42"
+   "ultimo_controllo": "2026-11-27T09:43",
+   "ultimo_ok": "2026-11-27T09:43"
   },
   "milano-consolemarcello": {
    "conteggi": {
@@ -23312,8 +23360,8 @@
     "pagina:https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T08:42",
-   "ultimo_ok": "2026-11-27T08:42"
+   "ultimo_controllo": "2026-11-27T09:43",
+   "ultimo_ok": "2026-11-27T09:43"
   },
   "uboldo": {
    "conteggi": {
@@ -23338,8 +23386,8 @@
     "pagina:https://icvillacortese.edu.it/servizio/invio-mad/": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-27T08:42",
-   "ultimo_ok": "2026-11-27T08:42"
+   "ultimo_controllo": "2026-11-27T09:43",
+   "ultimo_ok": "2026-11-27T09:43"
   }
  },
  "versione": 1

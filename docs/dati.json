@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T09:12",
+ "generato": "2026-11-27T09:43",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T08:42",
-   "ultimo_controllo": "2026-11-27T08:42"
+   "ultimo_ok": "2026-11-27T09:43",
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "sanvittore",
@@ -342,8 +342,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T08:42",
-   "ultimo_controllo": "2026-11-27T08:42"
+   "ultimo_ok": "2026-11-27T09:43",
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "marcallo",
@@ -367,8 +367,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T08:42",
-   "ultimo_controllo": "2026-11-27T08:42"
+   "ultimo_ok": "2026-11-27T09:43",
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "ossona",
@@ -697,8 +697,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T08:42",
-   "ultimo_controllo": "2026-11-27T08:42"
+   "ultimo_ok": "2026-11-27T09:43",
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "busto-deamicis",
@@ -724,7 +724,7 @@
     "risposta inattesa da icdeamicis.edu.it"
    ],
    "ultimo_ok": "2026-11-27T08:02",
-   "ultimo_controllo": "2026-11-27T09:12"
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "busto-galilei",
@@ -887,8 +887,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T08:42",
-   "ultimo_controllo": "2026-11-27T08:42"
+   "ultimo_ok": "2026-11-27T09:43",
+   "ultimo_controllo": "2026-11-27T09:43"
   },
   {
    "id": "fagnano",
@@ -1099,6 +1099,45 @@
    "prima_vista": "2026-10-22T14:32",
    "iniziale": false,
    "presente": false
+  },
+  {
+   "id": "14c7f69329e4",
+   "scuola": "solbiate",
+   "titolo": "Clicca per vedere il documento",
+   "url": "https://nuvola.madisoft.it/bacheca-digitale/3930/documento/VAIC84600P",
+   "pagina": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/VAIC84600P/1/IN_PUBBLICAZIONE/0/show",
+   "candidatura": null,
+   "fonti": [
+    "pagina"
+   ],
+   "pubblicato": "2026-11-27",
+   "scadenza": null,
+   "scadenza_certa": null,
+   "scadenza_prova": null,
+   "chiuso": null,
+   "personale": "docente",
+   "ordini": [
+    "primaria"
+   ],
+   "posti": [
+    {
+     "ordini": [
+      "primaria"
+     ],
+     "tipo": null,
+     "ore": null,
+     "intero": false,
+     "inizio": null,
+     "fine": null,
+     "fine_nota": null,
+     "prova": "Clicca per vedere il documento"
+    }
+   ],
+   "letto": "pagina",
+   "nota": null,
+   "prima_vista": "2026-11-27T09:43",
+   "iniziale": false,
+   "presente": true
   },
   {
    "id": "0b40308e3229",
