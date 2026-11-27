@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T08:02",
+ "generato": "2026-11-27T08:22",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -58,13 +58,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ReadTimeout da serviziweb.axioscloud.it",
-    "ConnectTimeout da www.icscarducci.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "canegrate",
@@ -85,12 +82,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icscanegrate.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "bustogarolfo",
@@ -158,12 +153,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsbonvesin.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "legnano-carducci",
@@ -184,10 +177,12 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "ok",
-   "errori": [],
-   "ultimo_ok": "2026-11-27T07:21",
-   "ultimo_controllo": "2026-11-27T07:21"
+   "stato": "da_controllare",
+   "errori": [
+    "la pagina non elenca piu' avvisi: forse e' cambiata"
+   ],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "legnano-salici",
@@ -208,12 +203,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.icsviadeisalici.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "cerro",
@@ -282,12 +275,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "ConnectTimeout da www.alighierirescaldina.edu.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "magnago",
@@ -399,12 +390,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta 500 da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "arluno",
@@ -427,8 +416,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T07:21",
-   "ultimo_controllo": "2026-11-27T07:21"
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "bareggio",
@@ -490,12 +479,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "errore",
-   "errori": [
-    "ReadTimeout da serviziweb.axioscloud.it"
-   ],
-   "ultimo_ok": "2026-11-27T07:01",
-   "ultimo_controllo": "2026-11-27T08:02"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T08:22",
+   "ultimo_controllo": "2026-11-27T08:22"
   },
   {
    "id": "lainate-cairoli",
@@ -1187,7 +1174,7 @@
    "nota": null,
    "prima_vista": "2026-11-26T14:13",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "3235321d833c",
@@ -1793,7 +1780,7 @@
    "nota": null,
    "prima_vista": "2026-11-23T14:20",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "a9ac19915902",
@@ -1883,7 +1870,7 @@
    "nota": null,
    "prima_vista": "2026-11-19T10:31",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "35cb4b8fa004",
@@ -1922,7 +1909,7 @@
    "nota": null,
    "prima_vista": "2026-11-19T15:33",
    "iniziale": false,
-   "presente": true
+   "presente": false
   },
   {
    "id": "f2508200de83",
