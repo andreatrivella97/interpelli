@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-28T00:29",
+ "generato": "2026-11-28T00:49",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -340,8 +340,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T23:49",
-   "ultimo_controllo": "2026-11-27T23:49"
+   "ultimo_ok": "2026-11-28T00:49",
+   "ultimo_controllo": "2026-11-28T00:49"
   },
   {
    "id": "marcallo",
