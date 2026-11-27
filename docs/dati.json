@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T12:03",
+ "generato": "2026-11-27T12:44",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -35,8 +35,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "sanvittore",
@@ -342,8 +342,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "marcallo",
@@ -367,8 +367,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "ossona",
@@ -697,8 +697,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "busto-deamicis",
@@ -721,8 +721,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "busto-galilei",
@@ -885,8 +885,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T11:43",
-   "ultimo_controllo": "2026-11-27T11:43"
+   "ultimo_ok": "2026-11-27T12:44",
+   "ultimo_controllo": "2026-11-27T12:44"
   },
   {
    "id": "fagnano",
