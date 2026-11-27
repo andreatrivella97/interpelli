@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-27T06:01",
+ "generato": "2026-11-27T06:21",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -177,12 +177,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "da_controllare",
-   "errori": [
-    "la pagina non elenca piu' avvisi: forse e' cambiata"
-   ],
-   "ultimo_ok": "2026-11-27T05:21",
-   "ultimo_controllo": "2026-11-27T05:21"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-27T06:21",
+   "ultimo_controllo": "2026-11-27T06:21"
   },
   {
    "id": "legnano-salici",
@@ -416,8 +414,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-27T05:21",
-   "ultimo_controllo": "2026-11-27T05:21"
+   "ultimo_ok": "2026-11-27T06:21",
+   "ultimo_controllo": "2026-11-27T06:21"
   },
   {
    "id": "bareggio",
@@ -1174,7 +1172,7 @@
    "nota": null,
    "prima_vista": "2026-11-26T14:13",
    "iniziale": false,
-   "presente": false
+   "presente": true
   },
   {
    "id": "3235321d833c",
