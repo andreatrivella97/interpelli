@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-28T12:14",
+ "generato": "2026-11-28T12:34",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "legnano-carducci",
@@ -203,8 +203,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "cerro",
@@ -275,8 +275,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "magnago",
@@ -695,8 +695,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "busto-deamicis",
@@ -903,8 +903,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "gerenzano",
@@ -926,8 +926,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T11:34",
-   "ultimo_controllo": "2026-11-28T11:34"
+   "ultimo_ok": "2026-11-28T12:34",
+   "ultimo_controllo": "2026-11-28T12:34"
   },
   {
    "id": "saronno-militi",
