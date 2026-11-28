@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-28T14:15",
+ "generato": "2026-11-28T14:35",
  "criteri": {
   "ordini": [
    "infanzia",
@@ -60,8 +60,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "canegrate",
@@ -84,8 +84,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "bustogarolfo",
@@ -155,8 +155,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "legnano-carducci",
@@ -205,8 +205,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "cerro",
@@ -277,8 +277,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "magnago",
@@ -605,8 +605,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "milano-consolemarcello",
@@ -697,8 +697,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "busto-deamicis",
@@ -719,12 +719,10 @@
    ],
    "manuale": null,
    "nota": null,
-   "stato": "parziale",
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
-   "ultimo_ok": "2026-11-28T12:55",
-   "ultimo_controllo": "2026-11-28T14:15"
+   "stato": "ok",
+   "errori": [],
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "busto-galilei",
@@ -907,8 +905,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "gerenzano",
@@ -930,8 +928,8 @@
    "nota": null,
    "stato": "ok",
    "errori": [],
-   "ultimo_ok": "2026-11-28T13:35",
-   "ultimo_controllo": "2026-11-28T13:35"
+   "ultimo_ok": "2026-11-28T14:35",
+   "ultimo_controllo": "2026-11-28T14:35"
   },
   {
    "id": "saronno-militi",
