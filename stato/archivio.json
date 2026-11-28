@@ -22892,16 +22892,14 @@
     "pagina:https://icdeamicis.edu.it/": 0,
     "wp:": 0
    },
-   "errori": [
-    "risposta inattesa da icdeamicis.edu.it"
-   ],
+   "errori": [],
    "fonti_viste": {
     "pagina:https://icdeamicis.edu.it/": "2026-10-03T00:06",
     "wp:": "2026-10-03T00:06"
    },
-   "stato": "parziale",
-   "ultimo_controllo": "2026-11-28T11:34",
-   "ultimo_ok": "2026-11-28T10:28"
+   "stato": "ok",
+   "ultimo_controllo": "2026-11-28T11:54",
+   "ultimo_ok": "2026-11-28T11:54"
   },
   "busto-galilei": {
    "conteggi": {
@@ -23004,8 +23002,8 @@
     "pagina:https://istitutocomprensivocuggiono.edu.it/?s=interpello": "2026-10-03T00:06"
    },
    "stato": "ok",
-   "ultimo_controllo": "2026-11-28T10:54",
-   "ultimo_ok": "2026-11-28T10:54"
+   "ultimo_controllo": "2026-11-28T11:54",
+   "ultimo_ok": "2026-11-28T11:54"
   },
   "fagnano": {
    "conteggi": {
